@@ -16,4 +16,4 @@ services:
       - key: QUEST_TIMING
         value: normal
       - key: ALLOWED_ORIGINS
-        value: https://mideaGame.onrender.com/
+        value: https://mideagame.onrender.com/

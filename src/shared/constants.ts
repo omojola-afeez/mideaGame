@@ -569,7 +569,7 @@ export const ERROR_MESSAGES = {
 } as const;
 export type ErrorKey = keyof typeof ERROR_MESSAGES;
 
-/** Fixed avatar set of local SVG illustrations. Children never upload a photo. */
+/** Fixed avatar set of local animal photos. Children never upload a photo. */
 export const AVATARS = [
   { label: "Lion", image: "lion" },
   { label: "Elephant", image: "elephant" },
@@ -577,12 +577,12 @@ export const AVATARS = [
   { label: "Leopard", image: "leopard" },
   { label: "Eagle", image: "eagle" },
   { label: "Dolphin", image: "dolphin" },
-  { label: "Butterfly", image: "butterfly" },
-  { label: "Tortoise", image: "tortoise" },
-  { label: "Parrot", image: "parrot" },
+  { label: "Clownfish", image: "clownfish" },
+  { label: "Turtle", image: "turtle" },
+  { label: "Frog", image: "frog" },
   { label: "Bee", image: "bee" },
   { label: "Fox", image: "fox" },
-  { label: "Goat", image: "goat" },
+  { label: "Sheep", image: "sheep" },
 ] as const;
 
 export const NICKNAME_ADJECTIVES = [
@@ -602,17 +602,17 @@ export const NICKNAME_ADJECTIVES = [
 
 export const NICKNAME_ANIMALS = [
   "Lion",
+  "Elephant",
+  "Giraffe",
+  "Leopard",
   "Eagle",
   "Dolphin",
-  "Leopard",
-  "Parrot",
-  "Tortoise",
-  "Butterfly",
-  "Fox",
+  "Clownfish",
+  "Turtle",
+  "Frog",
   "Bee",
-  "Goat",
-  "Giraffe",
-  "Elephant",
+  "Fox",
+  "Sheep",
 ] as const;
 
 export function makeNickname(random: () => number = Math.random): string {

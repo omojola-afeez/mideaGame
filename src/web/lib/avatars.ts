@@ -1,17 +1,17 @@
-import lion from "../assets/avatars/lion.svg";
-import elephant from "../assets/avatars/elephant.svg";
-import giraffe from "../assets/avatars/giraffe.svg";
-import leopard from "../assets/avatars/leopard.svg";
-import eagle from "../assets/avatars/eagle.svg";
-import dolphin from "../assets/avatars/dolphin.svg";
-import butterfly from "../assets/avatars/butterfly.svg";
-import tortoise from "../assets/avatars/tortoise.svg";
-import parrot from "../assets/avatars/parrot.svg";
-import bee from "../assets/avatars/bee.svg";
-import fox from "../assets/avatars/fox.svg";
-import goat from "../assets/avatars/goat.svg";
+import lion from "../assets/avatars/lion.png";
+import elephant from "../assets/avatars/elephant.png";
+import giraffe from "../assets/avatars/giraffe.png";
+import leopard from "../assets/avatars/leopard.png";
+import eagle from "../assets/avatars/eagle.png";
+import dolphin from "../assets/avatars/dolphin.png";
+import clownfish from "../assets/avatars/clownfish.png";
+import turtle from "../assets/avatars/turtle.png";
+import frog from "../assets/avatars/frog.png";
+import bee from "../assets/avatars/bee.png";
+import fox from "../assets/avatars/fox.png";
+import sheep from "../assets/avatars/sheep.png";
 
-/** SVG illustration for each avatar, in AVATARS order. Local files only, no external hosts. */
+/** Photo for each avatar, in AVATARS order. Local files only, no external hosts. */
 export const AVATAR_IMAGES = [
   lion,
   elephant,
@@ -19,10 +19,10 @@ export const AVATAR_IMAGES = [
   leopard,
   eagle,
   dolphin,
-  butterfly,
-  tortoise,
-  parrot,
+  clownfish,
+  turtle,
+  frog,
   bee,
   fox,
-  goat,
+  sheep,
 ] as const;

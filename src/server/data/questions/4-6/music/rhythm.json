@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "music",
+  "topic": "rhythm",
+  "title": "Rhythm ridge",
+  "questions": [
+    {
+      "code": "4-MSC-RYT-B-001",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "Which thing makes a beat?",
+      "options": [
+        "A drum",
+        "A book",
+        "A plate",
+        "A shoe"
+      ],
+      "correctIndex": 0,
+      "explanation": "A drum makes a strong beat.",
+      "curriculumRef": "NERDC Nursery 2 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-B-002",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What do we clap to keep a beat?",
+      "options": [
+        "Our feet",
+        "Our hands",
+        "Our nose",
+        "Our hair"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clapping hands keeps a steady beat.",
+      "curriculumRef": "NERDC Nursery 2 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-B-003",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What is a beat?",
+      "options": [
+        "A loud flash",
+        "A cold wind",
+        "A steady sound",
+        "A bright light"
+      ],
+      "correctIndex": 2,
+      "explanation": "A beat is a steady, repeating sound.",
+      "curriculumRef": "NERDC Nursery 2 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-B-004",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What do we tap our feet to?",
+      "options": [
+        "The wind",
+        "The rain",
+        "The dark",
+        "The beat"
+      ],
+      "correctIndex": 3,
+      "explanation": "We tap our feet to the beat.",
+      "curriculumRef": "NERDC Nursery 2 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-B-005",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "Which one can make a loud beat?",
+      "options": [
+        "A drum",
+        "A teddy",
+        "A mat",
+        "A cup"
+      ],
+      "correctIndex": 0,
+      "explanation": "A drum makes a loud beat.",
+      "curriculumRef": "NERDC Nursery 2 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-B-006",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What does fast music make us want to do?",
+      "options": [
+        "Sleep",
+        "Dance",
+        "Cry",
+        "Hide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fast music makes us want to dance.",
+      "curriculumRef": "NERDC Nursery 2 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-B-007",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What does slow music make us feel?",
+      "options": [
+        "Wild",
+        "Angry",
+        "Calm",
+        "Silly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Slow music feels calm and soft.",
+      "curriculumRef": "NERDC Nursery 2 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-B-008",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "Which one has a beat?",
+      "options": [
+        "A wall",
+        "A cup",
+        "A stone",
+        "A song"
+      ],
+      "correctIndex": 3,
+      "explanation": "A song keeps a beat.",
+      "curriculumRef": "NERDC Nursery 2 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-S-001",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "How many beats are in a 4/4 bar?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Eight"
+      ],
+      "correctIndex": 0,
+      "explanation": "A 4/4 bar has four beats.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-S-002",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What does tempo mean?",
+      "options": [
+        "The loudness",
+        "The speed of the music",
+        "The words",
+        "The singer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tempo is the speed of the music.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-S-003",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "How do you clap a slow beat?",
+      "options": [
+        "Very fast",
+        "Not at all",
+        "Slowly with wide gaps",
+        "With loud shouts"
+      ],
+      "correctIndex": 2,
+      "explanation": "A slow beat claps with wide gaps between claps.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-S-004",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What keeps time in music?",
+      "options": [
+        "The singer",
+        "The words",
+        "The colour",
+        "The beat"
+      ],
+      "correctIndex": 3,
+      "explanation": "The beat keeps time in music.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-S-005",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What does fast music feel like?",
+      "options": [
+        "Exciting",
+        "Sleepy",
+        "Calm",
+        "Quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fast music feels exciting and full of energy.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-S-006",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "How do drummers keep time?",
+      "options": [
+        "By shouting",
+        "By drumming a steady beat",
+        "By sleeping",
+        "By dancing only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drummers keep time with a steady beat.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-S-007",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "When music is fast, we say it is...",
+      "options": [
+        "Slow",
+        "Soft",
+        "Quick",
+        "Long"
+      ],
+      "correctIndex": 2,
+      "explanation": "Quick means fast in music.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-S-008",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "Why keep a steady beat?",
+      "options": [
+        "To shout loudly",
+        "To break the drum",
+        "To sleep soundly",
+        "So everyone plays together"
+      ],
+      "correctIndex": 3,
+      "explanation": "A steady beat holds the group together.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-G-001",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What is rhythm made of?",
+      "options": [
+        "Beats",
+        "Words",
+        "Colours",
+        "Numbers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rhythm is made of beats.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-G-002",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What does 4/4 time mean?",
+      "options": [
+        "Four drums in a band",
+        "Four beats in a bar",
+        "Four songs in a row",
+        "No beats at all"
+      ],
+      "correctIndex": 1,
+      "explanation": "4/4 time means four beats in each bar.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-G-003",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "How many beats in two bars of 4/4?",
+      "options": [
+        "Four",
+        "Six",
+        "Eight",
+        "Ten"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each 4/4 bar has four beats. Two bars have eight.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-G-004",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What is a beat pattern?",
+      "options": [
+        "Colour",
+        "Number",
+        "Picture",
+        "Rhythm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rhythm is a pattern of beats.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-G-005",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "Which one shows a fast rhythm?",
+      "options": [
+        "A quick drum beat",
+        "A slow walk",
+        "A long nap",
+        "A deep sleep"
+      ],
+      "correctIndex": 0,
+      "explanation": "A quick drum beat is a fast rhythm.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-G-006",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "Highlife has what?",
+      "options": [
+        "No beat",
+        "A steady beat",
+        "Only silence",
+        "Loud shouts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Highlife songs ride on a steady beat.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-G-007",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What do we count in 4/4?",
+      "options": [
+        "1, 2, 3",
+        "1 to 10",
+        "1, 2, 3, 4",
+        "Only 4"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 4/4, we count to four.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-RYT-G-008",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "A drum beat that repeats is a...",
+      "options": [
+        "Wall",
+        "Chair",
+        "Door",
+        "Pattern"
+      ],
+      "correctIndex": 3,
+      "explanation": "A repeating beat is called a pattern.",
+      "curriculumRef": "NERDC Primary 1 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

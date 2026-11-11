@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "music",
+  "topic": "songs",
+  "title": "Song shore",
+  "questions": [
+    {
+      "code": "7-MSC-SNG-B-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What is a choir?",
+      "options": [
+        "A group of singers",
+        "A type of drum",
+        "A dance style",
+        "A music lesson"
+      ],
+      "correctIndex": 0,
+      "explanation": "A choir is a group of people who sing together.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-B-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What is call and response?",
+      "options": [
+        "Everyone silent",
+        "One sings, others answer",
+        "Two drums clashing",
+        "A single solo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Call and response is when a lead sings and the group answers.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-B-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "Which song style is West African?",
+      "options": [
+        "Country",
+        "Opera",
+        "Highlife",
+        "Flamenco"
+      ],
+      "correctIndex": 2,
+      "explanation": "Highlife is a popular Nigerian music style.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-B-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What is a hymn?",
+      "options": [
+        "A party tune",
+        "A dance track",
+        "A folk tale",
+        "A song of praise"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hymns are songs of praise, often sung in church.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-B-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "Which song helps a baby sleep?",
+      "options": [
+        "A lullaby",
+        "A marching tune",
+        "A highlife hit",
+        "A church chant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lullabies help babies and children fall asleep.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-B-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "Owambe parties are for what?",
+      "options": [
+        "Church services",
+        "Nigerian celebrations",
+        "Funerals only",
+        "School exams"
+      ],
+      "correctIndex": 1,
+      "explanation": "Owambe parties feature loud, festive Nigerian music.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-B-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What does our anthem do?",
+      "options": [
+        "Announces food",
+        "Sells products",
+        "Unites Nigerians",
+        "Ends school"
+      ],
+      "correctIndex": 2,
+      "explanation": "The national anthem unites Nigerians in pride.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-B-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "How do choirs sing best?",
+      "options": [
+        "Shouting over each other",
+        "At different times",
+        "Without practice",
+        "Together in tune"
+      ],
+      "correctIndex": 3,
+      "explanation": "Choir members listen and blend in tune.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-S-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "What role does the leader play in call and response?",
+      "options": [
+        "Sings the call",
+        "Sings the answer",
+        "Plays the drum",
+        "Conducts only"
+      ],
+      "correctIndex": 0,
+      "explanation": "In call and response, the leader sings the call line.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-S-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "Which genre mixes guitar and brass?",
+      "options": [
+        "Gospel only",
+        "Highlife",
+        "Fuji only",
+        "Apala only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Highlife blends horns, guitars and dance rhythms.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-S-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "What is a soloist?",
+      "options": [
+        "A group of drummers",
+        "A choir leader",
+        "A singer who sings alone",
+        "A dancer"
+      ],
+      "correctIndex": 2,
+      "explanation": "A soloist sings alone, sometimes with a choir.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-S-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "What does an anthem do for a country?",
+      "options": [
+        "Sells records",
+        "Collects taxes",
+        "Tells jokes",
+        "Builds unity and pride"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anthems unite people with shared pride.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-S-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "Why were hymns sung in mission schools?",
+      "options": [
+        "They taught faith through song",
+        "They replaced exams",
+        "They were for fun",
+        "They kept time"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hymns taught Bible stories and songs in school.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-S-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "What does a conductor do?",
+      "options": [
+        "Plays the drum",
+        "Guides the choir with hand signs",
+        "Writes the music",
+        "Sells tickets"
+      ],
+      "correctIndex": 1,
+      "explanation": "The conductor sets tempo and guides singers.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-S-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "How does call and response teach?",
+      "options": [
+        "By boring listeners",
+        "By being silent",
+        "By inviting everyone to join in",
+        "By ending early"
+      ],
+      "correctIndex": 2,
+      "explanation": "Call and response invites everyone to sing along.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-S-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "Which is true of folk songs?",
+      "options": [
+        "Brand new pop songs",
+        "Foreign imports",
+        "Shop adverts",
+        "Songs passed down generations"
+      ],
+      "correctIndex": 3,
+      "explanation": "Folk songs are passed from parents to children.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-G-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "What makes choir singing full?",
+      "options": [
+        "Singing different notes in harmony",
+        "Everyone on one note",
+        "Shouting together",
+        "Singing off-key"
+      ],
+      "correctIndex": 0,
+      "explanation": "Harmony mixes voices on different notes.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-G-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "How is call and response not a round?",
+      "options": [
+        "A round has no singing",
+        "In call and response, the leader cues each answer",
+        "Call and response is silent",
+        "A round uses drums only"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a round, voices start the same tune at different times.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-G-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "What does highlife mean?",
+      "options": [
+        "Only sadness",
+        "Only silence",
+        "Nigerian joy, dance and guitar style",
+        "Only church worship"
+      ],
+      "correctIndex": 2,
+      "explanation": "Highlife blends Yoruba and Igbo rhythms into dance music.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-G-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "Why do people play owambe music loud?",
+      "options": [
+        "To scare neighbours",
+        "To sell food",
+        "To test speakers",
+        "To celebrate joyfully together"
+      ],
+      "correctIndex": 3,
+      "explanation": "Owambe music fills parties with energy and joy.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-G-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "What is a lead singer's job in a choir?",
+      "options": [
+        "To guide the melody line",
+        "To clap the rhythm",
+        "To watch the exit",
+        "To sell the records"
+      ],
+      "correctIndex": 0,
+      "explanation": "The lead voice carries the main tune.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-G-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "Why is an anthem special?",
+      "options": [
+        "Only the president can sing it",
+        "It belongs to everyone in the country",
+        "It has no melody",
+        "It is sung only at funerals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anthems belong to every citizen and unite them.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-G-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "Why do people sing hymns at weddings?",
+      "options": [
+        "For no reason",
+        "To pass time",
+        "To give thanks and bless the couple",
+        "To test the microphone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hymns are sung to bless and give thanks at weddings.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-SNG-G-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "How do folk songs preserve culture?",
+      "options": [
+        "They are only for tourists",
+        "They are about foreign lands",
+        "They change every week",
+        "They pass stories and values down"
+      ],
+      "correctIndex": 3,
+      "explanation": "Folk songs carry history, values and language.",
+      "curriculumRef": "NERDC Primary 3 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

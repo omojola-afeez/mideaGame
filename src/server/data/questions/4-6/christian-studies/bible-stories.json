@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "christian-studies",
+  "topic": "bible-stories",
+  "title": "Bible bridge",
+  "questions": [
+    {
+      "code": "4-CST-BIB-B-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who made the world?",
+      "options": [
+        "God",
+        "A king",
+        "A man",
+        "A fisherman"
+      ],
+      "correctIndex": 0,
+      "explanation": "God made the whole world.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-B-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who built the ark?",
+      "options": [
+        "David",
+        "Noah",
+        "Moses",
+        "Joseph"
+      ],
+      "correctIndex": 1,
+      "explanation": "Noah built a big ark.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-B-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Where did Noah put the pairs?",
+      "options": [
+        "In a barn",
+        "On a hill",
+        "On the ark",
+        "In a cave"
+      ],
+      "correctIndex": 2,
+      "explanation": "Noah kept the animals on the ark.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-B-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who went in a big fish?",
+      "options": [
+        "Peter",
+        "Paul",
+        "John",
+        "Jonah"
+      ],
+      "correctIndex": 3,
+      "explanation": "A big fish swallowed Jonah.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-B-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who beat the giant Goliath?",
+      "options": [
+        "David",
+        "Saul",
+        "Samuel",
+        "Solomon"
+      ],
+      "correctIndex": 0,
+      "explanation": "David trusted God and won.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-B-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who had the bright coat?",
+      "options": [
+        "Aaron",
+        "Joseph",
+        "Isaac",
+        "Jacob"
+      ],
+      "correctIndex": 1,
+      "explanation": "Joseph got a special coat.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-B-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who led God's people from Egypt?",
+      "options": [
+        "Joshua",
+        "Aaron",
+        "Moses",
+        "Eli"
+      ],
+      "correctIndex": 2,
+      "explanation": "God chose Moses to lead His people.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-B-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "What did God make first?",
+      "options": [
+        "The sea",
+        "The sun",
+        "People",
+        "Light"
+      ],
+      "correctIndex": 3,
+      "explanation": "God said, let there be light.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-S-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "How many days did it rain on the ark?",
+      "options": [
+        "Forty",
+        "Ten",
+        "Seven",
+        "One hundred"
+      ],
+      "correctIndex": 0,
+      "explanation": "The rain fell for forty days.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-S-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "What bird did Noah send out?",
+      "options": [
+        "An eagle",
+        "A dove",
+        "A crow",
+        "A hawk"
+      ],
+      "correctIndex": 1,
+      "explanation": "The dove came back with an olive leaf.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-S-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Who sold Joseph?",
+      "options": [
+        "His father",
+        "His uncle",
+        "His brothers",
+        "The king"
+      ],
+      "correctIndex": 2,
+      "explanation": "His brothers were jealous of him.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-S-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Who dreamed of stars?",
+      "options": [
+        "Pharaoh",
+        "Daniel",
+        "Jacob",
+        "Joseph"
+      ],
+      "correctIndex": 3,
+      "explanation": "Joseph dreamed of his family bowing.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-S-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Who found Moses?",
+      "options": [
+        "Pharaoh's daughter",
+        "His mother",
+        "Miriam",
+        "The queen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pharaoh's daughter found him in a basket.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-S-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "What did God give Moses?",
+      "options": [
+        "A crown",
+        "The ten rules",
+        "A sword",
+        "A scroll of songs"
+      ],
+      "correctIndex": 1,
+      "explanation": "God wrote ten rules on stone.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-S-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Who was thrown to the lions?",
+      "options": [
+        "Jonah",
+        "Elijah",
+        "Daniel",
+        "Ezekiel"
+      ],
+      "correctIndex": 2,
+      "explanation": "Daniel kept praying, and God shut the lions' mouths.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-S-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Where were the people of God held as slaves?",
+      "options": [
+        "In Babylon",
+        "In Canaan",
+        "In Assyria",
+        "In Egypt"
+      ],
+      "correctIndex": 3,
+      "explanation": "The people worked as slaves in Egypt.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-G-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "Why did God send the flood?",
+      "options": [
+        "People were wicked",
+        "It rained too much",
+        "The rivers rose",
+        "They angered the king"
+      ],
+      "correctIndex": 0,
+      "explanation": "God judged the world because people chose evil.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-G-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "Why did his brothers hate him?",
+      "options": [
+        "He ate the food",
+        "His father loved him most",
+        "He broke things",
+        "He lied often"
+      ],
+      "correctIndex": 1,
+      "explanation": "His brothers were jealous of his special coat.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-G-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "Why did David fight the giant?",
+      "options": [
+        "For money",
+        "For a crown",
+        "To save God's people",
+        "For fun"
+      ],
+      "correctIndex": 2,
+      "explanation": "David trusted God and fought the giant.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-G-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "How did Moses cross the Red Sea?",
+      "options": [
+        "He swam fast",
+        "He built a bridge",
+        "He hid in a boat",
+        "God opened a path"
+      ],
+      "correctIndex": 3,
+      "explanation": "God parted the waters for His people.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-G-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "Why did Daniel pray each day?",
+      "options": [
+        "He loved God",
+        "To be safe",
+        "To win",
+        "To show off"
+      ],
+      "correctIndex": 0,
+      "explanation": "Daniel prayed to God three times a day.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-G-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "Why did Jonah run from God?",
+      "options": [
+        "He feared the storm",
+        "He did not want to go",
+        "He lost his way",
+        "He was asleep"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jonah disobeyed, but God still loved the city.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-G-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "What leaves did the dove bring back?",
+      "options": [
+        "Mango leaves",
+        "Palm leaves",
+        "Olive leaves",
+        "Fig leaves"
+      ],
+      "correctIndex": 2,
+      "explanation": "Olive leaves showed the land was dry again.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-BIB-G-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "Why did they repent?",
+      "options": [
+        "The king died",
+        "The city fell",
+        "Food ran out",
+        "They heard Jonah preach"
+      ],
+      "correctIndex": 3,
+      "explanation": "The people of Nineveh heard Jonah and repented.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -19,10 +19,12 @@ export function Map({
   onStart,
   onGrownups,
   onHome,
+  offline = false,
 }: {
   onStart: (parts: RoundPartInput[], timed: boolean) => void;
   onGrownups: () => void;
   onHome: () => void;
+  offline?: boolean;
 }) {
   const { progress } = useProgress();
   const band = progress.profile.band;
@@ -75,6 +77,7 @@ export function Map({
           <p className="truncate font-display text-lg font-extrabold">{progress.profile.nickname || "Explorer"}</p>
           <p className="text-sm text-muted">
             {bandDef?.label}, ages {bandDef?.ages}
+            {offline ? " · offline" : ""}
             {streak.days > 0 ? ` · ${streak.days} day${streak.days === 1 ? "" : "s"}${streak.paused ? " (paused)" : ""}` : ""}
           </p>
         </div>
@@ -200,7 +203,9 @@ export function Map({
                   <span className="mt-1 block text-sm text-muted">{topic.blurb}</span>
                   <span className="mt-2 flex items-center justify-between">
                     <Stars value={tp.stars[tp.level]} />
-                    <span className="text-xs text-muted">{disabled ? "Coming soon" : `${count ?? "?"} questions`}</span>
+                    <span className="text-xs text-muted">
+                      {disabled ? "Coming soon" : offline ? "Ready to play" : `${count ?? "?"} questions`}
+                    </span>
                   </span>
                 </span>
               </button>

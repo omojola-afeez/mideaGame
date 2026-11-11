@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "music",
+  "topic": "tones",
+  "title": "High and low",
+  "questions": [
+    {
+      "code": "10-MSC-TON-B-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What is pitch?",
+      "options": [
+        "How high or low a sound is",
+        "How loud a sound is",
+        "How long a note is",
+        "How fast the tempo is"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pitch describes the height of a note.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-B-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What does a treble clef indicate?",
+      "options": [
+        "Low bass notes",
+        "Higher notes and voices",
+        "Percussion only",
+        "Volume markings"
+      ],
+      "correctIndex": 1,
+      "explanation": "Treble clef marks the staff for higher pitches.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-B-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What does a bass clef indicate?",
+      "options": [
+        "High flute parts",
+        "Drum notation",
+        "Lower notes and voices",
+        "Tempo markings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bass clef marks the staff for lower pitches.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-B-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What does forte mean?",
+      "options": [
+        "Soft",
+        "Fast",
+        "Slow",
+        "Loud"
+      ],
+      "correctIndex": 3,
+      "explanation": "Forte means loud in dynamic terms.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-B-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What does piano mean in music?",
+      "options": [
+        "Soft",
+        "Loud",
+        "Fast",
+        "High"
+      ],
+      "correctIndex": 0,
+      "explanation": "Piano is the Italian word for soft.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-B-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "Which clef does a flute use?",
+      "options": [
+        "Bass clef",
+        "Treble clef",
+        "Alto clef",
+        "Tenor clef"
+      ],
+      "correctIndex": 1,
+      "explanation": "The flute reads treble clef.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-B-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What is an octave?",
+      "options": [
+        "Two different notes",
+        "Eight bars of music",
+        "The distance between the same note name",
+        "A sharp note"
+      ],
+      "correctIndex": 2,
+      "explanation": "An octave spans eight lettered notes, like C to C.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-B-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "Which note is higher: middle C or the C above it?",
+      "options": [
+        "Middle C",
+        "They are the same",
+        "Neither exists",
+        "The C above middle C"
+      ],
+      "correctIndex": 3,
+      "explanation": "The C above middle C sounds an octave higher.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-S-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "What does a sharp do to a note?",
+      "options": [
+        "Raises it by a semitone",
+        "Lowers it",
+        "Silences it",
+        "Doubles its length"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sharp raises pitch by a semitone.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-S-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "What does a flat do to a note?",
+      "options": [
+        "Raises it",
+        "Lowers it by a semitone",
+        "Loudens it",
+        "Speeds it up"
+      ],
+      "correctIndex": 1,
+      "explanation": "A flat lowers pitch by a semitone.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-S-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "What is a major scale?",
+      "options": [
+        "A sad, dark scale",
+        "A random set of notes",
+        "A bright-sounding stepwise scale",
+        "A drum pattern"
+      ],
+      "correctIndex": 2,
+      "explanation": "Major scales sound bright and happy.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-S-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "What changes between major and minor keys?",
+      "options": [
+        "The tempo",
+        "The volume",
+        "The instrumentation",
+        "The third scale degree differs"
+      ],
+      "correctIndex": 3,
+      "explanation": "Minor lowers the third degree from major.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-S-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "What does mezzo forte mean?",
+      "options": [
+        "Moderately loud",
+        "Very loud",
+        "Very soft",
+        "Moderately soft"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mezzo forte means moderately loud.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-S-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "Where is middle C on the piano?",
+      "options": [
+        "At the far left",
+        "At the centre, between treble and bass clef",
+        "At the far right",
+        "On a different keyboard"
+      ],
+      "correctIndex": 1,
+      "explanation": "Middle C sits between treble and bass registers.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-S-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "What does a natural sign cancel?",
+      "options": [
+        "A rest",
+        "A time signature",
+        "A sharp or flat",
+        "A dynamic"
+      ],
+      "correctIndex": 2,
+      "explanation": "A natural returns a note to its unaltered pitch.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-S-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "What is a whole tone interval?",
+      "options": [
+        "One semitone",
+        "Four semitones",
+        "Twelve semitones",
+        "Two semitones"
+      ],
+      "correctIndex": 3,
+      "explanation": "A whole tone spans two semitones.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-G-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "What are melodic steps?",
+      "options": [
+        "Notes in sequence",
+        "Notes played together",
+        "Notes at rest",
+        "Notes in canon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Melodic intervals move in time; harmonic sound together.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-G-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "Why does a minor third sound darker than a major third?",
+      "options": [
+        "Minor thirds are louder",
+        "The minor third is narrower and tenser",
+        "Major thirds use sharps only",
+        "They sound identical"
+      ],
+      "correctIndex": 1,
+      "explanation": "The minor third's narrower gap creates tension.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-G-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "What is the relative minor of C major?",
+      "options": [
+        "E minor",
+        "F minor",
+        "A minor",
+        "D minor"
+      ],
+      "correctIndex": 2,
+      "explanation": "A minor shares C major's key signature.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-G-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "What does intonation mean for singers?",
+      "options": [
+        "Breath control",
+        "Volume control",
+        "Diction clarity",
+        "Accuracy of pitch"
+      ],
+      "correctIndex": 3,
+      "explanation": "Intonation is how accurately a singer hits pitch.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-G-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "What sound does a stable triad make?",
+      "options": [
+        "A consonant one",
+        "A dissonant one",
+        "A silent one",
+        "A loud one"
+      ],
+      "correctIndex": 0,
+      "explanation": "Consonant triads sound stable; dissonant ones tense.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-G-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "How do forte and piano shape musical phrasing?",
+      "options": [
+        "They set the key",
+        "They contrast loud and soft sections",
+        "They choose the tempo",
+        "They end the song"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dynamics create contrast and expression in phrases.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-G-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "What is it when music changes key?",
+      "options": [
+        "Syncopation",
+        "Rubato",
+        "Modulation",
+        "Ostinato"
+      ],
+      "correctIndex": 2,
+      "explanation": "Modulation shifts the music into a new key.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-TON-G-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "Why do orchestras tune to A above middle C?",
+      "options": [
+        "It is the loudest note",
+        "It is the lowest note",
+        "It was random",
+        "Tradition fixes it as the reference pitch"
+      ],
+      "correctIndex": 3,
+      "explanation": "Concert A serves as the tuning standard.",
+      "curriculumRef": "NERDC Primary 5 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

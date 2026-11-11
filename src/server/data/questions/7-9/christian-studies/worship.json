@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "christian-studies",
+  "topic": "worship",
+  "title": "Prayer harbour",
+  "questions": [
+    {
+      "code": "7-CST-WOR-B-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What is prayer?",
+      "options": [
+        "Talking to God",
+        "Singing loudly",
+        "Reading silently",
+        "Giving offerings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prayer is talking to God with our heart.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-B-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What is worship?",
+      "options": [
+        "Attending a concert",
+        "Praising and honouring God",
+        "Wearing fine clothes",
+        "Giving alms"
+      ],
+      "correctIndex": 1,
+      "explanation": "Worship is honouring God with our whole life.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-B-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "Who taught the Lord's Prayer?",
+      "options": [
+        "Paul",
+        "Peter",
+        "Jesus",
+        "The apostles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus taught His disciples the Our Father.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-B-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "When did Jesus often pray?",
+      "options": [
+        "Only at noon",
+        "Only at night",
+        "Only on feasts",
+        "Early in the morning"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus prayed often, even before sunrise.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-B-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What do we do before meals?",
+      "options": [
+        "Thank God",
+        "Wash hands only",
+        "Set the table",
+        "Call the family"
+      ],
+      "correctIndex": 0,
+      "explanation": "We thank God for the food we eat.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-B-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What is the church?",
+      "options": [
+        "A big building",
+        "The family of believers",
+        "A charity group",
+        "A choir"
+      ],
+      "correctIndex": 1,
+      "explanation": "The church is God's family gathered to worship.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-B-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What should we do when others hurt us?",
+      "options": [
+        "Hurt them back",
+        "Report them",
+        "Forgive them",
+        "Ignore them forever"
+      ],
+      "correctIndex": 2,
+      "explanation": "We forgive others as God forgives us.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-B-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "Can we pray at home?",
+      "options": [
+        "No, never",
+        "Only at church",
+        "Only at school",
+        "Yes, anywhere"
+      ],
+      "correctIndex": 3,
+      "explanation": "God hears us at home and everywhere.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-S-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What does Our Father teach us about God?",
+      "options": [
+        "He is our loving Father",
+        "He is far away",
+        "He is a judge only",
+        "He is a stranger"
+      ],
+      "correctIndex": 0,
+      "explanation": "God cares for us like a kind father.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-S-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What does hallowed be Thy name mean?",
+      "options": [
+        "May God's name be known",
+        "May God's name be honoured",
+        "May God's name be hidden",
+        "May God's name be sung"
+      ],
+      "correctIndex": 1,
+      "explanation": "We ask that God's name be treated as holy.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-S-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What does Thy kingdom come mean?",
+      "options": [
+        "We want to move to heaven",
+        "We want political power",
+        "We want God's rule on earth",
+        "We want new laws"
+      ],
+      "correctIndex": 2,
+      "explanation": "We pray for God's kingdom to grow on earth.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-S-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What does give us our daily bread mean?",
+      "options": [
+        "God gives manna",
+        "We beg for bread",
+        "Bakers are blessed",
+        "God provides our daily needs"
+      ],
+      "correctIndex": 3,
+      "explanation": "We ask God to meet our needs each day.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-S-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What does the prayer teach us?",
+      "options": [
+        "Forgive others to be forgiven",
+        "Never forgive anyone",
+        "Forgiveness is a weakness",
+        "Only God forgives"
+      ],
+      "correctIndex": 0,
+      "explanation": "We receive forgiveness as we forgive others.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-S-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What is saying thanks to God?",
+      "options": [
+        "Giving gifts to men",
+        "Giving thanks to God",
+        "Giving offerings",
+        "Giving alms"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thanksgiving is our grateful response to God's goodness.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-S-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "Why do we sing in church?",
+      "options": [
+        "To show off voices",
+        "To fill time",
+        "To praise God together",
+        "To raise offerings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Singing lifts our hearts to God in worship.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-S-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "Why read the Bible in worship?",
+      "options": [
+        "To learn history",
+        "To pass time",
+        "To debate doctrine",
+        "To hear God's word"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Bible is God speaking to His people.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-G-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "Why forgive before you pray?",
+      "options": [
+        "Unforgiveness hinders prayer",
+        "It saves energy",
+        "It speeds things up",
+        "It wins arguments"
+      ],
+      "correctIndex": 0,
+      "explanation": "God will not hear a heart holding grudges.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-G-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "How does worship change us?",
+      "options": [
+        "It makes us famous",
+        "It renews our hearts",
+        "It fills our pockets",
+        "It raises our status"
+      ],
+      "correctIndex": 1,
+      "explanation": "Worship fills us with God's peace and truth.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-G-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "What is worship in spirit and truth?",
+      "options": [
+        "Loud singing",
+        "Correct ritual",
+        "Sincere worship from the heart",
+        "Fancy buildings"
+      ],
+      "correctIndex": 2,
+      "explanation": "God seeks those who worship Him truly and sincerely.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-G-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "Why do Christians give?",
+      "options": [
+        "To buy blessings",
+        "To be seen by men",
+        "To avoid tax",
+        "To honour God with our wealth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Giving shows gratitude and supports God's work.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-G-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "How can you worship at home daily?",
+      "options": [
+        "Pray and read the Bible",
+        "Watch church online",
+        "Sleep well",
+        "Eat on time"
+      ],
+      "correctIndex": 0,
+      "explanation": "Daily prayer and Bible reading are worship at home.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-G-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "What is praying for others?",
+      "options": [
+        "Praying for rain",
+        "Intercession",
+        "Praying at night",
+        "Praying loudly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Intercession means lifting others' needs to God.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-G-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "Why worship as a church?",
+      "options": [
+        "It raises collections",
+        "It grows the building",
+        "It builds the church family",
+        "It entertains members"
+      ],
+      "correctIndex": 2,
+      "explanation": "Worshipping together strengthens every believer.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-WOR-G-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "What should a worshipper's heart be like?",
+      "options": [
+        "Proud and loud",
+        "Cold and formal",
+        "Ashamed and fearful",
+        "Reverent and loving"
+      ],
+      "correctIndex": 3,
+      "explanation": "True worship flows from a heart that reveres God.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

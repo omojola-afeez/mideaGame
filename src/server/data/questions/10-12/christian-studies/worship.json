@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "christian-studies",
+  "topic": "worship",
+  "title": "Prayer harbour",
+  "questions": [
+    {
+      "code": "10-CST-WOR-B-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What is the main aim of worship?",
+      "options": [
+        "To glorify God",
+        "To entertain the crowd",
+        "To raise funds",
+        "To grow a church"
+      ],
+      "correctIndex": 0,
+      "explanation": "Worship exists to glorify God alone.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-B-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What are two main elements of worship?",
+      "options": [
+        "Tithes and offerings",
+        "Prayer and the Word",
+        "Songs and dancing",
+        "Shouting and clapping"
+      ],
+      "correctIndex": 1,
+      "explanation": "Worship gathers around God's Word and prayer.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-B-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What is a quiet time?",
+      "options": [
+        "A silent meeting",
+        "A nap after lunch",
+        "Personal time with God",
+        "A time of fasting"
+      ],
+      "correctIndex": 2,
+      "explanation": "Christians meet God privately in prayer and Scripture.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-B-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "Why gather to worship?",
+      "options": [
+        "To be seen by others",
+        "To raise money",
+        "To show off gifts",
+        "To encourage one another"
+      ],
+      "correctIndex": 3,
+      "explanation": "We were not meant to walk with God alone.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-B-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What is confession in prayer?",
+      "options": [
+        "Admitting our sins to God",
+        "Praising God's name",
+        "Listing our needs",
+        "Thanking God daily"
+      ],
+      "correctIndex": 0,
+      "explanation": "Confession restores our fellowship with God.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-B-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What is it to adore God?",
+      "options": [
+        "Asking God for things",
+        "Praising God for His greatness",
+        "Thanking God for gifts",
+        "Confessing sins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adoration tells God how awesome He is.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-B-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What is thanksgiving?",
+      "options": [
+        "Asking for more blessings",
+        "Rejoicing over enemies",
+        "Thanking God for His goodness",
+        "Boasting to friends"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thanksgiving is gratitude offered to God.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-B-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What is asking God for our needs?",
+      "options": [
+        "Praising God publicly",
+        "Interceding for sinners",
+        "Reading the Bible",
+        "Bringing our requests to God"
+      ],
+      "correctIndex": 3,
+      "explanation": "Supplication is asking God to meet our needs.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-S-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What does the Lord's Prayer reveal about God?",
+      "options": [
+        "He is holy, sovereign Father",
+        "He is distant and harsh",
+        "He is weak and limited",
+        "He is indifferent to us"
+      ],
+      "correctIndex": 0,
+      "explanation": "It names God as our holy, ruling, caring Father.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-S-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What is the ACTS pattern of prayer?",
+      "options": [
+        "Ask, Claim, Trust, Speak",
+        "Adoration, Confession, Thanksgiving, Supplication",
+        "Adore, Confess, Thank, Supplicate",
+        "Atone, Confess, Trust, Serve"
+      ],
+      "correctIndex": 1,
+      "explanation": "ACTS gives a balanced, Jesus-shaped pattern of prayer.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-S-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "Why pray your will be done?",
+      "options": [
+        "To sound spiritual",
+        "To avoid responsibility",
+        "We trust God's wisdom above our own",
+        "To end the prayer quickly"
+      ],
+      "correctIndex": 2,
+      "explanation": "We yield our desires to God's perfect will.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-S-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What role does fasting play?",
+      "options": [
+        "It earns God's favour",
+        "It proves our holiness",
+        "It replaces prayer",
+        "It humbles and sharpens prayer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fasting sets aside food to seek God fully.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-S-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "Why is the Bible central to worship?",
+      "options": [
+        "It is God speaking to us",
+        "It preserves tradition",
+        "It teaches history",
+        "It aids memory"
+      ],
+      "correctIndex": 0,
+      "explanation": "In worship we meet God through His word.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-S-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "How should we prepare for worship?",
+      "options": [
+        "Dress in new clothes",
+        "Confess and come in reverence",
+        "Arrive early always",
+        "Bring big offerings"
+      ],
+      "correctIndex": 1,
+      "explanation": "We come to God with clean hearts and reverent awe.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-S-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What is the church praying for others called?",
+      "options": [
+        "A prayer marathon",
+        "A national fast",
+        "Corporate intercession",
+        "An all-night vigil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Together we carry the world's burdens to God.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-S-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "Why does worship include giving?",
+      "options": [
+        "It keeps the church strong",
+        "It buys blessings",
+        "It impresses people",
+        "Giving honours God"
+      ],
+      "correctIndex": 3,
+      "explanation": "Generous giving is an act of worship and gratitude.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-G-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "What is worship in spirit and truth?",
+      "options": [
+        "Heartfelt, obedient worship",
+        "Loud songs and dance",
+        "Correct liturgy",
+        "Ancient traditions"
+      ],
+      "correctIndex": 0,
+      "explanation": "God wants worshippers whose hearts and lives are sincere.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-G-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "How does prayer shape character?",
+      "options": [
+        "It makes us more confident",
+        "It aligns our will with God's",
+        "It gives us peace with men",
+        "It calms our nerves"
+      ],
+      "correctIndex": 1,
+      "explanation": "Regular prayer moulds us into the image of Christ.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-G-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "What role does silence play in worship?",
+      "options": [
+        "It calms the crowd",
+        "It marks the end",
+        "It makes space to hear God",
+        "It is empty time"
+      ],
+      "correctIndex": 2,
+      "explanation": "Silence teaches us to listen before we speak.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-G-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "How are worship and justice linked?",
+      "options": [
+        "Worship earns justice",
+        "Justice replaces worship",
+        "They are unrelated",
+        "Love for God demands love for people"
+      ],
+      "correctIndex": 3,
+      "explanation": "True worship shows in how we treat the poor.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-G-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "Why is the Lord's Prayer a model and not a formula?",
+      "options": [
+        "It teaches priorities and attitudes",
+        "It is often repeated",
+        "It was old even then",
+        "It covers all needs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus taught us what and how to pray.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-G-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "What harm does holding a grudge do?",
+      "options": [
+        "Nothing at all",
+        "It hinders our fellowship with God",
+        "It adds urgency",
+        "It deepens devotion"
+      ],
+      "correctIndex": 1,
+      "explanation": "God will not hear a heart holding grudges.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-G-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "How can a teenager worship daily?",
+      "options": [
+        "Attend church weekly",
+        "Wear Christian symbols",
+        "Pray, read the Bible, obey and love",
+        "Post scripture online"
+      ],
+      "correctIndex": 2,
+      "explanation": "Every act of love and obedience is worship.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-WOR-G-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "What makes a church's worship pleasing to God?",
+      "options": [
+        "Excellent music",
+        "Big attendance",
+        "Rich offerings",
+        "Truth, love and holiness together"
+      ],
+      "correctIndex": 3,
+      "explanation": "God delights in worship offered with honest, loving, holy hearts.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

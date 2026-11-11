@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "music",
+  "topic": "instruments",
+  "title": "Instrument isle",
+  "questions": [
+    {
+      "code": "7-MSC-INS-B-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which instrument is a drum?",
+      "options": [
+        "The talking drum",
+        "The guitar",
+        "The flute",
+        "The piano"
+      ],
+      "correctIndex": 0,
+      "explanation": "The talking drum is a famous Nigerian instrument.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-B-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "The guitar belongs to which group?",
+      "options": [
+        "Wind",
+        "String",
+        "Percussion",
+        "Keyboard"
+      ],
+      "correctIndex": 1,
+      "explanation": "The guitar makes sound from vibrating strings.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-B-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which instrument is blown to make sound?",
+      "options": [
+        "The drum",
+        "The xylophone",
+        "The flute",
+        "The shekere"
+      ],
+      "correctIndex": 2,
+      "explanation": "Flutes make sound when air is blown across them.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-B-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which one has keys?",
+      "options": [
+        "The drum",
+        "The flute",
+        "The violin",
+        "The piano"
+      ],
+      "correctIndex": 3,
+      "explanation": "The piano is played by pressing keys.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-B-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "What does the xylophone have?",
+      "options": [
+        "Wooden bars you hit",
+        "Strings you pluck",
+        "Keys you press",
+        "Holes you blow"
+      ],
+      "correctIndex": 0,
+      "explanation": "A xylophone has wooden bars that make notes when struck.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-B-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which is made of clay?",
+      "options": [
+        "The ekwe",
+        "The udu",
+        "The talking drum",
+        "The shekere"
+      ],
+      "correctIndex": 1,
+      "explanation": "The udu is a clay pot drum played by tapping.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-B-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which instrument has six strings?",
+      "options": [
+        "The piano",
+        "The drum",
+        "The guitar",
+        "The xylophone"
+      ],
+      "correctIndex": 2,
+      "explanation": "A standard guitar has six strings.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-B-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which instrument do you beat?",
+      "options": [
+        "The flute",
+        "The guitar",
+        "The piano",
+        "The ekwe"
+      ],
+      "correctIndex": 3,
+      "explanation": "The ekwe is a wooden slit drum from Igbo land, struck with sticks.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-S-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "The talking drum changes pitch when you...",
+      "options": [
+        "Squeeze its tension ropes",
+        "Blow into it",
+        "Pluck its strings",
+        "Press its keys"
+      ],
+      "correctIndex": 0,
+      "explanation": "Squeezing the ropes changes the drum's pitch.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-S-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "Which group is the shekere in?",
+      "options": [
+        "Strings",
+        "Percussion",
+        "Winds",
+        "Keyboards"
+      ],
+      "correctIndex": 1,
+      "explanation": "The shekere is a gourd shaker, a percussion instrument.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-S-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "How does a flute make sound?",
+      "options": [
+        "Hitting with a stick",
+        "Plucking strings",
+        "Air blown across the hole",
+        "Pressing keys"
+      ],
+      "correctIndex": 2,
+      "explanation": "Air blown across the mouthpiece vibrates to make sound.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-S-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "Which one uses a bow?",
+      "options": [
+        "The drum",
+        "The flute",
+        "The keyboard",
+        "The violin"
+      ],
+      "correctIndex": 3,
+      "explanation": "A violin is played with a bow drawn across its strings.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-S-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "Which one is common in highlife bands?",
+      "options": [
+        "The guitar",
+        "The udu",
+        "The ekwe",
+        "The agogo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Highlife is built around guitar melodies and brass.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-S-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "What kind of instrument is the ekwe?",
+      "options": [
+        "A clay pot",
+        "A wooden slit drum",
+        "A string guitar",
+        "A bamboo flute"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ekwe is a carved wooden drum with a slit.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-S-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "Which of these is not percussion?",
+      "options": [
+        "The drum",
+        "The agogo",
+        "The flute",
+        "The shekere"
+      ],
+      "correctIndex": 2,
+      "explanation": "The flute is a wind instrument, not percussion.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-S-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "What does a keyboard make sound with?",
+      "options": [
+        "Stretched skin",
+        "Wooden bars",
+        "Clay pots",
+        "Strings or pipes inside"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pianos use strings; organs use pipes and air.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-G-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "How does the talking drum copy speech?",
+      "options": [
+        "By copying tone and rhythm patterns",
+        "By growing louder",
+        "By changing colour",
+        "By playing faster"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yoruba and tonal languages let drums imitate speech tones.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-G-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "What is the udu made from?",
+      "options": [
+        "Wood",
+        "Fired clay",
+        "Brass",
+        "Goat skin"
+      ],
+      "correctIndex": 1,
+      "explanation": "The udu is a traditional clay pot drum of Igbo people.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-G-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "Which of these is a wind instrument?",
+      "options": [
+        "The violin",
+        "The drum",
+        "The trumpet",
+        "The xylophone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trumpets are wind instruments played with breath.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-G-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "What group does the piano belong to?",
+      "options": [
+        "Percussion",
+        "String",
+        "Woodwind",
+        "Keyboard"
+      ],
+      "correctIndex": 3,
+      "explanation": "The piano has keys, making it a keyboard instrument.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-G-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "What is odd about the shekere?",
+      "options": [
+        "It is shaken, not struck",
+        "It has keys",
+        "It is blown",
+        "It has strings"
+      ],
+      "correctIndex": 0,
+      "explanation": "The shekere is shaken to rattle its bead net.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-G-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "Which one has wooden bars?",
+      "options": [
+        "Piano",
+        "Xylophone",
+        "Flute",
+        "Trumpet"
+      ],
+      "correctIndex": 1,
+      "explanation": "The xylophone is struck, so it is percussion.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-G-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "Why is the ekwe carved with a long slit?",
+      "options": [
+        "To hold water",
+        "To hide food",
+        "So beating the slit makes sound",
+        "To decorate doors"
+      ],
+      "correctIndex": 2,
+      "explanation": "The slit divides the ekwe and turns each side into a note.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-INS-G-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "Which pairs well with the talking drum?",
+      "options": [
+        "The piano only",
+        "The harp",
+        "The violin only",
+        "The shekere"
+      ],
+      "correctIndex": 3,
+      "explanation": "Shekeres and talking drums blend well in Nigerian ensembles.",
+      "curriculumRef": "NERDC Primary 3 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "music",
+  "topic": "rhythm",
+  "title": "Rhythm ridge",
+  "questions": [
+    {
+      "code": "7-MSC-RYT-B-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What is a steady beat?",
+      "options": [
+        "A regular repeating sound",
+        "A random sound",
+        "A silence",
+        "A whisper"
+      ],
+      "correctIndex": 0,
+      "explanation": "A steady beat repeats at the same speed.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-B-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "How many beats are in a 4/4 bar?",
+      "options": [
+        "Two",
+        "Four",
+        "Three",
+        "Six"
+      ],
+      "correctIndex": 1,
+      "explanation": "4/4 time has four beats per bar.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-B-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What do we call the speed of music?",
+      "options": [
+        "Rhythm",
+        "Melody",
+        "Tempo",
+        "Harmony"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tempo is how fast or slow music goes.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-B-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "Which one can keep a beat?",
+      "options": [
+        "A chair",
+        "A book",
+        "A door",
+        "A drum"
+      ],
+      "correctIndex": 3,
+      "explanation": "A drum plays a strong, steady beat.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-B-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What does fast music feel like?",
+      "options": [
+        "Exciting and quick",
+        "Calm and slow",
+        "Sad and sleepy",
+        "Quiet and still"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fast music feels exciting and full of energy.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-B-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "How do we keep time with our hands?",
+      "options": [
+        "By waving randomly",
+        "By clapping in time",
+        "By hiding them",
+        "By folding arms"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clapping in time is a simple way to keep the beat.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-B-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "Which word means slow tempo?",
+      "options": [
+        "Allegro",
+        "Presto",
+        "Largo",
+        "Vivace"
+      ],
+      "correctIndex": 2,
+      "explanation": "Largo means slow and broad.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-B-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What is a pattern of beats called?",
+      "options": [
+        "Melody",
+        "Lyric",
+        "Tune",
+        "Rhythm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rhythm is the pattern of beats in music.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-S-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "In 4/4 time, one bar holds how many beats?",
+      "options": [
+        "Four beats",
+        "Two beats",
+        "Three beats",
+        "Eight beats"
+      ],
+      "correctIndex": 0,
+      "explanation": "The top number in 4/4 tells us four beats per bar.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-S-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What is the first beat of a bar called?",
+      "options": [
+        "The upbeat",
+        "The downbeat",
+        "The rest",
+        "The silence"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first beat of a bar is the downbeat.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-S-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What does the top number in 4/4 show?",
+      "options": [
+        "How loud to play",
+        "How fast to play",
+        "How many beats per bar",
+        "How many drums"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 4/4, the 4 means four beats per bar.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-S-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What tempo is best for a slow march?",
+      "options": [
+        "A very fast one",
+        "A silent one",
+        "The loudest one",
+        "A slow, steady tempo"
+      ],
+      "correctIndex": 3,
+      "explanation": "A slow march needs a steady, slow tempo.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-S-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "How should you clap in a steady beat?",
+      "options": [
+        "Evenly spaced claps",
+        "Faster and faster",
+        "Random claps",
+        "No claps"
+      ],
+      "correctIndex": 0,
+      "explanation": "A steady beat keeps even spacing.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-S-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What is a drum pattern that repeats?",
+      "options": [
+        "A random noise",
+        "A repeating rhythm pattern",
+        "A single clap",
+        "A silent gap"
+      ],
+      "correctIndex": 1,
+      "explanation": "An ostinato is a rhythm that repeats again and again.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-S-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What helps players keep a steady tempo?",
+      "options": [
+        "A loud drum",
+        "A big stick",
+        "A metronome",
+        "A fast song"
+      ],
+      "correctIndex": 2,
+      "explanation": "A metronome ticks to keep a steady beat.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-S-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What does clapping off the beat mean?",
+      "options": [
+        "Clapping on every beat",
+        "Not clapping",
+        "Clapping backwards",
+        "Clapping between the beats"
+      ],
+      "correctIndex": 3,
+      "explanation": "Offbeat clapping falls between the main beats.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-G-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What is a time signature?",
+      "options": [
+        "The numbers that show beats per bar",
+        "The name of the song",
+        "The loudness of music",
+        "The key of the song"
+      ],
+      "correctIndex": 0,
+      "explanation": "A time signature like 4/4 shows beats per bar.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-G-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What does the bottom number in 4/4 mean?",
+      "options": [
+        "Four beats per bar",
+        "Each beat is a quarter note",
+        "Four bars per song",
+        "Four drums per group"
+      ],
+      "correctIndex": 1,
+      "explanation": "The bottom 4 means the beat is a quarter note.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-G-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What is two rhythms at once called?",
+      "options": [
+        "One rhythm played twice",
+        "No rhythm at all",
+        "Polyrhythm",
+        "A very slow rhythm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Polyrhythm layers two different rhythmic patterns together.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-G-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "Why do talking drums copy speech rhythms?",
+      "options": [
+        "Because drummers cannot sing",
+        "Because drums are cheap",
+        "Because of the weather",
+        "Because drums mimic the tone patterns of speech"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tonal languages let drums echo the speech tune.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-G-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What is a rest in music?",
+      "options": [
+        "A silence lasting a beat",
+        "A loud note",
+        "A fast run",
+        "A wrong note"
+      ],
+      "correctIndex": 0,
+      "explanation": "A rest is a measured silence in the music.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-G-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "In 4/4, which beats are strong?",
+      "options": [
+        "Beats 2 and 4",
+        "Beats 1 and 3",
+        "Beats 4 and 1",
+        "All beats equally"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 4/4, beats 1 and 3 feel stronger.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-G-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What is Afrobeats rhythm built on?",
+      "options": [
+        "A single slow clap",
+        "Silence between beats",
+        "Layered drum patterns",
+        "Random noise"
+      ],
+      "correctIndex": 2,
+      "explanation": "Afrobeats stacks layered drum and bass patterns.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-RYT-G-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What do players call a very fast tempo?",
+      "options": [
+        "Largo",
+        "Adagio",
+        "Grave",
+        "Presto"
+      ],
+      "correctIndex": 3,
+      "explanation": "Presto means very fast.",
+      "curriculumRef": "NERDC Primary 3 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "christian-studies",
+  "topic": "jesus",
+  "title": "Jesus journey",
+  "questions": [
+    {
+      "code": "10-CST-JES-B-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Who put Jesus under the water?",
+      "options": [
+        "John the Baptist",
+        "Peter",
+        "John the apostle",
+        "Andrew"
+      ],
+      "correctIndex": 0,
+      "explanation": "John the Baptist baptised Jesus in the Jordan.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-B-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Where was Jesus dipped in water?",
+      "options": [
+        "The Red Sea",
+        "The River Jordan",
+        "The Nile",
+        "The Sea of Galilee"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jesus was baptised in the River Jordan.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-B-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "How many disciples did Jesus call?",
+      "options": [
+        "Ten",
+        "Fifty",
+        "Twelve",
+        "Three"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus chose twelve disciples to follow Him.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-B-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "What did Jesus use to teach?",
+      "options": [
+        "Long speeches",
+        "Lectures from scripture alone",
+        "Riddles",
+        "Parables from daily life"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus taught with stories from farming, fishing and family life.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-B-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "What was Jesus accused of?",
+      "options": [
+        "Claiming to be king",
+        "Stealing from the temple",
+        "Breaking the Sabbath",
+        "Plotting rebellion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus was charged with claiming to be king of the Jews.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-B-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Who carried Jesus's cross partway?",
+      "options": [
+        "Joseph of Arimathea",
+        "Simon of Cyrene",
+        "Nicodemus",
+        "Barabbas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Simon of Cyrene was made to carry the cross.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-B-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "What did Jesus pray for His enemies?",
+      "options": [
+        "Father, judge them",
+        "Father, confuse them",
+        "Father, forgive them",
+        "Father, receive them"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus prayed for the forgiveness of those who crucified Him.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-B-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "When did Jesus rise from the tomb?",
+      "options": [
+        "On the second day",
+        "On the fourth day",
+        "Immediately",
+        "On the third day"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus rose on the third day, conquering death.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-S-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What does the parable of the sower teach?",
+      "options": [
+        "Receive God's word with open hearts",
+        "Farming is holy work",
+        "Seeds need rich soil",
+        "Preach to crowds only"
+      ],
+      "correctIndex": 0,
+      "explanation": "The seed is God's word; good soil bears lasting fruit.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-S-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What does the hidden treasure teach?",
+      "options": [
+        "Treasure hunts are fun",
+        "The kingdom is worth everything",
+        "Land is valuable",
+        "Fields are blessings"
+      ],
+      "correctIndex": 1,
+      "explanation": "The man sold all to possess the joy of God's kingdom.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-S-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What does the vineyard workers parable show?",
+      "options": [
+        "Late workers are lazy",
+        "Employers are fair",
+        "God's grace is generous",
+        "Wages are equal"
+      ],
+      "correctIndex": 2,
+      "explanation": "God rewards by grace, not by anyone's merit.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-S-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "Why did Jesus wash His disciples' feet?",
+      "options": [
+        "For hygiene",
+        "To honour them",
+        "To show respect",
+        "To teach humble service"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus showed that leaders must serve others.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-S-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What does the good shepherd show?",
+      "options": [
+        "Jesus protects His people",
+        "Shepherds are strong",
+        "Sheep are foolish",
+        "Wolves are dangerous"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus, the good shepherd, lays down His life for His sheep.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-S-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What does Jesus's temptation teach?",
+      "options": [
+        "Avoid deserts",
+        "Answer Satan with Scripture",
+        "Eat only bread",
+        "Climb mountains"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jesus answered every temptation with the word of God.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-S-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What does I am the way mean?",
+      "options": [
+        "Jesus knows the road",
+        "Jesus is a guide",
+        "Jesus is the path to God",
+        "Jesus built a way"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus is the only way to know God and gain eternal life.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-S-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "Why did Jesus teach in parables?",
+      "options": [
+        "To entertain crowds",
+        "To confuse enemies",
+        "To speak simply",
+        "To reveal truth to open hearts"
+      ],
+      "correctIndex": 3,
+      "explanation": "Parables reveal God's kingdom to those who seek it.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-G-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What do the Beatitudes teach?",
+      "options": [
+        "God blesses the humble and merciful",
+        "God blesses the powerful",
+        "God blesses the rich",
+        "God blesses the clever"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus's kingdom honours humility, mercy and hunger for righteousness.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-G-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "How did Jesus relate to the law of Moses?",
+      "options": [
+        "He abolished it",
+        "He fulfilled its true meaning",
+        "He ignored it",
+        "He replaced it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jesus deepened the law from outward rule to heart obedience.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-G-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What does the Lord's Supper mean?",
+      "options": [
+        "Celebrating a feast",
+        "Sharing a meal",
+        "Remembering Christ's sacrifice",
+        "Growing closer as a church"
+      ],
+      "correctIndex": 2,
+      "explanation": "The bread and cup proclaim Jesus's body and blood given for us.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-G-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What does My God, my God, why have you forsaken me express?",
+      "options": [
+        "Doubt about God",
+        "Anger at the Father",
+        "Despair without hope",
+        "The agony of bearing sin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus felt God's forsakenness as He bore the world's sin.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-G-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "Why does Jesus's rising from death matter?",
+      "options": [
+        "It proves Jesus's victory over death",
+        "It guarantees health",
+        "It promises wealth",
+        "It removes grief"
+      ],
+      "correctIndex": 0,
+      "explanation": "Without the resurrection, our faith is empty.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-G-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What is the Great Commission?",
+      "options": [
+        "Build a world empire",
+        "Make disciples of all nations",
+        "Translate the Bible",
+        "Govern nations for God"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jesus commands us to spread His gospel to every nation.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-G-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What does the ascension assure us?",
+      "options": [
+        "Jesus is resting",
+        "Jesus is distant",
+        "Jesus reigns and will return",
+        "Jesus has left us alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus now reigns in heaven and will come again.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-JES-G-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "How did Jesus forgive on the cross?",
+      "options": [
+        "He ignored His enemies",
+        "He fled from them",
+        "He defeated them",
+        "He forgave His executioners"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus prayed for the very men who crucified Him.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

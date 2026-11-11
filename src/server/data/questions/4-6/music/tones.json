@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "music",
+  "topic": "tones",
+  "title": "High and low",
+  "questions": [
+    {
+      "code": "4-MSC-TON-B-001",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "A high note sounds...",
+      "options": [
+        "Like a small bird",
+        "Like a big drum",
+        "Like thunder",
+        "Like a truck"
+      ],
+      "correctIndex": 0,
+      "explanation": "High notes sound light and sweet.",
+      "curriculumRef": "NERDC Nursery 2 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-B-002",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "Which has a low sound?",
+      "options": [
+        "A tiny bell",
+        "A big drum",
+        "A flute",
+        "A bird whistle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Big drums make low sounds.",
+      "curriculumRef": "NERDC Nursery 2 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-B-003",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What does loud mean?",
+      "options": [
+        "Soft sound",
+        "No sound",
+        "Strong sound",
+        "Slow music"
+      ],
+      "correctIndex": 2,
+      "explanation": "Loud means a strong, big sound.",
+      "curriculumRef": "NERDC Nursery 2 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-B-004",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What does soft mean?",
+      "options": [
+        "Loud sound",
+        "Fast sound",
+        "Hard sound",
+        "Quiet sound"
+      ],
+      "correctIndex": 3,
+      "explanation": "Soft means a quiet, gentle sound.",
+      "curriculumRef": "NERDC Nursery 2 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-B-005",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "Which makes a high sound?",
+      "options": [
+        "A whistle",
+        "A big drum",
+        "A lion's roar",
+        "A thunderclap"
+      ],
+      "correctIndex": 0,
+      "explanation": "A whistle makes a high sound.",
+      "curriculumRef": "NERDC Nursery 2 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-B-006",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "Which makes a low sound?",
+      "options": [
+        "A whistle",
+        "Thunder",
+        "A tiny bell",
+        "A flute"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thunder rumbles low.",
+      "curriculumRef": "NERDC Nursery 2 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-B-007",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "Which is quieter?",
+      "options": [
+        "A shout",
+        "A drum",
+        "A whisper",
+        "A horn"
+      ],
+      "correctIndex": 2,
+      "explanation": "A whisper is a very soft sound.",
+      "curriculumRef": "NERDC Nursery 2 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-B-008",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "Which is louder?",
+      "options": [
+        "A whisper",
+        "A sigh",
+        "A tiptoe",
+        "A drum beat"
+      ],
+      "correctIndex": 3,
+      "explanation": "A drum beat is loud.",
+      "curriculumRef": "NERDC Nursery 2 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-S-001",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "What does pitch mean?",
+      "options": [
+        "How high or low a sound is",
+        "How loud a sound is",
+        "How fast the music is",
+        "How many drums play"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pitch is how high or low a sound is.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-S-002",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "Which note is higher?",
+      "options": [
+        "The bass drum note",
+        "The flute note",
+        "The udu note",
+        "The big bell note"
+      ],
+      "correctIndex": 1,
+      "explanation": "The flute plays higher notes.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-S-003",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "What does forte mean?",
+      "options": [
+        "Soft",
+        "Fast",
+        "Loud",
+        "High"
+      ],
+      "correctIndex": 2,
+      "explanation": "Forte means loud in music.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-S-004",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "What does piano mean?",
+      "options": [
+        "Loud",
+        "Fast",
+        "High",
+        "Soft"
+      ],
+      "correctIndex": 3,
+      "explanation": "Piano means soft in music.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-S-005",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "Which bird sings high?",
+      "options": [
+        "A tiny bird",
+        "A big frog",
+        "A drum",
+        "A cow"
+      ],
+      "correctIndex": 0,
+      "explanation": "Small birds sing high notes.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-S-006",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "Which is higher, a flute or a drum?",
+      "options": [
+        "A drum",
+        "A flute",
+        "Both the same",
+        "Neither"
+      ],
+      "correctIndex": 1,
+      "explanation": "The flute is higher than a drum.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-S-007",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "What is a deep voice?",
+      "options": [
+        "A high voice",
+        "A loud voice",
+        "A low voice",
+        "A shrill voice"
+      ],
+      "correctIndex": 2,
+      "explanation": "Deep voices sing low notes.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-S-008",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "How do you sing softly?",
+      "options": [
+        "At full volume",
+        "Shouting",
+        "Screaming",
+        "In a whisper voice"
+      ],
+      "correctIndex": 3,
+      "explanation": "Singing softly uses a quiet voice.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-G-001",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "Which sign means soft music?",
+      "options": [
+        "Piano",
+        "Forte",
+        "Fast",
+        "Tempo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Piano tells us to play soft.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-G-002",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "Which sign means loud music?",
+      "options": [
+        "Piano",
+        "Forte",
+        "Slow",
+        "Soft"
+      ],
+      "correctIndex": 1,
+      "explanation": "Forte tells us to play loud.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-G-003",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "What makes a note sound high?",
+      "options": [
+        "Slow vibrations",
+        "Loud beating",
+        "Fast vibrations",
+        "Soft tapping"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fast vibrations make high sounds.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-G-004",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "Pitch tells us if sound is...",
+      "options": [
+        "Loud or soft",
+        "Fast or slow",
+        "Near or far",
+        "High or low"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pitch is about high and low.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-G-005",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "Which beast makes a low sound?",
+      "options": [
+        "A lion",
+        "A canary",
+        "A mouse",
+        "A sparrow"
+      ],
+      "correctIndex": 0,
+      "explanation": "A lion roars low and deep.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-G-006",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "Drummers play forte to be...",
+      "options": [
+        "Soft",
+        "Loud",
+        "Slow",
+        "Quiet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Forte means loud and strong.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-G-007",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "A whisper is like which sign?",
+      "options": [
+        "Forte",
+        "Fast",
+        "Piano",
+        "Tempo"
+      ],
+      "correctIndex": 2,
+      "explanation": "A whisper is soft, like piano.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-TON-G-008",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "Which one is loudest?",
+      "options": [
+        "A whisper",
+        "A soft flute",
+        "A quiet hum",
+        "A big owambe drum"
+      ],
+      "correctIndex": 3,
+      "explanation": "Owambe drums are played loud and strong.",
+      "curriculumRef": "NERDC Primary 1 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

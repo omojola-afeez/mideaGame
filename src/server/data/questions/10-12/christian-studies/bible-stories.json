@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "christian-studies",
+  "topic": "bible-stories",
+  "title": "Bible bridge",
+  "questions": [
+    {
+      "code": "10-CST-BIB-B-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who led the Israelites out of Egypt?",
+      "options": [
+        "Moses",
+        "Joshua",
+        "Aaron",
+        "Caleb"
+      ],
+      "correctIndex": 0,
+      "explanation": "God chose Moses to deliver His people from slavery.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-B-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "What was the first plague on Egypt?",
+      "options": [
+        "Frogs covered the land",
+        "Water turned to blood",
+        "Locusts ate the crops",
+        "Darkness covered the land"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Nile turned to blood, the first plague.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-B-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who was the strongest man in the book of Judges?",
+      "options": [
+        "Gideon",
+        "Barak",
+        "Samson",
+        "Jephthah"
+      ],
+      "correctIndex": 2,
+      "explanation": "Samson had great strength given by God.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-B-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who raised Samuel at Shiloh?",
+      "options": [
+        "Samuel himself",
+        "Nathan",
+        "Hilkiah",
+        "Eli the priest"
+      ],
+      "correctIndex": 3,
+      "explanation": "Samuel served under Eli, the old priest.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-B-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who struck down Goliath?",
+      "options": [
+        "David",
+        "Saul",
+        "Jonathan",
+        "Abner"
+      ],
+      "correctIndex": 0,
+      "explanation": "David defeated Goliath with a sling and faith in God.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-B-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "What did Nehemiah build again?",
+      "options": [
+        "The temple",
+        "The walls of Jerusalem",
+        "The palace",
+        "The gates of Babylon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nehemiah led the rebuilding of Jerusalem's walls.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-B-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Which king let the exiles return?",
+      "options": [
+        "Nebuchadnezzar",
+        "Darius",
+        "Cyrus",
+        "Pharaoh"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cyrus permitted the Jews to return and rebuild the temple.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-B-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who was thrown into the fiery furnace?",
+      "options": [
+        "Daniel and his friends",
+        "Esther and Mordecai",
+        "Jeremiah and Baruch",
+        "Shadrach, Meshach and Abednego"
+      ],
+      "correctIndex": 3,
+      "explanation": "God rescued the three friends who refused to bow to the idol.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-S-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Why did God send Joseph to Egypt ahead of his family?",
+      "options": [
+        "To store grain for the famine",
+        "To trade with Pharaoh",
+        "To learn Egyptian wisdom",
+        "To find a wife"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joseph's rise in Egypt prepared the way to save many lives.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-S-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "What does the Exodus story teach about God?",
+      "options": [
+        "God rewards the strong",
+        "God delivers His people",
+        "God avoids conflict",
+        "God needs armies"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Exodus shows God's power to rescue and redeem His people.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-S-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Why did David spare Saul in the cave?",
+      "options": [
+        "David was afraid of Saul",
+        "David had no weapon",
+        "Saul was God's anointed king",
+        "David was Saul's guest"
+      ],
+      "correctIndex": 2,
+      "explanation": "David refused to kill God's chosen king, trusting God's justice.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-S-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Why is the story of Ruth significant?",
+      "options": [
+        "She was the first queen",
+        "She built a temple",
+        "She led an army",
+        "She became an ancestor of Jesus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ruth, a Moabite, entered the line that led to David and Jesus.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-S-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "What does the story of Job teach?",
+      "options": [
+        "Trust God even in suffering",
+        "God causes all pain",
+        "Suffering means punishment",
+        "God is absent in trouble"
+      ],
+      "correctIndex": 0,
+      "explanation": "Job remained faithful, and God restored his fortunes.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-S-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Why did Jeremiah weep?",
+      "options": [
+        "He was often beaten",
+        "He grieved over his people's sin",
+        "He lost his family young",
+        "He was often ill"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jeremiah wept because the people refused to repent.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-S-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "What did Daniel's three friends refuse to do?",
+      "options": [
+        "Worship in the temple",
+        "Eat with the king",
+        "Bow to the golden image",
+        "Learn Babylonian"
+      ],
+      "correctIndex": 2,
+      "explanation": "They chose faithfulness even at the risk of death.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-S-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "What did God prove on Mount Carmel?",
+      "options": [
+        "Baal is stronger",
+        "Elijah is a god",
+        "Kings are chosen by gods",
+        "He alone is the true God"
+      ],
+      "correctIndex": 3,
+      "explanation": "God answered Elijah with fire, proving He alone is God.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-G-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "How does Joseph's life show God's sovereignty?",
+      "options": [
+        "God turned evil into good",
+        "Joseph planned every event",
+        "Pharaoh controlled all things",
+        "Fate ruled Egypt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joseph forgave his brothers, seeing God's hand in their evil.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-G-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "What does the Passover lamb point to?",
+      "options": [
+        "The temple sacrifice",
+        "Jesus, the Lamb of God",
+        "The tenth plague",
+        "The exodus journey"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Passover prefigured Jesus, who takes away the sin of the world.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-G-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "Why did Moses not enter Canaan?",
+      "options": [
+        "He died before the crossing",
+        "He feared the Canaanites",
+        "He struck the rock instead of speaking",
+        "He chose to stay behind"
+      ],
+      "correctIndex": 2,
+      "explanation": "Moses disobeyed at Meribah, so God barred him from Canaan.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-G-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "How did the walls of Jericho fall?",
+      "options": [
+        "By battering rams",
+        "By earthquake",
+        "By fire from heaven",
+        "By Israel's obedient march and shout"
+      ],
+      "correctIndex": 3,
+      "explanation": "God gave victory when the people obeyed His strange plan.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-G-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "What does the story of Jonah reveal?",
+      "options": [
+        "God's mercy reaches all who repent",
+        "God loves only Israel",
+        "Repentance is impossible",
+        "Prophets are never wrong"
+      ],
+      "correctIndex": 0,
+      "explanation": "God's mercy reached the Ninevites when they repented.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-G-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "How does the book of Esther show God's providence?",
+      "options": [
+        "Esther planned the rescue alone",
+        "Every event served God's purpose",
+        "The king loved justice",
+        "Mordecai knew the future"
+      ],
+      "correctIndex": 1,
+      "explanation": "From the palace to the king's favour, God worked to save His people.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-G-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "What is the central theme of the Exodus narrative?",
+      "options": [
+        "Warfare and conquest",
+        "Law and punishment",
+        "Redemption and covenant",
+        "Wealth and nationhood"
+      ],
+      "correctIndex": 2,
+      "explanation": "God redeemed His people and made covenant with them at Sinai.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-BIB-G-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "Why does the Old Testament point to Christ?",
+      "options": [
+        "It records history only",
+        "It is a law book alone",
+        "It ends with Malachi",
+        "It prepares for the Messiah"
+      ],
+      "correctIndex": 3,
+      "explanation": "God's plan for the Messiah unfolds through the whole Bible.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

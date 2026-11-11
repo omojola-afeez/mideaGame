@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "christian-studies",
+  "topic": "jesus",
+  "title": "Jesus journey",
+  "questions": [
+    {
+      "code": "7-CST-JES-B-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Where was Jesus born?",
+      "options": [
+        "Bethlehem",
+        "Nazareth",
+        "Jerusalem",
+        "Samaria"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus was born in Bethlehem, David's town.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-B-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Who raised Jesus as a boy?",
+      "options": [
+        "John",
+        "Joseph",
+        "Peter",
+        "Eli"
+      ],
+      "correctIndex": 1,
+      "explanation": "Joseph, a carpenter, raised Jesus in Nazareth.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-B-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Where did John dunk Jesus?",
+      "options": [
+        "The Nile",
+        "The Euphrates",
+        "The Jordan",
+        "The Tigris"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus was baptised in the River Jordan.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-B-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Who took Jesus to the river?",
+      "options": [
+        "Peter",
+        "John the apostle",
+        "James",
+        "John the Baptist"
+      ],
+      "correctIndex": 3,
+      "explanation": "John the Baptist baptised Jesus in the Jordan.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-B-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "How many men did Jesus choose?",
+      "options": [
+        "Twelve",
+        "Seven",
+        "Ten",
+        "Seventy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus chose twelve disciples to follow Him.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-B-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "What came down on Jesus at His baptism?",
+      "options": [
+        "Fire from heaven",
+        "The Spirit like a dove",
+        "Rain from the sky",
+        "Manna from heaven"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Holy Spirit descended on Jesus like a dove.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-B-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "What did Jesus feed five thousand with?",
+      "options": [
+        "Bread and soup",
+        "Rice and stew",
+        "Loaves and fish",
+        "Yam and vegetables"
+      ],
+      "correctIndex": 2,
+      "explanation": "Five loaves and two fish fed five thousand people.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-B-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Who walked on the sea?",
+      "options": [
+        "John",
+        "Thomas",
+        "Andrew",
+        "Peter"
+      ],
+      "correctIndex": 3,
+      "explanation": "Peter stepped out in faith and walked on the sea.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-S-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What is a parable?",
+      "options": [
+        "A simple story with a lesson",
+        "A song of praise",
+        "A law code",
+        "A funeral speech"
+      ],
+      "correctIndex": 0,
+      "explanation": "A parable teaches a spiritual truth with a simple story.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-S-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What does the kind stranger teach?",
+      "options": [
+        "Love your nation first",
+        "Love your neighbour",
+        "Avoid strangers",
+        "Help only family"
+      ],
+      "correctIndex": 1,
+      "explanation": "Love your neighbour, the Samaritan loved a stranger in need.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-S-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What does the lost sheep show about God?",
+      "options": [
+        "God abandons wanderers",
+        "God counts flocks",
+        "God seeks the lost",
+        "God fears wolves"
+      ],
+      "correctIndex": 2,
+      "explanation": "God rejoices over every sinner who returns to Him.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-S-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What does the prodigal son teach?",
+      "options": [
+        "God punishes rebels",
+        "Fathers are strict",
+        "Riches are evil",
+        "God forgives and welcomes"
+      ],
+      "correctIndex": 3,
+      "explanation": "The father welcomed his son home with love.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-S-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What did Jesus share at the Last Supper?",
+      "options": [
+        "Bread and wine",
+        "Fish and bread",
+        "Lamb and wine",
+        "Bread and oil"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus shared bread and wine with His disciples.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-S-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What did Jesus give the woman?",
+      "options": [
+        "Cool water",
+        "Living water",
+        "Salt water",
+        "Rain water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jesus offered her water that gives eternal life.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-S-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "How did Jesus heal people?",
+      "options": [
+        "He avoided the sick",
+        "He studied medicine",
+        "He healed the sick",
+        "He sent people to doctors"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus healed the sick to show God's love and power.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-S-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "Who is greatest in God's kingdom?",
+      "options": [
+        "The king",
+        "The judge",
+        "The rich man",
+        "The servant"
+      ],
+      "correctIndex": 3,
+      "explanation": "In God's kingdom, serving others is greatness.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-G-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What is the Sermon on the Mount?",
+      "options": [
+        "Jesus's teaching on kingdom living",
+        "Jesus's last will",
+        "Jesus's baptism speech",
+        "Jesus's prayer on the cross"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus taught how to live in God's kingdom on the mountain.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-G-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What does blessed are the meek mean?",
+      "options": [
+        "The strong inherit land",
+        "The humble are blessed",
+        "The proud are blessed",
+        "The rich are blessed"
+      ],
+      "correctIndex": 1,
+      "explanation": "God blesses those who are gentle and humble.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-G-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "Why did Jesus die on the cross?",
+      "options": [
+        "To start a revolution",
+        "To escape Rome",
+        "To save us from sin",
+        "To punish sinners"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus died to take the punishment for our sins.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-G-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What happened on the third day?",
+      "options": [
+        "The temple fell",
+        "The disciples fled",
+        "Rome conquered Judea",
+        "Jesus rose again"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus rose from the dead on the third day.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-G-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What does the rising prove?",
+      "options": [
+        "Jesus is the Son of God",
+        "The tomb was empty",
+        "The guards slept",
+        "The stone was moved"
+      ],
+      "correctIndex": 0,
+      "explanation": "The resurrection shows Jesus is the conquering Son of God.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-G-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What did Jesus say on worry?",
+      "options": [
+        "Worry if you are poor",
+        "Do not worry about tomorrow",
+        "Worry before every meal",
+        "Worry about dress"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jesus told us not to worry like the birds that are fed.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-G-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "Why did Jesus eat with outcasts?",
+      "options": [
+        "To gain followers",
+        "To avoid crowds",
+        "To show God loves all",
+        "To raise money"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus showed that God's love reaches every person.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-JES-G-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What is the golden rule?",
+      "options": [
+        "Do what others do to you",
+        "Do what leaders require",
+        "Do what is profitable",
+        "Do to others as you want"
+      ],
+      "correctIndex": 3,
+      "explanation": "Treat others as you wish to be treated.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

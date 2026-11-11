@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "music",
+  "topic": "instruments",
+  "title": "Instrument isle",
+  "questions": [
+    {
+      "code": "4-MSC-INS-B-001",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which is a drum?",
+      "options": [
+        "A drum",
+        "A guitar",
+        "A flute",
+        "A book"
+      ],
+      "correctIndex": 0,
+      "explanation": "A drum is hit to make sound.",
+      "curriculumRef": "NERDC Nursery 2 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-B-002",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which one is beaten?",
+      "options": [
+        "The guitar",
+        "The drum",
+        "The flute",
+        "The piano"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drums are beaten with hands or sticks.",
+      "curriculumRef": "NERDC Nursery 2 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-B-003",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "What has six strings?",
+      "options": [
+        "A drum",
+        "A flute",
+        "A guitar",
+        "A bell"
+      ],
+      "correctIndex": 2,
+      "explanation": "A guitar has six strings.",
+      "curriculumRef": "NERDC Nursery 2 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-B-004",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which one do we blow?",
+      "options": [
+        "A drum",
+        "A guitar",
+        "A piano",
+        "A flute"
+      ],
+      "correctIndex": 3,
+      "explanation": "We blow into a flute to make sound.",
+      "curriculumRef": "NERDC Nursery 2 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-B-005",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which one has black and white keys?",
+      "options": [
+        "A piano",
+        "A drum",
+        "A flute",
+        "A talking drum"
+      ],
+      "correctIndex": 0,
+      "explanation": "A piano has black and white keys.",
+      "curriculumRef": "NERDC Nursery 2 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-B-006",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "What plays highlife?",
+      "options": [
+        "A ruler",
+        "A guitar",
+        "A cup",
+        "A chair"
+      ],
+      "correctIndex": 1,
+      "explanation": "The guitar is common in highlife music.",
+      "curriculumRef": "NERDC Nursery 2 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-B-007",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "What do we press?",
+      "options": [
+        "The strings",
+        "The drum head",
+        "The keys",
+        "The bow"
+      ],
+      "correctIndex": 2,
+      "explanation": "We press the keys to play a keyboard.",
+      "curriculumRef": "NERDC Nursery 2 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-B-008",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which one is wooden with bars?",
+      "options": [
+        "A piano",
+        "A drum",
+        "A flute",
+        "A xylophone"
+      ],
+      "correctIndex": 3,
+      "explanation": "A xylophone has wooden bars you hit.",
+      "curriculumRef": "NERDC Nursery 2 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-S-001",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "Which drum can talk?",
+      "options": [
+        "The talking drum",
+        "A tin can",
+        "A cooking pot",
+        "A big bell"
+      ],
+      "correctIndex": 0,
+      "explanation": "The talking drum copies speech with its beat.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-S-002",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "Which one has strings?",
+      "options": [
+        "A flute",
+        "A guitar",
+        "A drum",
+        "A xylophone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Guitars make sound from strings.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-S-003",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "Which is blown to play?",
+      "options": [
+        "A drum",
+        "A guitar",
+        "A flute",
+        "A keyboard"
+      ],
+      "correctIndex": 2,
+      "explanation": "Flutes are wind instruments because we blow them.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-S-004",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "How is the udu played?",
+      "options": [
+        "By blowing it",
+        "By plucking strings",
+        "By pressing keys",
+        "By tapping the pot"
+      ],
+      "correctIndex": 3,
+      "explanation": "The udu is a clay pot drum you tap.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-S-005",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "Which plays high notes?",
+      "options": [
+        "A flute",
+        "A big drum",
+        "A bass drum",
+        "A udu"
+      ],
+      "correctIndex": 0,
+      "explanation": "A flute makes high sweet notes.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-S-006",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "What kind is a piano?",
+      "options": [
+        "Percussion",
+        "Keyboard",
+        "String",
+        "Wind"
+      ],
+      "correctIndex": 1,
+      "explanation": "A piano has keys, so it is a keyboard instrument.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-S-007",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "Which one do we beat?",
+      "options": [
+        "A violin",
+        "A flute",
+        "A drum",
+        "A trumpet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Percussion instruments are beaten or shaken.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-S-008",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "Which is from Naija?",
+      "options": [
+        "The piano",
+        "The violin",
+        "The harp",
+        "The talking drum"
+      ],
+      "correctIndex": 3,
+      "explanation": "The talking drum is a famous Nigerian drum.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-G-001",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "How is a talking drum made to talk?",
+      "options": [
+        "By beating and squeezing it",
+        "By blowing it",
+        "By plucking strings",
+        "By pressing keys"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pitch changes when the tension is squeezed.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-G-002",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "Which one uses strings?",
+      "options": [
+        "A drum",
+        "A guitar",
+        "A flute",
+        "An ekwe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Guitar strings are plucked to make sound.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-G-003",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "Which is a gourd shaker?",
+      "options": [
+        "A flute",
+        "A piano",
+        "A shekere",
+        "A guitar"
+      ],
+      "correctIndex": 2,
+      "explanation": "The shekere is a gourd covered in bead nets.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-G-004",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "Where did the ekwe come from?",
+      "options": [
+        "China",
+        "France",
+        "Egypt",
+        "Igbo land"
+      ],
+      "correctIndex": 3,
+      "explanation": "The ekwe is a wooden slit drum from Igbo land.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-G-005",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "Which one is struck, not blown?",
+      "options": [
+        "The udu",
+        "The flute",
+        "The whistle",
+        "The trumpet"
+      ],
+      "correctIndex": 0,
+      "explanation": "The udu is a clay pot you strike.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-G-006",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "Drums belong to which group?",
+      "options": [
+        "String",
+        "Percussion",
+        "Wind",
+        "Keyboard"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drums are percussion because they are struck.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-G-007",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "The gan gan is which kind of drum?",
+      "options": [
+        "A bass drum",
+        "A snare drum",
+        "A talking drum",
+        "A bongo"
+      ],
+      "correctIndex": 2,
+      "explanation": "The gan gan is the Yoruba talking drum.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MSC-INS-G-008",
+      "band": "4-6",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "Which one makes sound with keys?",
+      "options": [
+        "A drum",
+        "A flute",
+        "A shekere",
+        "A keyboard"
+      ],
+      "correctIndex": 3,
+      "explanation": "A keyboard makes sound when keys are pressed.",
+      "curriculumRef": "NERDC Primary 1 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "music",
+  "topic": "rhythm",
+  "title": "Rhythm ridge",
+  "questions": [
+    {
+      "code": "10-MSC-RYT-B-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What is a time signature?",
+      "options": [
+        "Numbers showing beats per bar",
+        "The key of the song",
+        "The loudness marking",
+        "The song title"
+      ],
+      "correctIndex": 0,
+      "explanation": "A time signature like 3/4 or 4/4 shows beats per bar.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-B-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What does 4/4 time mean?",
+      "options": [
+        "Four bars per song",
+        "Four beats per bar, quarter notes",
+        "Four drums per band",
+        "Four songs per album"
+      ],
+      "correctIndex": 1,
+      "explanation": "4/4: four quarter-note beats in every bar.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-B-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What is tempo?",
+      "options": [
+        "The loudness of music",
+        "The mood of music",
+        "The speed of the music",
+        "The length of a song"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tempo tells how fast or slow the music is played.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-B-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What is it when we stress the weak beats?",
+      "options": [
+        "A tempo marking",
+        "A loud crash",
+        "A rest symbol",
+        "Syncopation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Syncopation shifts accents to offbeats.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-B-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What does a rest mean in music?",
+      "options": [
+        "A measured silence",
+        "A loud crash",
+        "A fast note",
+        "A high note"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rests are silent, measured pauses in music.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-B-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "Which note gets one beat in 4/4?",
+      "options": [
+        "The half note",
+        "The quarter note",
+        "The whole note",
+        "The eighth note"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 4/4, a quarter note receives one beat.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-B-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What does slowing down in music mean?",
+      "options": [
+        "Accelerando",
+        "Allegro",
+        "Ritardando",
+        "Forte"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ritardando means gradually slowing down.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-B-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "bronze",
+      "text": "What does a dot after a note do?",
+      "options": [
+        "Halves the note",
+        "Doubles the pitch",
+        "Makes it silent",
+        "Adds half the note's length"
+      ],
+      "correctIndex": 3,
+      "explanation": "A dotted note lasts one and a half times its value.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-S-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "In 6/8 time, how many beats are felt per bar?",
+      "options": [
+        "Two dotted-quarter beats",
+        "Six even beats",
+        "Four beats",
+        "Three beats"
+      ],
+      "correctIndex": 0,
+      "explanation": "6/8 feels as two groups of three eighth notes.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-S-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What is the note before the first bar called?",
+      "options": [
+        "A final chord",
+        "An anacrusis (pickup note)",
+        "A repeated pattern",
+        "A loud crash"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anacrusis is the upbeat starting before bar one.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-S-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What does allegro mean?",
+      "options": [
+        "Slow and broad",
+        "Very soft",
+        "Fast and lively",
+        "Moderately"
+      ],
+      "correctIndex": 2,
+      "explanation": "Allegro means fast and lively.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-S-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "How many beats does a dotted half note get in 4/4?",
+      "options": [
+        "Two beats",
+        "Four beats",
+        "One beat",
+        "Three beats"
+      ],
+      "correctIndex": 3,
+      "explanation": "A dotted half note: two beats plus one beat for the dot.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-S-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What is a polyrhythm?",
+      "options": [
+        "Two or more rhythms at once",
+        "One rhythm played twice",
+        "No rhythm",
+        "A slow rhythm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Polyrhythm layers different rhythmic patterns simultaneously.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-S-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What pattern do Afrobeats use?",
+      "options": [
+        "Only triangle hits",
+        "Kick, snare and hi-hat grooves",
+        "Only silence",
+        "Single cowbell hits"
+      ],
+      "correctIndex": 1,
+      "explanation": "Afrobeats builds from layered drum machine grooves.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-S-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What does swing mean in jazz rhythm?",
+      "options": [
+        "Perfectly even eighths",
+        "All notes dotted",
+        "Eighth notes played unevenly",
+        "No eighth notes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Swing lilts pairs of eighth notes unevenly.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-S-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "silver",
+      "text": "What does the agogo bell do in West African drumming?",
+      "options": [
+        "It signals the end",
+        "It plays the melody",
+        "It drowns the drums",
+        "It marks the bell pattern timeline"
+      ],
+      "correctIndex": 3,
+      "explanation": "The agogo bell keeps the timeline pattern.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-G-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What is the difference between simple and compound time?",
+      "options": [
+        "Simple beats divide by two; compound by three",
+        "Simple is slow, compound is fast",
+        "Simple uses dots, compound uses rests",
+        "No difference"
+      ],
+      "correctIndex": 0,
+      "explanation": "Simple time divides beats in two; compound time divides them in three.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-G-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "In 12/8, how many beats per bar does the conductor feel?",
+      "options": [
+        "Twelve even beats",
+        "Four dotted-quarter beats",
+        "Six beats",
+        "Three beats"
+      ],
+      "correctIndex": 1,
+      "explanation": "12/8 groups into four beats, each of three eighths.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-G-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What does rubato mean?",
+      "options": [
+        "Strict, rigid timing",
+        "Very loud playing",
+        "Flexible tempo for expression",
+        "Silent rests"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rubato stretches or squeezes tempo freely.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-G-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "How does the Yoruba talking drum encode tonal speech?",
+      "options": [
+        "By hitting harder",
+        "By playing faster",
+        "By adding beads",
+        "By matching pitch glides with squeezed tension"
+      ],
+      "correctIndex": 3,
+      "explanation": "Squeezing the ropes bends pitch to mimic speech tones.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-G-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What makes Afrobeat feel dance-friendly?",
+      "options": [
+        "Interlocking grooves with a steady pulse",
+        "No pulse at all",
+        "Only slow ballads",
+        "Random note crashes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Afrobeat locks layered grooves to a steady pulse.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-G-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What is cross-rhythm?",
+      "options": [
+        "A very loud rhythm",
+        "Conflicting accent patterns played together",
+        "A rhythm in another key",
+        "Silent bars"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cross-rhythm pits two patterns' accents against each other.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-G-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "What is an additive rhythm?",
+      "options": [
+        "Only 4/4",
+        "Only straight eighths",
+        "Uneven groupings like 2+3",
+        "Only dotted notes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Additive rhythm builds bars from short unequal groups.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-RYT-G-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "rhythm",
+      "level": "gold",
+      "text": "How would you transcribe a standard Afrobeat kick pattern?",
+      "options": [
+        "A single hit per bar",
+        "No kick pattern",
+        "Random kicks only",
+        "Steady four on the floor with offbeat accents"
+      ],
+      "correctIndex": 3,
+      "explanation": "Afrobeat keeps a steady pulse with syncopated accents layered above.",
+      "curriculumRef": "NERDC Primary 5 Music, rhythm and beats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

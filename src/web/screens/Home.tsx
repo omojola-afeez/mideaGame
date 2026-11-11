@@ -5,7 +5,15 @@ import { game, useGame } from "../lib/store";
 import { progressStore, totalStars, useProgress } from "../lib/progress";
 import { Avatar, WaveMark } from "../components/ui";
 
-export function Home({ onGrownups }: { onGrownups: () => void }) {
+export function Home({
+  onGrownups,
+  offline = false,
+  onOfflineStart,
+}: {
+  onGrownups: () => void;
+  offline?: boolean;
+  onOfflineStart?: () => void;
+}) {
   const { status, error, notice } = useGame();
   const { progress } = useProgress();
   const [name, setName] = useState(progress.profile.nickname || makeNickname());
@@ -34,6 +42,11 @@ export function Home({ onGrownups }: { onGrownups: () => void }) {
     setNameError(null);
     progressStore.setBand(band);
     progressStore.setProfile(parsed.data, avatar);
+    if (offline) {
+      // No connection? Skip matchmaking and open the offline map.
+      onOfflineStart?.();
+      return;
+    }
     await game.start(parsed.data, avatar);
   }
 
@@ -67,7 +80,7 @@ export function Home({ onGrownups }: { onGrownups: () => void }) {
         <details className="mt-6 max-w-md rounded-2xl border border-edge bg-panel/60 p-4">
           <summary className="cursor-pointer font-display text-lg font-bold">How it works</summary>
           <ul className="mt-3 list-disc space-y-2 pl-5 text-muted">
-            <li>Choose a subject on the map: English, Maths, Code and AI, Science, Home Economics, Social Studies or Arabic.</li>
+            <li>Choose a subject on the map: English, Maths, Code and AI, Science, Home Economics, Social Studies, Arabic, Christian Studies or Music.</li>
             <li>Each round has eight questions. Some are return visits to ones you missed.</li>
             <li>Read the short reason after each answer. It is the part that helps you remember.</li>
             <li>Stars show how well you did. Coins add up as you finish rounds.</li>
@@ -127,7 +140,7 @@ export function Home({ onGrownups }: { onGrownups: () => void }) {
                 type="button"
                 className="btn btn-ghost shrink-0 !px-3"
                 onClick={() => setName(makeNickname())}
-                aria-label="Make a new nickname"
+                aria-label="Shuffle"
               >
                 Shuffle
               </button>
@@ -145,7 +158,7 @@ export function Home({ onGrownups }: { onGrownups: () => void }) {
 
           <fieldset>
             <legend className="mb-2 font-display font-bold">Pick an animal</legend>
-            <div className="grid grid-cols-6 gap-2">
+            <div className="grid grid-cols-4 gap-2 sm:grid-cols-6">
               {AVATARS.map((a, i) => (
                 <button
                   type="button"
@@ -164,8 +177,13 @@ export function Home({ onGrownups }: { onGrownups: () => void }) {
           </fieldset>
 
           <button className="btn btn-primary w-full text-lg" disabled={busy} type="submit">
-            {busy ? "Opening the map..." : returning ? "Keep playing" : "Start playing"}
+            {busy ? "Opening the map..." : offline ? "Start playing offline" : returning ? "Keep playing" : "Start playing"}
           </button>
+          {offline && (
+            <p className="rounded-xl border border-edge bg-panel/50 p-3 text-center text-xs text-muted">
+              You are offline. Everything still works — your progress is saved on this device.
+            </p>
+          )}
         </form>
 
         <p className="mt-4 text-center text-xs text-muted">

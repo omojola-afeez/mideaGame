@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "music",
+  "topic": "songs",
+  "title": "Song shore",
+  "questions": [
+    {
+      "code": "10-MSC-SNG-B-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What does a cappella mean?",
+      "options": [
+        "Singing without instruments",
+        "Singing with drums",
+        "Singing while dancing",
+        "Singing off-key"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cappella means voices only, no instruments.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-B-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What is a choir?",
+      "options": [
+        "A type of drum ensemble",
+        "A group of trained singers",
+        "A dance troupe",
+        "A brass band"
+      ],
+      "correctIndex": 1,
+      "explanation": "A choir is an organized singing group.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-B-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What is a hymn?",
+      "options": [
+        "A pop hit",
+        "A protest song",
+        "A song of religious praise",
+        "A lullaby"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hymns are songs of worship, often in church.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-B-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What is call and response?",
+      "options": [
+        "Everyone sings alone",
+        "A silent performance",
+        "Two choirs shouting",
+        "A leader calls, the group answers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Call and response alternates leader and group phrases.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-B-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What is Afrobeats?",
+      "options": [
+        "A fusion of West African rhythms and global beats",
+        "A slow hymn style",
+        "An Italian opera form",
+        "A lullaby genre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Afrobeats blends Nigerian rhythms with global pop.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-B-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What is the purpose of an owambe song?",
+      "options": [
+        "To mourn the dead",
+        "To celebrate at parties",
+        "To teach maths",
+        "To sell goods"
+      ],
+      "correctIndex": 1,
+      "explanation": "Owambe songs celebrate joy at parties.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-B-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What is a soloist?",
+      "options": [
+        "The whole choir together",
+        "A drummer",
+        "A singer performing alone",
+        "An audience member"
+      ],
+      "correctIndex": 2,
+      "explanation": "A soloist performs alone, sometimes with support.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-B-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "bronze",
+      "text": "What is a national anthem?",
+      "options": [
+        "A church hymn",
+        "A birthday song",
+        "A school play song",
+        "The official song of a nation"
+      ],
+      "correctIndex": 3,
+      "explanation": "The national anthem represents a country's identity.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-S-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "What is harmony in singing?",
+      "options": [
+        "Multiple notes blending together",
+        "One note sung loudly",
+        "Silence between songs",
+        "A fast rhythm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Harmony layers different pitches to enrich the sound.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-S-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "What is the difference between a choir and an ensemble?",
+      "options": [
+        "They are the same thing",
+        "A choir is voice-only; ensemble mixes instruments",
+        "A choir uses only drums",
+        "An ensemble never sings"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ensembles can mix voices and instruments freely.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-S-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "How did highlife spread across West Africa?",
+      "options": [
+        "Through written letters only",
+        "Through churches only",
+        "Through Ghana-Nigeria touring bands and radio",
+        "Through schools only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Highlife spread via dance bands, records and radio.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-S-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "What is the role of the choir director?",
+      "options": [
+        "Sells the tickets",
+        "Plays the piano only",
+        "Writes the lyrics",
+        "Leads tempo, dynamics and entry cues"
+      ],
+      "correctIndex": 3,
+      "explanation": "The director cues entries, tempo and dynamics.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-S-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "What does a cappella rely on?",
+      "options": [
+        "Vocal rhythm, harmony and blend",
+        "Loud amplifiers",
+        "Drum backing",
+        "Keyboards"
+      ],
+      "correctIndex": 0,
+      "explanation": "Without instruments, singers supply rhythm and harmony.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-S-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "Why do gospel choirs repeat refrains?",
+      "options": [
+        "For no musical reason",
+        "So the whole congregation can join",
+        "To end quickly",
+        "To show off voices"
+      ],
+      "correctIndex": 1,
+      "explanation": "Repeated refrains invite everyone to sing along.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-S-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "What are oriki songs?",
+      "options": [
+        "Lullabies",
+        "War chants",
+        "Praise poetry songs",
+        "Wedding marches"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oriki are praise poems sung for people or places.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-S-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "silver",
+      "text": "What is the call-and-response pattern rooted in?",
+      "options": [
+        "European opera",
+        "American rap only",
+        "Chinese opera",
+        "African communal singing traditions"
+      ],
+      "correctIndex": 3,
+      "explanation": "Call and response echoes African oral tradition.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-G-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "How did Fela Kuti shape Afrobeat?",
+      "options": [
+        "Fused highlife, jazz and funk into political grooves",
+        "Invented classical notation",
+        "Composed church hymns",
+        "Rejected all rhythm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fela blended highlife, jazz and funk into Afrobeat.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-G-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "What role did brass bands play in Nigerian highlife?",
+      "options": [
+        "Performed only at funerals",
+        "Added dance-hall excitement and swing",
+        "Replaced string players",
+        "Played silent marches"
+      ],
+      "correctIndex": 1,
+      "explanation": "Highlife brass sections drove the dance floor energy.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-G-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "What is owambe music rooted in?",
+      "options": [
+        "British ballroom",
+        "Chinese opera",
+        "Yoruba feasting and party culture",
+        "French chanson"
+      ],
+      "correctIndex": 2,
+      "explanation": "Owambe draws from Yoruba feast celebration traditions.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-G-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "Why is the national anthem sung in English?",
+      "options": [
+        "Because it was written in Latin",
+        "As a joke",
+        "Only for tourists",
+        "As a unifying official language"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria uses English as its official tongue.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-G-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "How do griots pass history through song?",
+      "options": [
+        "By singing praise genealogies from memory",
+        "By writing textbooks",
+        "By dancing only",
+        "By drumming silently"
+      ],
+      "correctIndex": 0,
+      "explanation": "Griots memorize and sing lineages across generations.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-G-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "What is the bell pattern in West African drumming?",
+      "options": [
+        "A random fill",
+        "A repeating timeline ostinato that anchors the ensemble",
+        "A solo break",
+        "A closing chord"
+      ],
+      "correctIndex": 1,
+      "explanation": "The bell holds the repeating timeline for the ensemble.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-G-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "Why do hymns help groups sing together?",
+      "options": [
+        "Complex solo arias",
+        "Silent meditation",
+        "Simple tunes everyone can learn",
+        "Fast rap flows"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hymn tunes stay simple so all can join in.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-SNG-G-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "songs",
+      "level": "gold",
+      "text": "What did Fela sing about?",
+      "options": [
+        "It avoided all issues",
+        "It praised the army",
+        "It banned instruments",
+        "It criticized power through dance music"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fela turned dance beats into protest.",
+      "curriculumRef": "NERDC Primary 5 Music, songs and singing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "christian-studies",
+  "topic": "commandments",
+  "title": "Commandment coast",
+  "questions": [
+    {
+      "code": "4-CST-GOD-B-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Who made the ten rules?",
+      "options": [
+        "God",
+        "Moses",
+        "Abraham",
+        "David"
+      ],
+      "correctIndex": 0,
+      "explanation": "God gave the people ten rules.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-B-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Who got the rules?",
+      "options": [
+        "Aaron",
+        "Moses",
+        "Joshua",
+        "Caleb"
+      ],
+      "correctIndex": 1,
+      "explanation": "God gave the rules to Moses.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-B-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Whom must we love first?",
+      "options": [
+        "Our friends",
+        "Ourselves",
+        "God",
+        "Our teachers"
+      ],
+      "correctIndex": 2,
+      "explanation": "We must love God with all we are.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-B-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Is it right to steal?",
+      "options": [
+        "Yes, when poor",
+        "Yes, at market",
+        "Yes, on Sundays",
+        "No, it is not"
+      ],
+      "correctIndex": 3,
+      "explanation": "Stealing hurts others and angers God.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-B-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Is it right to lie?",
+      "options": [
+        "No, never",
+        "Yes, sometimes",
+        "Yes, to friends",
+        "Yes, at school"
+      ],
+      "correctIndex": 0,
+      "explanation": "God wants us to tell the truth.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-B-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Whom must we honour?",
+      "options": [
+        "Our rivals",
+        "Our parents",
+        "Nobody",
+        "Only rich people"
+      ],
+      "correctIndex": 1,
+      "explanation": "God tells us to honour our parents.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-B-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Is it right to kill?",
+      "options": [
+        "Sometimes",
+        "Yes, when angry",
+        "No, never",
+        "Yes, in war"
+      ],
+      "correctIndex": 2,
+      "explanation": "Every life is precious to God.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-B-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "How many laws did God give?",
+      "options": [
+        "Five",
+        "Twelve",
+        "One hundred",
+        "Ten"
+      ],
+      "correctIndex": 3,
+      "explanation": "God gave ten rules on stone.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-S-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "Which rule is about God's name?",
+      "options": [
+        "Do not misuse it",
+        "Do not say it",
+        "Do not know it",
+        "Do not sing it"
+      ],
+      "correctIndex": 0,
+      "explanation": "We must use God's name with respect.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-S-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "Which day must we keep holy?",
+      "options": [
+        "The first day",
+        "The seventh day",
+        "The fifth day",
+        "Every day"
+      ],
+      "correctIndex": 1,
+      "explanation": "God rested on the seventh day.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-S-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What does the eighth rule forbid?",
+      "options": [
+        "Lying",
+        "Working",
+        "Stealing",
+        "Singing"
+      ],
+      "correctIndex": 2,
+      "explanation": "The eighth rule says do not steal.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-S-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What does the ninth rule forbid?",
+      "options": [
+        "Working",
+        "Eating",
+        "Running",
+        "Lying"
+      ],
+      "correctIndex": 3,
+      "explanation": "The ninth rule says do not lie about others.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-S-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What must we do for parents?",
+      "options": [
+        "Honour them",
+        "Ignore them",
+        "Fear them",
+        "Beat them"
+      ],
+      "correctIndex": 0,
+      "explanation": "God tells us to honour our parents.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-S-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "On what were the laws written?",
+      "options": [
+        "One",
+        "Two tablets",
+        "Three",
+        "Seven"
+      ],
+      "correctIndex": 1,
+      "explanation": "God wrote the rules on two tablets.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-S-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What is the greatest rule?",
+      "options": [
+        "Work hard",
+        "Eat well",
+        "Love God",
+        "Obey the king"
+      ],
+      "correctIndex": 2,
+      "explanation": "Love God with all your heart.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-S-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What is the second great law?",
+      "options": [
+        "Fear your neighbour",
+        "Ignore your neighbour",
+        "Beat your neighbour",
+        "Love your neighbour"
+      ],
+      "correctIndex": 3,
+      "explanation": "Love your neighbour as yourself.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-G-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Why did God give us rules?",
+      "options": [
+        "To guide us",
+        "To control us",
+        "To frighten us",
+        "To test us"
+      ],
+      "correctIndex": 0,
+      "explanation": "God's rules show us the right path.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-G-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Is it wrong to want what others have?",
+      "options": [
+        "No, it is fine",
+        "Yes, it is wrong",
+        "Only sometimes",
+        "Only at night"
+      ],
+      "correctIndex": 1,
+      "explanation": "We should be happy with what we have.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-G-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Why respect God's name?",
+      "options": [
+        "It is old",
+        "It is short",
+        "It is holy",
+        "It is English"
+      ],
+      "correctIndex": 2,
+      "explanation": "God's name is holy and deserves respect.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-G-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Why must we tell the truth?",
+      "options": [
+        "It is cheaper",
+        "It is easier",
+        "It is fun",
+        "God loves truth"
+      ],
+      "correctIndex": 3,
+      "explanation": "God is truth, so we must be honest.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-G-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Why do we obey them?",
+      "options": [
+        "God commands it",
+        "To get gifts",
+        "To look good",
+        "To win praise"
+      ],
+      "correctIndex": 0,
+      "explanation": "God commands us to honour our parents.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-G-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "How should we treat people?",
+      "options": [
+        "As they deserve",
+        "As we like to be treated",
+        "As they pay us",
+        "As they ask us"
+      ],
+      "correctIndex": 1,
+      "explanation": "Treat others how you want to be treated.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-G-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Where did Moses get the laws?",
+      "options": [
+        "In Egypt",
+        "In the ark",
+        "On Mount Sinai",
+        "In the desert"
+      ],
+      "correctIndex": 2,
+      "explanation": "God gave Moses the rules on Sinai.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-GOD-G-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Why live by God's rules?",
+      "options": [
+        "They save money",
+        "They win fights",
+        "They impress friends",
+        "They make life good"
+      ],
+      "correctIndex": 3,
+      "explanation": "God's rules help us live well together.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

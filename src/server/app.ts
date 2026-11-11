@@ -79,6 +79,12 @@ export async function startServer(opts: StartOptions): Promise<Running> {
       app.disable("x-powered-by");
       app.use(express.json({ limit: "4kb" }));
 
+      app.get("/robots.txt", (_req, res) => {
+        res.type("text/plain").send("User-agent: *\nAllow: /\n\nSitemap: https://mideagame.onrender.com/sitemap.xml\n");
+      });
+      app.get("/sitemap.xml", (_req, res) => {
+        res.type("application/xml").send("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://mideagame.onrender.com/</loc><priority>1.0</priority></url>\n</urlset>\n");
+      });
       app.get("/healthz", (_req, res) => {
         res.json({ ok: true });
       });

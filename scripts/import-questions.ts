@@ -39,6 +39,8 @@ const FOLDER: Record<SubjectId, string> = {
   "home-economics": "home-economics",
   "social-studies": "social-studies",
   arabic: "arabic",
+  "christian-studies": "christian-studies",
+  music: "music",
   "code-ai": "code-ai",
 };
 

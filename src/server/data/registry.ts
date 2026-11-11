@@ -2,6 +2,10 @@ import file_10_12_arabic_arabic_alphabet from "./questions/10-12/arabic/arabic-a
 import file_10_12_arabic_arabic_numbers from "./questions/10-12/arabic/arabic-numbers.json";
 import file_10_12_arabic_arabic_reading from "./questions/10-12/arabic/arabic-reading.json";
 import file_10_12_arabic_arabic_words from "./questions/10-12/arabic/arabic-words.json";
+import file_10_12_christian_studies_bible_stories from "./questions/10-12/christian-studies/bible-stories.json";
+import file_10_12_christian_studies_commandments from "./questions/10-12/christian-studies/commandments.json";
+import file_10_12_christian_studies_jesus from "./questions/10-12/christian-studies/jesus.json";
+import file_10_12_christian_studies_worship from "./questions/10-12/christian-studies/worship.json";
 import file_10_12_code_ai_code_and_ai from "./questions/10-12/code-ai/code-and-ai.json";
 import file_10_12_english_comprehension from "./questions/10-12/english/comprehension.json";
 import file_10_12_english_figures from "./questions/10-12/english/figures.json";
@@ -22,6 +26,10 @@ import file_10_12_mathematics_measurement from "./questions/10-12/mathematics/me
 import file_10_12_mathematics_money_data from "./questions/10-12/mathematics/money-data.json";
 import file_10_12_mathematics_muldiv from "./questions/10-12/mathematics/muldiv.json";
 import file_10_12_mathematics_number from "./questions/10-12/mathematics/number.json";
+import file_10_12_music_instruments from "./questions/10-12/music/instruments.json";
+import file_10_12_music_rhythm from "./questions/10-12/music/rhythm.json";
+import file_10_12_music_songs from "./questions/10-12/music/songs.json";
+import file_10_12_music_tones from "./questions/10-12/music/tones.json";
 import file_10_12_science_body_health from "./questions/10-12/science/body-health.json";
 import file_10_12_science_earth_space from "./questions/10-12/science/earth-space.json";
 import file_10_12_science_energy from "./questions/10-12/science/energy.json";
@@ -35,6 +43,10 @@ import file_4_6_arabic_arabic_alphabet from "./questions/4-6/arabic/arabic-alpha
 import file_4_6_arabic_arabic_numbers from "./questions/4-6/arabic/arabic-numbers.json";
 import file_4_6_arabic_arabic_reading from "./questions/4-6/arabic/arabic-reading.json";
 import file_4_6_arabic_arabic_words from "./questions/4-6/arabic/arabic-words.json";
+import file_4_6_christian_studies_bible_stories from "./questions/4-6/christian-studies/bible-stories.json";
+import file_4_6_christian_studies_commandments from "./questions/4-6/christian-studies/commandments.json";
+import file_4_6_christian_studies_jesus from "./questions/4-6/christian-studies/jesus.json";
+import file_4_6_christian_studies_worship from "./questions/4-6/christian-studies/worship.json";
 import file_4_6_code_ai_code_and_ai from "./questions/4-6/code-ai/code-and-ai.json";
 import file_4_6_english_comprehension from "./questions/4-6/english/comprehension.json";
 import file_4_6_english_figures from "./questions/4-6/english/figures.json";
@@ -55,6 +67,10 @@ import file_4_6_mathematics_measurement from "./questions/4-6/mathematics/measur
 import file_4_6_mathematics_money_data from "./questions/4-6/mathematics/money-data.json";
 import file_4_6_mathematics_muldiv from "./questions/4-6/mathematics/muldiv.json";
 import file_4_6_mathematics_number from "./questions/4-6/mathematics/number.json";
+import file_4_6_music_instruments from "./questions/4-6/music/instruments.json";
+import file_4_6_music_rhythm from "./questions/4-6/music/rhythm.json";
+import file_4_6_music_songs from "./questions/4-6/music/songs.json";
+import file_4_6_music_tones from "./questions/4-6/music/tones.json";
 import file_4_6_science_body_health from "./questions/4-6/science/body-health.json";
 import file_4_6_science_earth_space from "./questions/4-6/science/earth-space.json";
 import file_4_6_science_energy from "./questions/4-6/science/energy.json";
@@ -68,6 +84,10 @@ import file_7_9_arabic_arabic_alphabet from "./questions/7-9/arabic/arabic-alpha
 import file_7_9_arabic_arabic_numbers from "./questions/7-9/arabic/arabic-numbers.json";
 import file_7_9_arabic_arabic_reading from "./questions/7-9/arabic/arabic-reading.json";
 import file_7_9_arabic_arabic_words from "./questions/7-9/arabic/arabic-words.json";
+import file_7_9_christian_studies_bible_stories from "./questions/7-9/christian-studies/bible-stories.json";
+import file_7_9_christian_studies_commandments from "./questions/7-9/christian-studies/commandments.json";
+import file_7_9_christian_studies_jesus from "./questions/7-9/christian-studies/jesus.json";
+import file_7_9_christian_studies_worship from "./questions/7-9/christian-studies/worship.json";
 import file_7_9_code_ai_code_and_ai from "./questions/7-9/code-ai/code-and-ai.json";
 import file_7_9_english_comprehension from "./questions/7-9/english/comprehension.json";
 import file_7_9_english_figures from "./questions/7-9/english/figures.json";
@@ -88,6 +108,10 @@ import file_7_9_mathematics_measurement from "./questions/7-9/mathematics/measur
 import file_7_9_mathematics_money_data from "./questions/7-9/mathematics/money-data.json";
 import file_7_9_mathematics_muldiv from "./questions/7-9/mathematics/muldiv.json";
 import file_7_9_mathematics_number from "./questions/7-9/mathematics/number.json";
+import file_7_9_music_instruments from "./questions/7-9/music/instruments.json";
+import file_7_9_music_rhythm from "./questions/7-9/music/rhythm.json";
+import file_7_9_music_songs from "./questions/7-9/music/songs.json";
+import file_7_9_music_tones from "./questions/7-9/music/tones.json";
 import file_7_9_science_body_health from "./questions/7-9/science/body-health.json";
 import file_7_9_science_earth_space from "./questions/7-9/science/earth-space.json";
 import file_7_9_science_energy from "./questions/7-9/science/energy.json";
@@ -105,6 +129,10 @@ export const TOPIC_FILES = [
   file_10_12_arabic_arabic_numbers,
   file_10_12_arabic_arabic_reading,
   file_10_12_arabic_arabic_words,
+  file_10_12_christian_studies_bible_stories,
+  file_10_12_christian_studies_commandments,
+  file_10_12_christian_studies_jesus,
+  file_10_12_christian_studies_worship,
   file_10_12_code_ai_code_and_ai,
   file_10_12_english_comprehension,
   file_10_12_english_figures,
@@ -125,6 +153,10 @@ export const TOPIC_FILES = [
   file_10_12_mathematics_money_data,
   file_10_12_mathematics_muldiv,
   file_10_12_mathematics_number,
+  file_10_12_music_instruments,
+  file_10_12_music_rhythm,
+  file_10_12_music_songs,
+  file_10_12_music_tones,
   file_10_12_science_body_health,
   file_10_12_science_earth_space,
   file_10_12_science_energy,
@@ -138,6 +170,10 @@ export const TOPIC_FILES = [
   file_4_6_arabic_arabic_numbers,
   file_4_6_arabic_arabic_reading,
   file_4_6_arabic_arabic_words,
+  file_4_6_christian_studies_bible_stories,
+  file_4_6_christian_studies_commandments,
+  file_4_6_christian_studies_jesus,
+  file_4_6_christian_studies_worship,
   file_4_6_code_ai_code_and_ai,
   file_4_6_english_comprehension,
   file_4_6_english_figures,
@@ -158,6 +194,10 @@ export const TOPIC_FILES = [
   file_4_6_mathematics_money_data,
   file_4_6_mathematics_muldiv,
   file_4_6_mathematics_number,
+  file_4_6_music_instruments,
+  file_4_6_music_rhythm,
+  file_4_6_music_songs,
+  file_4_6_music_tones,
   file_4_6_science_body_health,
   file_4_6_science_earth_space,
   file_4_6_science_energy,
@@ -171,6 +211,10 @@ export const TOPIC_FILES = [
   file_7_9_arabic_arabic_numbers,
   file_7_9_arabic_arabic_reading,
   file_7_9_arabic_arabic_words,
+  file_7_9_christian_studies_bible_stories,
+  file_7_9_christian_studies_commandments,
+  file_7_9_christian_studies_jesus,
+  file_7_9_christian_studies_worship,
   file_7_9_code_ai_code_and_ai,
   file_7_9_english_comprehension,
   file_7_9_english_figures,
@@ -191,6 +235,10 @@ export const TOPIC_FILES = [
   file_7_9_mathematics_money_data,
   file_7_9_mathematics_muldiv,
   file_7_9_mathematics_number,
+  file_7_9_music_instruments,
+  file_7_9_music_rhythm,
+  file_7_9_music_songs,
+  file_7_9_music_tones,
   file_7_9_science_body_health,
   file_7_9_science_earth_space,
   file_7_9_science_energy,

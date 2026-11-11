@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "music",
+  "topic": "instruments",
+  "title": "Instrument isle",
+  "questions": [
+    {
+      "code": "10-MSC-INS-B-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "What family does the violin belong to?",
+      "options": [
+        "String",
+        "Wind",
+        "Percussion",
+        "Keyboard"
+      ],
+      "correctIndex": 0,
+      "explanation": "Violins are bowed string instruments.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-B-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "What family does the trumpet belong to?",
+      "options": [
+        "Strings",
+        "Brass",
+        "Woodwind",
+        "Percussion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trumpets are brass wind instruments.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-B-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "What is the largest standard string instrument?",
+      "options": [
+        "Violin",
+        "Viola",
+        "Double bass",
+        "Cello"
+      ],
+      "correctIndex": 2,
+      "explanation": "The double bass is the largest common string instrument.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-B-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which Nigerian instrument is a clay pot?",
+      "options": [
+        "The ekwe",
+        "The shekere",
+        "The agogo",
+        "The udu"
+      ],
+      "correctIndex": 3,
+      "explanation": "The udu is an Igbo clay pot drum.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-B-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "How is the ekwe played?",
+      "options": [
+        "Struck with sticks on a slit drum",
+        "Blown across the top",
+        "Plucked like a guitar",
+        "Pressed with fingers"
+      ],
+      "correctIndex": 0,
+      "explanation": "The ekwe is a carved wooden slit drum struck with sticks.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-B-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "The xylophone belongs to which group?",
+      "options": [
+        "Strings",
+        "Percussion",
+        "Woodwind",
+        "Brass"
+      ],
+      "correctIndex": 1,
+      "explanation": "The xylophone is struck, making it percussion.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-B-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "What does a piano use to make sound?",
+      "options": [
+        "Wind through pipes",
+        "Beads in a gourd",
+        "Felt hammers striking strings",
+        "Skin stretched over wood"
+      ],
+      "correctIndex": 2,
+      "explanation": "Piano keys trigger felt hammers that strike strings.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-B-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "bronze",
+      "text": "Which of these is a woodwind?",
+      "options": [
+        "The drum",
+        "The violin",
+        "The harp",
+        "The flute"
+      ],
+      "correctIndex": 3,
+      "explanation": "The flute is a woodwind instrument despite being metal.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-S-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "How does the talking drum change its pitch?",
+      "options": [
+        "By squeezing its laced tension ropes",
+        "By pressing keys",
+        "By plucking strings",
+        "By blowing harder"
+      ],
+      "correctIndex": 0,
+      "explanation": "Squeezing the ropes tightens the drumhead, raising pitch.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-S-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "What is the shekere?",
+      "options": [
+        "A clay pot drum",
+        "A gourd shaker covered in bead net",
+        "A wooden slit drum",
+        "A brass bell"
+      ],
+      "correctIndex": 1,
+      "explanation": "The shekere is shaken to rattle its bead net.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-S-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "What is the agogo?",
+      "options": [
+        "A large talking drum",
+        "A clay whistle",
+        "A double bell used as a timeline",
+        "A string instrument"
+      ],
+      "correctIndex": 2,
+      "explanation": "The agogo bell holds the underlying timeline pattern.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-S-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "How does percussion differ from strings?",
+      "options": [
+        "Strings are blown",
+        "Percussion has keys",
+        "Strings are hit",
+        "Percussion is struck or shaken"
+      ],
+      "correctIndex": 3,
+      "explanation": "Percussion makes sound by striking or shaking.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-S-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "The cello belongs to which group?",
+      "options": [
+        "Strings",
+        "Winds",
+        "Keyboards",
+        "Percussion"
+      ],
+      "correctIndex": 0,
+      "explanation": "The cello is a bowed string instrument.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-S-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "What is an ensemble?",
+      "options": [
+        "A solo performance",
+        "A group performing together",
+        "A rehearsal room",
+        "A sheet music book"
+      ],
+      "correctIndex": 1,
+      "explanation": "An ensemble is any group performing music together.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-S-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "Which African instrument is a slit drum?",
+      "options": [
+        "The udu",
+        "The shekere",
+        "The ekwe",
+        "The piano"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ekwe is a carved wooden slit drum from Igbo land.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-S-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "silver",
+      "text": "How is the harp played?",
+      "options": [
+        "By bowing",
+        "By blowing",
+        "By striking",
+        "By plucking its strings"
+      ],
+      "correctIndex": 3,
+      "explanation": "Harpists pluck the strings with their fingers.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-G-001",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "Why does a trumpet sound brighter than a flute?",
+      "options": [
+        "Brass resonance and a flared bell",
+        "It has strings",
+        "It is smaller",
+        "It is blown softer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Brass bells project bright, buzzing overtones.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-G-002",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "How do groups balance rhythm and melody?",
+      "options": [
+        "Only percussion plays",
+        "Percussion carries time; strings carry tune",
+        "Only strings play",
+        "No one leads"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ensembles layer drums for time with melodic voices above.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-G-003",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "What is the role of the lead drum in West African ensembles?",
+      "options": [
+        "To keep the food warm",
+        "To tune the guitars",
+        "To signal and cue dancers and singers",
+        "To end the performance"
+      ],
+      "correctIndex": 2,
+      "explanation": "The lead drummer cues changes and calls dancers.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-G-004",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "How does an electric keyboard differ from a real piano?",
+      "options": [
+        "It uses strings and hammers",
+        "It cannot play chords",
+        "It needs no electricity",
+        "It generates sound electronically"
+      ],
+      "correctIndex": 3,
+      "explanation": "Keyboards synthesize sound; acoustic pianos strike strings.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-G-005",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "What is the shekere used as?",
+      "options": [
+        "Unpitched rhythm",
+        "A melodic lead",
+        "A keyed instrument",
+        "A wind instrument"
+      ],
+      "correctIndex": 0,
+      "explanation": "The shekere provides rhythm, not definite pitches.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-G-006",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "What does a violin's bridge do?",
+      "options": [
+        "Holds the bow",
+        "Transfers string vibration to the body",
+        "Tunes the pegs",
+        "Mutes the sound"
+      ],
+      "correctIndex": 1,
+      "explanation": "The bridge passes vibrations from strings into the hollow body.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-G-007",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "How do griots preserve history in music?",
+      "options": [
+        "Through written exams",
+        "Through silence",
+        "Through praise songs and genealogy",
+        "Through drum tuning"
+      ],
+      "correctIndex": 2,
+      "explanation": "Griots sing genealogies that keep history alive.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-MSC-INS-G-008",
+      "band": "10-12",
+      "subject": "music",
+      "topic": "instruments",
+      "level": "gold",
+      "text": "What makes the talking drum ideal for proverbs?",
+      "options": [
+        "It is the loudest drum",
+        "It has the most strings",
+        "It was invented last year",
+        "It copies the tone and rhythm of speech"
+      ],
+      "correctIndex": 3,
+      "explanation": "Talking drums speak in proverbs by mimicking tonal Yoruba.",
+      "curriculumRef": "NERDC Primary 5 Music, musical instruments",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

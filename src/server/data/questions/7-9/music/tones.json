@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "music",
+  "topic": "tones",
+  "title": "High and low",
+  "questions": [
+    {
+      "code": "7-MSC-TON-B-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What does pitch mean?",
+      "options": [
+        "How high or low a sound is",
+        "How loud a sound is",
+        "How fast music is",
+        "How long a note lasts"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pitch describes how high or low a note sounds.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-B-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "Which makes a high sound?",
+      "options": [
+        "A lion's roar",
+        "A whistle",
+        "Thunder",
+        "A bass drum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Whistles make high, piercing sounds.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-B-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "Which makes a low sound?",
+      "options": [
+        "A tiny bell",
+        "A flute",
+        "A bass drum",
+        "A canary"
+      ],
+      "correctIndex": 2,
+      "explanation": "Big drums and bass notes sound low.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-B-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What does forte mean?",
+      "options": [
+        "Soft",
+        "Fast",
+        "Slow",
+        "Loud"
+      ],
+      "correctIndex": 3,
+      "explanation": "Forte is the Italian word for loud.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-B-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What does piano mean in music?",
+      "options": [
+        "Soft",
+        "Loud",
+        "Fast",
+        "High"
+      ],
+      "correctIndex": 0,
+      "explanation": "Piano is the Italian word for soft.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-B-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "Which is louder, a shout or a whisper?",
+      "options": [
+        "A whisper",
+        "A shout",
+        "They are the same",
+        "Neither"
+      ],
+      "correctIndex": 1,
+      "explanation": "A shout is louder than a whisper.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-B-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What kind of voice is deep?",
+      "options": [
+        "A high voice",
+        "A thin voice",
+        "A low voice",
+        "A tiny voice"
+      ],
+      "correctIndex": 2,
+      "explanation": "Deep voices are low in pitch.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-B-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "bronze",
+      "text": "What kind of voice is shrill?",
+      "options": [
+        "A low voice",
+        "A deep voice",
+        "A bass voice",
+        "A high voice"
+      ],
+      "correctIndex": 3,
+      "explanation": "Shrill voices are high in pitch.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-S-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "How do we show soft music on paper?",
+      "options": [
+        "With a p (piano)",
+        "With an f (forte)",
+        "With a big star",
+        "With a red circle"
+      ],
+      "correctIndex": 0,
+      "explanation": "Composers write p for soft (piano).",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-S-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "Which sign means the music gets louder?",
+      "options": [
+        "Diminuendo",
+        "Crescendo",
+        "Pianissimo",
+        "Largo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Crescendo means growing louder.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-S-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "Which sign means the music gets softer?",
+      "options": [
+        "Crescendo",
+        "Fortissimo",
+        "Diminuendo",
+        "Presto"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diminuendo means fading softer.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-S-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "Why does a flute sound higher than a tuba?",
+      "options": [
+        "It is louder",
+        "It is bigger",
+        "It is older",
+        "It produces faster vibrations"
+      ],
+      "correctIndex": 3,
+      "explanation": "Smaller instruments vibrate faster, making higher pitches.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-S-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "Volume tells us what?",
+      "options": [
+        "How loud or soft a sound is",
+        "How high or low it is",
+        "How fast it is",
+        "How long it lasts"
+      ],
+      "correctIndex": 0,
+      "explanation": "Volume is how loud or soft a sound is.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-S-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "Which note is highest on a keyboard?",
+      "options": [
+        "The one furthest left",
+        "The one furthest right",
+        "The middle one",
+        "They are all the same"
+      ],
+      "correctIndex": 1,
+      "explanation": "Notes rise in pitch from left to right.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-S-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "Which sign means very loud?",
+      "options": [
+        "Pianissimo",
+        "Piano",
+        "Fortissimo",
+        "Largo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fortissimo means very loud.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-S-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "silver",
+      "text": "Which signs mean loud and soft?",
+      "options": [
+        "Allegro and Largo",
+        "Presto and Adagio",
+        "Fast and quick",
+        "Forte and piano"
+      ],
+      "correctIndex": 3,
+      "explanation": "Forte (loud) and piano (soft) are opposites.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-G-001",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "What makes a note sound sharp or flat?",
+      "options": [
+        "Being slightly above or below a pitch",
+        "Being loud or soft",
+        "Being fast or slow",
+        "Being long or short"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sharp sits slightly above, flat slightly below a true pitch.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-G-002",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "How do major and minor keys sound?",
+      "options": [
+        "Major is louder",
+        "Major sounds bright, minor sounds sad",
+        "Minor is faster",
+        "They sound identical"
+      ],
+      "correctIndex": 1,
+      "explanation": "Major keys sound bright; minor keys sound darker.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-G-003",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "What is a scale in music?",
+      "options": [
+        "A weighing tool",
+        "A drum pattern",
+        "Notes arranged in steps",
+        "A song title"
+      ],
+      "correctIndex": 2,
+      "explanation": "A scale is a set of notes moving step by step.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-G-004",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "What is a major third?",
+      "options": [
+        "A very loud note",
+        "Three drums playing",
+        "Three bars of rest",
+        "An interval of two whole tones"
+      ],
+      "correctIndex": 3,
+      "explanation": "A major third spans two whole tones.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-G-005",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "What does a key signature tell us?",
+      "options": [
+        "Which sharps or flats the piece uses",
+        "The speed of play",
+        "The volume marking",
+        "The length of song"
+      ],
+      "correctIndex": 0,
+      "explanation": "The key signature lists sharps or flats to use.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-G-006",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "Why does a big drum sound lower than a small drum?",
+      "options": [
+        "Big drums are quieter",
+        "Longer drum heads vibrate slower",
+        "Small drums are heavier",
+        "Big drums are louder only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bigger surfaces vibrate slower, lowering pitch.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-G-007",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "What is the tonic of a key?",
+      "options": [
+        "The loudest note",
+        "The last drum hit",
+        "The home note the music rests on",
+        "The singer's name"
+      ],
+      "correctIndex": 2,
+      "explanation": "The tonic is the note the music feels at home on.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MSC-TON-G-008",
+      "band": "7-9",
+      "subject": "music",
+      "topic": "tones",
+      "level": "gold",
+      "text": "Which key sounds sad?",
+      "options": [
+        "Major",
+        "Both identical",
+        "Neither exists",
+        "Minor"
+      ],
+      "correctIndex": 3,
+      "explanation": "Minor keys carry a darker, sadder mood.",
+      "curriculumRef": "NERDC Primary 3 Music, pitch and tones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

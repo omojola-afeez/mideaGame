@@ -44,7 +44,7 @@ export function Grownups({ onBack, onHome }: { onBack: () => void; onHome: () =>
         <h2 className="font-display text-2xl font-extrabold">What your child does</h2>
         <p className="text-muted">
           Your child picks their age band, a nickname and an animal, then chooses English, Maths, Code and AI, Science,
-          Home Economics, Social Studies or Arabic. A round has {ROUND.size} questions. After every answer the game shows
+          Home Economics, Social Studies, Arabic, Christian Studies and Music. A round has {ROUND.size} questions. After every answer the game shows
           the right answer and a one line reason. Missed questions return after 1 day, then 3 days, then 7 days.
         </p>
         <p className="text-muted">

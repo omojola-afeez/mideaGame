@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "christian-studies",
+  "topic": "commandments",
+  "title": "Commandment coast",
+  "questions": [
+    {
+      "code": "7-CST-GOD-B-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Who gave the ten commandments?",
+      "options": [
+        "God",
+        "Moses",
+        "Abraham",
+        "David"
+      ],
+      "correctIndex": 0,
+      "explanation": "God Himself gave the commandments at Sinai.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-B-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Where did Moses receive them?",
+      "options": [
+        "Mount Zion",
+        "Mount Sinai",
+        "Mount Carmel",
+        "Mount Olives"
+      ],
+      "correctIndex": 1,
+      "explanation": "God gave Moses the commandments on Mount Sinai.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-B-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "What do the first four rules teach?",
+      "options": [
+        "Love for money",
+        "Love for country",
+        "Love for God",
+        "Love for family only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first four rules help us honour and worship God.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-B-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "What do the last six rules teach?",
+      "options": [
+        "Love for animals",
+        "Love for property",
+        "Love for work",
+        "Love for others"
+      ],
+      "correctIndex": 3,
+      "explanation": "The last six rules teach us to love our neighbours.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-B-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "What does do not kill protect?",
+      "options": [
+        "Human life",
+        "Property",
+        "Marriage",
+        "Truth"
+      ],
+      "correctIndex": 0,
+      "explanation": "God values every human life.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-B-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "What does do not steal mean?",
+      "options": [
+        "Borrow freely without asking",
+        "Take nothing that belongs to another",
+        "Take only what you can hide",
+        "Share everything always"
+      ],
+      "correctIndex": 1,
+      "explanation": "We must respect what others own.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-B-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "What does no false witness mean?",
+      "options": [
+        "Do not talk in court",
+        "Do not argue with elders",
+        "Do not lie about others",
+        "Do not sign papers"
+      ],
+      "correctIndex": 2,
+      "explanation": "God commands us to speak the truth about others.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-B-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Why must we obey them?",
+      "options": [
+        "To win gifts",
+        "To avoid beating",
+        "To look holy",
+        "Because God commands it"
+      ],
+      "correctIndex": 3,
+      "explanation": "Honouring parents is God's clear command.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-S-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What is the first commandment?",
+      "options": [
+        "No other gods before God",
+        "Keep the Sabbath holy",
+        "Do not steal",
+        "Honour your father"
+      ],
+      "correctIndex": 0,
+      "explanation": "We must worship God and Him alone.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-S-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What is the second rule?",
+      "options": [
+        "Not bearing false witness",
+        "Not making or worshipping idols",
+        "Not coveting",
+        "Keeping the Sabbath"
+      ],
+      "correctIndex": 1,
+      "explanation": "We must not bow to images or idols.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-S-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What does taking God's name in vain mean?",
+      "options": [
+        "Singing God's name",
+        "Speaking God's name quietly",
+        "Misusing God's holy name",
+        "Learning God's name"
+      ],
+      "correctIndex": 2,
+      "explanation": "God's name must never be used carelessly or falsely.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-S-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "Which day is the Sabbath day?",
+      "options": [
+        "The first day",
+        "The third day",
+        "The fifth day",
+        "The seventh day"
+      ],
+      "correctIndex": 3,
+      "explanation": "The seventh day is set apart for rest and worship.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-S-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What does do not covet mean?",
+      "options": [
+        "Do not envy what others have",
+        "Do not buy what you like",
+        "Do not work for others",
+        "Do not own land"
+      ],
+      "correctIndex": 0,
+      "explanation": "We must not crave or envy other people's things.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-S-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "Why is lying so bad?",
+      "options": [
+        "It wastes time",
+        "It destroys justice",
+        "It costs money",
+        "It angers judges"
+      ],
+      "correctIndex": 1,
+      "explanation": "False witness can ruin an innocent person.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-S-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "Which rule guards wedding vows?",
+      "options": [
+        "Church attendance",
+        "Family property",
+        "Marriage faithfulness",
+        "Neighbourhood peace"
+      ],
+      "correctIndex": 2,
+      "explanation": "It protects the sanctity of marriage.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-S-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What is the seventh rule?",
+      "options": [
+        "Avoid old people",
+        "Stay single",
+        "Marry late",
+        "Be faithful in marriage"
+      ],
+      "correctIndex": 3,
+      "explanation": "Marriage demands faithfulness between husband and wife.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-G-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "How do the rules help the town?",
+      "options": [
+        "They set moral standards",
+        "They raise revenue",
+        "They elect leaders",
+        "They build roads"
+      ],
+      "correctIndex": 0,
+      "explanation": "The commandments protect life, truth, marriage and property.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-G-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Why is envy a sin?",
+      "options": [
+        "It causes headaches",
+        "It leads to wrongdoing",
+        "It makes people shy",
+        "It causes hunger"
+      ],
+      "correctIndex": 1,
+      "explanation": "Envy can grow into stealing, lying or even violence.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-G-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "How do we love neighbours at school?",
+      "options": [
+        "By giving them our work",
+        "By copying them",
+        "By helping and being honest",
+        "By avoiding them"
+      ],
+      "correctIndex": 2,
+      "explanation": "Honesty and help are how we love our classmates.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-G-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "What makes God's laws holy?",
+      "options": [
+        "They are old",
+        "They are written on stone",
+        "They are in the Bible",
+        "They come from God"
+      ],
+      "correctIndex": 3,
+      "explanation": "God's rules are holy because God is holy.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-G-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Why worship God?",
+      "options": [
+        "He alone deserves worship",
+        "God forbids everything else",
+        "Churches demand it",
+        "It is traditional"
+      ],
+      "correctIndex": 0,
+      "explanation": "Only the one true God deserves our worship.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-G-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "How did Jesus sum up the law?",
+      "options": [
+        "Obey all rules",
+        "Love God and neighbour",
+        "Honour the temple",
+        "Pay your tithes"
+      ],
+      "correctIndex": 1,
+      "explanation": "All the commandments point to loving God and people.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-G-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "What does no stealing teach about work?",
+      "options": [
+        "Work only for your family",
+        "Keep whatever you find",
+        "Earn honestly for what you have",
+        "Share everything you own"
+      ],
+      "correctIndex": 2,
+      "explanation": "God calls us to honest work and fair dealing.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-GOD-G-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Why keep a weekly rest and worship day?",
+      "options": [
+        "It pleases the government",
+        "It saves electricity",
+        "It fills the church",
+        "It refreshes body and soul"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rest and worship restore us and keep us close to God.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

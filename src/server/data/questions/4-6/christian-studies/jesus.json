@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "christian-studies",
+  "topic": "jesus",
+  "title": "Jesus journey",
+  "questions": [
+    {
+      "code": "4-CST-JES-B-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Who is Jesus?",
+      "options": [
+        "God's Son",
+        "A king of Egypt",
+        "A farmer",
+        "An angel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus is the Son of God.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-B-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Where was Jesus born?",
+      "options": [
+        "In Nazareth",
+        "In Bethlehem",
+        "In Jerusalem",
+        "In Egypt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jesus was born in Bethlehem.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-B-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Who came to see the baby?",
+      "options": [
+        "Soldiers",
+        "Farmers",
+        "Wise men",
+        "Sailors"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wise men came with gifts for Jesus.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-B-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "What did Jesus ride on?",
+      "options": [
+        "A horse",
+        "A camel",
+        "A chariot",
+        "A donkey"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus rode in on a donkey.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-B-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Who walked on the sea?",
+      "options": [
+        "Jesus",
+        "Peter",
+        "John",
+        "Thomas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus walked on the sea.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-B-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "What did Jesus feed the crowd with?",
+      "options": [
+        "Rice and beans",
+        "Loaves and fish",
+        "Bread and soup",
+        "Meat and yam"
+      ],
+      "correctIndex": 1,
+      "explanation": "Five loaves and two fish fed thousands.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-B-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "What did Jesus do for the sick?",
+      "options": [
+        "He fed them",
+        "He dressed them",
+        "He healed them",
+        "He taught them"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus healed the sick all over the land.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-B-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "bronze",
+      "text": "Whom does Jesus love?",
+      "options": [
+        "The rich",
+        "Only leaders",
+        "Soldiers",
+        "Little children"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus loves all children.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-S-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What was Joseph's job?",
+      "options": [
+        "A carpenter",
+        "A fisherman",
+        "A farmer",
+        "A shepherd"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joseph was a carpenter in Nazareth.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-S-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "Did Jesus choose ten or twelve men?",
+      "options": [
+        "Ten",
+        "Twelve",
+        "Seven",
+        "Fifty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jesus chose twelve disciples.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-S-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What work did Jesus's friends do?",
+      "options": [
+        "Soldiers",
+        "Priests",
+        "Fishermen",
+        "Kings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus called fishermen like Peter and John.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-S-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What was Jesus doing in the storm?",
+      "options": [
+        "He was fishing",
+        "He was praying loud",
+        "He was rowing",
+        "He was asleep"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus slept in the boat while the storm raged.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-S-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What did Jesus do for the blind man?",
+      "options": [
+        "He gave him sight",
+        "He gave him money",
+        "He gave him bread",
+        "He gave him songs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus healed the blind man so he could see.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-S-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What did Jesus say to kids?",
+      "options": [
+        "Keep them away",
+        "Let them come to me",
+        "Send them home",
+        "They are too noisy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jesus welcomed little children to Him.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-S-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "What did Jesus teach us to do?",
+      "options": [
+        "Get rich",
+        "Fight enemies",
+        "Love others",
+        "Hide away"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus taught us to love one another.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-S-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "silver",
+      "text": "Whom should we forgive?",
+      "options": [
+        "Only friends",
+        "Only family",
+        "Only elders",
+        "Everyone"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus taught us to forgive others.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-G-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "Why did Jesus come to earth?",
+      "options": [
+        "To save people",
+        "To build a city",
+        "To be a king",
+        "To judge sinners"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus came to save us from sin.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-G-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What did the angels say?",
+      "options": [
+        "A king was crowned",
+        "A saviour was born",
+        "The temple fell",
+        "A storm was coming"
+      ],
+      "correctIndex": 1,
+      "explanation": "The angels announced the birth of Jesus.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-G-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "Why did the good man help the hurt stranger?",
+      "options": [
+        "He was paid",
+        "He was forced",
+        "He was kind",
+        "He was related"
+      ],
+      "correctIndex": 2,
+      "explanation": "The good Samaritan cared for a stranger.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-G-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What does the good man teach?",
+      "options": [
+        "Help the rich",
+        "Help your clan",
+        "Help yourself",
+        "Help everyone"
+      ],
+      "correctIndex": 3,
+      "explanation": "We should help anyone in need.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-G-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What is a parable?",
+      "options": [
+        "A teaching story",
+        "A sad song",
+        "A riddle",
+        "A poem"
+      ],
+      "correctIndex": 0,
+      "explanation": "A parable is a story that teaches.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-G-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "Why did Jesus wash His friends' feet?",
+      "options": [
+        "For cleanliness",
+        "To teach humble service",
+        "To be served",
+        "For a bet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jesus showed that serving is greatness.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-G-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "Who came to the tomb on Easter day?",
+      "options": [
+        "The soldiers",
+        "The priests",
+        "Some women",
+        "The thieves"
+      ],
+      "correctIndex": 2,
+      "explanation": "The women found the tomb empty on Easter.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-JES-G-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "jesus",
+      "level": "gold",
+      "text": "What does rising from death mean?",
+      "options": [
+        "Rising at night",
+        "Rising from bed",
+        "Rising like smoke",
+        "Rising from the dead"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus rose from the dead on Easter.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, Jesus and his teaching",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

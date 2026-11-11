@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "christian-studies",
+  "topic": "worship",
+  "title": "Prayer harbour",
+  "questions": [
+    {
+      "code": "4-CST-WOR-B-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "To whom do we pray?",
+      "options": [
+        "God",
+        "The moon",
+        "The trees",
+        "Ourselves"
+      ],
+      "correctIndex": 0,
+      "explanation": "We pray to God alone.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-B-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What do we do in church?",
+      "options": [
+        "Sleep",
+        "Worship God",
+        "Trade",
+        "Play"
+      ],
+      "correctIndex": 1,
+      "explanation": "Church is where we worship God.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-B-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "Who taught the Our Father prayer?",
+      "options": [
+        "Peter",
+        "Paul",
+        "Jesus",
+        "Moses"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus taught us to pray the Our Father.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-B-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What should we do each day?",
+      "options": [
+        "Ignore God",
+        "Test God",
+        "Hide from God",
+        "Thank God"
+      ],
+      "correctIndex": 3,
+      "explanation": "We should thank God every day.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-B-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "How should we pray?",
+      "options": [
+        "With a sincere heart",
+        "Loudly",
+        "Slowly",
+        "In a crowd"
+      ],
+      "correctIndex": 0,
+      "explanation": "God hears sincere prayers.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-B-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "Can God hear us?",
+      "options": [
+        "No, never",
+        "Yes, always",
+        "Only on Sundays",
+        "Only at church"
+      ],
+      "correctIndex": 1,
+      "explanation": "God hears every sincere prayer.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-B-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "What is worship?",
+      "options": [
+        "Bowing to kings",
+        "Singing pop songs",
+        "Praising God",
+        "Giving money"
+      ],
+      "correctIndex": 2,
+      "explanation": "Worship is praising and honouring God.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-B-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "bronze",
+      "text": "When can we pray?",
+      "options": [
+        "Only at night",
+        "Only in church",
+        "Only on Sundays",
+        "Any time"
+      ],
+      "correctIndex": 3,
+      "explanation": "We can pray to God at any time.",
+      "curriculumRef": "NERDC Nursery 2 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-S-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "The Our Father starts with?",
+      "options": [
+        "Our Father in heaven",
+        "Dear God above",
+        "O Lord Jehovah",
+        "Hail Mary"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus taught us to call God Our Father.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-S-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What do we ask God to give us?",
+      "options": [
+        "Gold and silver",
+        "Our daily bread",
+        "A new house",
+        "Sweets"
+      ],
+      "correctIndex": 1,
+      "explanation": "We ask God to meet our daily needs.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-S-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "How should we treat those who wrong us?",
+      "options": [
+        "We never forgive",
+        "God never forgives",
+        "Forgive them",
+        "Forget forgiving"
+      ],
+      "correctIndex": 2,
+      "explanation": "We ask God to forgive as we forgive.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-S-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What is saying thanks to God?",
+      "options": [
+        "Asking God",
+        "Praising God",
+        "Shouting to God",
+        "Thanking God"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thanksgiving is giving thanks to God.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-S-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What is praise?",
+      "options": [
+        "Telling God He is great",
+        "Talking to yourself",
+        "Singing alone",
+        "Buying gifts"
+      ],
+      "correctIndex": 0,
+      "explanation": "Praise tells God how great He is.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-S-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "To whom do we sing in church?",
+      "options": [
+        "The pastor",
+        "God",
+        "Each other",
+        "Nobody"
+      ],
+      "correctIndex": 1,
+      "explanation": "Our songs of praise are for God.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-S-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "Should we pray before meals?",
+      "options": [
+        "No, never",
+        "Only on Sundays",
+        "Yes, always",
+        "Only at school"
+      ],
+      "correctIndex": 2,
+      "explanation": "We thank God for our food.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-S-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "silver",
+      "text": "What pleases God most?",
+      "options": [
+        "Loud songs",
+        "Big gifts",
+        "Huge churches",
+        "A sincere heart"
+      ],
+      "correctIndex": 3,
+      "explanation": "God loves a sincere, loving heart.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-G-001",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "Why do we pray?",
+      "options": [
+        "To talk with God",
+        "To show off",
+        "To win gifts",
+        "To pass time"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prayer is talking with God.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-G-002",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "What does Our Father mean?",
+      "options": [
+        "God is a man",
+        "God is our Father",
+        "God is far away",
+        "God is a judge"
+      ],
+      "correctIndex": 1,
+      "explanation": "God loves us like a kind father.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-G-003",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "Why must we forgive?",
+      "options": [
+        "It makes you weak",
+        "It wins favour",
+        "It is right",
+        "It saves money"
+      ],
+      "correctIndex": 2,
+      "explanation": "Forgiveness brings peace to all.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-G-004",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "How can we worship at home?",
+      "options": [
+        "Watch TV",
+        "Sleep late",
+        "Eat snacks",
+        "Pray and sing to God"
+      ],
+      "correctIndex": 3,
+      "explanation": "We can worship God anywhere.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-G-005",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "What should we do when we are sad?",
+      "options": [
+        "Tell God in prayer",
+        "Hide in bed",
+        "Break things",
+        "Stay silent"
+      ],
+      "correctIndex": 0,
+      "explanation": "God hears us when we are troubled.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-G-006",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "How do we show we love God?",
+      "options": [
+        "By giving gifts",
+        "By obeying Him",
+        "By singing loud",
+        "By building churches"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loving God means doing His will.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-G-007",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "Why do we meet to worship?",
+      "options": [
+        "To trade",
+        "To eat together",
+        "To praise God together",
+        "To compete"
+      ],
+      "correctIndex": 2,
+      "explanation": "Believers worship God as one family.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-CST-WOR-G-008",
+      "band": "4-6",
+      "subject": "christian-studies",
+      "topic": "worship",
+      "level": "gold",
+      "text": "Why does the church meet?",
+      "options": [
+        "To make money",
+        "To learn politics",
+        "To meet friends",
+        "To worship God"
+      ],
+      "correctIndex": 3,
+      "explanation": "Church gathers God's people to worship.",
+      "curriculumRef": "NERDC Primary 1 Christian Religious Studies, prayer and worship",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

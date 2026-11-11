@@ -59,6 +59,8 @@ export type SubjectId =
   | "home-economics"
   | "social-studies"
   | "arabic"
+  | "christian-studies"
+  | "music"
   | "code-ai";
 export type TopicId =
   | "comprehension"
@@ -93,6 +95,14 @@ export type TopicId =
   | "arabic-words"
   | "arabic-reading"
   | "arabic-numbers"
+  | "bible-stories"
+  | "jesus"
+  | "commandments"
+  | "worship"
+  | "rhythm"
+  | "instruments"
+  | "songs"
+  | "tones"
   | "code-and-ai";
 
 export interface SubjectDef {
@@ -172,6 +182,22 @@ export const SUBJECTS: readonly SubjectDef[] = [
     emoji: "🕌",
     blurb: "Letters, words and reading",
     tone: "violet",
+  },
+  {
+    id: "christian-studies",
+    label: "Christian Studies",
+    short: "Christian",
+    emoji: "📖",
+    blurb: "Bible stories and faith",
+    tone: "violet",
+  },
+  {
+    id: "music",
+    label: "Music",
+    short: "Music",
+    emoji: "🎵",
+    blurb: "Rhythm, instruments and songs",
+    tone: "mint",
   },
 ];
 
@@ -473,6 +499,78 @@ export const TOPICS: readonly TopicDef[] = [
     codePrefix: "NUM",
     order: 4,
   },
+  {
+    id: "bible-stories",
+    subjectId: "christian-studies",
+    label: "Bible bridge",
+    blurb: "Stories from the Bible",
+    emoji: "🌉",
+    codePrefix: "BIB",
+    order: 1,
+  },
+  {
+    id: "jesus",
+    subjectId: "christian-studies",
+    label: "Jesus journey",
+    blurb: "Jesus and his teaching",
+    emoji: "✝️",
+    codePrefix: "JES",
+    order: 2,
+  },
+  {
+    id: "commandments",
+    subjectId: "christian-studies",
+    label: "Commandment coast",
+    blurb: "God's laws and how to live",
+    emoji: "📜",
+    codePrefix: "GOD",
+    order: 3,
+  },
+  {
+    id: "worship",
+    subjectId: "christian-studies",
+    label: "Prayer harbour",
+    blurb: "Prayer, worship and kindness",
+    emoji: "🙏",
+    codePrefix: "WOR",
+    order: 4,
+  },
+  {
+    id: "rhythm",
+    subjectId: "music",
+    label: "Rhythm ridge",
+    blurb: "Notes, beats and rhythm",
+    emoji: "🥁",
+    codePrefix: "RYT",
+    order: 1,
+  },
+  {
+    id: "instruments",
+    subjectId: "music",
+    label: "Instrument isle",
+    blurb: "Drums, guitars and more",
+    emoji: "🎸",
+    codePrefix: "INS",
+    order: 2,
+  },
+  {
+    id: "songs",
+    subjectId: "music",
+    label: "Song shore",
+    blurb: "Singing, songs and choirs",
+    emoji: "🎶",
+    codePrefix: "SNG",
+    order: 3,
+  },
+  {
+    id: "tones",
+    subjectId: "music",
+    label: "High and low",
+    blurb: "Pitch, loud and soft sounds",
+    emoji: "🔊",
+    codePrefix: "TON",
+    order: 4,
+  },
 ];
 
 export const SUBJECT_PREFIX: Record<SubjectId, string> = {
@@ -482,6 +580,8 @@ export const SUBJECT_PREFIX: Record<SubjectId, string> = {
   "home-economics": "HEC",
   "social-studies": "SOC",
   arabic: "ARB",
+  "christian-studies": "CST",
+  music: "MSC",
   "code-ai": "COD",
 };
 
@@ -492,6 +592,8 @@ export const TOPICS_BY_SUBJECT: Record<SubjectId, readonly TopicDef[]> = {
   "home-economics": TOPICS.filter((t) => t.subjectId === "home-economics"),
   "social-studies": TOPICS.filter((t) => t.subjectId === "social-studies"),
   arabic: TOPICS.filter((t) => t.subjectId === "arabic"),
+  "christian-studies": TOPICS.filter((t) => t.subjectId === "christian-studies"),
+  music: TOPICS.filter((t) => t.subjectId === "music"),
   "code-ai": TOPICS.filter((t) => t.subjectId === "code-ai"),
 };
 

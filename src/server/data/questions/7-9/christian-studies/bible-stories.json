@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "christian-studies",
+  "topic": "bible-stories",
+  "title": "Bible bridge",
+  "questions": [
+    {
+      "code": "7-CST-BIB-B-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who built the ark when God warned of the flood?",
+      "options": [
+        "Noah",
+        "Abraham",
+        "Lot",
+        "Isaac"
+      ],
+      "correctIndex": 0,
+      "explanation": "God warned Noah, so he built the ark.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-B-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "What did Noah take into the ark?",
+      "options": [
+        "Gold and silver",
+        "Animals and his family",
+        "Soldiers and spears",
+        "Books and scrolls"
+      ],
+      "correctIndex": 1,
+      "explanation": "God told Noah to save the animals and his family.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-B-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who got the ten rules?",
+      "options": [
+        "Aaron",
+        "Joshua",
+        "Moses",
+        "Caleb"
+      ],
+      "correctIndex": 2,
+      "explanation": "God gave Moses the ten commandments on Mount Sinai.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-B-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who beat the giant Goliath?",
+      "options": [
+        "Saul",
+        "Jonathan",
+        "Samuel",
+        "David"
+      ],
+      "correctIndex": 3,
+      "explanation": "David trusted God and struck down the giant.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-B-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "What did God create on the first day?",
+      "options": [
+        "Light",
+        "The stars",
+        "The birds",
+        "The rivers"
+      ],
+      "correctIndex": 0,
+      "explanation": "God said, let there be light, and there was light.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-B-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Whose brothers were jealous of his coat?",
+      "options": [
+        "Benjamin",
+        "Joseph",
+        "Judah",
+        "Reuben"
+      ],
+      "correctIndex": 1,
+      "explanation": "Joseph's brothers envied his special coat of many colours.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-B-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Where did God send Abraham?",
+      "options": [
+        "Egypt",
+        "Babylon",
+        "Canaan",
+        "Ur"
+      ],
+      "correctIndex": 2,
+      "explanation": "God called Abraham to leave Ur and go to Canaan.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-B-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "bronze",
+      "text": "Who spent a night in the lions' den?",
+      "options": [
+        "Shadrach",
+        "Elijah",
+        "Jeremiah",
+        "Daniel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Daniel was thrown to the lions, but God shut their mouths.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-S-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Why did God send the great flood?",
+      "options": [
+        "Because people were wicked",
+        "Because the rivers were high",
+        "Because of the rain",
+        "Because ships sank"
+      ],
+      "correctIndex": 0,
+      "explanation": "The flood judged the earth because people chose evil.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-S-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "How did the people of God escape Egypt?",
+      "options": [
+        "Through a tunnel",
+        "Through the Red Sea",
+        "On ships made of reeds",
+        "By camel across the desert"
+      ],
+      "correctIndex": 1,
+      "explanation": "God opened the Red Sea so His people crossed.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-S-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Why was Joseph thrown in jail?",
+      "options": [
+        "He stole gold",
+        "He ran away",
+        "He was falsely accused",
+        "He fought a soldier"
+      ],
+      "correctIndex": 2,
+      "explanation": "Joseph was falsely accused, yet God used it for good.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-S-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "What did Joseph's dreams say would happen?",
+      "options": [
+        "He would be a fisherman",
+        "He would marry a queen",
+        "He would sail to Spain",
+        "His family would bow to him"
+      ],
+      "correctIndex": 3,
+      "explanation": "Joseph dreamed his family would bow to him one day.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-S-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Why did God speak to Moses from the burning bush?",
+      "options": [
+        "To call him to lead",
+        "To warm him",
+        "To scare him",
+        "To cook for him"
+      ],
+      "correctIndex": 0,
+      "explanation": "God chose Moses to lead the people from slavery.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-S-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "What did Elijah ask God to send?",
+      "options": [
+        "Rain from heaven",
+        "Fire from heaven",
+        "Manna from heaven",
+        "Wind from heaven"
+      ],
+      "correctIndex": 1,
+      "explanation": "God sent fire to show He is the true God.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-S-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Why did the people wander forty years?",
+      "options": [
+        "Because the road was long",
+        "Because they were lost",
+        "Because of their disobedience",
+        "Because Moses walked slowly"
+      ],
+      "correctIndex": 2,
+      "explanation": "The people disobeyed God, so they wandered until the old generation died.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-S-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "silver",
+      "text": "Which walls fell after seven days?",
+      "options": [
+        "Jerusalem",
+        "Ai",
+        "Bethel",
+        "Jericho"
+      ],
+      "correctIndex": 3,
+      "explanation": "The walls of Jericho fell after Israel marched around them.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-G-001",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "What lesson does Noah's story teach?",
+      "options": [
+        "God blesses obedience",
+        "Animals are sacred",
+        "Rain comes from heaven",
+        "Boats are always safe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Noah obeyed God and was saved with his family.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-G-002",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "How did Joseph save Egypt?",
+      "options": [
+        "He imported food by sea",
+        "He stored grain ahead",
+        "He planted new crops",
+        "He taxed the people"
+      ],
+      "correctIndex": 1,
+      "explanation": "Joseph stored grain in the good years, so Egypt survived the famine.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-G-003",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "Why did God send the plagues on Egypt?",
+      "options": [
+        "To punish Pharaoh forever",
+        "To destroy Egypt",
+        "To rescue His people",
+        "To test Moses"
+      ],
+      "correctIndex": 2,
+      "explanation": "God sent the plagues to free the Israelites from slavery.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-G-004",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "What does Ruth's story teach?",
+      "options": [
+        "Wealth and power",
+        "Strength in battle",
+        "Wisdom in judging",
+        "Loyalty and kindness"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ruth stayed loyal to Naomi, and God blessed her.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-G-005",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "How did God feed Elijah?",
+      "options": [
+        "Ravens brought him food",
+        "Angels brought him bread",
+        "He found wild honey",
+        "A farmer fed him"
+      ],
+      "correctIndex": 0,
+      "explanation": "God fed Elijah there with bread and meat brought by ravens.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-G-006",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "What does the story of Esther show?",
+      "options": [
+        "Kings are always fair",
+        "God works through brave people",
+        "Palace life is easy",
+        "Dreams come true"
+      ],
+      "correctIndex": 1,
+      "explanation": "Esther risked her life to save her people.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-G-007",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "Why was Jonah upset with God?",
+      "options": [
+        "They ignored him",
+        "They mocked him",
+        "He wanted them judged",
+        "They gave him no food"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jonah loved justice, but God loves mercy too.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-CST-BIB-G-008",
+      "band": "7-9",
+      "subject": "christian-studies",
+      "topic": "bible-stories",
+      "level": "gold",
+      "text": "What did the prophets call for?",
+      "options": [
+        "Building bigger cities",
+        "Winning wars",
+        "Paying taxes",
+        "Turning back to God"
+      ],
+      "correctIndex": 3,
+      "explanation": "The prophets warned the people to repent and return to God.",
+      "curriculumRef": "NERDC Primary 3 Christian Religious Studies, stories from the Bible",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

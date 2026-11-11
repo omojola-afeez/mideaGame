@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "christian-studies",
+  "topic": "commandments",
+  "title": "Commandment coast",
+  "questions": [
+    {
+      "code": "10-CST-GOD-B-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "What are the ten commandments?",
+      "options": [
+        "God's holy rules for living",
+        "Moses's laws",
+        "The king's decrees",
+        "The people's traditions"
+      ],
+      "correctIndex": 0,
+      "explanation": "They are God's holy rules, given through Moses.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-B-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Who wrote the first five books of the Bible?",
+      "options": [
+        "David",
+        "Moses",
+        "Ezra",
+        "Paul"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moses wrote the law, including the commandments.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-B-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "On how many tablets were the laws written?",
+      "options": [
+        "One",
+        "Ten",
+        "Two",
+        "Seven"
+      ],
+      "correctIndex": 2,
+      "explanation": "God wrote the commandments on two stone tablets.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-B-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "In which book are the commandments first recorded?",
+      "options": [
+        "Genesis",
+        "Leviticus",
+        "Numbers",
+        "Exodus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Exodus 20 records the giving of the commandments.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-B-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "What is the greatest commandment?",
+      "options": [
+        "Love God with your whole heart",
+        "Honour your parents",
+        "Keep the Sabbath",
+        "Do not steal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus called love for God the greatest commandment.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-B-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "What is the second greatest commandment?",
+      "options": [
+        "Do not kill",
+        "Love your neighbour as yourself",
+        "Do not lie",
+        "Keep God's name holy"
+      ],
+      "correctIndex": 1,
+      "explanation": "The second greatest is love for our neighbours.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-B-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Which rule forbids idols?",
+      "options": [
+        "The first commandment",
+        "The third commandment",
+        "The second commandment",
+        "The fifth commandment"
+      ],
+      "correctIndex": 2,
+      "explanation": "The second commandment forbids making or worshipping idols.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-B-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "bronze",
+      "text": "Which rule promises long life?",
+      "options": [
+        "The fourth commandment",
+        "The eighth commandment",
+        "The tenth commandment",
+        "The fifth commandment"
+      ],
+      "correctIndex": 3,
+      "explanation": "Honour your father and mother so that you may live long.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-S-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What does the first commandment demand?",
+      "options": [
+        "Exclusive worship of God alone",
+        "Good works",
+        "Temple attendance",
+        "Tithe giving"
+      ],
+      "correctIndex": 0,
+      "explanation": "No person or thing may share God's place in our hearts.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-S-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What does the third commandment forbid?",
+      "options": [
+        "Praying aloud",
+        "Careless use of God's name",
+        "Singing hymns",
+        "Reading the Bible"
+      ],
+      "correctIndex": 1,
+      "explanation": "God's holy name must never be used carelessly or falsely.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-S-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What does the fourth commandment teach?",
+      "options": [
+        "Working every day",
+        "Farming only on Sundays",
+        "Rest and worship on the Sabbath",
+        "Resting without worship"
+      ],
+      "correctIndex": 2,
+      "explanation": "Six days of labour, one day set apart to worship God.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-S-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What else does do not murder address?",
+      "options": [
+        "Warfare and defence",
+        "Hunting animals",
+        "Capital punishment",
+        "Angry hatred in the heart"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jesus taught that hatred is murder in the heart.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-S-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What does the marriage rule protect?",
+      "options": [
+        "The marriage covenant",
+        "Family property",
+        "Church membership",
+        "Community peace"
+      ],
+      "correctIndex": 0,
+      "explanation": "It guards the faithfulness between husband and wife.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-S-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What does do not steal imply?",
+      "options": [
+        "Share all goods",
+        "Respect for property and honest work",
+        "Avoid the market",
+        "Distrust the rich"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stealing shows contempt for God's gift of property.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-S-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "What does the tenth commandment target?",
+      "options": [
+        "Theft of goods",
+        "Lies under oath",
+        "Greed and envy in the heart",
+        "Misuse of the Sabbath"
+      ],
+      "correctIndex": 2,
+      "explanation": "Covetousness is the root of stealing and hatred.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-S-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "silver",
+      "text": "How were the commandments given?",
+      "options": [
+        "Written by Moses alone",
+        "Revealed in a dream",
+        "Passed down orally",
+        "Spoken by God at Sinai"
+      ],
+      "correctIndex": 3,
+      "explanation": "God spoke amid thunder and fire on Mount Sinai.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-G-001",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Why does true obedience come from the heart?",
+      "options": [
+        "God sees the heart",
+        "Rules are hard to keep",
+        "Men judge by looks",
+        "Only the heart can count"
+      ],
+      "correctIndex": 0,
+      "explanation": "Outward acts without love are empty; God weighs the heart.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-G-002",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "How did Jesus sum up the law?",
+      "options": [
+        "Keep every rule",
+        "Love God and your neighbour",
+        "Sacrifice daily",
+        "Tithe faithfully"
+      ],
+      "correctIndex": 1,
+      "explanation": "Love fulfils the whole law; every commandment flows from it.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-G-003",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "How did Jesus deepen the commandments?",
+      "options": [
+        "He added new rules",
+        "He removed the old ones",
+        "He applied them to the heart",
+        "He made them easier"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jesus moved the law from outward conduct to inward motive.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-G-004",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Do we keep the commandments to earn salvation?",
+      "options": [
+        "Yes, by works",
+        "Only partially",
+        "Only before baptism",
+        "No, salvation is by grace"
+      ],
+      "correctIndex": 3,
+      "explanation": "We obey out of love, not to earn God's favour.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-G-005",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "How does the Holy Spirit help us obey?",
+      "options": [
+        "He transforms our inner desires",
+        "He gives us more strength",
+        "He removes our temptations",
+        "He changes the rules"
+      ],
+      "correctIndex": 0,
+      "explanation": "God's Spirit empowers us to delight in His law.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-G-006",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "What happens when societies reject God's law?",
+      "options": [
+        "Prosperity increases",
+        "Moral and social decline follow",
+        "Order improves",
+        "Nothing changes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Justice and peace rest on God's moral order.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-G-007",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "How do the commandments apply online?",
+      "options": [
+        "Say anything anonymously",
+        "Copy whatever you find",
+        "Be honest, respect others, do not steal",
+        "Judge others freely"
+      ],
+      "correctIndex": 2,
+      "explanation": "Online theft, lying and lust violate God's commands.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-CST-GOD-G-008",
+      "band": "10-12",
+      "subject": "christian-studies",
+      "topic": "commandments",
+      "level": "gold",
+      "text": "Why are the last six commandments grouped?",
+      "options": [
+        "They are easier to keep",
+        "They concern the nation",
+        "They are optional",
+        "They order our life with others"
+      ],
+      "correctIndex": 3,
+      "explanation": "The last six govern how we treat people.",
+      "curriculumRef": "NERDC Primary 5 Christian Religious Studies, God's laws and how to live",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

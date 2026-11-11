@@ -4,10 +4,11 @@ import { buildBank } from "../../src/server/game/selection";
 import { TOPIC_FILES } from "../../src/server/data/registry";
 
 /**
- * Band 10-12 holds the original 1,944 questions (40 per level per topic).
- * Bands 4-6 and 7-9 hold the generated starter banks (8 per level per topic).
+ * Band 10-12 holds the original 1,944 questions (40 per level per topic) plus starter banks.
+ * Bands 4-6 and 7-9 hold generated starter banks (8 per level per topic) for every subject.
+ * Total across the three bands: 4,488 questions.
  */
-const EXPECTED_TOTAL = 3912;
+const EXPECTED_TOTAL = 4488;
 
 /** 10-12 holds the original full English and Mathematics banks (40 per level). */
 const FULL_BANK_TOPICS = new Set([

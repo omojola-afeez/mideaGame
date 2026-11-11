@@ -1,0 +1,18 @@
+{
+  "name": "Brainwave Quest",
+  "short_name": "Brainwave",
+  "description": "A free learning game for Nigerian children aged 4 to 12. Short rounds, earn stars and remember more of what school taught.",
+  "lang": "en-NG",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07122b",
+  "theme_color": "#07122b",
+  "categories": ["education", "games", "kids"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

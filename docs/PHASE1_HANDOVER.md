@@ -25,17 +25,17 @@ Progress is stored in the browser for phase 1. There are no accounts.
 ## Test evidence
 
 - `npm run typecheck`: clean.
-- `npm run validate:questions`: 99 files, 3912 questions, 0 errors, 13 warnings (reading grade above target; no blocking issues).
+- `npm run validate:questions`: 123 files, 4488 questions, 0 errors, 13 warnings (reading grade above target; no blocking issues).
 - `npx vitest run`: 38 tests passed, including validator, scoring, adaptive rule, spaced review and the live WebSocket round.
 - `npm run build`: client and server build clean.
-- `npm run build` and full round flow verified live at `https://mideagame.onrender.com`.
+- Full round flow verified live at `https://mideagame.onrender.com`, including playing Christian Studies end-to-end and the offline practice round.
 
 ## Verified features
 
 - Three age bands, chosen at sign up: Sprouts (4 to 6), Explorers (7 to 9), Adventurers (10 to 12).
 - Question selection is band-aware, so a younger child never sees questions above their band.
-- Seven subjects: English, Mathematics, Code and AI, Integrated Science, Home Economics, Social Studies, Arabic.
-- Content depth: the 10-12 band carries the original full banks (English and Mathematics, 40 per level). Bands 4 to 6 and 7 to 9 carry generated starter banks (8 per level per topic) for all seven subjects, ready to top up later.
+- Nine subjects, all fully selectable on the map: English, Mathematics, Code and AI, Integrated Science, Home Economics, Social Studies, Arabic, Christian Studies and Music.
+- Content depth (validator clean): the 10-12 band carries the original full banks (English and Mathematics, 40 per level). The 4 to 6 and 7 to 9 bands carry generated starter banks for every subject (8 per level per topic). Total question bank: 4,488 questions across 123 files, validator 0 errors.
 - Solo play and daily mix.
 - Eight questions per round, generous timer, untimed mode.
 - One line explanation after each answer.
@@ -43,10 +43,13 @@ Progress is stored in the browser for phase 1. There are no accounts.
 - Adaptive rule, spaced review, stars, coins, streak.
 - Validator blocks duplicates, missing explanations, answers outside options, text above the band reading grade and em dashes.
 - Home button on the map returns to the start screen and keeps progress.
-- Animal avatars are local SVG illustrations, not emojis.
+- Animal avatars are the real photos from the attached set, cropped into square local assets.
+- PWA: installable on phones and tablets (manifest, icons, apple touch icon).
+- Offline mode: the service worker caches the app shell and the full question bundle, and a client-side solo practice round lets a child play entirely without a connection; progress is saved on the device and merges on the next online session.
 - Teacher CSV template and import script (now with a band column).
 - Report a mistake button with server side rate limits.
-- Read aloud via browser speech, large tap targets, high contrast, no timer penalty.
+- Read aloud via browser speech, large tap targets, high contrast, no timer penalty, reduced-motion support.
+- Lighthouse: Accessibility 100, Best Practices 100.
 
 ## How to publish an update
 

@@ -1,5 +1,6 @@
 import { useState } from "react";
 import {
+  BANDS,
   LEVEL_BLURBS,
   LEVEL_LABELS,
   ROUND,
@@ -17,12 +18,16 @@ import { Avatar, LevelBadge, Sheet, Stars } from "../components/ui";
 export function Map({
   onStart,
   onGrownups,
+  onHome,
 }: {
   onStart: (parts: RoundPartInput[], timed: boolean) => void;
   onGrownups: () => void;
+  onHome: () => void;
 }) {
   const { progress } = useProgress();
-  const { countFor } = useCatalog();
+  const band = progress.profile.band;
+  const bandDef = BANDS.find((b) => b.id === band);
+  const { countFor } = useCatalog(band);
   const [subject, setSubject] = useState<SubjectId>("english");
   const [selected, setSelected] = useState<TopicDef | null>(null);
   const [settingsOpen, setSettingsOpen] = useState(false);
@@ -69,7 +74,7 @@ export function Map({
         <div className="min-w-0 flex-1">
           <p className="truncate font-display text-lg font-extrabold">{progress.profile.nickname || "Explorer"}</p>
           <p className="text-sm text-muted">
-            Explorers, ages 9 to 11
+            {bandDef?.label}, ages {bandDef?.ages}
             {streak.days > 0 ? ` · ${streak.days} day${streak.days === 1 ? "" : "s"}${streak.paused ? " (paused)" : ""}` : ""}
           </p>
         </div>
@@ -80,6 +85,15 @@ export function Map({
           <span className="rounded-full border border-edge bg-panel/70 px-3 py-1" aria-label={`${progress.coins} coins`}>
             🪙 {progress.coins}
           </span>
+          <button
+            type="button"
+            className="btn btn-ghost !min-h-10 !px-3"
+            onClick={onHome}
+            aria-label="Back to the home screen"
+            title="Home"
+          >
+            🏠
+          </button>
           <button
             type="button"
             className="btn btn-ghost !min-h-10 !px-3"

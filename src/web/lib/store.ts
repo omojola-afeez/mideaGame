@@ -3,6 +3,7 @@ import { Client, type Room } from "@colyseus/sdk";
 import { MSG, ROOM_TYPE } from "../../shared/constants";
 import type { RoundPartInput } from "../../shared/daily";
 import { QuestState } from "../../shared/state";
+import { progressStore } from "./progress";
 import { friendlyError, REJECT_MESSAGES } from "./errors";
 
 export type Snapshot = ReturnType<QuestState["toJSON"]>;
@@ -239,8 +240,9 @@ class GameStore {
   }
 
   startRound(parts: RoundPartInput[], timed: boolean): void {
+    const band = progressStore.get().progress.profile.band;
     this.set({ pick: null, acked: false });
-    this.send(MSG.startRound, { parts, timed });
+    this.send(MSG.startRound, { parts, timed, band });
   }
 
   answer(choice: number): void {

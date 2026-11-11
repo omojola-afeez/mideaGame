@@ -36,8 +36,10 @@ export interface BankStats {
   total: number;
   byStatus: Record<ContentStatus, number>;
   byTopic: Record<string, number>;
+  /** Question count keyed by `band:topic`, for example `10-12:grammar`. */
+  byBandTopic: Record<string, number>;
 }
 
 export function emptyStats(): BankStats {
-  return { total: 0, byStatus: { draft: 0, reviewed: 0, live: 0 }, byTopic: {} };
+  return { total: 0, byStatus: { draft: 0, reviewed: 0, live: 0 }, byTopic: {}, byBandTopic: {} };
 }

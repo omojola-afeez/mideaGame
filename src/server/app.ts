@@ -6,7 +6,7 @@ import { timingSafeEqual } from "node:crypto";
 import express from "express";
 import { Server } from "@colyseus/core";
 import { WebSocketTransport } from "@colyseus/ws-transport";
-import { BAND, ROUND, ROOM_TYPE, SUBJECTS, TOPICS } from "../shared/constants";
+import { BANDS, ROUND, ROOM_TYPE, SUBJECTS, TOPICS, bandById } from "../shared/constants";
 import { reportSchema } from "../shared/schemas";
 import { log } from "./log";
 import { counters, snapshot } from "./metrics";
@@ -91,18 +91,22 @@ export async function startServer(opts: StartOptions): Promise<Running> {
       });
 
       /** Public catalog. It has counts and labels only, never questions or answers. */
-      app.get("/api/catalog", (_req, res) => {
+      app.get("/api/catalog", (req, res) => {
         res.setHeader("Cache-Control", "public, max-age=300");
+        const bandParam = typeof req.query.band === "string" ? req.query.band : "10-12";
+        const band = bandById(bandParam)?.id ?? "10-12";
         res.json({
-          band: BAND,
+          band,
+          bands: BANDS.map((b) => ({ id: b.id, label: b.label, ages: b.ages, classes: b.classes })),
           roundSize: ROUND.size,
           subjects: SUBJECTS.map((s) => ({
             id: s.id,
             label: s.label,
+            short: s.short,
             topics: TOPICS.filter((t) => t.subjectId === s.id).map((t) => ({
               id: t.id,
               label: t.label,
-              count: bank.stats.byTopic[t.id] ?? 0,
+              count: bank.stats.byBandTopic[`${band}:${t.id}`] ?? 0,
             })),
           })),
           bank: bankSummary(),

@@ -1,5 +1,5 @@
 import { useEffect, useState, type FormEvent } from "react";
-import { AVATARS, LIMITS, makeNickname } from "../../shared/constants";
+import { AVATARS, BANDS, LIMITS, makeNickname, type BandId } from "../../shared/constants";
 import { nameSchema } from "../../shared/schemas";
 import { game, useGame } from "../lib/store";
 import { progressStore, totalStars, useProgress } from "../lib/progress";
@@ -10,6 +10,7 @@ export function Home({ onGrownups }: { onGrownups: () => void }) {
   const { progress } = useProgress();
   const [name, setName] = useState(progress.profile.nickname || makeNickname());
   const [avatar, setAvatar] = useState(progress.profile.avatar);
+  const [band, setBand] = useState<BandId>(progress.profile.band);
   const [nameError, setNameError] = useState<string | null>(null);
   const busy = status === "connecting";
   const returning = progress.profile.nickname !== "" && progress.totals.rounds > 0;
@@ -31,6 +32,7 @@ export function Home({ onGrownups }: { onGrownups: () => void }) {
       return;
     }
     setNameError(null);
+    progressStore.setBand(band);
     progressStore.setProfile(parsed.data, avatar);
     await game.start(parsed.data, avatar);
   }
@@ -50,8 +52,8 @@ export function Home({ onGrownups }: { onGrownups: () => void }) {
           Remember.
         </h1>
         <p className="mt-5 max-w-md text-lg text-muted">
-          Short rounds for Explorers in Primary 4 to 6. Pick a world, answer eight questions, and see why each answer is
-          right. Your progress stays on this device.
+          Short rounds for children in Primary 1 to 6. Pick an age band, pick a world, answer eight questions, and see
+          why each answer is right. Your progress stays on this device.
         </p>
         {returning && (
           <div className="mt-6 flex flex-wrap items-center gap-4 text-sm text-muted">
@@ -65,7 +67,7 @@ export function Home({ onGrownups }: { onGrownups: () => void }) {
         <details className="mt-6 max-w-md rounded-2xl border border-edge bg-panel/60 p-4">
           <summary className="cursor-pointer font-display text-lg font-bold">How it works</summary>
           <ul className="mt-3 list-disc space-y-2 pl-5 text-muted">
-            <li>Choose English, Maths or Code and AI on the map.</li>
+            <li>Choose a subject on the map: English, Maths, Code and AI, Science, Home Economics, Social Studies or Arabic.</li>
             <li>Each round has eight questions. Some are return visits to ones you missed.</li>
             <li>Read the short reason after each answer. It is the part that helps you remember.</li>
             <li>Stars show how well you did. Coins add up as you finish rounds.</li>
@@ -82,6 +84,28 @@ export function Home({ onGrownups }: { onGrownups: () => void }) {
         )}
 
         <form onSubmit={(e) => void submit(e)} className="space-y-5">
+          <fieldset>
+            <legend className="mb-2 block font-display font-bold">How old are you?</legend>
+            <div className="grid grid-cols-3 gap-2" role="radiogroup" aria-label="Pick your age group">
+              {BANDS.map((b) => (
+                <button
+                  key={b.id}
+                  type="button"
+                  role="radio"
+                  aria-checked={band === b.id}
+                  onClick={() => setBand(b.id)}
+                  className={`rounded-2xl border p-3 text-center ${
+                    band === b.id ? "border-cyan bg-cyan/15" : "border-edge bg-panel/50"
+                  }`}
+                >
+                  <span className="block font-display text-lg font-extrabold leading-tight">{b.ages}</span>
+                  <span className="mt-1 block text-xs text-muted">{b.label}</span>
+                </button>
+              ))}
+            </div>
+            <p className="mt-2 text-xs text-muted">Your questions match your age group. Grown-ups can change this later.</p>
+          </fieldset>
+
           <div>
             <label htmlFor="nickname" className="mb-2 block font-display font-bold">
               Pick a nickname
@@ -145,7 +169,7 @@ export function Home({ onGrownups }: { onGrownups: () => void }) {
         </form>
 
         <p className="mt-4 text-center text-xs text-muted">
-          Ages 9 to 11. No account needed. Nothing is sent to us except the answers to your questions, and those are not
+          Ages 4 to 12. No account needed. Nothing is sent to us except the answers to your questions, and those are not
           tied to a name.
         </p>
         <button type="button" className="mt-3 w-full text-center text-sm font-semibold text-muted underline" onClick={onGrownups}>

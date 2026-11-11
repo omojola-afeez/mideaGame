@@ -1,6 +1,6 @@
 import { writeFileSync, mkdirSync } from "node:fs";
 import path from "node:path";
-import { BAND, TOPICS } from "../src/shared/constants";
+import { TOPICS, bandById } from "../src/shared/constants";
 import type { Question, TopicFile } from "../src/shared/question";
 import { isClean, validateTopicFile } from "../src/server/data/validate";
 
@@ -1621,7 +1621,8 @@ Object.assign(TOPIC_MAKERS, {
 
 const LEVEL_LETTER = { bronze: "B", silver: "S", gold: "G" } as const;
 const SUBJECT_PREFIX = "MAT";
-const OUT = path.resolve("src/server/data/questions/mathematics");
+const BAND = bandById("10-12")!;
+const OUT = path.resolve("src/server/data/questions/10-12/mathematics");
 
 function buildQuestions(
   topicId: string,
@@ -1657,7 +1658,8 @@ function buildQuestions(
     const options = [...distractors.slice(0, 3)];
     options.splice(idx, 0, d.correct);
     return {
-      code: `${SUBJECT_PREFIX}-${topic.codePrefix}-${LEVEL_LETTER[level]}-${String(i + 1).padStart(3, "0")}`,
+      code: `${BAND.token}-${SUBJECT_PREFIX}-${topic.codePrefix}-${LEVEL_LETTER[level]}-${String(i + 1).padStart(3, "0")}`,
+      band: BAND.id,
       subject: "mathematics",
       topic: topic.id,
       level,
@@ -1684,7 +1686,7 @@ for (const topicId of Object.keys(TOPIC_MAKERS)) {
   for (const level of ["bronze", "silver", "gold"] as const) {
     questions.push(...buildQuestions(topicId, level, makers[level] ?? [], seen));
   }
-  const file: TopicFile = { subject: "mathematics", topic: topic.id, title: topic.label, questions };
+  const file: TopicFile = { band: BAND.id, subject: "mathematics", topic: topic.id, title: topic.label, questions };
   const issues = validateTopicFile(file, { perLevel: 40, maxGrade: BAND.readingGrade + 1, warnGrade: BAND.readingGrade });
   const bad = issues.filter((i) => i.severity === "error");
   if (!isClean(issues)) {

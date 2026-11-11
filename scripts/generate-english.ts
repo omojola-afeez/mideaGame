@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import path from "node:path";
-import { BAND, TOPICS } from "../src/shared/constants";
+import { TOPICS, bandById } from "../src/shared/constants";
 import type { Question, TopicFile } from "../src/shared/question";
 import { isClean, validateTopicFile } from "../src/server/data/validate";
 import {
@@ -45,7 +45,8 @@ interface Draft {
 
 const LEVEL_LETTER: Record<Level, string> = { bronze: "B", silver: "S", gold: "G" };
 const SUBJECT_PREFIX = "ENG";
-const OUT = path.resolve("src/server/data/questions/english");
+const BAND = bandById("10-12")!;
+const OUT = path.resolve("src/server/data/questions/10-12/english");
 const AUTHOR = "AI draft v1";
 
 function norm(text: string): string {
@@ -438,7 +439,8 @@ function toQuestions(topicId: string, prefix: string, levels: Record<Level, Draf
     drafts.forEach((d, i) => {
       const index = i % 4;
       questions.push({
-        code: `${SUBJECT_PREFIX}-${prefix}-${LEVEL_LETTER[level]}-${String(i + 1).padStart(3, "0")}`,
+        code: `${BAND.token}-${SUBJECT_PREFIX}-${prefix}-${LEVEL_LETTER[level]}-${String(i + 1).padStart(3, "0")}`,
+        band: BAND.id,
         subject: "english",
         topic: topicId,
         level,
@@ -466,6 +468,7 @@ for (const [topicId, build] of Object.entries(BUILDERS)) {
   const levels = build();
   const questions = toQuestions(topicId, topic.codePrefix, levels);
   const file: TopicFile = {
+    band: BAND.id,
     subject: "english",
     topic: topic.id,
     title: topic.label,

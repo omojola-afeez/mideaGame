@@ -4,34 +4,36 @@ import { emptyStats } from "../../shared/question";
 
 export interface QuestionBank {
   byCode: Map<string, Question>;
-  byTopic: Map<TopicId, Question[]>;
+  byTopic: Map<string, Question[]>;
   byTopicLevel: Map<string, Question[]>;
   stats: BankStats;
 }
 
-export function levelKey(topic: TopicId, level: Level): string {
-  return `${topic}:${level}`;
+export function levelKey(topic: string, level: Level, band?: string): string {
+  return band ? `${band}:${topic}:${level}` : `${topic}:${level}`;
 }
 
 export function buildBank(files: TopicFile[]): QuestionBank {
   const byCode = new Map<string, Question>();
-  const byTopic = new Map<TopicId, Question[]>();
+  const byTopic = new Map<string, Question[]>();
   const byTopicLevel = new Map<string, Question[]>();
   const stats = emptyStats();
 
   for (const file of files) {
     for (const q of file.questions) {
       byCode.set(q.code, q);
-      const list = byTopic.get(q.topic) ?? [];
+      const topicKey = `${q.band}:${q.topic}`;
+      const list = byTopic.get(topicKey) ?? [];
       list.push(q);
-      byTopic.set(q.topic, list);
-      const key = levelKey(q.topic, q.level);
+      byTopic.set(topicKey, list);
+      const key = levelKey(q.topic, q.level, q.band);
       const levelList = byTopicLevel.get(key) ?? [];
       levelList.push(q);
       byTopicLevel.set(key, levelList);
       stats.total += 1;
       stats.byStatus[q.status] = (stats.byStatus[q.status] ?? 0) + 1;
       stats.byTopic[q.topic] = (stats.byTopic[q.topic] ?? 0) + 1;
+      stats.byBandTopic[topicKey] = (stats.byBandTopic[topicKey] ?? 0) + 1;
     }
   }
   return { byCode, byTopic, byTopicLevel, stats };
@@ -41,6 +43,7 @@ export interface SelectRequest {
   subject: SubjectId;
   topic: TopicId;
   level: Level;
+  band: string;
   reviewCodes: string[];
   excludeCodes: string[];
   size?: number;
@@ -76,13 +79,13 @@ export function selectQuestions(bank: QuestionBank, req: SelectRequest, rng: Rng
     if (selected.length >= reviewLimit) break;
     if (used.has(code)) continue;
     const q = bank.byCode.get(code);
-    if (!q || q.topic !== req.topic) continue;
+    if (!q || q.topic !== req.topic || q.band !== req.band) continue;
     selected.push(q);
     used.add(code);
   }
 
   const excluded = new Set(req.excludeCodes);
-  const exact = bank.byTopicLevel.get(levelKey(req.topic, req.level)) ?? [];
+  const exact = bank.byTopicLevel.get(levelKey(req.topic, req.level, req.band)) ?? [];
   const unseen = shuffle(
     exact.filter((q) => !excluded.has(q.code) && !used.has(q.code)),
     rng,
@@ -106,7 +109,7 @@ export function selectQuestions(bank: QuestionBank, req: SelectRequest, rng: Rng
 
   if (selected.length < size) {
     const sameTopic = shuffle(
-      (bank.byTopic.get(req.topic) ?? []).filter((q) => !used.has(q.code)),
+      (bank.byTopic.get(`${req.band}:${req.topic}`) ?? []).filter((q) => !used.has(q.code)),
       rng,
     ).slice(0, size - selected.length);
     for (const q of sameTopic) {

@@ -1,10 +1,12 @@
 import { useSyncExternalStore } from "react";
 import {
+  BAND_IDS,
   LEVELS,
   LEVEL_ORDER,
   PROGRESS_KEY,
   ROUND,
   TOPICS,
+  type BandId,
   type Level,
   type TopicId,
 } from "../../shared/constants";
@@ -28,7 +30,7 @@ export interface TopicProgress {
 
 export interface QuestProgress {
   version: 1;
-  profile: { nickname: string; avatar: number };
+  profile: { nickname: string; avatar: number; band: BandId };
   coins: number;
   topics: Partial<Record<TopicId, TopicProgress>>;
   reviews: ReviewBook;
@@ -77,7 +79,7 @@ function emptyTopic(): TopicProgress {
 export function defaultProgress(): QuestProgress {
   return {
     version: 1,
-    profile: { nickname: "", avatar: 0 },
+    profile: { nickname: "", avatar: 0, band: "10-12" },
     coins: 0,
     topics: {},
     reviews: {},
@@ -94,6 +96,10 @@ function isLevel(value: unknown): value is Level {
 
 function isTopic(value: unknown): value is TopicId {
   return typeof value === "string" && TOPICS.some((t) => t.id === value);
+}
+
+function isBand(value: unknown): value is BandId {
+  return typeof value === "string" && (BAND_IDS as readonly string[]).includes(value);
 }
 
 /** Local only. A malformed or old record is replaced, never merged blindly. */
@@ -140,6 +146,7 @@ export function parseProgress(raw: string | null): QuestProgress {
       profile: {
         nickname: typeof data.profile?.nickname === "string" ? data.profile.nickname.slice(0, 16) : "",
         avatar: Number.isInteger(data.profile?.avatar) ? Math.max(0, Math.min(11, data.profile?.avatar ?? 0)) : 0,
+        band: isBand(data.profile?.band) ? data.profile.band : "10-12",
       },
       coins: Math.max(0, Math.floor(data.coins ?? 0)),
       topics,
@@ -245,7 +252,11 @@ class ProgressStore {
   }
 
   setProfile(nickname: string, avatar: number): void {
-    this.commit({ ...this.get().progress, profile: { nickname, avatar } });
+    this.commit({ ...this.get().progress, profile: { ...this.get().progress.profile, nickname, avatar } });
+  }
+
+  setBand(band: BandId): void {
+    this.commit({ ...this.get().progress, profile: { ...this.get().progress.profile, band } });
   }
 
   setSetting(key: keyof QuestProgress["settings"], value: boolean): void {

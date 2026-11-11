@@ -36,6 +36,7 @@ describe("QuestRoom round flow", () => {
     room.send("start_round", {
       parts: [{ subject: "mathematics", topic: "number", level: "bronze", count: 8, reviewCodes: [], excludeCodes: [] }],
       timed: true,
+      band: "10-12",
     });
 
     await waitFor(() => room.state.phase === "QUESTION", 10_000, "phase");

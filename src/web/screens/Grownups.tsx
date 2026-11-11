@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { BAND, GAME_NAME, ROUND } from "../../shared/constants";
+import { BANDS, GAME_NAME, ROUND } from "../../shared/constants";
 import { useCatalog } from "../lib/catalog";
 import { progressStore, totalStars, useProgress } from "../lib/progress";
 import { game } from "../lib/store";
@@ -35,16 +35,17 @@ export function Grownups({ onBack, onHome }: { onBack: () => void; onHome: () =>
 
       <h1 className="mt-8 text-4xl font-extrabold">A plain guide to {GAME_NAME}</h1>
       <p className="mt-3 text-lg text-muted">
-        This is a phase 1 pilot for the {BAND.label} band, ages {BAND.ages}, {BAND.classes}. It is free, it has no
-        accounts yet, and it does not talk to strangers.
+        {GAME_NAME} is for Nigerian children aged 4 to 12. At sign up the child picks an age band, and every question they
+        see is written for that band. They pick English, Maths, Code and AI and more. It is free, it has no accounts yet, and
+        it does not talk to strangers.
       </p>
 
       <section className="card mt-6 space-y-3 p-5">
         <h2 className="font-display text-2xl font-extrabold">What your child does</h2>
         <p className="text-muted">
-          Your child picks a nickname and an animal, then chooses English, Maths or Code and AI. A round has {ROUND.size}{" "}
-          questions. After every answer the game shows the right answer and a one line reason. Missed questions return
-          after 1 day, then 3 days, then 7 days.
+          Your child picks their age band, a nickname and an animal, then chooses English, Maths, Code and AI, Science,
+          Home Economics, Social Studies or Arabic. A round has {ROUND.size} questions. After every answer the game shows
+          the right answer and a one line reason. Missed questions return after 1 day, then 3 days, then 7 days.
         </p>
         <p className="text-muted">
           The Daily mix has 10 questions from all three subjects. A new set is offered each day. There is no chat, no
@@ -151,7 +152,8 @@ export function Grownups({ onBack, onHome }: { onBack: () => void; onHome: () =>
         </button>
       </div>
       <p className="mt-6 text-center text-xs text-muted">
-        Phase 1 pilot. Built for {BAND.label}. No accounts, no chat, no advertising, no purchases.
+        Phase 1 pilot. Age bands: {BANDS.map((b) => `${b.label} (${b.ages})`).join(", ")}. No accounts, no chat, no
+        advertising, no purchases.
       </p>
     </main>
   );

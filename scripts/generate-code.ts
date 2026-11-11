@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import path from "node:path";
-import { BAND, TOPICS } from "../src/shared/constants";
+import { TOPICS, bandById } from "../src/shared/constants";
 import type { Question, TopicFile } from "../src/shared/question";
 import { isClean, validateTopicFile } from "../src/server/data/validate";
 
@@ -21,6 +21,7 @@ interface Draft {
 
 const LEVEL_LETTER: Record<Level, string> = { bronze: "B", silver: "S", gold: "G" };
 const AUTHOR = "AI draft v1";
+const BAND = bandById("10-12")!;
 
 const BRONZE: Draft[] = [
   {
@@ -227,7 +228,8 @@ for (const level of ["bronze", "silver", "gold"] as const) {
   drafts.forEach((d, i) => {
     const index = i % 4;
     questions.push({
-      code: `COD-COD-${LEVEL_LETTER[level]}-${String(i + 1).padStart(3, "0")}`,
+      code: `${BAND.token}-COD-COD-${LEVEL_LETTER[level]}-${String(i + 1).padStart(3, "0")}`,
+      band: BAND.id,
       subject: "code-ai",
       topic: "code-and-ai",
       level,
@@ -246,6 +248,7 @@ for (const level of ["bronze", "silver", "gold"] as const) {
 const topic = TOPICS.find((t) => t.id === "code-and-ai");
 if (!topic) throw new Error("code-and-ai topic missing");
 const file: TopicFile = {
+  band: BAND.id,
   subject: "code-ai",
   topic: "code-and-ai",
   title: topic.label,
@@ -264,7 +267,7 @@ if (!isClean(issues)) {
   process.exitCode = 1;
 }
 
-const out = path.resolve("src/server/data/questions/code");
+const out = path.resolve("src/server/data/questions/10-12/code-ai");
 mkdirSync(out, { recursive: true });
 writeFileSync(path.join(out, "code-and-ai.json"), JSON.stringify(file, null, 2) + "\n");
 console.log(`code-and-ai: ${questions.length} questions, ${bad.length} errors`);

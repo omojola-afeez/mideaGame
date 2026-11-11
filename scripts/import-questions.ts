@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import path from "node:path";
-import { BAND, TOPICS, SUBJECTS, type SubjectId, type TopicId } from "../src/shared/constants";
+import { BANDS, TOPICS, SUBJECTS, bandById, type SubjectId, type TopicId } from "../src/shared/constants";
 import type { ContentStatus, Question } from "../src/shared/question";
 import { isClean, summarise, validateTopicFile } from "../src/server/data/validate";
 
@@ -16,6 +16,7 @@ interface Row {
 
 const HEADER = [
   "code",
+  "band",
   "subject",
   "topic",
   "level",
@@ -31,7 +32,15 @@ const HEADER = [
   "passage",
 ];
 
-const FOLDER: Record<SubjectId, string> = { english: "english", mathematics: "mathematics", "code-ai": "code" };
+const FOLDER: Record<SubjectId, string> = {
+  english: "english",
+  mathematics: "mathematics",
+  science: "science",
+  "home-economics": "home-economics",
+  "social-studies": "social-studies",
+  arabic: "arabic",
+  "code-ai": "code-ai",
+};
 
 function splitCsvLine(line: string): string[] {
   const out: string[] = [];
@@ -83,8 +92,10 @@ function toQuestion(row: Row): Question {
   const hint = (row.hint ?? "").trim();
   const status = (row.status ?? "draft") as ContentStatus;
   const passage = (row.passage ?? "").trim();
+  const band = (row.band ?? "").trim() as Question["band"];
   return {
     code: row.code ?? "",
+    band,
     subject: (row.subject ?? "") as SubjectId,
     topic: (row.topic ?? "") as TopicId,
     level: (row.level ?? "bronze") as Question["level"],
@@ -107,40 +118,40 @@ function main(): void {
   const grouped = new Map<string, Question[]>();
   for (const row of rows) {
     const q = toQuestion(row);
-    const key = `${q.subject}:${q.topic}`;
+    const key = `${q.band}:${q.subject}:${q.topic}`;
     const list = grouped.get(key) ?? [];
     list.push(q);
     grouped.set(key, list);
   }
 
   let errorCount = 0;
-  const writes: Array<{ subject: SubjectId; topic: TopicId; file: { subject: SubjectId; topic: TopicId; title: string; questions: Question[] } }> = [];
+  const writes: Array<{ band: Question["band"]; subject: SubjectId; topic: TopicId; file: { band: Question["band"]; subject: SubjectId; topic: TopicId; title: string; questions: Question[] } }> = [];
   for (const [key, questions] of grouped) {
-    const [subject, topic] = key.split(":") as [SubjectId, TopicId];
+    const [band, subject, topic] = key.split(":") as [Question["band"], SubjectId, TopicId];
     const topicDef = TOPICS.find((t) => t.id === topic && t.subjectId === subject);
-    if (!topicDef) {
+    if (!topicDef || !bandById(band)) {
       errorCount += 1;
-      console.error(`unknown topic ${key}`);
+      console.error(`unknown topic or band ${key}`);
       continue;
     }
-    const file = { subject, topic, title: topicDef.label, questions };
-    const issues = validateTopicFile(file, { perLevel: topicDef.id === "code-and-ai" ? 8 : 40, maxGrade: BAND.readingGrade + 1, warnGrade: BAND.readingGrade });
+    const file = { band, subject, topic, title: topicDef.label, questions };
+    const issues = validateTopicFile(file, { perLevel: topicDef.id === "code-and-ai" ? 8 : 40 });
     const bad = issues.filter((i) => i.severity === "error");
     if (bad.length > 0) {
       errorCount += bad.length;
       for (const issue of bad) console.error(`${topic}: ${issue.code} ${issue.message}`);
       continue;
     }
-    writes.push({ subject, topic, file });
+    writes.push({ band, subject, topic, file });
   }
 
   if (errorCount > 0) process.exitCode = 1;
 
   for (const entry of writes) {
-    const dir = path.resolve("src/server/data/questions", FOLDER[entry.subject]);
+    const dir = path.resolve("src/server/data/questions", entry.band, FOLDER[entry.subject]);
     mkdirSync(dir, { recursive: true });
     writeFileSync(path.join(dir, `${entry.topic}.json`), JSON.stringify(entry.file, null, 2) + "\n");
-    console.log(`${entry.subject}/${entry.topic}: ${entry.file.questions.length} questions written`);
+    console.log(`${entry.band}/${entry.subject}/${entry.topic}: ${entry.file.questions.length} questions written`);
   }
 }
 

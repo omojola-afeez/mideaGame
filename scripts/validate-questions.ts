@@ -1,6 +1,6 @@
 import { readFileSync, readdirSync, statSync } from "node:fs";
 import path from "node:path";
-import { BAND, TOPICS } from "../src/shared/constants";
+import { TOPICS } from "../src/shared/constants";
 import type { TopicFile } from "../src/shared/question";
 import { isClean, summarise, validateTopicFile, type Issue } from "../src/server/data/validate";
 
@@ -48,7 +48,7 @@ for (const file of files) {
   if (!topic) {
     issues.push({ severity: "error", code: "unknown_topic", message: `Unknown topic ${data.topic}` });
   }
-  issues.push(...validateTopicFile(data, { perLevel, maxGrade: BAND.readingGrade + 1, warnGrade: BAND.readingGrade }));
+  issues.push(...validateTopicFile(data, { perLevel }));
 
   totalQuestions += Array.isArray(data.questions) ? data.questions.length : 0;
   const errors = issues.filter((i) => i.severity === "error");

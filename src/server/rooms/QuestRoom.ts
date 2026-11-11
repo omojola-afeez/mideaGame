@@ -140,7 +140,7 @@ export class QuestRoom extends Room<{ state: QuestState }> {
           return this.refuse(client, MSG.startRound, "WRONG_PHASE");
         }
         this.touch();
-        this.startRound(parsed.data.parts, parsed.data.timed);
+        this.startRound(parsed.data.parts, parsed.data.timed, parsed.data.band);
       } catch (err) {
         this.fail(client, MSG.startRound, err);
       }
@@ -173,7 +173,7 @@ export class QuestRoom extends Room<{ state: QuestState }> {
 
   // ------------------------------------------------------------- round flow
 
-  private startRound(parts: RoundPart[], timed: boolean): void {
+  private startRound(parts: RoundPart[], timed: boolean, band: string): void {
     const picked: Question[] = [];
     for (const part of parts) {
       picked.push(
@@ -181,6 +181,7 @@ export class QuestRoom extends Room<{ state: QuestState }> {
           subject: part.subject as SubjectId,
           topic: part.topic as TopicId,
           level: part.level as Level,
+          band,
           reviewCodes: part.reviewCodes,
           excludeCodes: part.excludeCodes,
           size: part.count,

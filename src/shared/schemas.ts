@@ -1,8 +1,9 @@
 import { z } from "zod";
-import { LEVELS, LIMITS, ROUND, SUBJECTS, TOPICS } from "./constants";
+import { BAND_IDS, LEVELS, LIMITS, ROUND, SUBJECTS, TOPICS } from "./constants";
 
 const NAME_PATTERN = /^[\p{L}\p{N} ._'-]+$/u;
-const CODE_PATTERN = /^[A-Z]{3}-[A-Z]{3}-[BSG]-\d{3}$/;
+const CODE_PATTERN = /^(4|7|10)-[A-Z]{3}-[A-Z]{3}-[BSG]-\d{3}$/;
+const bandIdSchema = z.enum(BAND_IDS);
 
 export function cleanName(raw: string): string {
   return raw.normalize("NFKC").replace(/\s+/g, " ").trim();
@@ -45,6 +46,7 @@ export const startRoundSchema = z
   .object({
     parts: z.array(roundPartSchema).min(1).max(4),
     timed: z.boolean().default(true),
+    band: bandIdSchema,
   })
   .strict()
   .refine((v) => v.parts.reduce((sum, p) => sum + p.count, 0) <= 12, "round too long")

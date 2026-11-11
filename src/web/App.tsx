@@ -47,6 +47,11 @@ export function App() {
     setPage("round");
   }
 
+  function goHome() {
+    void game.leave();
+    setPage("home");
+  }
+
   let screen;
   if (page === "grownups") {
     screen = (
@@ -61,11 +66,11 @@ export function App() {
   } else if (status === "idle" || status === "lost" || (!snap && status !== "reconnecting")) {
     screen = <Home onGrownups={() => setPage("grownups")} />;
   } else if (page === "round" && (snap?.phase === "QUESTION" || snap?.phase === "REVEAL" || snap?.phase === "READY")) {
-    screen = <Round onExit={() => setPage("home")} />;
+    screen = <Round onExit={goHome} />;
   } else if (page === "round" && snap?.phase === "RESULTS") {
     screen = <Results onMap={() => setPage("map")} onPlayAgain={start} />;
   } else {
-    screen = <Map onStart={start} onGrownups={() => setPage("grownups")} />;
+    screen = <Map onStart={start} onGrownups={() => setPage("grownups")} onHome={goHome} />;
   }
 
   return (

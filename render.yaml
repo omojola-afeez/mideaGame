@@ -13,3 +13,7 @@ services:
         value: info
       - key: MAX_ROOMS
         value: "100"
+      - key: QUEST_TIMING
+        value: normal
+      - key: ALLOWED_ORIGINS
+        value: https://mideaGame.onrender.com/

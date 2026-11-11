@@ -4,11 +4,11 @@ Brainwave Quest phase 1. This page closes the phase and hands over what is done,
 
 ## Public URL
 
-The game code is ready to host. The live URL is not final until the owner confirms the exact Render service name and URL.
+The game is live at: `https://mideagame.onrender.com`
 
-After the owner confirms the Render service name, set it in `render.yaml`, commit, push and deploy.
+Health check: `https://mideagame.onrender.com/healthz`
 
-Expected shape of the final URL: `https://<service-name>.onrender.com`.
+The service name is `mideaGame` and the runtime is the Render free plan.
 
 ## Simple explanation of how it works
 

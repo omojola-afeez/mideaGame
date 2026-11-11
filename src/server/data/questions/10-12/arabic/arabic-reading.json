@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "arabic",
+  "topic": "arabic-reading",
+  "title": "Read reef",
+  "questions": [
+    {
+      "code": "10-ARB-RED-B-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: الوطن أغلى ما نملك. What does it mean?",
+      "options": [
+        "The homeland is the dearest thing we own",
+        "Money is everything",
+        "Family is everything",
+        "Health is everything"
+      ],
+      "correctIndex": 0,
+      "explanation": "أغلى means dearest and ما نملك means what we own.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-B-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: القراءة غذاء العقل. What does it mean?",
+      "options": [
+        "Reading is rest",
+        "Reading is food for the mind",
+        "Reading is fun",
+        "Reading is work"
+      ],
+      "correctIndex": 1,
+      "explanation": "غذاء means nourishment or food.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-B-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: النظافة من الإيمان. What does it mean?",
+      "options": [
+        "Work is worship",
+        "Charity is faith",
+        "Cleanliness is part of faith",
+        "Fasting is faith"
+      ],
+      "correctIndex": 2,
+      "explanation": "النظافة means cleanliness and الإيمان means faith.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-B-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: اطلبوا العلم ولو في الصين. What advice does it give?",
+      "options": [
+        "Travel to China",
+        "Stay at home",
+        "Trade abroad",
+        "Seek knowledge even far away"
+      ],
+      "correctIndex": 3,
+      "explanation": "ولو في الصين urges seeking knowledge however far it may be.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-B-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Which line means honesty is best?",
+      "options": [
+        "الصدق أفضل سياسة",
+        "الكذب مهارة",
+        "الغش طريق النجاح",
+        "المكر قوة"
+      ],
+      "correctIndex": 0,
+      "explanation": "الصدق means honesty and سياسة means policy.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-B-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Which sentence means time is precious?",
+      "options": [
+        "الوقت طويل",
+        "الوقت ثمين",
+        "الوقت مجاني",
+        "الوقت مظلم"
+      ],
+      "correctIndex": 1,
+      "explanation": "ثمين means precious.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-B-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: خير الناس أنفعهم للناس. What does it mean?",
+      "options": [
+        "The best people are rich",
+        "The best people are strong",
+        "The best people help others",
+        "The best people are tall"
+      ],
+      "correctIndex": 2,
+      "explanation": "أنفعهم للناس means those most helpful to others.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-B-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: العلم بلا عمل كشجرة بلا ثمر. What does it mean?",
+      "options": [
+        "Trees need water",
+        "Study hard",
+        "Plant more trees",
+        "Knowledge without action is useless"
+      ],
+      "correctIndex": 3,
+      "explanation": "ثمر means fruit, so the tree without fruit is the knowledge without action.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-S-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: سافر محمد إلى كانو مع والده ليحضر مؤتمر العلماء. Why did Muhammad travel?",
+      "options": [
+        "To attend a scholars' conference",
+        "To visit his uncle",
+        "To buy a car",
+        "To play football"
+      ],
+      "correctIndex": 0,
+      "explanation": "مؤتمر العلماء means a scholars' conference.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-S-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: نصح الإمام المصلين بالصبر عند المصيبة. What did the imam advise?",
+      "options": [
+        "Anger in hardship",
+        "Patience in hardship",
+        "Giving up in hardship",
+        "Fear in hardship"
+      ],
+      "correctIndex": 1,
+      "explanation": "المصيبة means calamity and الصبر means patience.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-S-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: كتب الطبيب للمريض دواء مرتين في اليوم. What should the patient do?",
+      "options": [
+        "Take it once a day",
+        "Take it three times daily",
+        "Take the medicine twice a day",
+        "Take it every week"
+      ],
+      "correctIndex": 2,
+      "explanation": "مرتين في اليوم means twice a day.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-S-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: حث المدرس تلاميذه على القراءة كل يوم. What did the teacher urge?",
+      "options": [
+        "Playing every day",
+        "Sleeping early",
+        "Fasting daily",
+        "Reading every day"
+      ],
+      "correctIndex": 3,
+      "explanation": "القراءة كل يوم means reading every day.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-S-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Which sentence means the traveler reached the city at night?",
+      "options": [
+        "وصل المسافر إلى المدينة ليلا",
+        "وصل المسافر إلى المدينة صباحا",
+        "خرج المسافر من المدينة ليلا",
+        "عاد المسافر إلى المدينة ظهرا"
+      ],
+      "correctIndex": 0,
+      "explanation": "ليلا means at night.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-S-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: قال الرئيس: التعليم سلاح التنمية. What is education to the president?",
+      "options": [
+        "A burden on the nation",
+        "A weapon for development",
+        "A luxury for the rich",
+        "A problem for schools"
+      ],
+      "correctIndex": 1,
+      "explanation": "سلاح التنمية means the weapon of development.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-S-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Which sentence means the Quran is guidance for mankind?",
+      "options": [
+        "القرآن تاريخ للناس",
+        "القرآن قصة للناس",
+        "القرآن هدى للناس",
+        "القرآن لغة للناس"
+      ],
+      "correctIndex": 2,
+      "explanation": "هدى means guidance.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-S-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: احترم الصغير الكبير. What does it teach?",
+      "options": [
+        "The old should serve the young",
+        "Age brings weakness",
+        "Youth is strength",
+        "The young should respect elders"
+      ],
+      "correctIndex": 3,
+      "explanation": "احترم الصغير الكبير means let the young one respect the elder.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-G-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: من يعمل مثقال ذرة خيرا يره. What does it promise?",
+      "options": [
+        "Even a tiny good deed is rewarded",
+        "Big deeds only count",
+        "Evil deeds are hidden",
+        "Deeds are weighed at night"
+      ],
+      "correctIndex": 0,
+      "explanation": "مثقال ذرة means the weight of an atom.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-G-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: إنما بعثت لأتمم مكارم الأخلاق. What was the mission?",
+      "options": [
+        "To build mosques",
+        "To perfect noble character",
+        "To teach trade",
+        "To lead armies"
+      ],
+      "correctIndex": 1,
+      "explanation": "مكارم الأخلاق means noble morals and character.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-G-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: إن الله لا يغير ما بقوم حتى يغيروا ما بأنفسهم. What does it teach?",
+      "options": [
+        "God changes nations overnight",
+        "People cannot change",
+        "Change starts within ourselves",
+        "Leaders change nations alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "The verse ties a nation's change to inner personal change.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-G-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: رب زدني علما. What does this prayer ask for?",
+      "options": [
+        "More wealth",
+        "More children",
+        "More power",
+        "More knowledge"
+      ],
+      "correctIndex": 3,
+      "explanation": "زدني علما means increase me in knowledge.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-G-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: اقرأ باسم ربك الذي خلق. What is the first command here?",
+      "options": [
+        "Read",
+        "Pray",
+        "Fast",
+        "Give charity"
+      ],
+      "correctIndex": 0,
+      "explanation": "اقرأ is the very first word revealed in the Quran.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-G-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: ربنا هب لنا من أزواجنا وذرياتنا قرة أعين. What does it ask for?",
+      "options": [
+        "More money",
+        "Peace and joy from family",
+        "Long life",
+        "Good health"
+      ],
+      "correctIndex": 1,
+      "explanation": "قرة أعين means the delight of the eyes.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-G-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: رب أوزعني أن أشكر نعمتك. What does it ask for?",
+      "options": [
+        "More blessings",
+        "A new home",
+        "The ability to thank God for blessings",
+        "Forgiveness alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "أوزعني أن أشكر means enable me to give thanks.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-RED-G-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: لئن شكرتم لأزيدنكم. What does God promise?",
+      "options": [
+        "He tests them more",
+        "He takes away wealth",
+        "He forgives all sins",
+        "He increases their blessings"
+      ],
+      "correctIndex": 3,
+      "explanation": "لأزيدنكم means I will surely increase you.",
+      "curriculumRef": "NERDC Primary 5 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

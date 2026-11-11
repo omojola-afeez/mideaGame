@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "english",
+  "topic": "vocabulary",
+  "title": "Word workshop",
+  "questions": [
+    {
+      "code": "4-ENG-VOC-B-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does big mean?",
+      "options": [
+        "Large",
+        "Small",
+        "Quick",
+        "Cold"
+      ],
+      "correctIndex": 0,
+      "explanation": "Big means large.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-B-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does small mean?",
+      "options": [
+        "Large",
+        "Little",
+        "Soft",
+        "Fast"
+      ],
+      "correctIndex": 1,
+      "explanation": "Small means little.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-B-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does happy mean?",
+      "options": [
+        "Sad",
+        "Angry",
+        "Glad",
+        "Tired"
+      ],
+      "correctIndex": 2,
+      "explanation": "Happy means glad.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-B-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does fast mean?",
+      "options": [
+        "Slow",
+        "Late",
+        "Cold",
+        "Quick"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fast means quick.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-B-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does cold mean?",
+      "options": [
+        "Not hot",
+        "Very hot",
+        "Very sweet",
+        "Very loud"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cold is not hot.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-B-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does start mean?",
+      "options": [
+        "End",
+        "Begin",
+        "Stop",
+        "Wait"
+      ],
+      "correctIndex": 1,
+      "explanation": "Start means begin.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-B-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does end mean?",
+      "options": [
+        "Start",
+        "Begin",
+        "Finish",
+        "Go"
+      ],
+      "correctIndex": 2,
+      "explanation": "End means finish.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-B-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does near mean?",
+      "options": [
+        "Very far",
+        "Up high",
+        "Down low",
+        "Not far"
+      ],
+      "correctIndex": 3,
+      "explanation": "Near means not far.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-S-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of hot?",
+      "options": [
+        "Cold",
+        "Warm",
+        "Sunny",
+        "Wet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot and cold are opposites.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-S-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of big?",
+      "options": [
+        "Large",
+        "Small",
+        "Huge",
+        "Tall"
+      ],
+      "correctIndex": 1,
+      "explanation": "Big and small are opposites.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-S-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of up?",
+      "options": [
+        "High",
+        "Over",
+        "Down",
+        "Above"
+      ],
+      "correctIndex": 2,
+      "explanation": "Up and down are opposites.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-S-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of day?",
+      "options": [
+        "Morning",
+        "Noon",
+        "Sun",
+        "Night"
+      ],
+      "correctIndex": 3,
+      "explanation": "Day and night are opposites.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-S-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of fast?",
+      "options": [
+        "Slow",
+        "Quick",
+        "Rapid",
+        "Hurry"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fast and slow are opposites.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-S-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of happy?",
+      "options": [
+        "Glad",
+        "Sad",
+        "Joyful",
+        "Merry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Happy and sad are opposites.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-S-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of open?",
+      "options": [
+        "Clear",
+        "Wide",
+        "Shut",
+        "Loose"
+      ],
+      "correctIndex": 2,
+      "explanation": "Open and shut are opposites.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-S-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of full?",
+      "options": [
+        "Complete",
+        "Heavy",
+        "Over",
+        "Empty"
+      ],
+      "correctIndex": 3,
+      "explanation": "Full and empty are opposites.",
+      "curriculumRef": "NERDC Nursery 2 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-G-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Which word means the same as big?",
+      "options": [
+        "Large",
+        "Small",
+        "Little",
+        "Tiny"
+      ],
+      "correctIndex": 0,
+      "explanation": "Big and large mean the same.",
+      "curriculumRef": "NERDC Primary 1 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-G-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Which word means the same as small?",
+      "options": [
+        "Huge",
+        "Little",
+        "Big",
+        "Tall"
+      ],
+      "correctIndex": 1,
+      "explanation": "Small and little mean the same.",
+      "curriculumRef": "NERDC Primary 1 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-G-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Which word means the same as happy?",
+      "options": [
+        "Sad",
+        "Mad",
+        "Glad",
+        "Tired"
+      ],
+      "correctIndex": 2,
+      "explanation": "Happy and glad mean the same.",
+      "curriculumRef": "NERDC Primary 1 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-G-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Which word means the same as quick?",
+      "options": [
+        "Slow",
+        "Late",
+        "Calm",
+        "Fast"
+      ],
+      "correctIndex": 3,
+      "explanation": "Quick and fast mean the same.",
+      "curriculumRef": "NERDC Primary 1 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-G-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Which word means the same as begin?",
+      "options": [
+        "Start",
+        "End",
+        "Stop",
+        "Finish"
+      ],
+      "correctIndex": 0,
+      "explanation": "Begin and start mean the same.",
+      "curriculumRef": "NERDC Primary 1 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-G-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Which word means the same as jump?",
+      "options": [
+        "Sit",
+        "Leap",
+        "Walk",
+        "Stand"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jump and leap mean the same.",
+      "curriculumRef": "NERDC Primary 1 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-G-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Which word means the same as rich?",
+      "options": [
+        "Poor",
+        "Hungry",
+        "Wealthy",
+        "Weak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rich and wealthy mean the same.",
+      "curriculumRef": "NERDC Primary 1 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-VOC-G-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "What does brave mean?",
+      "options": [
+        "Very scared",
+        "Very weak",
+        "Very shy",
+        "Not scared"
+      ],
+      "correctIndex": 3,
+      "explanation": "Brave means not scared.",
+      "curriculumRef": "NERDC Primary 1 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "english",
+  "topic": "grammar",
+  "title": "Grammar garden",
+  "questions": [
+    {
+      "code": "4-ENG-GRA-B-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word names a girl?",
+      "options": [
+        "Mama",
+        "Run",
+        "Big",
+        "Slowly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mama names a girl. Nouns name people.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: nouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-B-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word names a place?",
+      "options": [
+        "Jumps",
+        "School",
+        "Red",
+        "Sings"
+      ],
+      "correctIndex": 1,
+      "explanation": "School names a place.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: nouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-B-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word names a pet?",
+      "options": [
+        "Table",
+        "Book",
+        "Goat",
+        "Pencil"
+      ],
+      "correctIndex": 2,
+      "explanation": "A goat is a pet. Nouns name animals.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: nouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-B-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word shows action?",
+      "options": [
+        "Chair",
+        "Tall",
+        "Blue",
+        "Run"
+      ],
+      "correctIndex": 3,
+      "explanation": "Run tells what you do. Verbs show action.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: verbs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-B-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word names a thing you eat?",
+      "options": [
+        "Rice",
+        "Chair",
+        "Shoe",
+        "Lamp"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rice is a thing you eat.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: nouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-B-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word names a thing?",
+      "options": [
+        "Happy",
+        "Cup",
+        "Sing",
+        "Fast"
+      ],
+      "correctIndex": 1,
+      "explanation": "A cup is a thing.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: nouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-B-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which names a boy in the family?",
+      "options": [
+        "River",
+        "Tree",
+        "Brother",
+        "Stone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Brother is a boy in the family.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: nouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-B-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word shows what you do?",
+      "options": [
+        "House",
+        "Red",
+        "Happy",
+        "Swim"
+      ],
+      "correctIndex": 3,
+      "explanation": "Swim shows an action.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: verbs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-S-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Which word can take the place of Bola?",
+      "options": [
+        "She",
+        "He",
+        "It",
+        "They"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bola is a girl, so we use she.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: pronouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-S-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Which word can take the place of Tunde?",
+      "options": [
+        "She",
+        "He",
+        "It",
+        "We"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tunde is a boy, so we use he.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: pronouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-S-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Fill the gap: ___ is my brother.",
+      "options": [
+        "She",
+        "It",
+        "He",
+        "They"
+      ],
+      "correctIndex": 2,
+      "explanation": "We use he for a boy.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: pronouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-S-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Which word tells how Musa feels?",
+      "options": [
+        "Runs",
+        "Desk",
+        "Mango",
+        "Happy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Happy tells a feeling.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: adjectives",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-S-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Which word tells about the cat?",
+      "options": [
+        "Black",
+        "Runs",
+        "Sings",
+        "Eats"
+      ],
+      "correctIndex": 0,
+      "explanation": "Black describes the cat.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: adjectives",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-S-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Fill the gap: My hands are ___.",
+      "options": [
+        "run",
+        "clean",
+        "jump",
+        "sing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clean tells how my hands are.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: adjectives",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-S-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Which word is a naming word?",
+      "options": [
+        "Run",
+        "Quick",
+        "Dog",
+        "Sing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dog names an animal.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: nouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-S-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Which word is the action word?",
+      "options": [
+        "Table",
+        "Tall",
+        "Red",
+        "Jump"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jump shows an action.",
+      "curriculumRef": "NERDC Nursery 2 English, grammar: verbs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-G-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "What is more than one book called?",
+      "options": [
+        "Books",
+        "Bookes",
+        "Bookies",
+        "Bookss"
+      ],
+      "correctIndex": 0,
+      "explanation": "To make book plural, add s.",
+      "curriculumRef": "NERDC Primary 1 English, grammar: plurals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-G-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "What is more than one cat called?",
+      "options": [
+        "Cates",
+        "Cats",
+        "Caties",
+        "Catss"
+      ],
+      "correctIndex": 1,
+      "explanation": "One cat, many cats. Add s.",
+      "curriculumRef": "NERDC Primary 1 English, grammar: plurals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-G-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "What is the plural of box?",
+      "options": [
+        "Boxs",
+        "Boxies",
+        "Boxes",
+        "Box"
+      ],
+      "correctIndex": 2,
+      "explanation": "Words like box add es.",
+      "curriculumRef": "NERDC Primary 1 English, grammar: plurals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-G-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "What is the plural of baby?",
+      "options": [
+        "Babys",
+        "Babyes",
+        "Baby",
+        "Babies"
+      ],
+      "correctIndex": 3,
+      "explanation": "Words ending in y change to ies.",
+      "curriculumRef": "NERDC Primary 1 English, grammar: plurals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-G-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "Fill the gap: She is ___ than me.",
+      "options": [
+        "taller",
+        "tall",
+        "tallest",
+        "run"
+      ],
+      "correctIndex": 0,
+      "explanation": "Use taller to compare two people.",
+      "curriculumRef": "NERDC Primary 1 English, grammar: comparison",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-G-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "Fill the gap: It is Uche's bag. It is ___.",
+      "options": [
+        "his",
+        "hers",
+        "its",
+        "theirs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hers means it belongs to Uche.",
+      "curriculumRef": "NERDC Primary 1 English, grammar: possessive pronouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-G-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "Fill the gap: The boys lost ___ ball.",
+      "options": [
+        "his",
+        "her",
+        "their",
+        "its"
+      ],
+      "correctIndex": 2,
+      "explanation": "Their shows the ball is theirs.",
+      "curriculumRef": "NERDC Primary 1 English, grammar: possessive pronouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-GRA-G-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "Which sentence is right?",
+      "options": [
+        "She run fast.",
+        "She running fast.",
+        "She runned fast.",
+        "She runs fast."
+      ],
+      "correctIndex": 3,
+      "explanation": "With she, the verb gets an s.",
+      "curriculumRef": "NERDC Primary 1 English, grammar: subject and verb",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

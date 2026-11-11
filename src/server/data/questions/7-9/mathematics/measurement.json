@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "mathematics",
+  "topic": "measurement",
+  "title": "Measure meadows",
+  "questions": [
+    {
+      "code": "7-MAT-MEA-B-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "Minutes in 1 hour?",
+      "options": [
+        "60",
+        "30",
+        "100",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "One hour has 60 minutes.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-B-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many cm are in 1 m?",
+      "options": [
+        "10",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 m is 100 cm.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-B-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many days are in one week?",
+      "options": [
+        "5",
+        "10",
+        "7",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "A week has 7 days.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-B-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "Grams in 1 kg?",
+      "options": [
+        "100",
+        "10",
+        "500",
+        "1000"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 kg is 1000 grams.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-B-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "What do we use to measure mass?",
+      "options": [
+        "A scale",
+        "A ruler",
+        "A clock",
+        "A cup"
+      ],
+      "correctIndex": 0,
+      "explanation": "A scale measures mass.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-B-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "Which is heavier: 2 kg or 500 g?",
+      "options": [
+        "500 g",
+        "2 kg",
+        "They are the same",
+        "1 kg"
+      ],
+      "correctIndex": 1,
+      "explanation": "2 kg is heavier than 500 g.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-B-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many hours are in two days?",
+      "options": [
+        "24",
+        "12",
+        "48",
+        "60"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 days is 48 hours.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-B-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "One minute has 60 of what?",
+      "options": [
+        "Hours",
+        "Days",
+        "Weeks",
+        "Seconds"
+      ],
+      "correctIndex": 3,
+      "explanation": "One minute has 60 seconds.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-S-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "How many mm are in one cm?",
+      "options": [
+        "10",
+        "100",
+        "5",
+        "1"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 cm is 10 mm.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-S-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "What is 3 m in centimetres?",
+      "options": [
+        "30 cm",
+        "300 cm",
+        "3,000 cm",
+        "30 m"
+      ],
+      "correctIndex": 1,
+      "explanation": "3 m is 300 cm.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-S-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "What is 2 kg in grams?",
+      "options": [
+        "200 g",
+        "20,000 g",
+        "2000 g",
+        "20 g"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 kg is 2000 grams.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-S-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A lesson starts at 9:00 and ends at 9:45. How long is it?",
+      "options": [
+        "30 minutes",
+        "60 minutes",
+        "15 minutes",
+        "45 minutes"
+      ],
+      "correctIndex": 3,
+      "explanation": "From 9:00 to 9:45 is 45 minutes.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-S-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "Which is longer: 1 km or 999 m?",
+      "options": [
+        "1 km",
+        "999 m",
+        "They are the same",
+        "900 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 km is 1000 m.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-S-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "There are how many minutes in 2 hours?",
+      "options": [
+        "60",
+        "120",
+        "100",
+        "90"
+      ],
+      "correctIndex": 1,
+      "explanation": "2 hours is 120 minutes.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-S-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "What is 500 cm in metres?",
+      "options": [
+        "50 m",
+        "500 m",
+        "5 m",
+        "50 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "500 cm is 5 m.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-S-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "How many days are in one year?",
+      "options": [
+        "360",
+        "364",
+        "300",
+        "365"
+      ],
+      "correctIndex": 3,
+      "explanation": "A year has 365 days.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-G-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "What is 1 km 500 m in metres?",
+      "options": [
+        "1500 m",
+        "1050 m",
+        "150 m",
+        "500 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 km is 1000 m, plus 500 m is 1500 m.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-G-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A bottle holds 2 litres. One glass holds 250 ml. How many glasses fill it?",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "2000 ml shared by 250 ml is 8 glasses.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-G-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "What is 3.5 kg in grams?",
+      "options": [
+        "350 g",
+        "3000 g",
+        "3500 g",
+        "35 g"
+      ],
+      "correctIndex": 2,
+      "explanation": "3.5 kg is 3500 grams.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-G-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "School starts at 8:15 and ends at 2:15. How many hours is that?",
+      "options": [
+        "5 hours",
+        "7 hours",
+        "8 hours",
+        "6 hours"
+      ],
+      "correctIndex": 3,
+      "explanation": "From 8:15 to 2:15 is 6 hours.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-G-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "What is 2 m 25 cm in centimetres?",
+      "options": [
+        "225 cm",
+        "250 cm",
+        "2025 cm",
+        "2075 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 m is 200 cm, plus 25 cm is 225 cm.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-G-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "How many weeks are in 56 days?",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 1,
+      "explanation": "56 shared by 7 is 8 weeks.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-G-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A bag weighs 1.5 kg. Another weighs 900 g. Which is heavier?",
+      "options": [
+        "The 900 g bag",
+        "They weigh the same",
+        "The 1.5 kg bag",
+        "Neither"
+      ],
+      "correctIndex": 2,
+      "explanation": "1.5 kg is 1500 g, more than 900 g.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MEA-G-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "What is 1500 ml in litres?",
+      "options": [
+        "15 litres",
+        "0.15 litres",
+        "1.5 ml",
+        "1.5 litres"
+      ],
+      "correctIndex": 3,
+      "explanation": "1000 ml is 1 litre, plus 500 ml is 1.5 litres.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

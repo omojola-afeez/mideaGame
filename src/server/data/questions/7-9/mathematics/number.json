@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "mathematics",
+  "topic": "number",
+  "title": "Number nook",
+  "questions": [
+    {
+      "code": "7-MAT-NUM-B-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is the place value of 5 in 352?",
+      "options": [
+        "50",
+        "5",
+        "500",
+        "0"
+      ],
+      "correctIndex": 0,
+      "explanation": "5 is in the tens place, so it is 50.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-B-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Write 346 in words.",
+      "options": [
+        "Three hundred and sixty-four",
+        "Three hundred and forty-six",
+        "Four hundred and thirty-six",
+        "Three hundred and forty"
+      ],
+      "correctIndex": 1,
+      "explanation": "346 is three hundred and forty-six.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-B-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Which number is the greatest: 245, 524, 452, 542?",
+      "options": [
+        "245",
+        "452",
+        "542",
+        "524"
+      ],
+      "correctIndex": 2,
+      "explanation": "542 is bigger than the rest.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-B-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Round 47 to the nearest 10.",
+      "options": [
+        "40",
+        "45",
+        "60",
+        "50"
+      ],
+      "correctIndex": 3,
+      "explanation": "47 is closer to 50 than to 40.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-B-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Is 64 even or odd?",
+      "options": [
+        "Even",
+        "Odd",
+        "Both",
+        "Neither"
+      ],
+      "correctIndex": 0,
+      "explanation": "64 splits into two equal groups.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-B-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What comes after 999?",
+      "options": [
+        "100",
+        "1,000",
+        "10,000",
+        "998"
+      ],
+      "correctIndex": 1,
+      "explanation": "1000 comes after 999.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-B-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is the place value of 7 in 721?",
+      "options": [
+        "7",
+        "70",
+        "700",
+        "7,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "7 is in the hundreds place.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-B-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Write 508 in words.",
+      "options": [
+        "Five hundred and eighty",
+        "Five hundred and eighteen",
+        "Five hundred",
+        "Five hundred and eight"
+      ],
+      "correctIndex": 3,
+      "explanation": "508 is five hundred and eight.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-S-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "What is 256 + 100?",
+      "options": [
+        "356",
+        "456",
+        "266",
+        "156"
+      ],
+      "correctIndex": 0,
+      "explanation": "256 plus 100 is 356.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-S-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Round 128 to the nearest 100.",
+      "options": [
+        "200",
+        "100",
+        "130",
+        "120"
+      ],
+      "correctIndex": 1,
+      "explanation": "128 is closer to 100 than to 200.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-S-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which number is the smallest: 305, 350, 530, 503?",
+      "options": [
+        "350",
+        "503",
+        "305",
+        "530"
+      ],
+      "correctIndex": 2,
+      "explanation": "305 is less than the rest.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-S-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "What is 90 + 90?",
+      "options": [
+        "160",
+        "170",
+        "190",
+        "180"
+      ],
+      "correctIndex": 3,
+      "explanation": "90 plus 90 is 180.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-S-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Is 217 odd or even?",
+      "options": [
+        "Odd",
+        "Even",
+        "Both",
+        "Neither"
+      ],
+      "correctIndex": 0,
+      "explanation": "217 leaves 1 when split into two.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-S-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "What is 1,000 - 1?",
+      "options": [
+        "1,001",
+        "999",
+        "990",
+        "100"
+      ],
+      "correctIndex": 1,
+      "explanation": "1000 take away 1 is 999.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-S-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "What comes next: 125, 150, 175, ...?",
+      "options": [
+        "180",
+        "225",
+        "200",
+        "190"
+      ],
+      "correctIndex": 2,
+      "explanation": "The pattern adds 25 each time.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-S-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Round 63 to the nearest 10.",
+      "options": [
+        "70",
+        "50",
+        "65",
+        "60"
+      ],
+      "correctIndex": 3,
+      "explanation": "63 is closer to 60 than to 70.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-G-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "What is 465 + 38?",
+      "options": [
+        "503",
+        "493",
+        "513",
+        "403"
+      ],
+      "correctIndex": 0,
+      "explanation": "465 plus 38 is 503.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-G-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "What is 700 - 245?",
+      "options": [
+        "445",
+        "455",
+        "465",
+        "555"
+      ],
+      "correctIndex": 1,
+      "explanation": "700 take away 245 is 455.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-G-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Greatest 3-digit number from 2, 9, 4?",
+      "options": [
+        "924",
+        "294",
+        "942",
+        "492"
+      ],
+      "correctIndex": 2,
+      "explanation": "Put the biggest digits first: 942.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-G-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Round 275 to the nearest 100.",
+      "options": [
+        "200",
+        "250",
+        "280",
+        "300"
+      ],
+      "correctIndex": 3,
+      "explanation": "275 is closer to 300 than to 200.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-G-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "What is 32 × 10?",
+      "options": [
+        "320",
+        "302",
+        "3200",
+        "230"
+      ],
+      "correctIndex": 0,
+      "explanation": "32 times 10 is 320.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-G-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "How many tens are in 480?",
+      "options": [
+        "8",
+        "48",
+        "4",
+        "408"
+      ],
+      "correctIndex": 1,
+      "explanation": "480 is made of 48 tens.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-G-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "What is 6 × 100?",
+      "options": [
+        "60",
+        "6,000",
+        "600",
+        "106"
+      ],
+      "correctIndex": 2,
+      "explanation": "6 times 100 is 600.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-NUM-G-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "What number is halfway between 40 and 60?",
+      "options": [
+        "45",
+        "55",
+        "20",
+        "50"
+      ],
+      "correctIndex": 3,
+      "explanation": "50 is exactly between 40 and 60.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

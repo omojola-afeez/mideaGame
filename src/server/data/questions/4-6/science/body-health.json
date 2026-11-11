@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "science",
+  "topic": "body-health",
+  "title": "Body bay",
+  "questions": [
+    {
+      "code": "4-SCI-BOD-B-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Which part of your body pumps blood?",
+      "options": [
+        "The heart",
+        "The hand",
+        "The foot",
+        "The nose"
+      ],
+      "correctIndex": 0,
+      "explanation": "The heart pumps blood around the body.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-B-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "What do we use to see?",
+      "options": [
+        "Our knees",
+        "Our eyes",
+        "Our ears",
+        "Our toes"
+      ],
+      "correctIndex": 1,
+      "explanation": "We see with our eyes.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-B-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "What do we use to hear?",
+      "options": [
+        "Our eyes",
+        "Our nose",
+        "Our ears",
+        "Our mouth"
+      ],
+      "correctIndex": 2,
+      "explanation": "We hear with our ears.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-B-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Which part chews food?",
+      "options": [
+        "The fingers",
+        "The knees",
+        "The elbow",
+        "The teeth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Teeth chew our food.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-B-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "What do we use to smell?",
+      "options": [
+        "Our nose",
+        "Our eyes",
+        "Our toes",
+        "Our legs"
+      ],
+      "correctIndex": 0,
+      "explanation": "We smell with our nose.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-B-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "How many legs do we have?",
+      "options": [
+        "Four",
+        "Two",
+        "Six",
+        "Eight"
+      ],
+      "correctIndex": 1,
+      "explanation": "We have two legs.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-B-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "What do we use to eat?",
+      "options": [
+        "Our ears",
+        "Our nose",
+        "Our mouth",
+        "Our eyes"
+      ],
+      "correctIndex": 2,
+      "explanation": "We eat with our mouth.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-B-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Which part helps us walk?",
+      "options": [
+        "Our nose",
+        "Our ears",
+        "Our eyes",
+        "Our legs"
+      ],
+      "correctIndex": 3,
+      "explanation": "We walk with our legs.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-S-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why wash your hands?",
+      "options": [
+        "To kill germs",
+        "To cool them",
+        "To make them soft",
+        "To smell nice"
+      ],
+      "correctIndex": 0,
+      "explanation": "Washing hands kills germs.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-S-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "What do we brush twice a day?",
+      "options": [
+        "Our toes",
+        "Our teeth",
+        "Our elbows",
+        "Our knees"
+      ],
+      "correctIndex": 1,
+      "explanation": "Brush teeth twice a day.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-S-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Which foods make us strong?",
+      "options": [
+        "Candy",
+        "Chips",
+        "Milk and beans",
+        "Cola"
+      ],
+      "correctIndex": 2,
+      "explanation": "Milk and beans build strong bodies.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-S-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why do we need clean water?",
+      "options": [
+        "To wash cars",
+        "To fight fires",
+        "To fill cans",
+        "To stay healthy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clean water keeps us healthy.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-S-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Which one is a healthy meal?",
+      "options": [
+        "Rice and beans",
+        "Sweets",
+        "Crisp",
+        "Cola"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rice and beans make a good meal.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-S-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "How many hours should we sleep?",
+      "options": [
+        "Two hours",
+        "Nine to eleven hours",
+        "Four hours",
+        "One hour"
+      ],
+      "correctIndex": 1,
+      "explanation": "Children need nine to eleven hours of sleep.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-S-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why wash before meals?",
+      "options": [
+        "To see better",
+        "To hear better",
+        "To get rid of germs",
+        "To run faster"
+      ],
+      "correctIndex": 2,
+      "explanation": "Washing before meals removes germs.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-S-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Which drink is best for you?",
+      "options": [
+        "Cola",
+        "Tea",
+        "Soda",
+        "Water"
+      ],
+      "correctIndex": 3,
+      "explanation": "Water is the best drink for the body.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-G-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why is sleep good for you?",
+      "options": [
+        "It helps us grow",
+        "It cools the sun",
+        "It fills our belly",
+        "It grows hair"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sleep helps the body grow and rest.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-G-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "What does milk give us?",
+      "options": [
+        "Fancy hair",
+        "Strong bones",
+        "New clothes",
+        "Big eyes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Milk builds strong bones.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-G-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why should we eat fruit?",
+      "options": [
+        "It fills the bin",
+        "It cleans shoes",
+        "It has vitamins",
+        "It cools the room"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fruits have vitamins the body needs.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-G-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "What do germs cause?",
+      "options": [
+        "Health",
+        "Strength",
+        "Sleep",
+        "Sickness"
+      ],
+      "correctIndex": 3,
+      "explanation": "Germs make us sick.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-G-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why is play good for the body?",
+      "options": [
+        "It keeps us fit",
+        "It cools the house",
+        "It scares germs",
+        "It boils food"
+      ],
+      "correctIndex": 0,
+      "explanation": "Play keeps the body strong and fit.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-G-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Which one is not good?",
+      "options": [
+        "Brushing teeth",
+        "Not washing hands",
+        "Eating fruit",
+        "Sleeping early"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unwashed hands carry germs.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-G-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "What helps cuts heal?",
+      "options": [
+        "Leaving them dirty",
+        "Putting mud on them",
+        "Keeping them clean",
+        "Skipping meals"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clean cuts heal faster.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-BOD-G-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why is rest after work good?",
+      "options": [
+        "It grows hair",
+        "It boils blood",
+        "It cools soup",
+        "It refreshes the body"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rest lets the body recover.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

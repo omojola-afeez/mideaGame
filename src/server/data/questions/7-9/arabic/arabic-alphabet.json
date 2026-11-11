@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "arabic",
+  "topic": "arabic-alphabet",
+  "title": "Letter lagoon",
+  "questions": [
+    {
+      "code": "7-ARB-ARA-B-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "What is the name of this letter: ب?",
+      "options": [
+        "Ba",
+        "Ta",
+        "Tha",
+        "Jeem"
+      ],
+      "correctIndex": 0,
+      "explanation": "ب is called ba.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-B-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "What sound does ث make?",
+      "options": [
+        "B as in bat",
+        "Th as in three",
+        "T as in ten",
+        "S as in sun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tha is pronounced like th in three.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-B-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is kha?",
+      "options": [
+        "ح",
+        "ج",
+        "خ",
+        "د"
+      ],
+      "correctIndex": 2,
+      "explanation": "خ is kha, a rough h sound.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-B-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is haa?",
+      "options": [
+        "خ",
+        "هـ",
+        "ج",
+        "ح"
+      ],
+      "correctIndex": 3,
+      "explanation": "ح is a deep h sound made in the throat.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-B-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is ayn?",
+      "options": [
+        "ع",
+        "غ",
+        "ف",
+        "ق"
+      ],
+      "correctIndex": 0,
+      "explanation": "ع is ayn, a voiced throat sound.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-B-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is ghayn?",
+      "options": [
+        "ع",
+        "غ",
+        "ق",
+        "ف"
+      ],
+      "correctIndex": 1,
+      "explanation": "غ is ghayn, a throaty gh sound.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-B-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is fa?",
+      "options": [
+        "ق",
+        "ك",
+        "ف",
+        "ب"
+      ],
+      "correctIndex": 2,
+      "explanation": "ف is fa, like English f.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-B-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is qaaf?",
+      "options": [
+        "ف",
+        "ك",
+        "ل",
+        "ق"
+      ],
+      "correctIndex": 3,
+      "explanation": "ق is qaaf, a deep q sound.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-S-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "How does ba look at the end of a word?",
+      "options": [
+        "ـب",
+        "بـ",
+        "ـبـ",
+        "ب"
+      ],
+      "correctIndex": 0,
+      "explanation": "Final ba is written as ـب with a joining tail.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-S-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "How does meem look at the start of a word?",
+      "options": [
+        "ـم",
+        "مـ",
+        "ـمـ",
+        "م"
+      ],
+      "correctIndex": 1,
+      "explanation": "Initial meem is written as مـ.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-S-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "How does noon look in the middle of a word?",
+      "options": [
+        "نـ",
+        "ـن",
+        "ـنـ",
+        "ن"
+      ],
+      "correctIndex": 2,
+      "explanation": "Medial noon is written as ـنـ.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-S-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "Which letter never joins the next letter?",
+      "options": [
+        "ب",
+        "م",
+        "س",
+        "ا"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alif, dal, ra and waw do not join forward.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-S-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "How is lam-alif written?",
+      "options": [
+        "لا",
+        "ال",
+        "لم",
+        "نا"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lam and alif join as لا.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-S-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "How many dots does tha have?",
+      "options": [
+        "One dot above",
+        "Three dots above",
+        "Two dots above",
+        "One dot below"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tha is ث with three dots above.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-S-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "How many dots does ba have?",
+      "options": [
+        "One dot above",
+        "Two dots above",
+        "One dot below",
+        "No dots"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ba is ب with one dot below.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-S-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "Which letter has three dots?",
+      "options": [
+        "ب",
+        "ت",
+        "ن",
+        "ث"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tha is ث with three dots above.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-G-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word begins with شم?",
+      "options": [
+        "شمس",
+        "قمر",
+        "نجم",
+        "ليل"
+      ],
+      "correctIndex": 0,
+      "explanation": "شمس (shams) means sun and starts with sheen and meem.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-G-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word begins with قم?",
+      "options": [
+        "شمس",
+        "قمر",
+        "بيت",
+        "تمر"
+      ],
+      "correctIndex": 1,
+      "explanation": "قمر (qamar) means moon and starts with qaf and meem.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-G-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word contains the letter خ?",
+      "options": [
+        "ماء",
+        "لبن",
+        "خبز",
+        "أرز"
+      ],
+      "correctIndex": 2,
+      "explanation": "خبز (khubz) means bread and contains kha.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-G-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word contains the letter ق?",
+      "options": [
+        "كتاب",
+        "بيت",
+        "ماء",
+        "قلم"
+      ],
+      "correctIndex": 3,
+      "explanation": "قلم (qalam) means pen and contains qaf.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-G-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word contains the letter غ?",
+      "options": [
+        "غزال",
+        "جمل",
+        "حصان",
+        "فيل"
+      ],
+      "correctIndex": 0,
+      "explanation": "غزال (ghazal) means deer and contains ghayn.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-G-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which pair spells ما?",
+      "options": [
+        "م + ن",
+        "م + ا",
+        "ل + ا",
+        "ن + ا"
+      ],
+      "correctIndex": 1,
+      "explanation": "ما is meem joined to alif.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-G-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which pair spells بي?",
+      "options": [
+        "ب + و",
+        "ت + ي",
+        "ب + ي",
+        "ث + ي"
+      ],
+      "correctIndex": 2,
+      "explanation": "بي is ba joined to ya.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-ARA-G-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "ما الحرف الذي يأتي بعد ج؟",
+      "options": [
+        "خ",
+        "ث",
+        "د",
+        "ح"
+      ],
+      "correctIndex": 3,
+      "explanation": "The order is jeem, haa, kha.",
+      "curriculumRef": "NERDC Primary 3 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

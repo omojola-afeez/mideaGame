@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "arabic",
+  "topic": "arabic-alphabet",
+  "title": "Letter lagoon",
+  "questions": [
+    {
+      "code": "4-ARB-ARA-B-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is alif?",
+      "options": [
+        "ا",
+        "ب",
+        "ت",
+        "ث"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alif is the first letter of the Arabic alphabet.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-B-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is ba?",
+      "options": [
+        "ا",
+        "ب",
+        "ت",
+        "ج"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ba is the second letter of the alphabet.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-B-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is ta?",
+      "options": [
+        "ب",
+        "ث",
+        "ت",
+        "ن"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ta has two dots above the letter.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-B-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is jeem?",
+      "options": [
+        "ح",
+        "خ",
+        "د",
+        "ج"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jeem has one dot below the letter.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-B-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is meem?",
+      "options": [
+        "م",
+        "ن",
+        "ل",
+        "و"
+      ],
+      "correctIndex": 0,
+      "explanation": "Meem starts the word for water, ماء.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-B-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is noon?",
+      "options": [
+        "م",
+        "ن",
+        "ب",
+        "و"
+      ],
+      "correctIndex": 1,
+      "explanation": "Noon has one dot above the letter.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-B-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is lam?",
+      "options": [
+        "ر",
+        "ا",
+        "ل",
+        "ك"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lam is a tall letter like a stick.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-B-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is ha?",
+      "options": [
+        "و",
+        "ف",
+        "ك",
+        "هـ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ha is a soft sound made near the throat.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-S-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "What sound does ba make?",
+      "options": [
+        "B as in bat",
+        "T as in ten",
+        "M as in man",
+        "S as in sun"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ba is pronounced like the English b.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-S-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "What sound does seen make?",
+      "options": [
+        "Sh as in ship",
+        "S as in sun",
+        "Z as in zoo",
+        "H as in hat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Seen is a soft s sound.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-S-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "Which letter makes the L sound?",
+      "options": [
+        "ر",
+        "ن",
+        "ل",
+        "م"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lam is pronounced like English l.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-S-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "Which letter makes the R sound?",
+      "options": [
+        "ز",
+        "و",
+        "ل",
+        "ر"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ra is a rolled r sound.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-S-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "Which three letters share one boat shape?",
+      "options": [
+        "ب ت ث",
+        "ا و ي",
+        "م ن ل",
+        "س ش ص"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ba, ta and tha share one shape with different dots.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-S-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "How many dots does jeem have?",
+      "options": [
+        "One dot above",
+        "One dot below",
+        "Two dots above",
+        "Three dots above"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jeem is ج with one dot underneath.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-S-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "Which letter has two dots above?",
+      "options": [
+        "ب",
+        "ث",
+        "ت",
+        "ج"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ta has two dots above the boat shape.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-S-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "Which letter has three dots above?",
+      "options": [
+        "ت",
+        "ب",
+        "ن",
+        "ث"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tha has three dots above the boat shape.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-G-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word starts with alif?",
+      "options": [
+        "أسد",
+        "بيت",
+        "قلم",
+        "ماء"
+      ],
+      "correctIndex": 0,
+      "explanation": "أسد (asad) means lion and starts with alif.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-G-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word starts with ba?",
+      "options": [
+        "تمر",
+        "بيت",
+        "سمك",
+        "جمل"
+      ],
+      "correctIndex": 1,
+      "explanation": "بيت (bayt) means house and starts with ba.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-G-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word starts with seen?",
+      "options": [
+        "بيت",
+        "قلم",
+        "سمك",
+        "دجاج"
+      ],
+      "correctIndex": 2,
+      "explanation": "سمك (samak) means fish and starts with seen.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-G-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word starts with meem?",
+      "options": [
+        "كتاب",
+        "قلم",
+        "بيت",
+        "مدرسة"
+      ],
+      "correctIndex": 3,
+      "explanation": "مدرسة (madrasa) means school and starts with meem.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-G-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word starts with qaf?",
+      "options": [
+        "قطة",
+        "كلب",
+        "ماء",
+        "تمر"
+      ],
+      "correctIndex": 0,
+      "explanation": "قطة (qitta) means cat and starts with qaf.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-G-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which letter can stretch a vowel?",
+      "options": [
+        "ب",
+        "ا",
+        "ت",
+        "ج"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alif stretches the long a sound.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-G-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "What is the name of this letter: و?",
+      "options": [
+        "Ya",
+        "Alif",
+        "Waw",
+        "Ba"
+      ],
+      "correctIndex": 2,
+      "explanation": "و is called waw and makes a w sound.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-ARA-G-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "What is the name of this letter: ي?",
+      "options": [
+        "Waw",
+        "Noon",
+        "Lam",
+        "Ya"
+      ],
+      "correctIndex": 3,
+      "explanation": "ي is called ya and makes a y sound.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

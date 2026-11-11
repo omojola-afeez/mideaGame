@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "english",
+  "topic": "figures",
+  "title": "Figure forest",
+  "questions": [
+    {
+      "code": "4-ENG-FIG-B-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As fast as a ___",
+      "options": [
+        "cheetah",
+        "snail",
+        "goat",
+        "cow"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cheetah is very fast.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-B-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As big as an ___",
+      "options": [
+        "cat",
+        "elephant",
+        "hen",
+        "ant"
+      ],
+      "correctIndex": 1,
+      "explanation": "An elephant is very big.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-B-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As quiet as a ___",
+      "options": [
+        "lion",
+        "drum",
+        "mouse",
+        "bell"
+      ],
+      "correctIndex": 2,
+      "explanation": "A mouse moves very quietly.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-B-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As brave as a ___",
+      "options": [
+        "rabbit",
+        "snail",
+        "cat",
+        "lion"
+      ],
+      "correctIndex": 3,
+      "explanation": "A lion is very brave.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-B-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As sweet as ___",
+      "options": [
+        "honey",
+        "pepper",
+        "salt",
+        "soap"
+      ],
+      "correctIndex": 0,
+      "explanation": "Honey is very sweet.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-B-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As cold as ___",
+      "options": [
+        "fire",
+        "ice",
+        "the sun",
+        "pepper"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ice is very cold.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-B-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As tall as a ___",
+      "options": [
+        "ant",
+        "snail",
+        "giraffe",
+        "hen"
+      ],
+      "correctIndex": 2,
+      "explanation": "A giraffe is very tall.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-B-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As red as a ___",
+      "options": [
+        "leaf",
+        "sky",
+        "mud",
+        "tomato"
+      ],
+      "correctIndex": 3,
+      "explanation": "A tomato is red.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-S-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "She sings like a ___.",
+      "options": [
+        "bird",
+        "fish",
+        "goat",
+        "snake"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bird sings sweetly.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-S-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "He runs like the ___.",
+      "options": [
+        "stone",
+        "wind",
+        "snail",
+        "mud"
+      ],
+      "correctIndex": 1,
+      "explanation": "The wind blows very fast.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-S-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "The baby sleeps like a ___.",
+      "options": [
+        "bell",
+        "lion",
+        "log",
+        "drum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sleeps like a log means sleeps deeply.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-S-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "She is as proud as a ___.",
+      "options": [
+        "mouse",
+        "snail",
+        "cat",
+        "peacock"
+      ],
+      "correctIndex": 3,
+      "explanation": "A peacock shows its fine feathers.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-S-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "The sun went down like a ball of ___.",
+      "options": [
+        "fire",
+        "ice",
+        "water",
+        "rain"
+      ],
+      "correctIndex": 0,
+      "explanation": "The setting sun looks like a ball of fire.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-S-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "The cloud is like ___ cotton.",
+      "options": [
+        "hard",
+        "fluffy",
+        "wet",
+        "sharp"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clouds look like soft cotton.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-S-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "He is as strong as an ___.",
+      "options": [
+        "ant",
+        "hen",
+        "ox",
+        "fish"
+      ],
+      "correctIndex": 2,
+      "explanation": "An ox is very strong.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-S-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "Her voice is like ___ music.",
+      "options": [
+        "sour",
+        "rough",
+        "cold",
+        "sweet"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sweet music is pleasant to hear.",
+      "curriculumRef": "NERDC Nursery 2 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-G-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "In the line, the wind sang, the wind is like a ___.",
+      "options": [
+        "person",
+        "animal",
+        "plant",
+        "machine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giving the wind a song makes it human.",
+      "curriculumRef": "NERDC Primary 1 English, figures: personification",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-G-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "In the line, the pot sang for food, the pot wants ___.",
+      "options": [
+        "water",
+        "food",
+        "a lid",
+        "a song"
+      ],
+      "correctIndex": 1,
+      "explanation": "The pot is given a human want.",
+      "curriculumRef": "NERDC Primary 1 English, figures: personification",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-G-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "What does a piece of cake mean?",
+      "options": [
+        "Very hard",
+        "Very sweet",
+        "Very easy",
+        "Very big"
+      ],
+      "correctIndex": 2,
+      "explanation": "A piece of cake means a task is easy.",
+      "curriculumRef": "NERDC Primary 1 English, figures: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-G-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "What does break a leg mean?",
+      "options": [
+        "Be careful",
+        "Run away",
+        "Sit down",
+        "Good luck"
+      ],
+      "correctIndex": 3,
+      "explanation": "Break a leg is said to wish good luck.",
+      "curriculumRef": "NERDC Primary 1 English, figures: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-G-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "What does raining cats and dogs mean?",
+      "options": [
+        "It is raining hard",
+        "Cats are falling",
+        "It is not raining",
+        "Dogs are swimming"
+      ],
+      "correctIndex": 0,
+      "explanation": "The idiom means a very heavy rain.",
+      "curriculumRef": "NERDC Primary 1 English, figures: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-G-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "In that line, what is given life?",
+      "options": [
+        "The wind",
+        "The house",
+        "The old man",
+        "The door"
+      ],
+      "correctIndex": 1,
+      "explanation": "The house is given a human sound.",
+      "curriculumRef": "NERDC Primary 1 English, figures: personification",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-G-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "What does once in a blue moon mean?",
+      "options": [
+        "Very often",
+        "Every night",
+        "Very rarely",
+        "Never again"
+      ],
+      "correctIndex": 2,
+      "explanation": "A blue moon is rare. The idiom means rarely.",
+      "curriculumRef": "NERDC Primary 1 English, figures: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-FIG-G-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "What does spill the beans mean?",
+      "options": [
+        "Drop the beans",
+        "Cook the beans",
+        "Plant the beans",
+        "Tell the secret"
+      ],
+      "correctIndex": 3,
+      "explanation": "To spill the beans is to tell a secret.",
+      "curriculumRef": "NERDC Primary 1 English, figures: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

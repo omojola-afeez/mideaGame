@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "home-economics",
+  "topic": "food-cook",
+  "title": "Kitchen cove",
+  "questions": [
+    {
+      "code": "4-HEC-COO-B-001",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What do we use to cut bread?",
+      "options": [
+        "A knife",
+        "A spoon",
+        "A fork",
+        "A cup"
+      ],
+      "correctIndex": 0,
+      "explanation": "A knife cuts bread into slices.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-B-002",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What do we boil water in?",
+      "options": [
+        "A plate",
+        "A kettle",
+        "A bucket",
+        "A glass"
+      ],
+      "correctIndex": 1,
+      "explanation": "A kettle safely boils water for us.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-B-003",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "Why do we wash leaves?",
+      "options": [
+        "To add salt",
+        "To cool them",
+        "To remove dirt",
+        "To make them soft"
+      ],
+      "correctIndex": 2,
+      "explanation": "Washing removes dirt and tiny bugs.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-B-004",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What do we stir stew with?",
+      "options": [
+        "A knife",
+        "A fork",
+        "A bottle",
+        "A spoon"
+      ],
+      "correctIndex": 3,
+      "explanation": "A spoon stirs stew without splashing.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-B-005",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "Who may fry things?",
+      "options": [
+        "Grown-ups only",
+        "Little children",
+        "Nobody",
+        "Pets"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot oil can burn, so only grown-ups fry.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-B-006",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What do we cook rice in?",
+      "options": [
+        "A plate",
+        "A pot",
+        "A cup",
+        "A bowl"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rice cooks well in a pot with water.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-B-007",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What do we do after meals?",
+      "options": [
+        "Leave it dirty",
+        "Hide the pot",
+        "Wash the pot",
+        "Throw it away"
+      ],
+      "correctIndex": 2,
+      "explanation": "Washing pots after cooking keeps them clean.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-B-008",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "Which meal do we eat at night?",
+      "options": [
+        "Breakfast",
+        "Lunch",
+        "Snacks",
+        "Dinner"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dinner is the meal we eat at night.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-S-001",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why do we cook food well?",
+      "options": [
+        "To kill germs",
+        "To waste it",
+        "To cool it",
+        "To burn it"
+      ],
+      "correctIndex": 0,
+      "explanation": "Well cooked food has no harmful germs.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-S-002",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "What happens if oil is too hot?",
+      "options": [
+        "It freezes",
+        "It can burn",
+        "It turns sweet",
+        "It gets cold"
+      ],
+      "correctIndex": 1,
+      "explanation": "Very hot oil can catch fire and burn food.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-S-003",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why should we not leave the stove on?",
+      "options": [
+        "It saves gas",
+        "It makes noise",
+        "It may start a fire",
+        "It cools the room"
+      ],
+      "correctIndex": 2,
+      "explanation": "A stove left on can burn the house.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-S-004",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "What is the first step in cooking?",
+      "options": [
+        "Put on music",
+        "Set the table",
+        "Open the fridge",
+        "Wash your hands"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clean hands stop germs from reaching food.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-S-005",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why do we add salt to food?",
+      "options": [
+        "To make it taste nice",
+        "To keep it raw",
+        "To cool it",
+        "To make it sour"
+      ],
+      "correctIndex": 0,
+      "explanation": "A little salt brings out the flavour of food.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-S-006",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "When is it safe to add fish to the pot?",
+      "options": [
+        "When it is cold",
+        "When the water boils",
+        "When the pot is dry",
+        "Before the fire is lit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Boiling water cooks fish safely.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-S-007",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "What should you do with a sharp knife?",
+      "options": [
+        "Leave it on the floor",
+        "Use it as a toy",
+        "Keep it away from children",
+        "Hide it in the bin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sharp knives can cut children.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-S-008",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why do we taste food while cooking?",
+      "options": [
+        "To finish fast",
+        "To cool it",
+        "To add more water",
+        "To check the flavour"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tasting checks if the seasoning is right.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-G-001",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "You want to fry puff-puff. What must be hot first?",
+      "options": [
+        "The oil",
+        "The plate",
+        "The flour",
+        "The table"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot oil fries puff-puff evenly and crisply.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-G-002",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Why must a pot not be too full?",
+      "options": [
+        "It saves gas",
+        "It can boil over",
+        "It cooks faster",
+        "It keeps cool"
+      ],
+      "correctIndex": 1,
+      "explanation": "A full pot boils over and spills on the fire.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-G-003",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "A child wants the knife. What should you do?",
+      "options": [
+        "Give it to him",
+        "Let him try",
+        "Say no and tell a grown-up",
+        "Hide it and laugh"
+      ],
+      "correctIndex": 2,
+      "explanation": "Knives can hurt children, so they stay away.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-G-004",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "How do we know when beans are soft?",
+      "options": [
+        "They are cold",
+        "They are green",
+        "They float",
+        "They crush easily"
+      ],
+      "correctIndex": 3,
+      "explanation": "Soft beans crush easily when pressed.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-G-005",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Why is it risky to fry in wet oil?",
+      "options": [
+        "It can splash and burn",
+        "It tastes sweet",
+        "It cools fast",
+        "It turns green"
+      ],
+      "correctIndex": 0,
+      "explanation": "Water in hot oil splashes and can burn you.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-G-006",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Mum says dinner is near. What should you do?",
+      "options": [
+        "Run to the stove",
+        "Stay away from the stove",
+        "Open the oven",
+        "Touch the pot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Staying back keeps you safe from heat and steam.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-G-007",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "What do we do with extra food?",
+      "options": [
+        "Leave it on the table",
+        "Throw it in the bin",
+        "Keep it covered in the fridge",
+        "Feed the dog"
+      ],
+      "correctIndex": 2,
+      "explanation": "Covered leftovers in the fridge keep longer.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-COO-G-008",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Why should we cook in a clean kitchen?",
+      "options": [
+        "So we can sing",
+        "So the pot stays shiny",
+        "So the cat is happy",
+        "So germs do not reach our food"
+      ],
+      "correctIndex": 3,
+      "explanation": "A clean kitchen stops germs from reaching food.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

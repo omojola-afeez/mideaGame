@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "home-economics",
+  "topic": "nutrition",
+  "title": "Food field",
+  "questions": [
+    {
+      "code": "10-HEC-NUT-B-001",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which nutrient builds and repairs body tissues?",
+      "options": [
+        "Protein",
+        "Carbohydrate",
+        "Fat",
+        "Vitamin C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Protein builds and repairs muscles, skin and organs.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-B-002",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which food is the best source of calcium?",
+      "options": [
+        "Rice",
+        "Milk",
+        "Yam",
+        "Beef"
+      ],
+      "correctIndex": 1,
+      "explanation": "Milk and milk products are the richest calcium sources.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-B-003",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Oranges are rich in which vitamin?",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin B12"
+      ],
+      "correctIndex": 2,
+      "explanation": "Citrus fruits are rich in vitamin C, which boosts immunity.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-B-004",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "What is the main function of carbohydrates in the diet?",
+      "options": [
+        "To build bones",
+        "To carry oxygen",
+        "To repair tissues",
+        "To provide energy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carbohydrates are the body's main source of energy.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-B-005",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which of the following is a protective food?",
+      "options": [
+        "Vegetables",
+        "Oil",
+        "Sugar",
+        "Yam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vegetables supply vitamins and minerals that protect the body.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-B-006",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Why is water vital to the body?",
+      "options": [
+        "It provides calories",
+        "It regulates temperature and transports nutrients",
+        "It builds muscle",
+        "It strengthens bones"
+      ],
+      "correctIndex": 1,
+      "explanation": "Water transports nutrients and controls body temperature.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-B-007",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which of these foods is rich in iron?",
+      "options": [
+        "Bread",
+        "Rice",
+        "Liver",
+        "Milk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Liver is one of the richest sources of iron.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-B-008",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "What does the body use fats for?",
+      "options": [
+        "Building bones",
+        "Making blood",
+        "Carrying oxygen",
+        "Energy storage and warmth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fats store energy and insulate the body from cold.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-S-001",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Why is it better to eat whole grains than refined ones?",
+      "options": [
+        "They keep more fibre and nutrients",
+        "They taste sweeter",
+        "They are more expensive",
+        "They cook faster"
+      ],
+      "correctIndex": 0,
+      "explanation": "Whole grains retain fibre, vitamins and minerals lost in refining.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-S-002",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "A child has bleeding gums. Which nutrient is likely missing?",
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Calcium",
+        "Protein"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bleeding gums are a classic sign of vitamin C deficiency.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-S-003",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Why should we limit salt intake?",
+      "options": [
+        "To improve eyesight",
+        "To strengthen bones",
+        "To prevent high blood pressure",
+        "To boost growth"
+      ],
+      "correctIndex": 2,
+      "explanation": "Excess salt raises blood pressure and risks heart disease.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-S-004",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Which meal pattern is healthiest for school children?",
+      "options": [
+        "One large meal a day",
+        "Skipping breakfast often",
+        "Only snacks all day",
+        "Three balanced meals plus a snack"
+      ],
+      "correctIndex": 3,
+      "explanation": "Regular balanced meals sustain energy and concentration.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-S-005",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "How does fibre in fruits help digestion?",
+      "options": [
+        "It prevents constipation and keeps the gut healthy",
+        "It adds calories",
+        "It builds muscle",
+        "It cools the body"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fibre adds bulk to stool and feeds healthy gut bacteria.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-S-006",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Why are fermented foods like ogi good for us?",
+      "options": [
+        "They are high in sugar",
+        "They improve gut health and digestion",
+        "They cure headaches",
+        "They whiten teeth"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fermented foods supply beneficial bacteria for the gut.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-S-007",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "What is kwashiorkor caused by?",
+      "options": [
+        "Excess vitamin C",
+        "Lack of water",
+        "Severe protein deficiency",
+        "Too much fat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kwashiorkor results from prolonged lack of dietary protein.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-S-008",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Why is red palm oil a protective fat?",
+      "options": [
+        "It has no calories",
+        "It lowers cholesterol",
+        "It is low in fat",
+        "It is rich in vitamin A"
+      ],
+      "correctIndex": 3,
+      "explanation": "Red palm oil contains carotene, a precursor of vitamin A.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-G-001",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "A household of six has a small food budget. What is best?",
+      "options": [
+        "Plan meals around cheap local staples and vegetables",
+        "Buy only imported foods",
+        "Skip two meals daily",
+        "Buy only meat and fish"
+      ],
+      "correctIndex": 0,
+      "explanation": "Local staples like beans and yam are affordable and nutritious.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-G-002",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Why is eating late at night unhealthy?",
+      "options": [
+        "It makes food taste better",
+        "It disturbs sleep and digestion",
+        "It saves cooking gas",
+        "It builds muscle overnight"
+      ],
+      "correctIndex": 1,
+      "explanation": "Late heavy meals disrupt digestion and sleep quality.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-G-003",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "How can a teenage girl get enough iron?",
+      "options": [
+        "Drink only malt drinks",
+        "Eat more sugar",
+        "Eat liver, beans and leafy vegetables",
+        "Avoid all fats"
+      ],
+      "correctIndex": 2,
+      "explanation": "Iron-rich foods with vitamin C sources prevent anaemia.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-G-004",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Why feed babies only breast milk for six months?",
+      "options": [
+        "It is cheaper than formula only",
+        "It guarantees intelligence",
+        "It prevents all diseases",
+        "It provides complete nutrition and antibodies"
+      ],
+      "correctIndex": 3,
+      "explanation": "Breast milk supplies all nutrients and immune protection infants need.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-G-005",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "A child eats a lot of sugar daily but avoids vegetables. What risks arise?",
+      "options": [
+        "Tooth decay, obesity and poor immunity",
+        "Stronger bones",
+        "Better digestion",
+        "No risk at all"
+      ],
+      "correctIndex": 0,
+      "explanation": "Excess sugar and low fibre raise risks of decay, obesity and illness.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-G-006",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Why are vegetables in rice better than plain noodles?",
+      "options": [
+        "It is cheaper",
+        "It provides more nutrients and fibre",
+        "It needs no water",
+        "It cooks faster"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mixed meals give carbohydrates, vitamins and minerals together.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-G-007",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "What should people with diabetes avoid most?",
+      "options": [
+        "Water and vegetables",
+        "Beans and moi moi",
+        "Refined sugar and white rice",
+        "Leafy greens"
+      ],
+      "correctIndex": 2,
+      "explanation": "Refined carbs spike blood sugar; whole grains are safer choices.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-NUT-G-008",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "How does food affect a child's school work?",
+      "options": [
+        "Food has no effect on learning",
+        "Only breakfast matters",
+        "Food only affects height",
+        "Good nutrition improves focus and energy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Well-fed children concentrate better and miss fewer school days.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import { AVATARS, LEVEL_LABELS, type Level } from "../../shared/constants";
+import { AVATAR_IMAGES } from "../lib/avatars";
 import { REPORT_REASON_LABELS, type Report } from "../../shared/schemas";
 import { game, useGame } from "../lib/store";
 import { sendReport } from "../lib/report";
@@ -21,14 +22,15 @@ export function WaveMark({ size = 34 }: { size?: number }) {
 
 export function Avatar({ index, size = 44 }: { index: number; size?: number }) {
   const a = AVATARS[index] ?? AVATARS[0];
+  const image = AVATAR_IMAGES[index] ?? AVATAR_IMAGES[0];
   return (
     <span
       role="img"
       aria-label={a.label}
-      className="inline-grid shrink-0 place-items-center rounded-full border border-edge bg-raised"
-      style={{ width: size, height: size, fontSize: size * 0.55 }}
+      className="inline-grid shrink-0 place-items-center overflow-hidden rounded-full border border-edge bg-raised"
+      style={{ width: size, height: size }}
     >
-      {a.emoji}
+      <img src={image} alt={a.label} width={size} height={size} className="h-full w-full object-cover" draggable={false} />
     </span>
   );
 }

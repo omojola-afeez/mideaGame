@@ -40,7 +40,14 @@ for (const file of files) {
   }
 
   const topic = TOPICS.find((t) => t.id === data.topic);
-  const perLevel = data.topic === "code-and-ai" ? 8 : 40;
+  const levelCounts = { bronze: 0, silver: 0, gold: 0 } as Record<string, number>;
+  if (Array.isArray(data.questions)) {
+    for (const q of data.questions) levelCounts[q?.level] = (levelCounts[q?.level] ?? 0) + 1;
+  }
+  const counts = Object.values(levelCounts);
+  // Enforce a fixed count per level when every level is equally filled (the generator contract).
+  // Pass 0 to skip when a file is intentionally uneven.
+  const perLevel = counts.length > 0 && counts.every((n) => n === counts[0]) ? (counts[0] ?? 0) : 0;
   const issues: Issue[] = [];
   if (!data.title || typeof data.title !== "string") {
     issues.push({ severity: "error", code: "missing_title", message: "File needs a title" });

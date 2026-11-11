@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "mathematics",
+  "topic": "decimals",
+  "title": "Decimal dunes",
+  "questions": [
+    {
+      "code": "7-MAT-DEC-B-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.5 as a fraction?",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/5",
+        "2/5"
+      ],
+      "correctIndex": 0,
+      "explanation": "0.5 means 5 tenths, half of 1.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-B-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is ₦1.50 + ₦0.50?",
+      "options": [
+        "₦1.50",
+        "₦2.00",
+        "₦2.50",
+        "₦1.00"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦1.50 plus ₦0.50 is ₦2.00.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-B-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many kobo are in ₦1.50?",
+      "options": [
+        "100",
+        "50",
+        "150",
+        "15"
+      ],
+      "correctIndex": 2,
+      "explanation": "₦1.50 is 150 kobo.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-B-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "Which is the biggest: 0.5, 1.5 or 2.5?",
+      "options": [
+        "0.5",
+        "1.5",
+        "0.2",
+        "2.5"
+      ],
+      "correctIndex": 3,
+      "explanation": "2.5 is bigger than 1.5 and 0.5.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-B-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 1.0 + 0.5?",
+      "options": [
+        "1.5",
+        "1.0",
+        "2.0",
+        "0.15"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 plus a half is 1.5.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-B-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "Write one and a half with digits.",
+      "options": [
+        "1.2",
+        "1.5",
+        "0.5",
+        "1.1"
+      ],
+      "correctIndex": 1,
+      "explanation": "One and a half is written 1.5.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-B-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.5 + 0.5?",
+      "options": [
+        "0.10",
+        "10",
+        "1",
+        "1.5"
+      ],
+      "correctIndex": 2,
+      "explanation": "0.5 plus 0.5 makes 1.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-B-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "Which shows twenty-five kobo?",
+      "options": [
+        "₦25.00",
+        "₦2.50",
+        "₦0.52",
+        "₦0.25"
+      ],
+      "correctIndex": 3,
+      "explanation": "Twenty-five kobo is ₦0.25.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-S-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 2.5 + 1.5?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "4.5"
+      ],
+      "correctIndex": 0,
+      "explanation": "2.5 plus 1.5 is 4.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-S-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 5.0 - 2.5?",
+      "options": [
+        "2.0",
+        "2.5",
+        "3.0",
+        "7.5"
+      ],
+      "correctIndex": 1,
+      "explanation": "5 minus 2.5 is 2.5.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-S-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Which is smaller: 1.2 or 1.8?",
+      "options": [
+        "1.8",
+        "They are the same",
+        "1.2",
+        "2.1"
+      ],
+      "correctIndex": 2,
+      "explanation": "1.2 is less than 1.8.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-S-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is ₦10.50 + ₦2.50?",
+      "options": [
+        "₦12.50",
+        "₦12.00",
+        "₦13.50",
+        "₦13.00"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦10.50 plus ₦2.50 is ₦13.00.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-S-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Write 3/10 as a decimal.",
+      "options": [
+        "0.3",
+        "0.03",
+        "3.0",
+        "0.13"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 tenths is written 0.3.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-S-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 0.2 + 0.3?",
+      "options": [
+        "0.6",
+        "0.5",
+        "0.23",
+        "1.0"
+      ],
+      "correctIndex": 1,
+      "explanation": "2 tenths plus 3 tenths is 0.5.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-S-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 10 - 3.5?",
+      "options": [
+        "7.0",
+        "7.5",
+        "6.5",
+        "13.5"
+      ],
+      "correctIndex": 2,
+      "explanation": "10 minus 3.5 is 6.5.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-S-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "How much is ₦20.75 + ₦4.25?",
+      "options": [
+        "₦24.00",
+        "₦25.50",
+        "₦26.00",
+        "₦25.00"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦20.75 plus ₦4.25 is ₦25.00.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-G-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 4.2 + 3.5?",
+      "options": [
+        "7.7",
+        "7.2",
+        "6.7",
+        "8.7"
+      ],
+      "correctIndex": 0,
+      "explanation": "4.2 plus 3.5 is 7.7.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-G-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 10.0 - 4.5?",
+      "options": [
+        "6.5",
+        "5.5",
+        "5.0",
+        "14.5"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 minus 4.5 is 5.5.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-G-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "Write 7/10 as a decimal.",
+      "options": [
+        "0.07",
+        "7.0",
+        "0.7",
+        "0.17"
+      ],
+      "correctIndex": 2,
+      "explanation": "7 tenths is written 0.7.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-G-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A loaf costs ₦350. You pay ₦500. What is your change?",
+      "options": [
+        "₦100",
+        "₦250",
+        "₦850",
+        "₦150"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦500 minus ₦350 is ₦150.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-G-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 1.5 + 2.5 + 1.0?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "5.5"
+      ],
+      "correctIndex": 0,
+      "explanation": "1.5 plus 2.5 is 4, plus 1 is 5.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-G-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "Which is biggest: 3.25, 3.05, 3.50 or 3.15?",
+      "options": [
+        "3.25",
+        "3.50",
+        "3.05",
+        "3.15"
+      ],
+      "correctIndex": 1,
+      "explanation": "3.50 is biggest after the point.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-G-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.4 + 0.4 + 0.2?",
+      "options": [
+        "0.8",
+        "1.2",
+        "1",
+        "0.10"
+      ],
+      "correctIndex": 2,
+      "explanation": "0.4 plus 0.4 is 0.8, plus 0.2 is 1.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-DEC-G-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "Round 4.6 to the nearest whole number.",
+      "options": [
+        "4",
+        "6",
+        "46",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "4.6 is closer to 5 than to 4.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

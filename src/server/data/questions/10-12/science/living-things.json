@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "science",
+  "topic": "living-things",
+  "title": "Life lane",
+  "questions": [
+    {
+      "code": "10-SCI-LIV-B-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Which of these is a living thing?",
+      "options": [
+        "A mango tree",
+        "A bicycle",
+        "A stone",
+        "A plate"
+      ],
+      "correctIndex": 0,
+      "explanation": "A mango tree grows and makes its own food.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-B-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "What do plants need from sunlight to make food?",
+      "options": [
+        "Water",
+        "Energy",
+        "Oxygen",
+        "Carbon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sunlight gives plants the energy to make food.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-B-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Which part of a plant takes in water from the soil?",
+      "options": [
+        "The leaves",
+        "The flowers",
+        "The roots",
+        "The stem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Roots pull water from the soil into the plant.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-B-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "What do animals breathe in to stay alive?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Helium",
+        "Oxygen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Animals need oxygen from the air to live.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-B-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Which of these is not a living thing?",
+      "options": [
+        "A chair",
+        "A dog",
+        "A mango tree",
+        "A fish"
+      ],
+      "correctIndex": 0,
+      "explanation": "A chair is made by people and cannot grow.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-B-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "What do herbivores eat?",
+      "options": [
+        "Meat",
+        "Plants",
+        "Fish",
+        "Bones"
+      ],
+      "correctIndex": 1,
+      "explanation": "Herbivores eat only plants.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-B-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "What gas do green plants give out in sunlight?",
+      "options": [
+        "Carbon",
+        "Nitrogen",
+        "Oxygen",
+        "Steam"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plants give out oxygen when they make food.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-B-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Which organ pumps blood around the body?",
+      "options": [
+        "The lungs",
+        "The liver",
+        "The stomach",
+        "The heart"
+      ],
+      "correctIndex": 3,
+      "explanation": "The heart pumps blood to all parts of the body.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-S-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Why do animals need to eat food?",
+      "options": [
+        "To get energy and grow",
+        "To change colour",
+        "To sleep better",
+        "To make noise"
+      ],
+      "correctIndex": 0,
+      "explanation": "Food gives animals energy to live and grow.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-S-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Why do plant eaters have flat teeth?",
+      "options": [
+        "To tear meat",
+        "To grind tough leaves",
+        "To bite bones",
+        "To catch fish"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flat teeth help plant eaters chew grass and leaves.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-S-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "What happens to plants that get no sunlight?",
+      "options": [
+        "They grow faster",
+        "They turn blue",
+        "They cannot make food",
+        "They bloom more"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plants need sunlight to make food by photosynthesis.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-S-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Why do frogs live near water?",
+      "options": [
+        "To drink salty water",
+        "To find stones",
+        "To fly longer",
+        "To keep their skin moist"
+      ],
+      "correctIndex": 3,
+      "explanation": "Frogs breathe through their moist skin, so they stay near water.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-S-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Which gas do plants take in from the air?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Steam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plants take in carbon dioxide and release oxygen.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-S-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "What does a food chain show?",
+      "options": [
+        "How to cook food",
+        "Who eats who in nature",
+        "Where to buy fish",
+        "How plants grow"
+      ],
+      "correctIndex": 1,
+      "explanation": "A food chain shows how energy passes from one living thing to another.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-S-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Why do farmers plant trees in place of forests that were cut down?",
+      "options": [
+        "To make the farm bigger",
+        "To block the road",
+        "To replace the trees for the future",
+        "To sell the shade"
+      ],
+      "correctIndex": 2,
+      "explanation": "Replanting replaces trees so forests can recover.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-S-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Which living thing makes its own food?",
+      "options": [
+        "A goat",
+        "An eagle",
+        "A farmer",
+        "A green plant"
+      ],
+      "correctIndex": 3,
+      "explanation": "Green plants make their own food using sunlight.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-G-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Why are food chains important?",
+      "options": [
+        "They show how living things depend on each other",
+        "They help animals sleep",
+        "They make farming easier",
+        "They stop rain"
+      ],
+      "correctIndex": 0,
+      "explanation": "Food chains link plants and animals, so each depends on others for food.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-G-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "What would happen if all the grass in a field disappeared?",
+      "options": [
+        "Nothing would change",
+        "Grass-eating animals would have no food",
+        "The soil would freeze",
+        "Birds would stop singing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Herbivores eat grass, so losing it would starve them and the meat-eaters that follow.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-G-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "How do thick forests help the environment?",
+      "options": [
+        "They block the roads",
+        "They make the air dirtier",
+        "They clean the air and give homes to animals",
+        "They dry up rivers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Forests filter the air and shelter many plants and animals.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-G-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Why must farmers avoid cutting down large forests?",
+      "options": [
+        "It makes farming faster",
+        "It increases rainfall",
+        "It cools the earth",
+        "It destroys homes for animals and soil health"
+      ],
+      "correctIndex": 3,
+      "explanation": "Large-scale clearing removes habitats and washes away rich soil.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-G-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "How are a leaf and a solar panel alike?",
+      "options": [
+        "Both capture energy from sunlight",
+        "Both move by themselves",
+        "Both grow taller",
+        "Both make sound"
+      ],
+      "correctIndex": 0,
+      "explanation": "A leaf and a solar panel both change sunlight into useful energy.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-G-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Why are mushrooms and worms important in a forest?",
+      "options": [
+        "They sing at night",
+        "They break down dead things for the soil",
+        "They eat only fruit",
+        "They hold up the trees"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mushrooms and worms turn dead matter into food for the soil.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-G-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Why can a rabbit not be both a predator and prey?",
+      "options": [
+        "A rabbit is too slow to hunt",
+        "A rabbit has no teeth",
+        "A rabbit is hunted, it does not hunt others",
+        "A rabbit eats stones"
+      ],
+      "correctIndex": 2,
+      "explanation": "A rabbit is prey because it is eaten and does not hunt other animals.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-LIV-G-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Which is the best way to protect a forest?",
+      "options": [
+        "Burn the forest",
+        "Build houses inside",
+        "Drain its rivers",
+        "Plant new trees when others are cut down"
+      ],
+      "correctIndex": 3,
+      "explanation": "Replanting replaces trees faster than they are lost, keeping the forest alive.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

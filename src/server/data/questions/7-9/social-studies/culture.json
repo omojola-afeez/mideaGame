@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "social-studies",
+  "topic": "culture",
+  "title": "Culture crests",
+  "questions": [
+    {
+      "code": "7-SOC-CUL-B-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is the main language of the Hausa?",
+      "options": [
+        "Hausa",
+        "Yoruba",
+        "Igbo",
+        "Fulfulde"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hausa is the language of the Hausa people.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-B-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "Which tribe is known for the Benin bronze art?",
+      "options": [
+        "The Igbo",
+        "The Edo people",
+        "The Tiv",
+        "The Kanuri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Benin City was famous for bronze artworks.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-B-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is the Yoruba greeting style?",
+      "options": [
+        "Waving from afar",
+        "Backing away",
+        "Prostrating or kneeling",
+        "Bowing sharply"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yoruba greeting customs show respect to elders.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-B-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is the festival of the yam called?",
+      "options": [
+        "The Eid festival",
+        "The Christmas festival",
+        "The Sallah festival",
+        "The yam festival"
+      ],
+      "correctIndex": 3,
+      "explanation": "The New Yam festival celebrates the yam harvest.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-B-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "The Igbo new yam festival is?",
+      "options": [
+        "Iri Ji Mba",
+        "Ojude Oba",
+        "Durbar",
+        "Osun Osogbo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Iri Ji Mba is the Igbo New Yam festival.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-B-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is Ojude Oba?",
+      "options": [
+        "An Igbo mask dance",
+        "A Yoruba festival honouring kings",
+        "A Hausa horse race",
+        "A river festival"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ojude Oba celebrates Yoruba kings in Ijebu.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-B-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is Durbar?",
+      "options": [
+        "A fishing festival",
+        "A harvest dance",
+        "A Hausa horse parade festival",
+        "A wedding feast"
+      ],
+      "correctIndex": 2,
+      "explanation": "Durbar is a grand Hausa and Fulani horse parade.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-B-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "Which country lies west of Nigeria?",
+      "options": [
+        "Niger",
+        "Chad",
+        "Cameroon",
+        "Benin Republic"
+      ],
+      "correctIndex": 3,
+      "explanation": "Benin Republic borders Nigeria to the west.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-S-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is the meaning of the word culture?",
+      "options": [
+        "The way of life of a people",
+        "A type of food",
+        "A dance only",
+        "A foreign dress"
+      ],
+      "correctIndex": 0,
+      "explanation": "Culture includes language, food, dress and beliefs.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-S-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "How many big tribes does Nigeria have?",
+      "options": [
+        "One",
+        "Three main ones",
+        "Two",
+        "Ten"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Hausa, Yoruba and Igbo are the largest.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-S-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is the art of Yoruba hand dyed cloth?",
+      "options": [
+        "Aso Oke",
+        "Kente",
+        "Adire",
+        "Ankara"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adire is made with indigo dye and resist patterns.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-S-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is Aso Oke?",
+      "options": [
+        "A Hausa cap",
+        "An Igbo wrapper",
+        "A Tiv top",
+        "A Yoruba handwoven cloth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Aso Oke is worn at weddings and special events.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-S-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is the Tiv language family?",
+      "options": [
+        "Benue-Congo",
+        "Semitic",
+        "Romance",
+        "Slavic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tiv belongs to the Benue-Congo language family.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-S-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What do the Igbo call their supreme god?",
+      "options": [
+        "Olodumare",
+        "Chineke",
+        "Ogun",
+        "Ala"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chineke is the Igbo name for the supreme creator.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-S-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is the Osun festival?",
+      "options": [
+        "A harvest feast",
+        "A horse parade",
+        "A Yoruba river goddess festival",
+        "A yam rite"
+      ],
+      "correctIndex": 2,
+      "explanation": "Osun Osogbo honours the river goddess Osun.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-S-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "Why do we mark festivals?",
+      "options": [
+        "To rest from work",
+        "To sell food",
+        "No reason",
+        "To honour our shared heritage"
+      ],
+      "correctIndex": 3,
+      "explanation": "Festivals preserve unity and cultural pride.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-G-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "How does culture shape us?",
+      "options": [
+        "It gives us shared values",
+        "It divides Nigeria",
+        "It copies foreign ways",
+        "It ignores history"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shared culture builds national unity.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-G-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "What does our national anthem urge?",
+      "options": [
+        "Wealth and fame",
+        "Unity and faith in God",
+        "War and conquest",
+        "Foreign travel"
+      ],
+      "correctIndex": 1,
+      "explanation": "The anthem calls for unity and service.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-G-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "How do trade fairs showcase culture?",
+      "options": [
+        "They hide traditions",
+        "They sell foreign goods only",
+        "They display crafts and foods",
+        "They close markets"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trade fairs display Nigerian arts, foods and fashion.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-G-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "Why save our heritage sites?",
+      "options": [
+        "For tourists only",
+        "They cost money",
+        "No reason",
+        "They teach our history"
+      ],
+      "correctIndex": 3,
+      "explanation": "Heritage sites connect us to our past.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-G-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "Why are many cultures good?",
+      "options": [
+        "It enriches national life",
+        "It divides us",
+        "It confuses us",
+        "It has no value"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diversity brings many foods, arts and views.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-G-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "How does tourism help us?",
+      "options": [
+        "It spoils culture",
+        "It brings money and jobs",
+        "It closes museums",
+        "It raises crime only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tourism creates jobs and shows Nigeria to the world.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-G-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "Why is the census held?",
+      "options": [
+        "To collect taxes",
+        "To spy on people",
+        "To count citizens for planning",
+        "For fun"
+      ],
+      "correctIndex": 2,
+      "explanation": "Census data guides schools, roads and hospitals.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CUL-G-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "What do Nigerians share?",
+      "options": [
+        "One tribe only",
+        "One religion only",
+        "Nothing at all",
+        "One nation and common destiny"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigerians share one nation, flag and destiny.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

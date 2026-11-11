@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "social-studies",
+  "topic": "civic",
+  "title": "Duty dunes",
+  "questions": [
+    {
+      "code": "4-SOC-CIV-B-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What does a good citizen do?",
+      "options": [
+        "Obeys the rules",
+        "Breaks laws",
+        "Cheats others",
+        "Litters the street"
+      ],
+      "correctIndex": 0,
+      "explanation": "Good citizens follow rules and do their duty.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-B-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What is a law?",
+      "options": [
+        "A toy",
+        "A rule for everyone",
+        "A song",
+        "A game"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laws are rules everyone must follow.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-B-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "Who belongs to our country?",
+      "options": [
+        "A stranger passing",
+        "A ghost",
+        "A citizen",
+        "A cloud"
+      ],
+      "correctIndex": 2,
+      "explanation": "A citizen is a full member of a country.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-B-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What must we do at a red light?",
+      "options": [
+        "Go fast",
+        "Wave hands",
+        "Sleep",
+        "Stop the car"
+      ],
+      "correctIndex": 3,
+      "explanation": "Red means stop so roads stay safe.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-B-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "Telling the truth is called what?",
+      "options": [
+        "Honesty",
+        "Laziness",
+        "Greed",
+        "Fear"
+      ],
+      "correctIndex": 0,
+      "explanation": "Honesty means always telling the truth.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-B-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What should you do if you find money?",
+      "options": [
+        "Keep it secret",
+        "Tell an adult",
+        "Spend it",
+        "Hide it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Found money should be reported to an adult.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-B-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "Why do we have rules in school?",
+      "options": [
+        "To stop fun",
+        "To punish us",
+        "To keep order",
+        "No reason"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rules help everyone learn in peace.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-B-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "How should we welcome guests?",
+      "options": [
+        "With fear",
+        "With rudeness",
+        "By hiding",
+        "With warmth and respect"
+      ],
+      "correctIndex": 3,
+      "explanation": "Welcoming guests is part of Nigerian culture.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-S-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What does civic duty mean for us?",
+      "options": [
+        "Our duties as citizens",
+        "A type of dance",
+        "Homework",
+        "A tax only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Civic duties are what citizens owe their country.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-S-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "Why must we vote fair and square?",
+      "options": [
+        "For food",
+        "For honest leaders",
+        "For money",
+        "For fun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Honest votes give us leaders we can trust.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-S-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What is the job of a policeman?",
+      "options": [
+        "Sells bread",
+        "Teaches maths",
+        "Protects people and keeps peace",
+        "Grows yam"
+      ],
+      "correctIndex": 2,
+      "explanation": "The police keep law and order in our towns.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-S-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What do we mark on 1 October?",
+      "options": [
+        "New Year",
+        "Christmas",
+        "Eid",
+        "Nigeria's independence"
+      ],
+      "correctIndex": 3,
+      "explanation": "On 1 October 1960 Nigeria became independent.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-S-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "In a good country, who rules?",
+      "options": [
+        "The people",
+        "Kings only",
+        "Nobody",
+        "Strangers"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a democracy the people choose their leaders.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-S-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "Why do we pay tax?",
+      "options": [
+        "To buy toys",
+        "To build roads and schools",
+        "To punish us",
+        "To close shops"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taxes pay for roads, schools and hospitals.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-S-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What is the highest law?",
+      "options": [
+        "The market price",
+        "The town crier",
+        "The constitution",
+        "School rules"
+      ],
+      "correctIndex": 2,
+      "explanation": "The constitution is the highest law of Nigeria.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-S-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "Why must we not take bribes?",
+      "options": [
+        "It is free",
+        "It makes us tall",
+        "It is allowed",
+        "It is against the law"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bribery is wrong and against the law.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-G-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "Why should all obey the law?",
+      "options": [
+        "Laws protect everyone",
+        "Laws stop fun",
+        "Laws are optional",
+        "Laws favour the rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laws apply to all and keep society fair.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-G-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "When you see cheating, what should you do?",
+      "options": [
+        "Join in",
+        "Report it honestly",
+        "Ignore it",
+        "Laugh at it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reporting wrongdoing keeps society honest.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-G-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "Why should adults vote?",
+      "options": [
+        "To win money",
+        "To avoid work",
+        "To choose good leaders",
+        "To get gifts"
+      ],
+      "correctIndex": 2,
+      "explanation": "Voting lets citizens choose honest leaders.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-G-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "What is the meaning of justice?",
+      "options": [
+        "Harsh punishment",
+        "Favouritism",
+        "Revenge",
+        "Fair treatment for all"
+      ],
+      "correctIndex": 3,
+      "explanation": "Justice means everyone is treated fairly.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-G-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "How can we serve our nation?",
+      "options": [
+        "By studying hard",
+        "By fighting",
+        "By cheating",
+        "By sleeping"
+      ],
+      "correctIndex": 0,
+      "explanation": "Studying hard prepares us to serve Nigeria.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-G-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "What should you do if you see a crime?",
+      "options": [
+        "Join in",
+        "Tell the police",
+        "Run and hide forever",
+        "Keep silent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reporting crime helps the police protect everyone.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-G-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "Why do we need fair leaders?",
+      "options": [
+        "They get praise",
+        "They get gifts",
+        "They serve all people",
+        "No real reason"
+      ],
+      "correctIndex": 2,
+      "explanation": "Honest leaders put everyone first.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CIV-G-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "What does good rule give us?",
+      "options": [
+        "Chaos and fear",
+        "Endless taxes only",
+        "Nothing",
+        "Safety and fair play"
+      ],
+      "correctIndex": 3,
+      "explanation": "Good government keeps citizens safe and treated fairly.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "social-studies",
+  "topic": "civic",
+  "title": "Duty dunes",
+  "questions": [
+    {
+      "code": "7-SOC-CIV-B-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What does honesty mean?",
+      "options": [
+        "Telling the truth always",
+        "Being rich",
+        "Being loud",
+        "Being quick"
+      ],
+      "correctIndex": 0,
+      "explanation": "Honesty is truth in word and action.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-B-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What should you do if you break a rule?",
+      "options": [
+        "Blame others",
+        "Admit it and accept the result",
+        "Run away",
+        "Lie about it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Owning our mistakes shows good character.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-B-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "Why do schools have rules?",
+      "options": [
+        "To stop play",
+        "To make children sad",
+        "To keep order and safety",
+        "No reason"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rules make school safe and fair for all.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-B-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What is a ballot box used for?",
+      "options": [
+        "Storing books",
+        "Keeping money",
+        "Holding letters",
+        "Casting votes in an election"
+      ],
+      "correctIndex": 3,
+      "explanation": "Voters drop their marked ballot papers into the box.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-B-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What is a good citizen?",
+      "options": [
+        "Someone who obeys laws",
+        "Someone who breaks rules",
+        "Someone who hides taxes",
+        "Someone loud"
+      ],
+      "correctIndex": 0,
+      "explanation": "Good citizens obey laws and help others.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-B-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What does the police do?",
+      "options": [
+        "Sells goods",
+        "Enforces the law",
+        "Teaches classes",
+        "Sings songs"
+      ],
+      "correctIndex": 1,
+      "explanation": "The police maintain law and order.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-B-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "Why should we keep promises?",
+      "options": [
+        "For gifts",
+        "It is fun",
+        "Our word should be trusted",
+        "No reason"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keeping promises builds trust with others.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-B-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What is the meaning of respect?",
+      "options": [
+        "Fearing everyone",
+        "Ignoring elders",
+        "Shouting at people",
+        "Treating others with dignity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Respect means honouring the worth of every person.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-S-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What are human rights?",
+      "options": [
+        "Basic freedoms for all people",
+        "Special favours for the rich",
+        "Punishments for criminals",
+        "Toys for children"
+      ],
+      "correctIndex": 0,
+      "explanation": "Human rights belong to every person.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-S-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What is freedom of speech?",
+      "options": [
+        "The right to hurt others",
+        "The right to speak freely",
+        "The duty to shout",
+        "The chance to fight"
+      ],
+      "correctIndex": 1,
+      "explanation": "Freedom of speech is the right to express your opinions.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-S-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "Why should citizens pay tax?",
+      "options": [
+        "It is optional fun",
+        "To avoid arrest",
+        "To fund public services",
+        "For gifts"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taxes build roads, schools and hospitals.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-S-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What is the rule of law?",
+      "options": [
+        "Kings rule by force",
+        "The rich are above law",
+        "Law favours friends",
+        "All are equal before the law"
+      ],
+      "correctIndex": 3,
+      "explanation": "The rule of law means nobody is above the law.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-S-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "How can we fight corruption?",
+      "options": [
+        "By refusing bribes",
+        "By joining it",
+        "By silence",
+        "By celebrating it"
+      ],
+      "correctIndex": 0,
+      "explanation": "Refusing and reporting bribes fights corruption.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-S-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What does INEC do?",
+      "options": [
+        "Collects taxes",
+        "Conducts free and fair elections",
+        "Chooses winners",
+        "Prints money"
+      ],
+      "correctIndex": 1,
+      "explanation": "INEC runs credible elections in Nigeria.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-S-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "Why is voting a duty?",
+      "options": [
+        "It gives free food",
+        "It is fun",
+        "It is our civic responsibility",
+        "It is optional sport"
+      ],
+      "correctIndex": 2,
+      "explanation": "Voting is how citizens shape their country.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-S-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What do judges do?",
+      "options": [
+        "Make laws",
+        "Enforce laws",
+        "Break laws",
+        "Interpret the law"
+      ],
+      "correctIndex": 3,
+      "explanation": "Judges interpret and apply the law fairly.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-G-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "Why is INEC vital?",
+      "options": [
+        "It runs elections",
+        "It collects taxes",
+        "It builds roads",
+        "It prints money"
+      ],
+      "correctIndex": 0,
+      "explanation": "INEC conducts elections so Nigerians can choose leaders.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-G-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "What is the harm of rigging?",
+      "options": [
+        "Elections get cheaper",
+        "True winners lose",
+        "Everyone wins",
+        "Nobody cares"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rigging steals the people's voice and justice.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-G-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "How does the rule of law protect us?",
+      "options": [
+        "It favours the rich",
+        "It punishes all",
+        "It stops leaders abusing power",
+        "It removes freedom"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule of law stops dictatorship and abuse.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-G-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "Why must INEC stay neutral?",
+      "options": [
+        "To please the president",
+        "To favour rich candidates",
+        "For show only",
+        "To conduct fair elections"
+      ],
+      "correctIndex": 3,
+      "explanation": "A neutral INEC builds trust in elections.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-G-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "What is the role of the press?",
+      "options": [
+        "Informing the public",
+        "Selling newspapers only",
+        "Entertaining only",
+        "Hiding the truth"
+      ],
+      "correctIndex": 0,
+      "explanation": "A free press reports honestly and checks power.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-G-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "How can youths prepare to lead?",
+      "options": [
+        "By staying idle",
+        "By studying and serving",
+        "By complaining",
+        "By dodging duty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Good leaders start as good students and citizens.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-G-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "Why can we march in peace?",
+      "options": [
+        "To destroy property",
+        "To fight police",
+        "To express our grievances lawfully",
+        "To block roads forever"
+      ],
+      "correctIndex": 2,
+      "explanation": "Peaceful marching is a lawful way to air grievances.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-CIV-G-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "What do lawmakers do?",
+      "options": [
+        "They run elections",
+        "They judge cases",
+        "They collect taxes",
+        "They make laws"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lawmakers in the National Assembly make our laws.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "science",
+  "topic": "matter",
+  "title": "Matter marsh",
+  "questions": [
+    {
+      "code": "10-SCI-MAT-B-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which of these is a solid?",
+      "options": [
+        "A stone",
+        "Water",
+        "Air",
+        "Steam"
+      ],
+      "correctIndex": 0,
+      "explanation": "A stone keeps its shape, so it is a solid.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-B-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which of these is a liquid?",
+      "options": [
+        "Ice",
+        "Palm oil",
+        "Salt",
+        "Sand"
+      ],
+      "correctIndex": 1,
+      "explanation": "Palm oil flows and takes the shape of its container.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-B-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which of these is a gas?",
+      "options": [
+        "Milk",
+        "Wood",
+        "Air",
+        "Coal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Air is a mix of gases all around us.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-B-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "What do we call the change from water to ice?",
+      "options": [
+        "Melting",
+        "Boiling",
+        "Drying",
+        "Freezing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Water turns to ice when it freezes.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-B-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "What happens when ice is heated?",
+      "options": [
+        "It melts into water",
+        "It turns to dust",
+        "It stays exactly the same",
+        "It becomes salt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Heat turns ice into liquid water.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-B-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which material is hard and used to build houses?",
+      "options": [
+        "Cloth",
+        "Cement",
+        "Paper",
+        "Rubber"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cement is hard and strong, so builders use it.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-B-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which of these does not mix with water?",
+      "options": [
+        "Sugar",
+        "Salt",
+        "Sand",
+        "Honey"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sand does not dissolve in water.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-B-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "What is a mixture?",
+      "options": [
+        "A pure metal",
+        "A new element",
+        "A hot liquid",
+        "Two or more things mixed together"
+      ],
+      "correctIndex": 3,
+      "explanation": "A mixture holds two or more things together.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-S-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Why does sugar disappear in hot tea?",
+      "options": [
+        "It dissolves",
+        "It melts",
+        "It freezes",
+        "It burns"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sugar dissolves in hot water.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-S-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Why do we use rubber for car tyres?",
+      "options": [
+        "It is very hard",
+        "It bends without breaking",
+        "It melts in the sun",
+        "It floats on water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rubber is stretchy and grips the road.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-S-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "How can you separate sand from water?",
+      "options": [
+        "By freezing it",
+        "By boiling it",
+        "By filtering it",
+        "By shaking it"
+      ],
+      "correctIndex": 2,
+      "explanation": "A filter stops the sand and lets water through.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-S-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Why does steam rise from a boiling pot?",
+      "options": [
+        "The pot is dirty",
+        "Salt makes it rise",
+        "Oil pushes it up",
+        "Water turns to vapour"
+      ],
+      "correctIndex": 3,
+      "explanation": "Boiling turns liquid water into water vapour.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-S-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Which of these changes can be reversed?",
+      "options": [
+        "Melting chocolate",
+        "Burning wood",
+        "Baking a cake",
+        "Rusting iron"
+      ],
+      "correctIndex": 0,
+      "explanation": "Melted chocolate sets hard again when it cools.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-S-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Why is glass used for windows?",
+      "options": [
+        "It is soft",
+        "It is clear and solid",
+        "It is a gas",
+        "It soaks up water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Glass lets in light and stays solid.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-S-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "How do you get salt back from salt water?",
+      "options": [
+        "By filtering it",
+        "By freezing it",
+        "By heating it to dry",
+        "By shaking it"
+      ],
+      "correctIndex": 2,
+      "explanation": "Heating dries the water and leaves the salt behind.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-S-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Why do iron roofs rust in the rain?",
+      "options": [
+        "The sun burns them",
+        "Rain melts the iron",
+        "Wind wears them out",
+        "Iron reacts with water and air"
+      ],
+      "correctIndex": 3,
+      "explanation": "Iron reacts with water and air to form rust.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-G-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Why can we squeeze air more easily than water?",
+      "options": [
+        "Gas particles are far apart",
+        "Water is very heavy",
+        "Air is thicker than water",
+        "Water is a gas too"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gas particles are far apart, so they squeeze closer.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-G-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "A metal spoon in hot soup gets hot. Why?",
+      "options": [
+        "Metal stores cold",
+        "Metal passes heat quickly",
+        "Soup pushes heat down",
+        "The spoon makes heat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metal is a good conductor of heat.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-G-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Why does a wet cloth dry faster in the sun?",
+      "options": [
+        "The sun eats water",
+        "The cloth shrinks",
+        "Heat speeds up drying",
+        "Shade keeps it wet"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sun's heat makes water escape faster.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-G-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Why do we keep cooking oil in a closed bottle?",
+      "options": [
+        "To make it colder",
+        "To keep it frozen",
+        "To make it heavier",
+        "To keep out air and dust"
+      ],
+      "correctIndex": 3,
+      "explanation": "A closed bottle keeps the oil fresh and clean.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-G-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Which fact shows that water is matter?",
+      "options": [
+        "It has mass and takes space",
+        "It is colourless",
+        "It flows downhill",
+        "It is wet"
+      ],
+      "correctIndex": 0,
+      "explanation": "All matter has mass and takes up space.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-G-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Why does a balloon shrink in cold weather?",
+      "options": [
+        "Air leaks out slowly",
+        "The gas inside contracts",
+        "Rubber melts in cold",
+        "The balloon gets heavier"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cold makes gas particles move slower and take less space.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-G-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "In a solution, what happens to the parts?",
+      "options": [
+        "Mixtures are always solid",
+        "Solutions cannot be poured",
+        "One part dissolves evenly in another",
+        "Mixtures never change"
+      ],
+      "correctIndex": 2,
+      "explanation": "A solution is a mixture where one part dissolves fully.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-MAT-G-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Why does gold keep its shine for years?",
+      "options": [
+        "It is always polished",
+        "It melts in the sun",
+        "It soaks up oil",
+        "It does not rust or tarnish easily"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gold is unreactive, so it stays shiny.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

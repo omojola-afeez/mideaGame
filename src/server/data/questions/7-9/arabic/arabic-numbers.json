@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "arabic",
+  "topic": "arabic-numbers",
+  "title": "Number nest",
+  "questions": [
+    {
+      "code": "7-ARB-NUM-B-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is أحد عشر?",
+      "options": [
+        "11",
+        "10",
+        "12",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "أحد عشر (ahada ashar) means eleven.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-B-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is اثنا عشر?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctIndex": 1,
+      "explanation": "اثنا عشر (ithna ashar) means twelve.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-B-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is ثلاثة عشر?",
+      "options": [
+        "12",
+        "14",
+        "13",
+        "15"
+      ],
+      "correctIndex": 2,
+      "explanation": "ثلاثة عشر (thalatha ashar) means thirteen.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-B-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is أربعة عشر?",
+      "options": [
+        "13",
+        "15",
+        "16",
+        "14"
+      ],
+      "correctIndex": 3,
+      "explanation": "أربعة عشر (arbaata ashar) means fourteen.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-B-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is خمسة عشر?",
+      "options": [
+        "15",
+        "14",
+        "16",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "خمسة عشر (khamsata ashar) means fifteen.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-B-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is عشرون?",
+      "options": [
+        "12",
+        "20",
+        "15",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "عشرون (ishrun) means twenty.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-B-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is ثلاثون?",
+      "options": [
+        "13",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctIndex": 2,
+      "explanation": "ثلاثون (thalathun) means thirty.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-B-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is مئة?",
+      "options": [
+        "10",
+        "1000",
+        "50",
+        "100"
+      ],
+      "correctIndex": 3,
+      "explanation": "مئة (mia) means one hundred.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-S-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "Write the number ١٢ as a word.",
+      "options": [
+        "اثنا عشر",
+        "أحد عشر",
+        "ثلاثة عشر",
+        "عشرون"
+      ],
+      "correctIndex": 0,
+      "explanation": "١٢ is اثنا عشر, twelve.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-S-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "Write the number ١٥ as a word.",
+      "options": [
+        "أربعة عشر",
+        "خمسة عشر",
+        "ستة عشر",
+        "خمسة"
+      ],
+      "correctIndex": 1,
+      "explanation": "١٥ is خمسة عشر, fifteen.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-S-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What does ٧ + ٣ equal?",
+      "options": [
+        "تسعة",
+        "ثمانية",
+        "عشرة",
+        "أحد عشر"
+      ],
+      "correctIndex": 2,
+      "explanation": "Seven plus three makes ten, عشرة.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-S-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What does ١٠ - ٤ equal?",
+      "options": [
+        "خمسة",
+        "سبعة",
+        "أربعة",
+        "ستة"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ten minus four makes six, ستة.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-S-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "Which symbol shows twenty five?",
+      "options": [
+        "٢٥",
+        "٥٢",
+        "١٥",
+        "٢١"
+      ],
+      "correctIndex": 0,
+      "explanation": "٢٥ reads as twenty five.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-S-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "Which symbol shows thirty eight?",
+      "options": [
+        "٨٣",
+        "٣٨",
+        "٣١",
+        "٣٦"
+      ],
+      "correctIndex": 1,
+      "explanation": "٣٨ reads as thirty eight.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-S-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What is عشرون plus عشرة?",
+      "options": [
+        "اثنان وثلاثون",
+        "أربعون",
+        "ثلاثون",
+        "خمسون"
+      ],
+      "correctIndex": 2,
+      "explanation": "Twenty plus ten makes thirty, ثلاثون.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-S-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "Which is greater: أربعون or خمسون?",
+      "options": [
+        "أربعون",
+        "They are equal",
+        "عشرون",
+        "خمسون"
+      ],
+      "correctIndex": 3,
+      "explanation": "خمسون is fifty and أربعون is forty.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-G-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "What is مئة minus خمسون?",
+      "options": [
+        "خمسون",
+        "أربعون",
+        "ستون",
+        "سبعون"
+      ],
+      "correctIndex": 0,
+      "explanation": "One hundred minus fifty makes fifty.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-G-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "Which number is ستة وسبعون?",
+      "options": [
+        "67",
+        "76",
+        "70",
+        "86"
+      ],
+      "correctIndex": 1,
+      "explanation": "ستة وسبعون is seventy six.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-G-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "Which number is أربعة وسبعون?",
+      "options": [
+        "47",
+        "84",
+        "74",
+        "64"
+      ],
+      "correctIndex": 2,
+      "explanation": "أربعة وسبعون is seventy four.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-G-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "What does ٣ × ٣ equal?",
+      "options": [
+        "ستة",
+        "ثمانية",
+        "اثنا عشر",
+        "تسعة"
+      ],
+      "correctIndex": 3,
+      "explanation": "Three times three makes nine, تسعة.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-G-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "What is نصف المئة, half of a hundred?",
+      "options": [
+        "خمسون",
+        "عشرون",
+        "ثلاثون",
+        "أربعون"
+      ],
+      "correctIndex": 0,
+      "explanation": "نصف means half and half of one hundred is fifty.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-G-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "ما الرقم الذي بين ٩٩ و ١٠١؟",
+      "options": [
+        "٩٨",
+        "١٠٠",
+        "١٠٢",
+        "١١٠"
+      ],
+      "correctIndex": 1,
+      "explanation": "The number between ninety nine and one hundred and one is one hundred.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-G-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "How is the number 42 written in Arabic words?",
+      "options": [
+        "أربعة وعشرون",
+        "اثنان وعشرون",
+        "اثنان وأربعون",
+        "اثنان وسبعون"
+      ],
+      "correctIndex": 2,
+      "explanation": "42 is اثنان وأربعون.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-NUM-G-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "What is سبعة times اثنان?",
+      "options": [
+        "تسعة",
+        "ثمانية",
+        "ستة عشر",
+        "أربعة عشر"
+      ],
+      "correctIndex": 3,
+      "explanation": "Seven times two makes fourteen, أربعة عشر.",
+      "curriculumRef": "NERDC Primary 3 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

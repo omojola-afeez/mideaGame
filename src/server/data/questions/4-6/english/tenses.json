@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "english",
+  "topic": "tenses",
+  "title": "Time travellers",
+  "questions": [
+    {
+      "code": "4-ENG-TEN-B-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: I ___ each day.",
+      "options": [
+        "play",
+        "played",
+        "will play",
+        "playing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Every day tells us it happens now.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-B-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: She ___ now.",
+      "options": [
+        "ate",
+        "eats",
+        "will eat",
+        "eaten"
+      ],
+      "correctIndex": 1,
+      "explanation": "Now means it is happening now.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-B-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: We ___ at school.",
+      "options": [
+        "learned",
+        "will learn",
+        "learn",
+        "learning"
+      ],
+      "correctIndex": 2,
+      "explanation": "We learn at school each day.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-B-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: The sun ___ in the sky.",
+      "options": [
+        "shone",
+        "will shine",
+        "shining",
+        "shines"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sun shines each day.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-B-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: He ___ his teeth.",
+      "options": [
+        "brushes",
+        "brushed",
+        "will brush",
+        "brushing"
+      ],
+      "correctIndex": 0,
+      "explanation": "He brushes his teeth daily.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-B-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Which word means now?",
+      "options": [
+        "jumped",
+        "jumps",
+        "will jump",
+        "was jumping"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jumps shows action happening now.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-B-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: They ___ the ball.",
+      "options": [
+        "kicked",
+        "will kick",
+        "kick",
+        "kicking"
+      ],
+      "correctIndex": 2,
+      "explanation": "They kick the ball each day.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-B-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: Dogs ___ at night.",
+      "options": [
+        "barked",
+        "will bark",
+        "barking",
+        "bark"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dogs bark each night.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-S-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last week, I ___ to the market.",
+      "options": [
+        "went",
+        "go",
+        "goes",
+        "will go"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us it already happened.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-S-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last night, she ___ rice.",
+      "options": [
+        "cooks",
+        "cooked",
+        "cook",
+        "will cook"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yesterday means the past.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-S-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last week, we ___ to the farm.",
+      "options": [
+        "walk",
+        "walks",
+        "walked",
+        "will walk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Last week tells us it is past.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-S-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: He ___ the ball last week.",
+      "options": [
+        "kicks",
+        "kick",
+        "will kick",
+        "kicked"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yesterday shows the past.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-S-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last week, the rain ___.",
+      "options": [
+        "fell",
+        "falls",
+        "fall",
+        "will fall"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fell is the past of fall.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-S-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last night, I ___ early.",
+      "options": [
+        "sleep",
+        "slept",
+        "sleeps",
+        "will sleep"
+      ],
+      "correctIndex": 1,
+      "explanation": "Slept is the past of sleep.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-S-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last night, she ___ a song.",
+      "options": [
+        "sings",
+        "sing",
+        "sang",
+        "will sing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sang is the past of sing.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-S-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last week, they ___ dinner.",
+      "options": [
+        "eat",
+        "eats",
+        "will eat",
+        "ate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ate is the past of eat.",
+      "curriculumRef": "NERDC Nursery 2 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-G-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Next week, I ___ to school.",
+      "options": [
+        "will go",
+        "go",
+        "went",
+        "goes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tomorrow tells us it is future.",
+      "curriculumRef": "NERDC Primary 1 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-G-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Next week, we ___ the zoo.",
+      "options": [
+        "visit",
+        "will visit",
+        "visited",
+        "visits"
+      ],
+      "correctIndex": 1,
+      "explanation": "Will visit shows the future.",
+      "curriculumRef": "NERDC Primary 1 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-G-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Next week, they ___ a new house.",
+      "options": [
+        "move",
+        "moved",
+        "will move",
+        "moves"
+      ],
+      "correctIndex": 2,
+      "explanation": "Next week means the future.",
+      "curriculumRef": "NERDC Primary 1 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-G-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Soon, he ___ his bike.",
+      "options": [
+        "rides",
+        "rode",
+        "ride",
+        "will ride"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tomorrow and will show the future.",
+      "curriculumRef": "NERDC Primary 1 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-G-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Soon, the sun ___.",
+      "options": [
+        "will rise",
+        "rises",
+        "rose",
+        "rise"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soon shows the future. We use will.",
+      "curriculumRef": "NERDC Primary 1 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-G-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Next year, I ___ in Primary 1.",
+      "options": [
+        "am",
+        "will be",
+        "was",
+        "were"
+      ],
+      "correctIndex": 1,
+      "explanation": "Next year is the future. Use will be.",
+      "curriculumRef": "NERDC Primary 1 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-G-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Next week, they ___ football.",
+      "options": [
+        "played",
+        "play",
+        "will play",
+        "plays"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tomorrow means the action is future.",
+      "curriculumRef": "NERDC Primary 1 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-TEN-G-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Soon, mum ___ a cake.",
+      "options": [
+        "bakes",
+        "baked",
+        "bake",
+        "will bake"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tomorrow shows the future. Use will bake.",
+      "curriculumRef": "NERDC Primary 1 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

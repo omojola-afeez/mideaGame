@@ -1,0 +1,512 @@
+{
+  "band": "4-6",
+  "subject": "english",
+  "topic": "comprehension",
+  "title": "Reading detective",
+  "questions": [
+    {
+      "code": "4-ENG-COM-B-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "What does Ada have?",
+      "passage": "Ada has a red bag. She goes to the farm.",
+      "options": [
+        "A red bag",
+        "A blue cap",
+        "A big fish",
+        "A new yam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ada has a red bag.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-B-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "What does Musa eat?",
+      "passage": "Musa likes mangoes. He eats one mango.",
+      "options": [
+        "An orange",
+        "A mango",
+        "A banana",
+        "A plum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Musa eats one mango.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-B-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which one is hot?",
+      "passage": "The sun is hot. The rain is wet.",
+      "options": [
+        "The rain",
+        "The wind",
+        "The sun",
+        "The night"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sun is hot.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-B-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "How many cats does Bola have?",
+      "passage": "Bola has two cats. One cat is black.",
+      "options": [
+        "One",
+        "Three",
+        "Four",
+        "Two"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bola has two cats.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-B-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "What does Tunde ride?",
+      "passage": "Tunde rides a bike. He rides fast.",
+      "options": [
+        "A bike",
+        "A car",
+        "A boat",
+        "A bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tunde rides a bike.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-B-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Who cooks the rice?",
+      "passage": "Mama cooks rice. Papa eats rice.",
+      "options": [
+        "Papa",
+        "Mama",
+        "Tunde",
+        "Ada"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mama is the one who cooks.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-B-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "What does the dog see?",
+      "passage": "The dog barks. The dog sees a cat.",
+      "options": [
+        "A bird",
+        "A fish",
+        "A cat",
+        "A goat"
+      ],
+      "correctIndex": 2,
+      "explanation": "The dog sees a cat.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-B-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "How old is Chidi?",
+      "passage": "Chidi is six. His sister is four.",
+      "options": [
+        "Four",
+        "Five",
+        "Seven",
+        "Six"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chidi is six.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-S-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why does Kemi take her raincoat?",
+      "passage": "It is raining. Kemi wears a raincoat.",
+      "options": [
+        "To stay dry",
+        "To look nice",
+        "To sell it",
+        "To hide"
+      ],
+      "correctIndex": 0,
+      "explanation": "A raincoat keeps her dry.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-S-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Where does Bola look?",
+      "passage": "Bola lost her shoe. She looks under the bed.",
+      "options": [
+        "On the table",
+        "Under the bed",
+        "In the box",
+        "In the garden"
+      ],
+      "correctIndex": 1,
+      "explanation": "She looks under the bed.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-S-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why is Emeka sad?",
+      "passage": "Emeka is sad. His ball fell in the well.",
+      "options": [
+        "He is ill",
+        "He is hungry",
+        "He lost his ball",
+        "He is tired"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lose means to have something no more.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-S-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "What does the baby want?",
+      "passage": "The baby cries. She wants her milk.",
+      "options": [
+        "Her toy",
+        "Her shoes",
+        "A book",
+        "Her milk"
+      ],
+      "correctIndex": 3,
+      "explanation": "The baby wants her milk.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-S-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "How does Tayo feel?",
+      "passage": "Ngozi shares her snacks. Tayo is glad.",
+      "options": [
+        "Glad",
+        "Angry",
+        "Sad",
+        "Tired"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tayo is glad when he gets snacks.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-S-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why does the hen sit on the eggs?",
+      "passage": "The hen sits on her eggs. She keeps them warm.",
+      "options": [
+        "To hide them",
+        "To keep them warm",
+        "To sell them",
+        "To count them"
+      ],
+      "correctIndex": 1,
+      "explanation": "The hen sits on the eggs to warm them.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-S-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why does Ayo drink water?",
+      "passage": "Ayo drinks water. He is thirsty.",
+      "options": [
+        "He is hungry",
+        "He is cold",
+        "He is thirsty",
+        "He is sleepy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thirsty means you want water.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-S-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "What is Funke doing?",
+      "passage": "Funke helps her mum. She washes the plates.",
+      "options": [
+        "Cooking rice",
+        "Sweeping the floor",
+        "Selling food",
+        "Washing plates"
+      ],
+      "correctIndex": 3,
+      "explanation": "Funke washes the plates.",
+      "curriculumRef": "NERDC Nursery 2 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-G-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "What does Papa use on the fire?",
+      "passage": "A fire starts in the yard. Papa gets a pail.",
+      "options": [
+        "Water",
+        "Paper",
+        "Oil",
+        "Bread"
+      ],
+      "correctIndex": 0,
+      "explanation": "Water can put out a fire.",
+      "curriculumRef": "NERDC Primary 1 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-G-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "Why does Dele share his book?",
+      "passage": "Uzoma has no book. Dele shares his own.",
+      "options": [
+        "He wants to sell it",
+        "Uzoma has none",
+        "He lost it",
+        "He hates it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dele shares because Uzoma has none.",
+      "curriculumRef": "NERDC Primary 1 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-G-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "When do the children play?",
+      "passage": "The rain stops. The children come out to play.",
+      "options": [
+        "In the rain",
+        "At night",
+        "When the rain stops",
+        "In class"
+      ],
+      "correctIndex": 2,
+      "explanation": "They play when the rain has stopped.",
+      "curriculumRef": "NERDC Primary 1 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-G-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "What does Ada pull out?",
+      "passage": "Ada helps in the garden. She pulls the weeds.",
+      "options": [
+        "The flowers",
+        "The beans",
+        "The sand",
+        "The weeds"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ada pulls the weeds.",
+      "curriculumRef": "NERDC Primary 1 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-G-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "What time of day is it?",
+      "passage": "Bola wakes up. The sun is up.",
+      "options": [
+        "Morning",
+        "Night",
+        "Late evening",
+        "Midnight"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sun rises in the morning.",
+      "curriculumRef": "NERDC Primary 1 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-G-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "Where does the cat sit?",
+      "passage": "The cat sat on the mat. The mat is soft.",
+      "options": [
+        "On the chair",
+        "On the mat",
+        "On the bed",
+        "On the table"
+      ],
+      "correctIndex": 1,
+      "explanation": "The cat sits on the mat.",
+      "curriculumRef": "NERDC Primary 1 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-G-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "What did Tunde do first?",
+      "passage": "Tunde washed his hands. Then he ate.",
+      "options": [
+        "He ate his food",
+        "He slept",
+        "He washed his hands",
+        "He played"
+      ],
+      "correctIndex": 2,
+      "explanation": "He washed first, then ate.",
+      "curriculumRef": "NERDC Primary 1 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-COM-G-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "Where does Ngozi look for her pen?",
+      "passage": "Ngozi lost her pen. She looks in her bag.",
+      "options": [
+        "Under her bed",
+        "On the desk",
+        "In the kitchen",
+        "In her bag"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ngozi looks in her bag.",
+      "curriculumRef": "NERDC Primary 1 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

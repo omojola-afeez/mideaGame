@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "mathematics",
+  "topic": "money-data",
+  "title": "Money market",
+  "questions": [
+    {
+      "code": "7-MAT-MON-B-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "How much is ₦50 + ₦50?",
+      "options": [
+        "₦100",
+        "₦50",
+        "₦150",
+        "₦500"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦50 plus ₦50 is ₦100.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-B-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "What is ₦100 - ₦30?",
+      "options": [
+        "₦60",
+        "₦70",
+        "₦80",
+        "₦130"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦100 take away ₦30 is ₦70.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-B-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "A ruler costs ₦20. You pay with ₦50. What is your change?",
+      "options": [
+        "₦20",
+        "₦50",
+        "₦30",
+        "₦70"
+      ],
+      "correctIndex": 2,
+      "explanation": "₦50 minus ₦20 is ₦30.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-B-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "How many ₦10 notes make ₦50?",
+      "options": [
+        "10",
+        "4",
+        "50",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "5 notes of ₦10 make ₦50.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-B-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "Which note is worth the most?",
+      "options": [
+        "₦1000",
+        "₦100",
+        "₦500",
+        "₦200"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦1000 is the highest note listed.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-B-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "What is ₦20 × 2?",
+      "options": [
+        "₦22",
+        "₦40",
+        "₦60",
+        "₦10"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦20 times 2 is ₦40.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-B-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "One orange costs ₦15. How much are 2 oranges?",
+      "options": [
+        "₦15",
+        "₦45",
+        "₦30",
+        "₦17"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 oranges at ₦15 is ₦30.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-B-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "What is ₦200 + ₦300?",
+      "options": [
+        "₦400",
+        "₦600",
+        "₦800",
+        "₦500"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦200 plus ₦300 is ₦500.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-S-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "What is ₦150 + ₦75?",
+      "options": [
+        "₦225",
+        "₦215",
+        "₦235",
+        "₦125"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦150 plus ₦75 is ₦225.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-S-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "A book costs ₦120. Tunde pays with ₦200. How much change?",
+      "options": [
+        "₦100",
+        "₦80",
+        "₦120",
+        "₦320"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦200 minus ₦120 is ₦80.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-S-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "How many 50 k coins make ₦5?",
+      "options": [
+        "5",
+        "20",
+        "10",
+        "50"
+      ],
+      "correctIndex": 2,
+      "explanation": "₦5 is 500 k, shared by 50 k is 10.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-S-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "What is ₦1000 - ₦450?",
+      "options": [
+        "₦450",
+        "₦650",
+        "₦500",
+        "550"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦1000 take away ₦450 is ₦550.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-S-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "3 pencils cost ₦45 in all. What is the cost of one?",
+      "options": [
+        "₦15",
+        "₦9",
+        "₦20",
+        "₦135"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦45 shared by 3 is ₦15.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-S-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "What is ₦250 × 2?",
+      "options": [
+        "₦400",
+        "₦500",
+        "₦750",
+        "₦452"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦250 times 2 is ₦500.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-S-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "Which is more: ₦750 or ₦705?",
+      "options": [
+        "₦705",
+        "They are the same",
+        "₦750",
+        "₦570"
+      ],
+      "correctIndex": 2,
+      "explanation": "₦750 is more than ₦705.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-S-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "A table shows sales: Mon 10, Tue 15, Wed 5. What is the total?",
+      "options": [
+        "20",
+        "25",
+        "35",
+        "30"
+      ],
+      "correctIndex": 3,
+      "explanation": "10 plus 15 plus 5 is 30.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-G-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "Amina buys 3 mangoes. Each costs ₦20. How much does she pay?",
+      "options": [
+        "₦60",
+        "₦40",
+        "₦50",
+        "₦80"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 mangoes at ₦20 is ₦60.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-G-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "What is ₦1000 - ₦275 - ₦125?",
+      "options": [
+        "₦500",
+        "600",
+        "₦700",
+        "₦725"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦1000 minus ₦275 is ₦725, minus ₦125 is ₦600.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-G-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "A bar chart shows 20, 35, 15. What is the biggest value?",
+      "options": [
+        "20",
+        "15",
+        "35",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "35 is the biggest of the three.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-G-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "A shirt costs ₦850. A sale drops the price by ₦200. Find the new price.",
+      "options": [
+        "₦500",
+        "₦750",
+        "₦1050",
+        "₦650"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦850 minus ₦200 is ₦650.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-G-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "If 4 oranges cost ₦60, how much does one orange cost?",
+      "options": [
+        "₦15",
+        "₦10",
+        "₦20",
+        "₦12"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦60 shared by 4 is ₦15.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-G-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "Monday sales were ₦1200. Tuesday sales were ₦800. What is the total?",
+      "options": [
+        "₦1800",
+        "₦2000",
+        "₦2100",
+        "₦1600"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦1200 plus ₦800 is ₦2000.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-G-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "What is ₦500 + ₦500 + ₦500?",
+      "options": [
+        "₦1,000",
+        "₦2,000",
+        "₦1,500",
+        "₦1,050"
+      ],
+      "correctIndex": 2,
+      "explanation": "Three lots of ₦500 is ₦1,500.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MON-G-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "Chidi saves ₦50 daily. How much does he save in 30 days?",
+      "options": [
+        "₦300",
+        "₦1,000",
+        "₦15,000",
+        "₦1500"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦50 times 30 days is ₦1,500.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

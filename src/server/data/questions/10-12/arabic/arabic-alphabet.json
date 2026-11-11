@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "arabic",
+  "topic": "arabic-alphabet",
+  "title": "Letter lagoon",
+  "questions": [
+    {
+      "code": "10-ARB-ARA-B-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "What is the name of this letter: ع?",
+      "options": [
+        "Ayn",
+        "Ghayn",
+        "Haa",
+        "Khaa"
+      ],
+      "correctIndex": 0,
+      "explanation": "ع is ayn, a voiced throat sound.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-B-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "What is the name of this letter: غ?",
+      "options": [
+        "Ayn",
+        "Ghayn",
+        "Faa",
+        "Qaaf"
+      ],
+      "correctIndex": 1,
+      "explanation": "غ is ghayn, a throaty gh sound.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-B-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "What is the name of this letter: ح?",
+      "options": [
+        "Ha",
+        "Khaa",
+        "Haa",
+        "Jeem"
+      ],
+      "correctIndex": 2,
+      "explanation": "ح is a deep, breathy h sound.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-B-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "What is the name of this letter: ذ?",
+      "options": [
+        "Dal",
+        "Zay",
+        "Thaa",
+        "Dhaal"
+      ],
+      "correctIndex": 3,
+      "explanation": "ذ is dhaal, like th in this.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-B-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "What is the name of this letter: ظ?",
+      "options": [
+        "Zaa",
+        "Taa",
+        "Saad",
+        "Daad"
+      ],
+      "correctIndex": 0,
+      "explanation": "ظ is an emphatic z sound.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-B-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "What is the name of this letter: ص?",
+      "options": [
+        "Seen",
+        "Saad",
+        "Sheen",
+        "Daad"
+      ],
+      "correctIndex": 1,
+      "explanation": "ص is an emphatic s sound.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-B-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "What is the name of this letter: ض?",
+      "options": [
+        "Saad",
+        "Taa",
+        "Daad",
+        "Zaa"
+      ],
+      "correctIndex": 2,
+      "explanation": "ض is an emphatic d sound.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-B-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "bronze",
+      "text": "Which letter is emphatic taa?",
+      "options": [
+        "ت",
+        "ظ",
+        "ص",
+        "ط"
+      ],
+      "correctIndex": 3,
+      "explanation": "ط is the emphatic partner of ت.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-S-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "Which of these is a moon letter?",
+      "options": [
+        "ب",
+        "ت",
+        "س",
+        "ن"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ba is a moon letter, the lam stays spoken.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-S-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "Which of these is a sun letter?",
+      "options": [
+        "ك",
+        "س",
+        "م",
+        "ف"
+      ],
+      "correctIndex": 1,
+      "explanation": "Seen is a sun letter, the lam is skipped.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-S-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "In الشمس how is the lam pronounced?",
+      "options": [
+        "It is clear",
+        "It is doubled",
+        "It is silent",
+        "It is long"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sun letters swallow the lam of al.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-S-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "In القمر how is the lam pronounced?",
+      "options": [
+        "It is silent",
+        "It is dropped",
+        "It is stressed",
+        "It is clear"
+      ],
+      "correctIndex": 3,
+      "explanation": "Moon letters keep the lam sound.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-S-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "What is tanwin?",
+      "options": [
+        "A double vowel mark giving an n sound",
+        "A long vowel",
+        "A silent letter",
+        "A full stop"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tanwin adds an n sound at the end of a word.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-S-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "What sound does fathatan give?",
+      "options": [
+        "In",
+        "An",
+        "Un",
+        "Ah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fathatan is a double fatha, read as an.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-S-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "What sound does kasratan give?",
+      "options": [
+        "An",
+        "Un",
+        "In",
+        "Ee"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kasratan is a double kasra, read as in.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-S-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "silver",
+      "text": "What sound does dammatan give?",
+      "options": [
+        "An",
+        "In",
+        "Oo",
+        "Un"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dammatan is a double damma, read as un.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-G-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word begins with a sun letter?",
+      "options": [
+        "الشمس",
+        "القمر",
+        "الكتاب",
+        "البيت"
+      ],
+      "correctIndex": 0,
+      "explanation": "Seen is a sun letter, so الشمس swallows the lam.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-G-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word begins with a moon letter?",
+      "options": [
+        "الشمس",
+        "القمر",
+        "النور",
+        "الرحمة"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qaf is a moon letter, so the lam is spoken.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-G-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "What does the shadda mean?",
+      "options": [
+        "The vowel is missing",
+        "The letter is long",
+        "The letter is doubled",
+        "The word is foreign"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shadda doubles the consonant beneath it.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-G-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "What does the sukoon mean?",
+      "options": [
+        "The letter is doubled",
+        "The letter is long",
+        "The letter starts the word",
+        "The letter has no vowel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sukoon means no vowel follows the consonant.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-G-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which word is written with a sun letter lam?",
+      "options": [
+        "السماء",
+        "القمر",
+        "البيت",
+        "المدرسة"
+      ],
+      "correctIndex": 0,
+      "explanation": "Seen is a sun letter, so its lam is not spoken.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-G-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "How is hamza on alif written?",
+      "options": [
+        "ة",
+        "أ or إ",
+        "ى",
+        "و"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hamza on alif carries a fatha or a kasra.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-G-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "What is the difference between ه and ة?",
+      "options": [
+        "Nothing at all",
+        "Ha is always silent",
+        "The round ta marks feminine words",
+        "Ta marbuta is masculine"
+      ],
+      "correctIndex": 2,
+      "explanation": "ة is ta marbuta, it closes many feminine nouns.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-ARA-G-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-alphabet",
+      "level": "gold",
+      "text": "Which of these shows tanwin al-fath?",
+      "options": [
+        "ـٌ",
+        "ـٍ",
+        "ـْ",
+        "ـًا"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tanwin al-fath is a double fatha over alif.",
+      "curriculumRef": "NERDC Primary 5 Arabic, the Arabic alphabet",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

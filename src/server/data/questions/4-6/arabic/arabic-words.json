@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "arabic",
+  "topic": "arabic-words",
+  "title": "Word waters",
+  "questions": [
+    {
+      "code": "4-ARB-WRD-B-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does بيت mean?",
+      "options": [
+        "House",
+        "School",
+        "Market",
+        "Mosque"
+      ],
+      "correctIndex": 0,
+      "explanation": "بيت (bayt) means house.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-B-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does كتاب mean?",
+      "options": [
+        "Pen",
+        "Book",
+        "Bag",
+        "Chair"
+      ],
+      "correctIndex": 1,
+      "explanation": "كتاب (kitab) means book.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-B-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does ماء mean?",
+      "options": [
+        "Milk",
+        "Bread",
+        "Water",
+        "Rice"
+      ],
+      "correctIndex": 2,
+      "explanation": "ماء (ma) means water.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-B-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does شمس mean?",
+      "options": [
+        "Moon",
+        "Star",
+        "Cloud",
+        "Sun"
+      ],
+      "correctIndex": 3,
+      "explanation": "شمس (shams) means sun.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-B-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does قمر mean?",
+      "options": [
+        "Moon",
+        "Sun",
+        "Sky",
+        "Rain"
+      ],
+      "correctIndex": 0,
+      "explanation": "قمر (qamar) means moon.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-B-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does كلب mean?",
+      "options": [
+        "Cat",
+        "Dog",
+        "Bird",
+        "Fish"
+      ],
+      "correctIndex": 1,
+      "explanation": "كلب (kalb) means dog.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-B-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does قطة mean?",
+      "options": [
+        "Dog",
+        "Cow",
+        "Cat",
+        "Goat"
+      ],
+      "correctIndex": 2,
+      "explanation": "قطة (qitta) means cat.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-B-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does قلم mean?",
+      "options": [
+        "Book",
+        "Door",
+        "Table",
+        "Pen"
+      ],
+      "correctIndex": 3,
+      "explanation": "قلم (qalam) means pen.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-S-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does معلم mean?",
+      "options": [
+        "Teacher",
+        "Student",
+        "Farmer",
+        "Trader"
+      ],
+      "correctIndex": 0,
+      "explanation": "معلم (muallim) means teacher.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-S-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does طالب mean?",
+      "options": [
+        "Teacher",
+        "Student",
+        "Doctor",
+        "Trader"
+      ],
+      "correctIndex": 1,
+      "explanation": "طالب (talib) means student.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-S-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does تفاحة mean?",
+      "options": [
+        "Orange",
+        "Banana",
+        "Apple",
+        "Mango"
+      ],
+      "correctIndex": 2,
+      "explanation": "تفاحة (tuffaha) means apple.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-S-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does لبن mean?",
+      "options": [
+        "Water",
+        "Tea",
+        "Juice",
+        "Milk"
+      ],
+      "correctIndex": 3,
+      "explanation": "لبن (laban) means milk.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-S-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does خبز mean?",
+      "options": [
+        "Bread",
+        "Rice",
+        "Beans",
+        "Fish"
+      ],
+      "correctIndex": 0,
+      "explanation": "خبز (khubz) means bread.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-S-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "Which word means water?",
+      "options": [
+        "نار",
+        "ماء",
+        "هواء",
+        "تراب"
+      ],
+      "correctIndex": 1,
+      "explanation": "ماء is water, نار is fire.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-S-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "Which word means book?",
+      "options": [
+        "قلم",
+        "كرسي",
+        "كتاب",
+        "باب"
+      ],
+      "correctIndex": 2,
+      "explanation": "كتاب means book.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-S-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does السلام عليكم mean?",
+      "options": [
+        "Good morning",
+        "Thank you",
+        "Good luck",
+        "Peace be upon you"
+      ],
+      "correctIndex": 3,
+      "explanation": "السلام عليكم is a common greeting among Muslims.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-G-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "How do you reply to السلام عليكم?",
+      "options": [
+        "وعليكم السلام",
+        "صباح الخير",
+        "أهلا وسهلا",
+        "مع السلامة"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reply to السلام عليكم is وعليكم السلام.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-G-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does صباح الخير mean?",
+      "options": [
+        "Good night",
+        "Good morning",
+        "Good evening",
+        "Welcome"
+      ],
+      "correctIndex": 1,
+      "explanation": "صباح الخير is a morning greeting.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-G-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does مدرسة mean?",
+      "options": [
+        "Market",
+        "Hospital",
+        "School",
+        "Bank"
+      ],
+      "correctIndex": 2,
+      "explanation": "مدرسة (madrasa) means school.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-G-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "Which word means cat?",
+      "options": [
+        "كلب",
+        "جمل",
+        "حصان",
+        "قطة"
+      ],
+      "correctIndex": 3,
+      "explanation": "قطة means cat, كلب means dog.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-G-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "Which word means teacher?",
+      "options": [
+        "معلم",
+        "طالب",
+        "فلاح",
+        "تاجر"
+      ],
+      "correctIndex": 0,
+      "explanation": "معلم means teacher, طالب means student.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-G-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does أهلا mean?",
+      "options": [
+        "Goodbye",
+        "Welcome",
+        "Thanks",
+        "Sorry"
+      ],
+      "correctIndex": 1,
+      "explanation": "أهلا (ahlan) is a warm welcome.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-G-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does شكرا mean?",
+      "options": [
+        "Welcome",
+        "Hello",
+        "Thank you",
+        "Please"
+      ],
+      "correctIndex": 2,
+      "explanation": "شكرا (shukran) means thank you.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-WRD-G-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "Which word means sun?",
+      "options": [
+        "قمر",
+        "نجم",
+        "ليل",
+        "شمس"
+      ],
+      "correctIndex": 3,
+      "explanation": "شمس means sun and قمر means moon.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

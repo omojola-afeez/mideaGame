@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "english",
+  "topic": "spelling",
+  "title": "Spelling shore",
+  "questions": [
+    {
+      "code": "4-ENG-SPE-B-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: The ___ says meow.",
+      "options": [
+        "cat",
+        "kat",
+        "cot",
+        "cet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cat starts with c and has a short a.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: short vowels",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-B-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: The ___ wags its tail.",
+      "options": [
+        "dag",
+        "dog",
+        "dug",
+        "dogg"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dog has a short o sound.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: short vowels",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-B-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: The ___ is hot and bright.",
+      "options": [
+        "son",
+        "sin",
+        "sun",
+        "san"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sun has a short u sound.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: short vowels",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-B-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: A ___ lives in water.",
+      "options": [
+        "fesh",
+        "fihs",
+        "ficsh",
+        "fish"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fish has the sh sound at the end.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: digraphs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-B-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: The ___ sails on the sea.",
+      "options": [
+        "ship",
+        "sheep",
+        "sip",
+        "shipp"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ship has the sh sound at the start.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: digraphs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-B-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: I buy food at the ___.",
+      "options": [
+        "schop",
+        "shop",
+        "shopp",
+        "shoppe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shop has the sh sound at the start.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: digraphs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-B-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: I like ___ pen.",
+      "options": [
+        "tis",
+        "thes",
+        "this",
+        "dis"
+      ],
+      "correctIndex": 2,
+      "explanation": "This has the th sound at the start.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: digraphs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-B-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: Look at ___ bird.",
+      "options": [
+        "tat",
+        "thate",
+        "dat",
+        "that"
+      ],
+      "correctIndex": 3,
+      "explanation": "That has the th sound at the start.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: digraphs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-S-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: The ___ is tall and green.",
+      "options": [
+        "tree",
+        "tre",
+        "trei",
+        "trey"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tree has the ee long vowel sound.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: long vowels",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-S-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: My two ___ hurt.",
+      "options": [
+        "fet",
+        "feet",
+        "feat",
+        "feit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Feet has the ee long vowel sound.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: long vowels",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-S-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: The ___ falls from the sky.",
+      "options": [
+        "rane",
+        "rayn",
+        "rain",
+        "rin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rain has the ai long vowel sound.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: long vowels",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-S-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: We sailed in a ___.",
+      "options": [
+        "bote",
+        "boate",
+        "bot",
+        "boat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Boat has the oa long vowel sound.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: long vowels",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-S-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: We eat ___ in the morning.",
+      "options": [
+        "bread",
+        "breed",
+        "brad",
+        "brede"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bread has a short e sound.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: vowel teams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-S-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: Turn on the ___.",
+      "options": [
+        "lite",
+        "light",
+        "ligt",
+        "lightt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Light has the igh sound.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: vowel teams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-S-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: We sleep at ___.",
+      "options": [
+        "nite",
+        "nigth",
+        "night",
+        "nightt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Night has the igh sound.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: vowel teams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-S-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: I like to ___ books.",
+      "options": [
+        "reed",
+        "red",
+        "raed",
+        "read"
+      ],
+      "correctIndex": 3,
+      "explanation": "Read means to look at words.",
+      "curriculumRef": "NERDC Nursery 2 English, spelling: vowel teams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-G-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Fill the gap: She ___ hello to us.",
+      "options": [
+        "said",
+        "sed",
+        "sayid",
+        "saed"
+      ],
+      "correctIndex": 0,
+      "explanation": "Said is spelled s a i d.",
+      "curriculumRef": "NERDC Primary 1 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-G-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Fill the gap: Please ___ here.",
+      "options": [
+        "cum",
+        "come",
+        "coome",
+        "com"
+      ],
+      "correctIndex": 1,
+      "explanation": "Come has a short u sound.",
+      "curriculumRef": "NERDC Primary 1 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-G-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Fill the gap: I ___ my mum.",
+      "options": [
+        "luv",
+        "lov",
+        "love",
+        "luve"
+      ],
+      "correctIndex": 2,
+      "explanation": "Love is spelled l o v e.",
+      "curriculumRef": "NERDC Primary 1 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-G-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Fill the gap: I have ___ mangoes.",
+      "options": [
+        "sum",
+        "sume",
+        "som",
+        "some"
+      ],
+      "correctIndex": 3,
+      "explanation": "Some is spelled s o m e.",
+      "curriculumRef": "NERDC Primary 1 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-G-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Fill the gap: We ___ at the farm.",
+      "options": [
+        "were",
+        "wher",
+        "wer",
+        "wheir"
+      ],
+      "correctIndex": 0,
+      "explanation": "Were is spelled w e r e.",
+      "curriculumRef": "NERDC Primary 1 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-G-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Fill the gap: I ___ a new bag.",
+      "options": [
+        "hav",
+        "have",
+        "haev",
+        "haf"
+      ],
+      "correctIndex": 1,
+      "explanation": "Have ends with a silent e.",
+      "curriculumRef": "NERDC Primary 1 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-G-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Fill the gap: Bola is my best ___.",
+      "options": [
+        "frend",
+        "freind",
+        "friend",
+        "frind"
+      ],
+      "correctIndex": 2,
+      "explanation": "Friend has the ie spelling.",
+      "curriculumRef": "NERDC Primary 1 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-SPE-G-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Fill the gap: I stay home ___ it rains.",
+      "options": [
+        "becauze",
+        "becuse",
+        "beacause",
+        "because"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because is spelled b e c a u s e.",
+      "curriculumRef": "NERDC Primary 1 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

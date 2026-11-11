@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "science",
+  "topic": "energy",
+  "title": "Energy edge",
+  "questions": [
+    {
+      "code": "7-SCI-ENE-B-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which of these gives light?",
+      "options": [
+        "A candle",
+        "A stone",
+        "A spoon",
+        "A book"
+      ],
+      "correctIndex": 0,
+      "explanation": "A candle gives light when it burns.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-B-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "What is the main source of light for Earth?",
+      "options": [
+        "The moon",
+        "The sun",
+        "The stars",
+        "A torch"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sun is the main source of light.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-B-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Food gives us what?",
+      "options": [
+        "Salt",
+        "Water",
+        "Energy",
+        "Air"
+      ],
+      "correctIndex": 2,
+      "explanation": "Food gives us energy.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-B-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which one works with power?",
+      "options": [
+        "A broom",
+        "A bucket",
+        "A spoon",
+        "A fan"
+      ],
+      "correctIndex": 3,
+      "explanation": "A fan works with electricity.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-B-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Energy from the sun is what?",
+      "options": [
+        "Solar energy",
+        "Wind power",
+        "Water power",
+        "Atomic energy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Energy from the sun is solar energy.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-B-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which of these makes a sound?",
+      "options": [
+        "A wall",
+        "A drum",
+        "A pillow",
+        "A book"
+      ],
+      "correctIndex": 1,
+      "explanation": "A drum makes sound when struck.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-B-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "How do we feel heat?",
+      "options": [
+        "With our ears",
+        "With our nose",
+        "With our skin",
+        "With our eyes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Our skin senses heat.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-B-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "What flows in wires?",
+      "options": [
+        "Water",
+        "Gas",
+        "Sound",
+        "Electric current"
+      ],
+      "correctIndex": 3,
+      "explanation": "Electric current flows in wires.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-S-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Why does a metal spoon get hot in soup?",
+      "options": [
+        "It carries heat",
+        "It makes heat",
+        "It eats heat",
+        "It breathes heat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metal carries heat up the spoon.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-S-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Which one keeps soup hot longest?",
+      "options": [
+        "An open pot",
+        "A flask",
+        "A glass bowl",
+        "A bare plate"
+      ],
+      "correctIndex": 1,
+      "explanation": "A flask keeps soup hot for hours.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-S-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "How does sound move?",
+      "options": [
+        "By light rays",
+        "By heat waves",
+        "By vibrations in the air",
+        "By magnetism"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sound travels as vibrations in the air.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-S-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "What does a dam give us?",
+      "options": [
+        "Food",
+        "Fuel",
+        "Clothes",
+        "Electricity"
+      ],
+      "correctIndex": 3,
+      "explanation": "A dam uses moving water to make electricity.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-S-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Why do heavy things need more force to push?",
+      "options": [
+        "They have more mass",
+        "They are taller",
+        "They are wider",
+        "They are older"
+      ],
+      "correctIndex": 0,
+      "explanation": "Heavy things have more mass to move.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-S-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Which is good at passing heat?",
+      "options": [
+        "Wood",
+        "Metal",
+        "Plastic",
+        "Rubber"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metal passes heat easily.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-S-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Why is the sun hot?",
+      "options": [
+        "It burns coal",
+        "It reflects moon light",
+        "It is a huge ball of hot gas",
+        "It is close to us"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sun is a huge ball of hot gas.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-S-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "What can wind do for us?",
+      "options": [
+        "Drown houses",
+        "Spoil crops",
+        "Blow away boats",
+        "Turn windmills to make electricity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wind can turn windmills to make electricity.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-G-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why do solar panels need the sun?",
+      "options": [
+        "They change sunlight to power",
+        "They need rain",
+        "They use the moon",
+        "They hide from heat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Solar panels turn sunlight into electricity.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-G-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "How does heat move through a spoon?",
+      "options": [
+        "By convection",
+        "By conduction",
+        "By radiation",
+        "By evaporation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heat moves through solids by conduction.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-G-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why do shoes have rubber soles?",
+      "options": [
+        "They are cheap only",
+        "They are soft and weak",
+        "They last long and grip well",
+        "They conduct electricity"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rubber grips and lasts long.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-G-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why do mirrors show us?",
+      "options": [
+        "Mirrors give off light",
+        "Mirrors eat light",
+        "Mirrors make shadows",
+        "Mirrors reflect light"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mirrors reflect light back to our eyes.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-G-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "What does a drum give us?",
+      "options": [
+        "Sound energy",
+        "Light energy",
+        "Heat energy",
+        "Atomic energy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beating a drum makes sound energy.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-G-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why must we switch off lights?",
+      "options": [
+        "To make the room dark for fun",
+        "To save electricity",
+        "To make bulbs last always",
+        "To please the teacher"
+      ],
+      "correctIndex": 1,
+      "explanation": "Switching off lights saves electricity.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-G-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "How is wind made?",
+      "options": [
+        "By the sea moving",
+        "By trees waving",
+        "By air moving from hot to cold areas",
+        "By rain falling"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wind is moving air, from hot to cold areas.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-ENE-G-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Which one burns to give energy?",
+      "options": [
+        "Water",
+        "Sand",
+        "Salt",
+        "Petrol"
+      ],
+      "correctIndex": 3,
+      "explanation": "Petrol burns to give energy.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

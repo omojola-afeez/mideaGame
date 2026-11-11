@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "mathematics",
+  "topic": "addsub",
+  "title": "Add and subtract",
+  "questions": [
+    {
+      "code": "7-MAT-ADD-B-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 25 + 30?",
+      "options": [
+        "55",
+        "45",
+        "65",
+        "75"
+      ],
+      "correctIndex": 0,
+      "explanation": "25 plus 30 is 55.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-B-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 48 - 20?",
+      "options": [
+        "18",
+        "28",
+        "38",
+        "68"
+      ],
+      "correctIndex": 1,
+      "explanation": "48 take away 20 is 28.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-B-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 60 + 35?",
+      "options": [
+        "85",
+        "105",
+        "95",
+        "90"
+      ],
+      "correctIndex": 2,
+      "explanation": "60 plus 35 is 95.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-B-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 72 - 30?",
+      "options": [
+        "32",
+        "52",
+        "45",
+        "42"
+      ],
+      "correctIndex": 3,
+      "explanation": "72 take away 30 is 42.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-B-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 15 + 27?",
+      "options": [
+        "42",
+        "32",
+        "52",
+        "47"
+      ],
+      "correctIndex": 0,
+      "explanation": "15 plus 27 is 42.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-B-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 90 - 45?",
+      "options": [
+        "40",
+        "45",
+        "55",
+        "35"
+      ],
+      "correctIndex": 1,
+      "explanation": "90 take away 45 is 45.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-B-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 36 + 28?",
+      "options": [
+        "54",
+        "74",
+        "64",
+        "62"
+      ],
+      "correctIndex": 2,
+      "explanation": "36 plus 28 is 64.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-B-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 55 - 17?",
+      "options": [
+        "28",
+        "48",
+        "42",
+        "38"
+      ],
+      "correctIndex": 3,
+      "explanation": "55 take away 17 is 38.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-S-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 125 + 234?",
+      "options": [
+        "359",
+        "349",
+        "369",
+        "459"
+      ],
+      "correctIndex": 0,
+      "explanation": "125 plus 234 is 359.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-S-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 340 - 125?",
+      "options": [
+        "225",
+        "215",
+        "205",
+        "235"
+      ],
+      "correctIndex": 1,
+      "explanation": "340 take away 125 is 215.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-S-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "A farmer has 245 eggs. He sells 120. How many eggs are left?",
+      "options": [
+        "115",
+        "135",
+        "125",
+        "225"
+      ],
+      "correctIndex": 2,
+      "explanation": "245 minus 120 is 125 eggs.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-S-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 500 - 275?",
+      "options": [
+        "235",
+        "215",
+        "325",
+        "225"
+      ],
+      "correctIndex": 3,
+      "explanation": "500 take away 275 is 225.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-S-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 178 + 145?",
+      "options": [
+        "323",
+        "313",
+        "333",
+        "223"
+      ],
+      "correctIndex": 0,
+      "explanation": "178 plus 145 is 323.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-S-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "Tunde has ₦85. He spends ₦40. How much does he have?",
+      "options": [
+        "₦40",
+        "₦45",
+        "₦50",
+        "₦125"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦85 minus ₦40 is ₦45.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-S-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 600 + 350?",
+      "options": [
+        "850",
+        "1,050",
+        "950",
+        "955"
+      ],
+      "correctIndex": 2,
+      "explanation": "600 plus 350 is 950.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-S-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 403 - 150?",
+      "options": [
+        "243",
+        "263",
+        "353",
+        "253"
+      ],
+      "correctIndex": 3,
+      "explanation": "403 take away 150 is 253.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-G-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What is 268 + 475?",
+      "options": [
+        "743",
+        "733",
+        "753",
+        "643"
+      ],
+      "correctIndex": 0,
+      "explanation": "268 plus 475 is 743.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-G-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What is 901 - 356?",
+      "options": [
+        "555",
+        "545",
+        "535",
+        "645"
+      ],
+      "correctIndex": 1,
+      "explanation": "901 take away 356 is 545.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-G-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A shop has 324 bags of rice. It sells 178. How many are left?",
+      "options": [
+        "156",
+        "136",
+        "146",
+        "246"
+      ],
+      "correctIndex": 2,
+      "explanation": "324 minus 178 is 146 bags.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-G-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What is 152 + 276 + 100?",
+      "options": [
+        "428",
+        "518",
+        "628",
+        "528"
+      ],
+      "correctIndex": 3,
+      "explanation": "152 plus 276 is 428, plus 100 is 528.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-G-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What is 1,000 - 487?",
+      "options": [
+        "513",
+        "523",
+        "503",
+        "487"
+      ],
+      "correctIndex": 0,
+      "explanation": "1000 take away 487 is 513.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-G-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Amaka reads 45 pages on Monday and 38 on Tuesday. How many pages in all?",
+      "options": [
+        "73",
+        "83",
+        "93",
+        "85"
+      ],
+      "correctIndex": 1,
+      "explanation": "45 plus 38 is 83 pages.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-G-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What is 729 - 268?",
+      "options": [
+        "471",
+        "451",
+        "461",
+        "569"
+      ],
+      "correctIndex": 2,
+      "explanation": "729 take away 268 is 461.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-ADD-G-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Chinwe buys 2 books. One costs ₦120, the other ₦85. What is the total?",
+      "options": [
+        "₦195",
+        "₦215",
+        "₦185",
+        "₦205"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦120 plus ₦85 is ₦205.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

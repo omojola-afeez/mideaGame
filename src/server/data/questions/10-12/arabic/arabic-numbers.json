@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "arabic",
+  "topic": "arabic-numbers",
+  "title": "Number nest",
+  "questions": [
+    {
+      "code": "10-ARB-NUM-B-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is مئتان?",
+      "options": [
+        "200",
+        "100",
+        "1000",
+        "300"
+      ],
+      "correctIndex": 0,
+      "explanation": "مئتان (mi atan) means two hundred.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-B-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is ألف?",
+      "options": [
+        "100",
+        "1000",
+        "10000",
+        "100000"
+      ],
+      "correctIndex": 1,
+      "explanation": "ألف (alf) means one thousand.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-B-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is نصف?",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "3/4"
+      ],
+      "correctIndex": 2,
+      "explanation": "نصف (nisf) means one half.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-B-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is ربع?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/5",
+        "1/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "ربع (rub) means one quarter.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-B-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What does ٪ mean?",
+      "options": [
+        "Percent",
+        "Dollar",
+        "Minutes",
+        "Degrees"
+      ],
+      "correctIndex": 0,
+      "explanation": "٪ is the percent sign in Arabic.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-B-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What does ٨٠ mean?",
+      "options": [
+        "Eighteen",
+        "Eighty",
+        "Eight",
+        "Eight hundred"
+      ],
+      "correctIndex": 1,
+      "explanation": "٨٠ reads as eighty.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-B-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What does ٩٠ mean?",
+      "options": [
+        "Nineteen",
+        "Nine",
+        "Ninety",
+        "Nine hundred"
+      ],
+      "correctIndex": 2,
+      "explanation": "٩٠ reads as ninety.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-B-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What does سبعون mean?",
+      "options": [
+        "17",
+        "77",
+        "700",
+        "70"
+      ],
+      "correctIndex": 3,
+      "explanation": "سبعون (sab un) means seventy.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-S-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What is نصف المئة?",
+      "options": [
+        "50",
+        "25",
+        "100",
+        "75"
+      ],
+      "correctIndex": 0,
+      "explanation": "Half of one hundred is fifty.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-S-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What is ربع الألف?",
+      "options": [
+        "500",
+        "250",
+        "750",
+        "100"
+      ],
+      "correctIndex": 1,
+      "explanation": "A quarter of one thousand is two hundred and fifty.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-S-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What is ثلاثة أرباع المئة?",
+      "options": [
+        "25",
+        "50",
+        "75",
+        "90"
+      ],
+      "correctIndex": 2,
+      "explanation": "Three quarters of one hundred is seventy five.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-S-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What is ١٠ × ١٢?",
+      "options": [
+        "102",
+        "112",
+        "210",
+        "120"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ten times twelve is one hundred and twenty.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-S-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What is ألف divided by عشرة?",
+      "options": [
+        "100",
+        "10",
+        "1000",
+        "10000"
+      ],
+      "correctIndex": 0,
+      "explanation": "One thousand divided by ten is one hundred.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-S-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What is ٥٠٪ of 200?",
+      "options": [
+        "50",
+        "100",
+        "150",
+        "200"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fifty percent is one half, and half of two hundred is one hundred.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-S-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What is ٢٥٪ of 80?",
+      "options": [
+        "25",
+        "40",
+        "20",
+        "15"
+      ],
+      "correctIndex": 2,
+      "explanation": "Twenty five percent is one quarter, a quarter of eighty is twenty.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-S-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "How is 350 written in Arabic words?",
+      "options": [
+        "ثلاثمئة وخمسة",
+        "خمسمئة وثلاثون",
+        "ثلاثة وخمسون",
+        "ثلاثمئة وخمسون"
+      ],
+      "correctIndex": 3,
+      "explanation": "350 is ثلاثمئة وخمسون.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-G-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "A book costs ٢٥٠ naira. You pay ٥٠٠ naira. What change do you get?",
+      "options": [
+        "٢٥٠ naira",
+        "١٥٠ naira",
+        "٢٠٠ naira",
+        "٣٥٠ naira"
+      ],
+      "correctIndex": 0,
+      "explanation": "Five hundred minus two hundred and fifty is two hundred and fifty.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-G-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "Oranges cost ٤٠ naira each. How much do ٥ oranges cost?",
+      "options": [
+        "١٦٠ naira",
+        "٢٠٠ naira",
+        "٢٤٠ naira",
+        "١٨٠ naira"
+      ],
+      "correctIndex": 1,
+      "explanation": "Forty times five is two hundred.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-G-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "What is ثلث, one third, of ٩٠?",
+      "options": [
+        "20",
+        "45",
+        "30",
+        "60"
+      ],
+      "correctIndex": 2,
+      "explanation": "ثلث means one third and ninety divided by three is thirty.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-G-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "What is خمس, one fifth, of ١٠٠?",
+      "options": [
+        "25",
+        "10",
+        "50",
+        "20"
+      ],
+      "correctIndex": 3,
+      "explanation": "خمس means one fifth and one hundred divided by five is twenty.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-G-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "What is ٧٥٪ of ٤٠٠?",
+      "options": [
+        "300",
+        "250",
+        "200",
+        "350"
+      ],
+      "correctIndex": 0,
+      "explanation": "Seventy five percent is three quarters, and three quarters of four hundred is three hundred.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-G-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "Which fraction is larger: نصف or ربع?",
+      "options": [
+        "ربع",
+        "نصف",
+        "هما متساويان",
+        "لا يمكن المقارنة"
+      ],
+      "correctIndex": 1,
+      "explanation": "نصف is one half and ربع is one quarter, and one half is larger.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-G-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "How is ١٩٤٥ written in Arabic words?",
+      "options": [
+        "ألف وتسعمئة وأربعة وخمسون",
+        "ألف وست مئة وأربعون",
+        "ألف وتسعمئة وخمسة وأربعون",
+        "ألف وتسعمئة وتسعة وعشرون"
+      ],
+      "correctIndex": 2,
+      "explanation": "١٩٤٥ is ألف وتسعمئة وخمسة وأربعون.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-NUM-G-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "A class of ٤٥ pupils lost ثلثهم to illness. How many were ill?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "15"
+      ],
+      "correctIndex": 3,
+      "explanation": "ثلث, one third, of forty five is fifteen.",
+      "curriculumRef": "NERDC Primary 5 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

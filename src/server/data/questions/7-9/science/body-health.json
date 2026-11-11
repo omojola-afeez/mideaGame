@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "science",
+  "topic": "body-health",
+  "title": "Body bay",
+  "questions": [
+    {
+      "code": "7-SCI-BOD-B-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Which organ pumps blood?",
+      "options": [
+        "The heart",
+        "The lungs",
+        "The liver",
+        "The kidneys"
+      ],
+      "correctIndex": 0,
+      "explanation": "The heart pumps blood around the body.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-B-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "What do your lungs do?",
+      "options": [
+        "Pump blood",
+        "Help you breathe",
+        "Digest food",
+        "Make urine"
+      ],
+      "correctIndex": 1,
+      "explanation": "The lungs help you breathe.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-B-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "How many senses do we have?",
+      "options": [
+        "Four",
+        "Six",
+        "Five",
+        "Seven"
+      ],
+      "correctIndex": 2,
+      "explanation": "We have five senses.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-B-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Which organ helps you see?",
+      "options": [
+        "The ears",
+        "The nose",
+        "The skin",
+        "The eyes"
+      ],
+      "correctIndex": 3,
+      "explanation": "The eyes help us see.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-B-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "What is the healthiest drink?",
+      "options": [
+        "Water",
+        "Cola",
+        "Energy drinks",
+        "Sweet tea"
+      ],
+      "correctIndex": 0,
+      "explanation": "Water is the healthiest drink.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-B-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Which part of the leg bends?",
+      "options": [
+        "The elbow",
+        "The knee",
+        "The shoulder",
+        "The neck"
+      ],
+      "correctIndex": 1,
+      "explanation": "The knee bends the leg.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-B-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Rice gives us what?",
+      "options": [
+        "Salt",
+        "Vitamins only",
+        "Energy",
+        "Water"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rice gives the body energy.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-B-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "What is blood?",
+      "options": [
+        "A watery juice",
+        "A thick oil",
+        "Dirt in the body",
+        "A red liquid that carries food and oxygen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Blood carries food and oxygen around the body.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-S-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why wash fruits before eating?",
+      "options": [
+        "To remove dirt and germs",
+        "To make them sweet",
+        "To cool them",
+        "To change their colour"
+      ],
+      "correctIndex": 0,
+      "explanation": "Washing fruits removes dirt and germs.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-S-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Which food is rich in vitamin C?",
+      "options": [
+        "Rice",
+        "Oranges",
+        "Yam",
+        "Beans"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oranges are rich in vitamin C.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-S-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why is exercise good for the heart?",
+      "options": [
+        "It makes the heart lazy",
+        "It stops blood flow",
+        "It makes the heart strong",
+        "It fills the lungs with dust"
+      ],
+      "correctIndex": 2,
+      "explanation": "Exercise makes the heart stronger.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-S-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "What do you do when ill?",
+      "options": [
+        "Keep silent always",
+        "Eat junk food",
+        "Play outside all day",
+        "See a doctor or nurse"
+      ],
+      "correctIndex": 3,
+      "explanation": "A doctor or nurse cares for the sick.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-S-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Which food is good for teeth?",
+      "options": [
+        "Milk",
+        "Sweets",
+        "Soda",
+        "Chips"
+      ],
+      "correctIndex": 0,
+      "explanation": "Milk builds strong teeth.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-S-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why is too much salt bad?",
+      "options": [
+        "It makes you sneeze",
+        "It raises blood pressure",
+        "It cools the body too much",
+        "It causes hair loss"
+      ],
+      "correctIndex": 1,
+      "explanation": "Too much salt can raise blood pressure.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-S-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why do we need protein?",
+      "options": [
+        "To give quick energy",
+        "To help eyes only",
+        "To build and repair body tissues",
+        "To make bones soft"
+      ],
+      "correctIndex": 2,
+      "explanation": "Protein builds and repairs the body.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-S-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why should children drink milk?",
+      "options": [
+        "It makes them tall at once",
+        "It gives instant energy",
+        "It stops all diseases",
+        "It builds strong bones and teeth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Milk builds strong bones and teeth in children.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-G-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why do we need vitamins?",
+      "options": [
+        "To prevent deficiency diseases",
+        "To make nails shiny",
+        "To grow hair faster",
+        "To sleep better only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vitamins prevent deficiency diseases.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-G-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Which sickness does fruit stop?",
+      "options": [
+        "Malaria",
+        "Scurvy",
+        "Typhoid",
+        "Cholera"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fruits rich in vitamin C prevent scurvy.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-G-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "How does the heart beat?",
+      "options": [
+        "By blowing air into it",
+        "By the lungs pushing it",
+        "By squeezing and relaxing its muscles",
+        "By the brain shaking it"
+      ],
+      "correctIndex": 2,
+      "explanation": "The heart beats by squeezing and relaxing.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-G-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why is too much sugar bad?",
+      "options": [
+        "It makes blood cold",
+        "It stops the heart",
+        "It cools the brain",
+        "It can cause tooth decay and diabetes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Too much sugar can cause tooth decay and diabetes.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-G-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "What does the liver do?",
+      "options": [
+        "It cleans the blood",
+        "It pumps blood",
+        "It breathes air",
+        "It stores urine"
+      ],
+      "correctIndex": 0,
+      "explanation": "The liver cleans the blood.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-G-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why should we sleep enough?",
+      "options": [
+        "To dream more dreams",
+        "For the body to rest and grow",
+        "To eat more",
+        "To grow taller overnight only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sleep lets the body rest and grow.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-G-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "How are germs spread?",
+      "options": [
+        "Through clean air only",
+        "Through sunlight",
+        "Through dirty hands, air, food and water",
+        "Through sound"
+      ],
+      "correctIndex": 2,
+      "explanation": "Germs spread through dirty hands, air, food and water.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-BOD-G-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why is a mixed diet good?",
+      "options": [
+        "It costs less money",
+        "It tastes better",
+        "It cooks faster",
+        "It gives all the nutrients the body needs"
+      ],
+      "correctIndex": 3,
+      "explanation": "A mixed diet gives all the nutrients the body needs.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

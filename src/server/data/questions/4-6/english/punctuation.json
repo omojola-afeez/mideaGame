@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "english",
+  "topic": "punctuation",
+  "title": "Punctuation point",
+  "questions": [
+    {
+      "code": "4-ENG-PUN-B-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark ends a sentence?",
+      "options": [
+        "A full stop",
+        "A comma",
+        "A hyphen",
+        "A colon"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sentence ends with a full stop.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-B-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark shows a question?",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "A comma",
+        "An exclamation mark"
+      ],
+      "correctIndex": 1,
+      "explanation": "Questions end with a question mark.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-B-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "The first word of a sentence starts with ___.",
+      "options": [
+        "a small letter",
+        "a number",
+        "a capital letter",
+        "a comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "Start a sentence with a capital letter.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: capital letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-B-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which group of words is a full sentence?",
+      "options": [
+        "Barks the dog.",
+        "The dog.",
+        "Dog barks the",
+        "The dog barks."
+      ],
+      "correctIndex": 3,
+      "explanation": "A sentence needs a naming part and action.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: sentences",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-B-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark fits here: Are you ok ___",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "A comma",
+        "An exclamation mark"
+      ],
+      "correctIndex": 0,
+      "explanation": "Are you ok is a question.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-B-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark fits here: I am six ___",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "A comma",
+        "An exclamation mark"
+      ],
+      "correctIndex": 1,
+      "explanation": "I am six is a statement. It takes a full stop.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-B-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which word starts with a big letter?",
+      "options": [
+        "table",
+        "cat",
+        "Nigeria",
+        "book"
+      ],
+      "correctIndex": 2,
+      "explanation": "Names of places start with capitals.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: capital letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-B-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which name starts with a big letter?",
+      "options": [
+        "rice",
+        "yam",
+        "bag",
+        "Ada"
+      ],
+      "correctIndex": 3,
+      "explanation": "Names of people start with capitals.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: capital letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-S-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark shows a strong feeling?",
+      "options": [
+        "An exclamation mark",
+        "A comma",
+        "A full stop",
+        "A colon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong feelings take an exclamation mark.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: exclamation marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-S-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark ends a warning word like Fire?",
+      "options": [
+        "A comma",
+        "An exclamation mark",
+        "A full stop",
+        "A colon"
+      ],
+      "correctIndex": 1,
+      "explanation": "A strong call takes an exclamation mark.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: exclamation marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-S-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark joins things in a list?",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "A comma",
+        "An exclamation mark"
+      ],
+      "correctIndex": 2,
+      "explanation": "Use commas between items in a list.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: commas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-S-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Fill the gap: I bought rice, beans ___ yam.",
+      "options": [
+        "but",
+        "yet",
+        "or",
+        "and"
+      ],
+      "correctIndex": 3,
+      "explanation": "And joins the last item in a list.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: commas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-S-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "I live in Lagos. Which words take big letters?",
+      "options": [
+        "I and Lagos",
+        "I and live",
+        "live and Lagos",
+        "in and Lagos"
+      ],
+      "correctIndex": 0,
+      "explanation": "I and Lagos take capital letters.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: capital letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-S-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "What is missing? She said hello ___",
+      "options": [
+        "A comma at the end",
+        "A full stop at the end",
+        "A question mark at the end",
+        "An exclamation mark at the end"
+      ],
+      "correctIndex": 1,
+      "explanation": "She said hello is a statement.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-S-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "What is missing? Are you coming ___",
+      "options": [
+        "A full stop at the end",
+        "A comma at the end",
+        "A question mark at the end",
+        "An exclamation mark at the end"
+      ],
+      "correctIndex": 2,
+      "explanation": "Are you coming is a question.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-S-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "What is missing? What a lovely day ___",
+      "options": [
+        "A full stop at the end",
+        "A comma at the end",
+        "A question mark at the end",
+        "An exclamation mark at the end"
+      ],
+      "correctIndex": 3,
+      "explanation": "What a lovely day shows strong feeling.",
+      "curriculumRef": "NERDC Nursery 2 English, punctuation: exclamation marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-G-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which shows one boy owns the ball?",
+      "options": [
+        "boy's ball",
+        "boys ball",
+        "boys' ball",
+        "balls boy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Apostrophe s means one boy owns it.",
+      "curriculumRef": "NERDC Primary 1 English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-G-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which shows one girl owns the bag?",
+      "options": [
+        "girls bag",
+        "girl's bag",
+        "girls' bag",
+        "bags girl"
+      ],
+      "correctIndex": 1,
+      "explanation": "Apostrophe s shows ownership.",
+      "curriculumRef": "NERDC Primary 1 English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-G-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "What is missing here: Where is my shoe ___",
+      "options": [
+        "A full stop at the end",
+        "A comma at the end",
+        "A question mark at the end",
+        "An exclamation mark at the end"
+      ],
+      "correctIndex": 2,
+      "explanation": "Where is my shoe is a question.",
+      "curriculumRef": "NERDC Primary 1 English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-G-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "What is missing here: Run for your life ___",
+      "options": [
+        "A full stop at the end",
+        "A comma at the end",
+        "A question mark at the end",
+        "An exclamation mark at the end"
+      ],
+      "correctIndex": 3,
+      "explanation": "Run for your life is an urgent call.",
+      "curriculumRef": "NERDC Primary 1 English, punctuation: exclamation marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-G-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "We visited Abuja. Which words take big letters?",
+      "options": [
+        "We and Abuja",
+        "We and visited",
+        "visited and Abuja",
+        "and and Abuja"
+      ],
+      "correctIndex": 0,
+      "explanation": "We starts the sentence. Abuja is a place.",
+      "curriculumRef": "NERDC Primary 1 English, punctuation: capital letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-G-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which order is right?",
+      "options": [
+        "Home go now.",
+        "Go home now.",
+        "Go now home.",
+        "Home now go."
+      ],
+      "correctIndex": 1,
+      "explanation": "A command starts with a capital letter.",
+      "curriculumRef": "NERDC Primary 1 English, punctuation: sentences",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-G-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "My friend Bola lives in Kano. Which words take big letters?",
+      "options": [
+        "Bola and my",
+        "friend and Kano",
+        "Bola and Kano",
+        "lives and Bola"
+      ],
+      "correctIndex": 2,
+      "explanation": "Names of people and places take capitals.",
+      "curriculumRef": "NERDC Primary 1 English, punctuation: capital letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-PUN-G-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which mark is used in boy's?",
+      "options": [
+        "A comma",
+        "A full stop",
+        "A hyphen",
+        "An apostrophe"
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe in boy's shows ownership.",
+      "curriculumRef": "NERDC Primary 1 English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

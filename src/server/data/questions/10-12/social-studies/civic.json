@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "social-studies",
+  "topic": "civic",
+  "title": "Duty dunes",
+  "questions": [
+    {
+      "code": "10-SOC-CIV-B-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What is the meaning of voting?",
+      "options": [
+        "Choosing leaders by ballot",
+        "Appointing friends to office",
+        "Paying tax",
+        "Joining a party"
+      ],
+      "correctIndex": 0,
+      "explanation": "Voting is the citizen's voice in choosing leaders.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-B-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What does the constitution do?",
+      "options": [
+        "Lists prices of goods",
+        "Sets out how the country is governed",
+        "Names all citizens",
+        "Describes foreign land"
+      ],
+      "correctIndex": 1,
+      "explanation": "The constitution is the supreme law of Nigeria.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-B-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What are human rights?",
+      "options": [
+        "Rewards for the rich",
+        "Duties of police",
+        "Basic freedoms for every person",
+        "Privileges for adults"
+      ],
+      "correctIndex": 2,
+      "explanation": "Human rights belong to every Nigerian.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-B-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "Why is the rule of law important?",
+      "options": [
+        "Rich people break rules",
+        "Law is optional",
+        "Police make their own laws",
+        "No one is above the law"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rule of law treats every person equally.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-B-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What is a civic duty?",
+      "options": [
+        "Duties owed to the community",
+        "Personal hobbies",
+        "Paying school fees",
+        "Travelling abroad"
+      ],
+      "correctIndex": 0,
+      "explanation": "Civic duties include voting, tax and obeying law.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-B-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What is the job of the judiciary?",
+      "options": [
+        "Making laws",
+        "Interpreting the law",
+        "Enforcing laws",
+        "Printing money"
+      ],
+      "correctIndex": 1,
+      "explanation": "The judiciary applies the law to disputes.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-B-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "What is INEC?",
+      "options": [
+        "The tax office",
+        "The police headquarters",
+        "The electoral umpire",
+        "A bank"
+      ],
+      "correctIndex": 2,
+      "explanation": "INEC conducts elections in Nigeria.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-B-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "bronze",
+      "text": "Why keep traffic laws?",
+      "options": [
+        "To impress officers",
+        "To avoid fines only",
+        "No reason",
+        "To prevent road accidents"
+      ],
+      "correctIndex": 3,
+      "explanation": "Traffic laws save lives on our roads.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-S-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "How does the legislature make laws?",
+      "options": [
+        "Through bills passed and signed",
+        "By presidential decree only",
+        "By voting in markets",
+        "By town criers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bills are debated, passed and signed into law.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-S-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "Why is press freedom important?",
+      "options": [
+        "It sells papers",
+        "It checks abuse of power",
+        "It entertains only",
+        "It spreads rumours"
+      ],
+      "correctIndex": 1,
+      "explanation": "A free press exposes wrongdoing and informs citizens.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-S-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What is the meaning of corruption?",
+      "options": [
+        "Honest work",
+        "Charity giving",
+        "Abuse of entrusted power",
+        "Tax payment"
+      ],
+      "correctIndex": 2,
+      "explanation": "Corruption is abuse of power for private gain.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-S-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "How can youths fight corruption?",
+      "options": [
+        "By joining in",
+        "By silence",
+        "By running away",
+        "By refusing bribes and reporting them"
+      ],
+      "correctIndex": 3,
+      "explanation": "Integrity starts with each young Nigerian.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-S-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "Why do we mark Democracy Day?",
+      "options": [
+        "It honours our return to civil rule",
+        "It celebrates a coup",
+        "It is a bank holiday only",
+        "No reason"
+      ],
+      "correctIndex": 0,
+      "explanation": "Democracy Day marks our democratic journey.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-S-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What does the audit office do?",
+      "options": [
+        "Collects taxes",
+        "Audits how public money is spent",
+        "Makes laws",
+        "Runs hospitals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Audits ensure public funds are properly used.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-S-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "Why study civics?",
+      "options": [
+        "To become politicians only",
+        "To pass exams only",
+        "To prepare for citizenship",
+        "No reason"
+      ],
+      "correctIndex": 2,
+      "explanation": "Civics prepares young people to govern wisely.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-S-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "silver",
+      "text": "What is the meaning of the rule of law?",
+      "options": [
+        "The president makes all laws",
+        "Police are above law",
+        "Laws favour the rich",
+        "Everyone is equal before the law"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rule of law binds rulers and citizens alike.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-G-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "In what year did civil rule return?",
+      "options": [
+        "1999",
+        "1960",
+        "1975",
+        "2015"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria returned to democracy in 1999.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-G-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "Why must INEC stay neutral?",
+      "options": [
+        "To please the ruling party",
+        "To conduct free, fair elections",
+        "To favour rich candidates",
+        "For show only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A neutral INEC builds trust in elections.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-G-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "What are checks and balances?",
+      "options": [
+        "Balances in the treasury",
+        "Bank account checks",
+        "Arms of government limit each other",
+        "Weighing scales"
+      ],
+      "correctIndex": 2,
+      "explanation": "Checks and balances stop any arm dominating.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-G-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "How do courts check the government?",
+      "options": [
+        "By writing laws",
+        "By running elections",
+        "By collecting taxes",
+        "By striking down unlawful acts"
+      ],
+      "correctIndex": 3,
+      "explanation": "Courts can declare executive acts unconstitutional.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-G-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "Why keep lawmakers neutral?",
+      "options": [
+        "So laws work for all citizens",
+        "So they earn more",
+        "So they fight the president",
+        "For prestige"
+      ],
+      "correctIndex": 0,
+      "explanation": "Separate lawmakers check the executive freely.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-G-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "What is the duty of the opposition?",
+      "options": [
+        "Fighting the police",
+        "Criticising and offering alternatives",
+        "Plotting coups",
+        "Selling manifestos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opposition keeps government accountable in democracy.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-G-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "How does the EFCC fight corruption?",
+      "options": [
+        "By collecting taxes",
+        "By printing money",
+        "By investigating and prosecuting offenders",
+        "By running elections"
+      ],
+      "correctIndex": 2,
+      "explanation": "EFCC probes and prosecutes financial crimes.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CIV-G-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "civic",
+      "level": "gold",
+      "text": "Why are free and fair elections vital?",
+      "options": [
+        "They cost little",
+        "They empower party bosses",
+        "No importance",
+        "They give voice to citizens"
+      ],
+      "correctIndex": 3,
+      "explanation": "Free elections reflect the people's will.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, civic duties",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "social-studies",
+  "topic": "culture",
+  "title": "Culture crests",
+  "questions": [
+    {
+      "code": "10-SOC-CUL-B-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "Name the three largest ethnic groups in Nigeria.",
+      "options": [
+        "Hausa, Yoruba and Igbo",
+        "Tiv, Kanuri and Ijaw",
+        "Edo, Nupe and Fulani",
+        "Ibibio, Efik and Yoruba"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hausa, Yoruba and Igbo are the biggest groups.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-B-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is the capital city of Nigeria?",
+      "options": [
+        "Lagos",
+        "Abuja",
+        "Kano",
+        "Port Harcourt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Abuja became the capital in 1991, replacing Lagos.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-B-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is the currency of Nigeria?",
+      "options": [
+        "The cedi",
+        "The pound",
+        "The naira",
+        "The dollar"
+      ],
+      "correctIndex": 2,
+      "explanation": "The naira is Nigeria's legal tender.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-B-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is Jollof rice?",
+      "options": [
+        "A dance",
+        "A festival",
+        "A cloth",
+        "A famous Nigerian dish"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jollof rice is enjoyed across Nigeria.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-B-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "Which animal appears on the Nigerian coat of arms?",
+      "options": [
+        "The eagle",
+        "The lion",
+        "The tiger",
+        "The elephant"
+      ],
+      "correctIndex": 0,
+      "explanation": "The eagle stands above the shield on the arms.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-B-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is the main language of northern Nigeria?",
+      "options": [
+        "Yoruba",
+        "Hausa",
+        "Igbo",
+        "Edo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hausa is widely spoken across the north.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-B-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What cloth is Aso Ebi?",
+      "options": [
+        "School uniform",
+        "Army camouflage",
+        "Matching cloth worn by friends and family",
+        "Hospital gown"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aso ebi is worn by friends and family at events.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-B-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is the meaning of the Nigerian flag colours?",
+      "options": [
+        "Red for blood, white for purity",
+        "Green for forests, white for snow",
+        "Gold for wealth, green for land",
+        "Green for agriculture, white for peace"
+      ],
+      "correctIndex": 3,
+      "explanation": "Green stands for agriculture; white for peace.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-S-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "Who made the Benin bronzes?",
+      "options": [
+        "The Edo people",
+        "The Igbo",
+        "The Yoruba",
+        "The Hausa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Benin bronzes are world-famous Edo artworks.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-S-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is the Osun festival about?",
+      "options": [
+        "Celebrating the harvest",
+        "Honouring the river goddess Osun",
+        "Marking independence",
+        "Honouring ancestors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Osun Osogbo honours the Yoruba river goddess.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-S-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "Which city is Nigeria's trade hub?",
+      "options": [
+        "Abuja",
+        "Kano",
+        "Lagos",
+        "Ibadan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lagos remains Nigeria's busiest trading city.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-S-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is Alo?",
+      "options": [
+        "A harvest dance",
+        "A warrior chant",
+        "A funeral rite",
+        "Yoruba evening storytelling"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alo is the Yoruba art of evening storytelling.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-S-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is Ijala?",
+      "options": [
+        "A Yoruba hunter's chant",
+        "A Hausa dance",
+        "An Igbo mask",
+        "A market song"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ijala is chanted poetry of Yoruba hunters.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-S-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is the significance of the New Yam festival?",
+      "options": [
+        "Marking the new year",
+        "Thanksgiving for the harvest",
+        "Welcoming kings",
+        "Opening schools"
+      ],
+      "correctIndex": 1,
+      "explanation": "New Yam festival celebrates a good harvest.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-S-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What do the Kanuri speak?",
+      "options": [
+        "Yoruba",
+        "Edo",
+        "Kanuri",
+        "Tiv"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kanuri is spoken in Borno and Yobe states.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-S-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "How do Nigerians show respect to elders?",
+      "options": [
+        "Waving from afar",
+        "Shouting loudly",
+        "Ignoring them",
+        "Bowing, kneeling or prostrating"
+      ],
+      "correctIndex": 3,
+      "explanation": "Respect gestures differ by ethnic group.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-G-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "How does Nollywood help our nation?",
+      "options": [
+        "It spreads our stories and earns foreign exchange",
+        "It only entertains",
+        "It replaces farming",
+        "It divides the country"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nollywood exports Nigerian culture worldwide.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-G-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "Why save our languages?",
+      "options": [
+        "They confuse youths",
+        "They carry our history and identity",
+        "They are outdated",
+        "No value"
+      ],
+      "correctIndex": 1,
+      "explanation": "A lost language means a lost heritage.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-G-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "What is the role of the National Museum?",
+      "options": [
+        "Selling souvenirs",
+        "Hosting concerts",
+        "Preserving Nigerian art and history",
+        "Teaching science"
+      ],
+      "correctIndex": 2,
+      "explanation": "Museums keep our heritage for future generations.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-G-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "Why is the constitution a sign of unity?",
+      "options": [
+        "It favours one religion",
+        "It favours one region",
+        "It serves only officers",
+        "It applies equally to all citizens"
+      ],
+      "correctIndex": 3,
+      "explanation": "One constitution binds all Nigerians together.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-G-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "How does the FESTAC legacy live on?",
+      "options": [
+        "Festivals and arts still flourish",
+        "It ended in 1977",
+        "It was banned",
+        "It failed completely"
+      ],
+      "correctIndex": 0,
+      "explanation": "FESTAC '77 celebrated Black and African arts.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-G-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "Why is our national anthem in English?",
+      "options": [
+        "It is the only Nigerian language",
+        "English unites our diverse peoples",
+        "It is required by Britain",
+        "No reason"
+      ],
+      "correctIndex": 1,
+      "explanation": "English serves as our common national language.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-G-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "How can we promote Nigerian culture?",
+      "options": [
+        "Ignore the arts",
+        "Import everything",
+        "Invest in film, music and arts",
+        "Ban festivals"
+      ],
+      "correctIndex": 2,
+      "explanation": "Culture is a growing part of Nigeria's economy.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-CUL-G-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "Why is our diversity a strength?",
+      "options": [
+        "Diversity divides us",
+        "It weakens the country",
+        "It has no meaning",
+        "Many peoples, one nation, shared purpose"
+      ],
+      "correctIndex": 3,
+      "explanation": "Our many groups enrich one Nigeria.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

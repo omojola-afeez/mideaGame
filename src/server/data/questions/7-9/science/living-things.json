@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "science",
+  "topic": "living-things",
+  "title": "Life lane",
+  "questions": [
+    {
+      "code": "7-SCI-LIV-B-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "What do plants need to grow?",
+      "options": [
+        "Sunlight, water and soil",
+        "Milk, bread and sugar",
+        "Salt, sand and stone",
+        "Ice, snow and wind"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plants need sunlight, water and soil.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-B-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Which of these is a living thing?",
+      "options": [
+        "A table",
+        "A goat",
+        "A bicycle",
+        "A stone"
+      ],
+      "correctIndex": 1,
+      "explanation": "A goat eats, grows and reproduces.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-B-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "What do green plants make from sunlight?",
+      "options": [
+        "Water",
+        "Soil",
+        "Food",
+        "Air"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plants make food from sunlight.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-B-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Which ones are grass eaters?",
+      "options": [
+        "Lions and tigers",
+        "Eagles and hawks",
+        "Sharks and whales",
+        "Goats and cows"
+      ],
+      "correctIndex": 3,
+      "explanation": "Goats and cows eat grass.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-B-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Where do fishes live?",
+      "options": [
+        "In water",
+        "In trees",
+        "In nests",
+        "On roofs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fish live and breathe in water.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-B-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "What do we call animals that eat plants?",
+      "options": [
+        "Carnivores",
+        "Herbivores",
+        "Omnivores",
+        "Scavengers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Herbivores eat only plants.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-B-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "What covers a fish body?",
+      "options": [
+        "Feathers",
+        "Fur",
+        "Scales",
+        "Hair"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fish bodies are covered with scales.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-B-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Which of these can fly?",
+      "options": [
+        "A goat",
+        "A snail",
+        "A fish",
+        "An eagle"
+      ],
+      "correctIndex": 3,
+      "explanation": "An eagle flies with its wings.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-S-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Why do plants need sunlight?",
+      "options": [
+        "To make their food",
+        "To sleep well",
+        "To grow roots only",
+        "To make flowers red"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sunlight helps plants make food.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-S-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "What do we call animals that eat meat?",
+      "options": [
+        "Herbivores",
+        "Carnivores",
+        "Omnivores",
+        "Plant eaters"
+      ],
+      "correctIndex": 1,
+      "explanation": "Carnivores eat meat.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-S-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "What does a food chain show?",
+      "options": [
+        "How to cook rice",
+        "Where the sun rises",
+        "Who eats who",
+        "How to plant maize"
+      ],
+      "correctIndex": 2,
+      "explanation": "A food chain shows who eats who.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-S-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Why do farmers need bees?",
+      "options": [
+        "Bees guard the farm",
+        "Bees give milk",
+        "Bees eat weeds",
+        "Bees pollinate crops"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bees help crops set fruit and seed.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-S-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "What do plants breathe in?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plants take in carbon dioxide and give out oxygen.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-S-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "How are seeds spread by wind?",
+      "options": [
+        "Wind eats them",
+        "The wind carries them",
+        "Wind melts them",
+        "Wind paints them"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wind carries light seeds to new places.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-S-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Which part of a plant makes food?",
+      "options": [
+        "The root",
+        "The flower",
+        "The leaf",
+        "The seed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Leaves make food for the plant.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-S-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Why do trees lose leaves in dry season?",
+      "options": [
+        "To make room for fruit",
+        "To scare birds",
+        "To grow taller",
+        "To save water"
+      ],
+      "correctIndex": 3,
+      "explanation": "Losing leaves helps trees save water.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-G-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "What if there were no plants?",
+      "options": [
+        "We would have no food or oxygen",
+        "Nothing would change",
+        "The sun would shine more",
+        "The rain would stop forever"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plants give us food and the air we breathe.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-G-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Why must we not cut all trees?",
+      "options": [
+        "They block our view",
+        "We need them for air and rain",
+        "They are too noisy",
+        "They eat our crops"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trees give fresh air and help rainfall.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-G-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "How do plants help animals?",
+      "options": [
+        "They give games",
+        "They give cars",
+        "They give food and air",
+        "They give phones"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plants give animals food and oxygen.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-G-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Which animal hunts at night?",
+      "options": [
+        "The cow",
+        "The goat",
+        "The dove",
+        "The owl"
+      ],
+      "correctIndex": 3,
+      "explanation": "An owl hunts at night.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-G-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Why do we plant trees?",
+      "options": [
+        "For fresh air and shade",
+        "For noise",
+        "For dust",
+        "For darkness"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trees clean the air and give shade.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-G-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "What does a lizard eat?",
+      "options": [
+        "Stones",
+        "Insects",
+        "Leaves",
+        "Water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lizards eat insects like ants and flies.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-G-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Why are they hunted?",
+      "options": [
+        "For their noise",
+        "For their colour",
+        "For their skin, horns and meat",
+        "For their names"
+      ],
+      "correctIndex": 2,
+      "explanation": "Poachers kill animals for skin and horns.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-LIV-G-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "How can we protect fish in rivers?",
+      "options": [
+        "By fishing more",
+        "By adding sand",
+        "By building more banks",
+        "By not pouring poison into them"
+      ],
+      "correctIndex": 3,
+      "explanation": "Poison kills the fish in our rivers.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

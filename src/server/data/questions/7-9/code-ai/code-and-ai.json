@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "code-ai",
+  "topic": "code-and-ai",
+  "title": "Robot ridge",
+  "questions": [
+    {
+      "code": "7-COD-COD-B-001",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What is a computer?",
+      "options": [
+        "A machine that follows instructions",
+        "A type of bird",
+        "A garden tool",
+        "A kind of fruit"
+      ],
+      "correctIndex": 0,
+      "explanation": "A computer does the jobs people give it by following instructions.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-B-002",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "Which part of the computer helps you type?",
+      "options": [
+        "The screen",
+        "The keyboard",
+        "The speaker",
+        "The mouse pad"
+      ],
+      "correctIndex": 1,
+      "explanation": "A keyboard has keys used for typing letters and numbers.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, input devices",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-B-003",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "Which part shows pictures and words?",
+      "options": [
+        "The keyboard",
+        "The plug",
+        "The screen",
+        "The mouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "The screen displays words, pictures and games.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, output devices",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-B-004",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What is a robot?",
+      "options": [
+        "A toy that sings",
+        "A story book",
+        "A cooking pot",
+        "A machine that does work for people"
+      ],
+      "correctIndex": 3,
+      "explanation": "A robot is a machine built to help people with tasks.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, robots",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-B-005",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What is a program?",
+      "options": [
+        "A set of instructions for a computer",
+        "A lunch menu",
+        "A sports score",
+        "A list of names"
+      ],
+      "correctIndex": 0,
+      "explanation": "A program tells the computer the steps to follow.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, programs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-B-006",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "Which device moves the pointer on the screen?",
+      "options": [
+        "The monitor",
+        "The mouse",
+        "The keyboard",
+        "The printer"
+      ],
+      "correctIndex": 1,
+      "explanation": "A mouse moves the pointer and lets you click things.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, input devices",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-B-007",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What does a printer do?",
+      "options": [
+        "Plays music",
+        "Cooks food",
+        "Puts words on paper",
+        "Cuts paper"
+      ],
+      "correctIndex": 2,
+      "explanation": "A printer prints your work onto paper.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, output devices",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-B-008",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What is a computer game?",
+      "options": [
+        "A board game",
+        "A football match",
+        "A card game",
+        "A game played on a computer"
+      ],
+      "correctIndex": 3,
+      "explanation": "A computer game is an app you play on a computer.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, games",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-S-001",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "A robot moves 2 steps, then again. How many steps is that?",
+      "options": [
+        "4 steps",
+        "2 steps",
+        "3 steps",
+        "5 steps"
+      ],
+      "correctIndex": 0,
+      "explanation": "Two steps twice means 2 plus 2, which is 4 steps.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, counting steps",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-S-002",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "Which of these is best done by a computer?",
+      "options": [
+        "Climbing a tree",
+        "Adding many numbers quickly",
+        "Cooking rice",
+        "Singing a song"
+      ],
+      "correctIndex": 1,
+      "explanation": "Computers add many numbers far faster than people can.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, uses of computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-S-003",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "Why is a keyboard useful?",
+      "options": [
+        "It plays songs",
+        "It keeps you warm",
+        "It lets you type words fast",
+        "It cleans the desk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keyboard keys let you type letters into the computer.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, keyboard",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-S-004",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "What should you not share online?",
+      "options": [
+        "A story you like",
+        "Your favourite colour",
+        "A puzzle",
+        "Your home address"
+      ],
+      "correctIndex": 3,
+      "explanation": "Keep your address private so strangers cannot reach you.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, online safety",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-S-005",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "What does a mouse help you do?",
+      "options": [
+        "Point and click on the screen",
+        "Type your name",
+        "Print a picture",
+        "Listen to music"
+      ],
+      "correctIndex": 0,
+      "explanation": "A mouse moves the pointer and clicks on items.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, mouse",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-S-006",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "What is a bug in a program?",
+      "options": [
+        "A small animal",
+        "A mistake in the instructions",
+        "A broken screen",
+        "A loud noise"
+      ],
+      "correctIndex": 1,
+      "explanation": "A bug is a mistake that makes a program misbehave.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, bugs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-S-007",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "Which step repeats again and again?",
+      "options": [
+        "Clap once",
+        "Sit down",
+        "Clap, clap, clap",
+        "Look away"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clap, clap, clap is the same step done again and again.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, loops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-S-008",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "Who should check what a computer tells you?",
+      "options": [
+        "Nobody",
+        "Anyone online",
+        "A random stranger",
+        "You or a trusted adult"
+      ],
+      "correctIndex": 3,
+      "explanation": "Computers can be wrong, so check important answers.",
+      "curriculumRef": "NERDC Primary 3 Computer Studies, checking outputs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-G-001",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "A robot turns left, then forward. It does this 3 times. How many turns is that?",
+      "options": [
+        "3 turns",
+        "2 turns",
+        "4 turns",
+        "6 turns"
+      ],
+      "correctIndex": 0,
+      "explanation": "One turn repeated three times is three turns.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, loops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-G-002",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Why is it good to test a program before using it?",
+      "options": [
+        "To make it faster",
+        "To find and fix mistakes",
+        "To add more colours",
+        "To share it online"
+      ],
+      "correctIndex": 1,
+      "explanation": "Testing reveals mistakes so they can be fixed early.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, testing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-G-003",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Which of these is a sensible use of AI?",
+      "options": [
+        "Cooking your dinner",
+        "Carrying you home",
+        "Suggesting songs you may enjoy",
+        "Doing your homework for you"
+      ],
+      "correctIndex": 2,
+      "explanation": "AI can suggest things, but it cannot do your work for you.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, uses of AI",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-G-004",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "A computer gives a wrong answer. Why?",
+      "options": [
+        "Its desk is wrong",
+        "Its colour is wrong",
+        "Its plug is wrong",
+        "Its instructions are wrong"
+      ],
+      "correctIndex": 3,
+      "explanation": "Computers follow their instructions, so wrong steps give wrong answers.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, errors",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-G-005",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Why should you not trust everything an AI says?",
+      "options": [
+        "AI can be wrong",
+        "AI is always bored",
+        "AI only tells jokes",
+        "AI needs money"
+      ],
+      "correctIndex": 0,
+      "explanation": "AI makes mistakes, so important answers should be checked.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, AI limits",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-G-006",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "A robot is told: if the ball is red, pick it up. The ball is blue. What does the robot do?",
+      "options": [
+        "Picks it up anyway",
+        "Does not pick it up",
+        "Runs away",
+        "Asks for help"
+      ],
+      "correctIndex": 1,
+      "explanation": "The condition only applies to red balls, so it leaves the blue ball.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, conditions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-G-007",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Why keep your password private?",
+      "options": [
+        "So you forget it less",
+        "So the computer runs faster",
+        "So strangers cannot use your account",
+        "So your friends can help"
+      ],
+      "correctIndex": 2,
+      "explanation": "A password keeps your account safe from strangers.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, passwords",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-COD-COD-G-008",
+      "band": "7-9",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Which job could a computer do faster than a person?",
+      "options": [
+        "Drawing a picture by hand",
+        "Cooking a meal",
+        "Planting yams",
+        "Adding thousands of numbers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Computers handle thousands of sums in a second.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, computer speed",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

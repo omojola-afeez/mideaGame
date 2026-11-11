@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "home-economics",
+  "topic": "home-care",
+  "title": "Home harbour",
+  "questions": [
+    {
+      "code": "10-HEC-HOM-B-001",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Which liquid cleans the toilet?",
+      "options": [
+        "Bleach",
+        "Cooking oil",
+        "Kerosene",
+        "Palm wine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bleach kills germs and deodorises toilet bowls.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-B-002",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Why should sweeping be done before mopping?",
+      "options": [
+        "Mopping first is faster",
+        "Mopping then removes remaining fine dust",
+        "Sweeping wets the floor",
+        "Order does not matter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sweeping collects big debris so mopping can finish.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-B-003",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Which of these is a safe way to store knives?",
+      "options": [
+        "Loose in a drawer with spoons",
+        "On the floor",
+        "In a knife block or rack",
+        "Under the mattress"
+      ],
+      "correctIndex": 2,
+      "explanation": "Knife blocks keep blades secure and protect fingers.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-B-004",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "What does a home laundry basket help with?",
+      "options": [
+        "Storing clean dishes",
+        "Holding cooking utensils",
+        "Collecting refuse",
+        "Keeping dirty clothes together"
+      ],
+      "correctIndex": 3,
+      "explanation": "A laundry basket organises dirty clothes for washing day.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-B-005",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Which of these should never be mixed with bleach?",
+      "options": [
+        "Toilet cleaner containing ammonia",
+        "Water",
+        "Salt",
+        "Baking soda"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bleach and ammonia release toxic chloramine gas when mixed.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-B-006",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Why do homes need cross ventilation?",
+      "options": [
+        "It keeps rooms colder in winter",
+        "It circulates fresh air and removes damp",
+        "It reduces electricity bills",
+        "It stops noise"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cross ventilation replaces stale air and reduces mould.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-B-007",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "What is the best way to get rid of mosquito breeding sites?",
+      "options": [
+        "Spray tomorrow",
+        "Close all windows",
+        "Drain stagnant water around the home",
+        "Sweep once a week"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mosquitoes breed in still water; draining it breaks the cycle.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-B-008",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Why must sockets not be overloaded?",
+      "options": [
+        "It saves power",
+        "It makes appliances faster",
+        "It extends bulb life",
+        "Overloading causes overheating and fires"
+      ],
+      "correctIndex": 3,
+      "explanation": "Too many devices draw excess current and can start fires.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-S-001",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "What is the correct order for cleaning a room?",
+      "options": [
+        "Dust, sweep, then mop",
+        "Mop, dust, then sweep",
+        "Sweep, mop, then dust",
+        "Dust, mop, then sweep"
+      ],
+      "correctIndex": 0,
+      "explanation": "Work top-down: dust first, sweep next, mop last.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-S-002",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why should chemicals have clear labels?",
+      "options": [
+        "To make shelves look tidy",
+        "So nobody uses them by mistake",
+        "To attract buyers",
+        "To increase shelf life"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clear labels prevent dangerous mix-ups with food or water.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-S-003",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "How can a home cut electricity costs?",
+      "options": [
+        "Leave all lights on",
+        "Use bigger fridges",
+        "Switch off unused appliances and bulbs",
+        "Iron clothes daily"
+      ],
+      "correctIndex": 2,
+      "explanation": "Switching off unused devices cuts wasted electricity.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-S-004",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why is it wrong to clean the kitchen with the same cloth used for the toilet?",
+      "options": [
+        "It wastes soap",
+        "It damages the cloth",
+        "It is not wrong at all",
+        "It spreads toilet germs to food areas"
+      ],
+      "correctIndex": 3,
+      "explanation": "Shared cloths transfer harmful bacteria to food surfaces.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-S-005",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "What must be checked on a kerosene stove often?",
+      "options": [
+        "The wick and fuel level",
+        "The colour of the flame only",
+        "The pot size",
+        "The matchbox count"
+      ],
+      "correctIndex": 0,
+      "explanation": "A frayed wick or full tank causes flare-ups and spills.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-S-006",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why does a tidy home stay safer?",
+      "options": [
+        "It makes rooms look bigger",
+        "It clears walkways and reduces falls",
+        "It attracts visitors",
+        "It saves paint"
+      ],
+      "correctIndex": 1,
+      "explanation": "Removing clutter eliminates trip hazards and blocked exits.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-S-007",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "How should broken bottles and sharp objects be disposed of?",
+      "options": [
+        "Thrown loosely into the bin",
+        "Burned in the compound",
+        "Wrapped and put in a labelled bin",
+        "Left by the roadside"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wrapped, labelled sharps protect waste handlers from cuts.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-S-008",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why should a home have a first aid box?",
+      "options": [
+        "To store snacks",
+        "To keep medicines for visitors",
+        "To hold tools",
+        "To treat minor injuries immediately"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prompt first aid prevents minor injuries from worsening.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-G-001",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "A gas cylinder in the kitchen smells strongly of gas. What should the family do first?",
+      "options": [
+        "Open windows, turn off gas and go outside",
+        "Light a match to find the leak",
+        "Switch on the extractor fan",
+        "Spray air freshener"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fresh air and evacuation prevent explosion; sparks must be avoided.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-G-002",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Why is it risky to dry clothes near a cooking fire?",
+      "options": [
+        "Clothes will fade",
+        "Fabric can ignite and start a fire",
+        "Smoke flavours the food",
+        "It wastes firewood"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fabric catches fire easily near open flames.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-G-003",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "How can a home keep out rats and cockroaches?",
+      "options": [
+        "Leave food scraps overnight",
+        "Use perfume only",
+        "Seal food properly and keep the home clean",
+        "Open all windows at night"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proper food storage and hygiene deny pests food and shelter.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-G-004",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Why should a home have a fire plan?",
+      "options": [
+        "To plan parties",
+        "To impress visitors",
+        "To practise dancing",
+        "So everyone knows what to do in danger"
+      ],
+      "correctIndex": 3,
+      "explanation": "A rehearsed plan saves lives during fires, floods or leaks.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-G-005",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "What is the safest way to clean a bathroom floor?",
+      "options": [
+        "Use disinfectant and a wet mop with a caution sign",
+        "Sweep with a dry broom",
+        "Pour water and walk on it",
+        "Use cooking oil"
+      ],
+      "correctIndex": 0,
+      "explanation": "Disinfectant and a warning sign prevent slips and germs.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-G-006",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Why must a damaged cable be replaced fast?",
+      "options": [
+        "It wastes electricity",
+        "It can cause shocks and fires",
+        "It looks ugly",
+        "It trips the meter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Damaged insulation exposes live current, risking shock and fire.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-G-007",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "How can children do home chores safely?",
+      "options": [
+        "Let them use sharp tools alone",
+        "Give them stove duty",
+        "Give them age-appropriate tasks with guidance",
+        "Give toddlers heavy loads"
+      ],
+      "correctIndex": 2,
+      "explanation": "Matching tasks to age and supervising keeps children safe.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-HOM-G-008",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "What should be done with expired medicines at home?",
+      "options": [
+        "Use them anyway",
+        "Flush them in the toilet",
+        "Give them to younger siblings",
+        "Return them to a pharmacy or dispose safely"
+      ],
+      "correctIndex": 3,
+      "explanation": "Expired medicines lose potency and can be harmful.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

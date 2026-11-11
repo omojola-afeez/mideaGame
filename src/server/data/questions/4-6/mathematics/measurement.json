@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "mathematics",
+  "topic": "measurement",
+  "title": "Measure meadows",
+  "questions": [
+    {
+      "code": "4-MAT-MEA-B-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "What do we use to measure length?",
+      "options": [
+        "A ruler",
+        "A clock",
+        "A scale",
+        "A spoon"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ruler measures length.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-B-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "Which is longer? A pencil or a table?",
+      "options": [
+        "A pencil",
+        "A table",
+        "They are the same",
+        "A rubber"
+      ],
+      "correctIndex": 1,
+      "explanation": "A table is much longer than a pencil.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-B-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "We use a clock to tell what?",
+      "options": [
+        "The weather",
+        "The weight",
+        "The time",
+        "The colour"
+      ],
+      "correctIndex": 2,
+      "explanation": "A clock tells the time.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-B-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "Minutes in 1 hour?",
+      "options": [
+        "30",
+        "100",
+        "24",
+        "60"
+      ],
+      "correctIndex": 3,
+      "explanation": "One hour has 60 minutes.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-B-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "Which is heavier? A stone or a feather?",
+      "options": [
+        "A stone",
+        "A feather",
+        "They are the same",
+        "A leaf"
+      ],
+      "correctIndex": 0,
+      "explanation": "A stone is much heavier than a feather.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-B-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many days are in a week?",
+      "options": [
+        "5",
+        "7",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "A week has 7 days.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-B-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "Metre or cm?",
+      "options": [
+        "A centimetre",
+        "They are the same",
+        "A metre",
+        "A millimetre"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 metre is 100 centimetres.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-B-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "Which is lighter, a book or a bag of rice?",
+      "options": [
+        "A bag of rice",
+        "They are the same",
+        "A chair",
+        "A book"
+      ],
+      "correctIndex": 3,
+      "explanation": "A book is lighter than a bag of rice.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-S-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "One minute has 60 of what?",
+      "options": [
+        "Seconds",
+        "Hours",
+        "Days",
+        "Weeks"
+      ],
+      "correctIndex": 0,
+      "explanation": "One minute has 60 seconds.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-S-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "How many hours are in one day?",
+      "options": [
+        "12",
+        "24",
+        "60",
+        "7"
+      ],
+      "correctIndex": 1,
+      "explanation": "One day has 24 hours.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-S-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "Which is shorter, 5 cm or 10 cm?",
+      "options": [
+        "10 cm",
+        "They are the same",
+        "5 cm",
+        "15 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "5 cm is shorter than 10 cm.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-S-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "Which is heavier, 1 kg of rice or 2 kg of rice?",
+      "options": [
+        "1 kg of rice",
+        "They are the same",
+        "Half kg of rice",
+        "2 kg of rice"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 kg is heavier than 1 kg.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-S-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "What do we use to weigh things?",
+      "options": [
+        "A scale",
+        "A ruler",
+        "A clock",
+        "A cup"
+      ],
+      "correctIndex": 0,
+      "explanation": "A scale measures weight.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-S-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "1 km = how many metres?",
+      "options": [
+        "100",
+        "1000",
+        "10",
+        "10000"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 kilometre is 1000 metres.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-S-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "Which takes longer, 1 minute or 1 hour?",
+      "options": [
+        "1 minute",
+        "They are the same",
+        "1 hour",
+        "1 second"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 hour is 60 minutes.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-S-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "How many days are in a month?",
+      "options": [
+        "7",
+        "10",
+        "60",
+        "About 30"
+      ],
+      "correctIndex": 3,
+      "explanation": "A month is about 30 days.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-G-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "1 cm has how many mm?",
+      "options": [
+        "10",
+        "5",
+        "100",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 cm has 10 mm.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-G-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "Lunch is at 12:00. It is 11:30 now. How many minutes to lunch?",
+      "options": [
+        "60",
+        "30",
+        "15",
+        "90"
+      ],
+      "correctIndex": 1,
+      "explanation": "From 11:30 to 12:00 is 30 minutes.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-G-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "What is 2 hours in minutes?",
+      "options": [
+        "60",
+        "100",
+        "120",
+        "200"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 hours is 120 minutes.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-G-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A rope is 3 m long. Another is 2 m. What is the total?",
+      "options": [
+        "6 m",
+        "4 m",
+        "1 m",
+        "5 m"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 m plus 2 m is 5 m.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-G-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "Which is lighter, 500 g or 1 kg?",
+      "options": [
+        "500 g",
+        "1 kg",
+        "They are the same",
+        "2 kg"
+      ],
+      "correctIndex": 0,
+      "explanation": "500 g is half a kilo.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-G-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "How many weeks are in one month?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "A month is about 4 weeks.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-G-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "What do we use to measure time?",
+      "options": [
+        "A ruler",
+        "A scale",
+        "A clock",
+        "A cup"
+      ],
+      "correctIndex": 2,
+      "explanation": "A clock tells us the time.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MEA-G-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A shop opens at 8 am. It closes at 6 pm. How many hours was it open?",
+      "options": [
+        "8 hours",
+        "6 hours",
+        "12 hours",
+        "10 hours"
+      ],
+      "correctIndex": 3,
+      "explanation": "From 8 am to 6 pm is 10 hours.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

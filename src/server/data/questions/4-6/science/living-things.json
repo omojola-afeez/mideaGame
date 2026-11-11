@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "science",
+  "topic": "living-things",
+  "title": "Life lane",
+  "questions": [
+    {
+      "code": "4-SCI-LIV-B-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Which one is alive?",
+      "options": [
+        "A cat",
+        "A chair",
+        "A cup",
+        "A stone"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cat is alive. It eats and grows.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-B-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Which pet barks?",
+      "options": [
+        "A cat",
+        "A dog",
+        "A goat",
+        "A hen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dogs bark to talk to us.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-B-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "What do cows give us?",
+      "options": [
+        "Eggs",
+        "Wool",
+        "Milk",
+        "Rice"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cows give us fresh milk.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-B-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Which one lays eggs?",
+      "options": [
+        "A goat",
+        "A cow",
+        "A dog",
+        "A hen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hens lay eggs on the farm.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-B-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Where do fish live?",
+      "options": [
+        "In water",
+        "In trees",
+        "In sand",
+        "On roofs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fish need water to breathe.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-B-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "What do trees need?",
+      "options": [
+        "More chairs",
+        "Sun and rain",
+        "Cold rooms",
+        "Loud songs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trees need sun and water to live.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-B-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "What do birds have?",
+      "options": [
+        "Fins",
+        "Hooves",
+        "Wings",
+        "Scales"
+      ],
+      "correctIndex": 2,
+      "explanation": "Birds fly with their wings.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-B-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "bronze",
+      "text": "Which one flies?",
+      "options": [
+        "A fish",
+        "A cow",
+        "A snail",
+        "A bird"
+      ],
+      "correctIndex": 3,
+      "explanation": "Birds have wings and can fly.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-S-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "What do plants make food from?",
+      "options": [
+        "Sunlight",
+        "Candle light",
+        "Fire light",
+        "Torch light"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sunlight helps plants make food.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-S-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Why do we water plants?",
+      "options": [
+        "To make them cold",
+        "To help them grow",
+        "To wash them",
+        "To paint them"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plants drink water through their roots.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-S-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Which part drinks water?",
+      "options": [
+        "The leaves",
+        "The buds",
+        "The roots",
+        "The stem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Roots pull water from the soil.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-S-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "What do roots hold?",
+      "options": [
+        "The plant in air",
+        "The leaves to the sky",
+        "The buds to the rain",
+        "The plant in soil"
+      ],
+      "correctIndex": 3,
+      "explanation": "Roots anchor the plant in the ground.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-S-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "What do leaves breathe in?",
+      "options": [
+        "Air",
+        "Mud",
+        "Stones",
+        "Paint"
+      ],
+      "correctIndex": 0,
+      "explanation": "Leaves take in air to make food.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-S-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "What will a chick grow into?",
+      "options": [
+        "A goat",
+        "A hen",
+        "A dog",
+        "A fish"
+      ],
+      "correctIndex": 1,
+      "explanation": "A chick grows into a hen.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-S-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "Which one is a baby cow?",
+      "options": [
+        "A duck",
+        "A goat",
+        "A calf",
+        "A piglet"
+      ],
+      "correctIndex": 2,
+      "explanation": "A baby cow is called a calf.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-S-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "silver",
+      "text": "What do goats and sheep give us?",
+      "options": [
+        "Eggs",
+        "Rice",
+        "Fish",
+        "Milk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Goats and sheep give us milk.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-G-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Why do plants need sun?",
+      "options": [
+        "To make food",
+        "To sleep",
+        "To sing",
+        "To jump"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plants use sun to make food.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-G-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Why do we need plants?",
+      "options": [
+        "For toys",
+        "For food and air",
+        "For paint",
+        "For noise"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plants give us food and fresh air.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-G-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "What do leaves make?",
+      "options": [
+        "Shoes",
+        "Nets",
+        "Food",
+        "Bricks"
+      ],
+      "correctIndex": 2,
+      "explanation": "Leaves make food for the plant.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-G-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Why does a crop need rain?",
+      "options": [
+        "So it can sleep",
+        "So it can fly",
+        "So it can swim",
+        "So it can grow"
+      ],
+      "correctIndex": 3,
+      "explanation": "Crops need water to grow well.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-G-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Which one is a plant we eat?",
+      "options": [
+        "Ugu leaf",
+        "A stone",
+        "A spoon",
+        "A kite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ugu leaf is a common soup leaf.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-G-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "What do bees give us?",
+      "options": [
+        "Milk",
+        "Honey",
+        "Wool",
+        "Rice"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bees make sweet honey.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-G-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Why will a hen grow from a chick?",
+      "options": [
+        "It will turn to a goat",
+        "It will melt",
+        "It will grow bigger",
+        "It will float"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chicks grow into hens.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-LIV-G-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "living-things",
+      "level": "gold",
+      "text": "Which fruit comes from a tree?",
+      "options": [
+        "Egg",
+        "Milk",
+        "Rice",
+        "Mango"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mangoes grow on trees.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, living things",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

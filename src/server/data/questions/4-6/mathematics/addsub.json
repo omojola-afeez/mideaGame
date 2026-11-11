@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "mathematics",
+  "topic": "addsub",
+  "title": "Add and subtract",
+  "questions": [
+    {
+      "code": "4-MAT-ADD-B-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 3 + 2?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "1"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 plus 2 is 5.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-B-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 5 + 4?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "7"
+      ],
+      "correctIndex": 1,
+      "explanation": "5 plus 4 is 9.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-B-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 7 - 2?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "7 take away 2 is 5.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-B-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 10 - 4?",
+      "options": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
+      "correctIndex": 3,
+      "explanation": "10 take away 4 is 6.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-B-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 6 + 3?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "6 plus 3 is 9.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-B-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 8 - 3?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "8 take away 3 is 5.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-B-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 2 + 7?",
+      "options": [
+        "8",
+        "10",
+        "9",
+        "5"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 plus 7 is 9.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-B-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 9 - 5?",
+      "options": [
+        "3",
+        "5",
+        "14",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "9 take away 5 is 4.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-S-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 12 + 5?",
+      "options": [
+        "17",
+        "16",
+        "18",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "12 plus 5 is 17.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-S-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 15 - 6?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "21"
+      ],
+      "correctIndex": 1,
+      "explanation": "15 take away 6 is 9.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-S-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "Ada has 4 mangoes. She buys 3 more. How many mangoes does she have?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "1"
+      ],
+      "correctIndex": 2,
+      "explanation": "4 plus 3 is 7 mangoes.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-S-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 20 + 8?",
+      "options": [
+        "27",
+        "29",
+        "100",
+        "28"
+      ],
+      "correctIndex": 3,
+      "explanation": "20 plus 8 is 28.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-S-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 18 - 9?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "18 take away 9 is 9.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-S-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "There are 10 birds. 3 fly away. How many are left?",
+      "options": [
+        "6",
+        "7",
+        "13",
+        "3"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 minus 3 is 7 birds.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-S-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 14 + 4?",
+      "options": [
+        "17",
+        "19",
+        "18",
+        "10"
+      ],
+      "correctIndex": 2,
+      "explanation": "14 plus 4 is 18.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-S-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 16 - 7?",
+      "options": [
+        "8",
+        "10",
+        "23",
+        "9"
+      ],
+      "correctIndex": 3,
+      "explanation": "16 take away 7 is 9.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-G-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What is 11 + 7?",
+      "options": [
+        "18",
+        "17",
+        "19",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "11 plus 7 is 18.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-G-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What is 13 - 6?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "19"
+      ],
+      "correctIndex": 1,
+      "explanation": "13 take away 6 is 7.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-G-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Chinedu has 9 marbles. He gives 4 away. How many does he keep?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "13"
+      ],
+      "correctIndex": 2,
+      "explanation": "9 minus 4 is 5 marbles.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-G-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What is 20 - 12?",
+      "options": [
+        "7",
+        "9",
+        "12",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "20 take away 12 is 8.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-G-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What is 8 + 9?",
+      "options": [
+        "17",
+        "16",
+        "18",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "8 plus 9 is 17.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-G-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Bola has 6 oranges. Her mum gives her 5 more. How many does she have?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "3"
+      ],
+      "correctIndex": 1,
+      "explanation": "6 plus 5 is 11 oranges.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-G-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What is 15 - 8?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "23"
+      ],
+      "correctIndex": 2,
+      "explanation": "15 take away 8 is 7.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-ADD-G-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What is 9 + 6?",
+      "options": [
+        "14",
+        "16",
+        "3",
+        "15"
+      ],
+      "correctIndex": 3,
+      "explanation": "9 plus 6 is 15.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, addition and subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

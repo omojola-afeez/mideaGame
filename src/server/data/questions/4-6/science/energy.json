@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "science",
+  "topic": "energy",
+  "title": "Energy edge",
+  "questions": [
+    {
+      "code": "4-SCI-ENE-B-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which one gives us light?",
+      "options": [
+        "The sun",
+        "A rock",
+        "A stone",
+        "A cup"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sun gives us light and heat.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-B-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "What gives us heat?",
+      "options": [
+        "Ice",
+        "Fire",
+        "Rain",
+        "Snow"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fire gives us heat.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-B-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which one is hot?",
+      "options": [
+        "An ice block",
+        "A wet towel",
+        "A stove",
+        "A fan"
+      ],
+      "correctIndex": 2,
+      "explanation": "A stove is hot when it is on.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-B-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "What do we see with?",
+      "options": [
+        "Our ears",
+        "Our nose",
+        "Our legs",
+        "Our eyes"
+      ],
+      "correctIndex": 3,
+      "explanation": "We see with our eyes.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-B-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which one makes sound?",
+      "options": [
+        "A drum",
+        "A wall",
+        "A pillow",
+        "A cupboard"
+      ],
+      "correctIndex": 0,
+      "explanation": "A drum makes sound when hit.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-B-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which one is very hot?",
+      "options": [
+        "Ice",
+        "Fire",
+        "Snow",
+        "A fridge"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fire is very hot.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-B-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which shines by day?",
+      "options": [
+        "The moon",
+        "Stars",
+        "The sun",
+        "Lamps"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sun shines by day.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-B-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which one is cold?",
+      "options": [
+        "Fire",
+        "The sun",
+        "A stove",
+        "Ice"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ice is cold.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-S-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "What do we use a torch for?",
+      "options": [
+        "To see in the dark",
+        "To cook",
+        "To wash",
+        "To sweep"
+      ],
+      "correctIndex": 0,
+      "explanation": "A torch gives light in the dark.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-S-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Which one needs petrol?",
+      "options": [
+        "A kite",
+        "A car",
+        "A cup",
+        "A shoe"
+      ],
+      "correctIndex": 1,
+      "explanation": "A car needs petrol to move.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-S-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "What do we use to cook with?",
+      "options": [
+        "Ice",
+        "Water",
+        "Fire",
+        "Snow"
+      ],
+      "correctIndex": 2,
+      "explanation": "We cook our food with fire.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-S-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Why is fire hot?",
+      "options": [
+        "It is made of ice",
+        "It is made of sand",
+        "It is made of air",
+        "It gives off heat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fire is hot because it gives off heat.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-S-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Which one helps us hear?",
+      "options": [
+        "Our ears",
+        "Our eyes",
+        "Our nose",
+        "Our lips"
+      ],
+      "correctIndex": 0,
+      "explanation": "We hear sounds with our ears.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-S-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "What makes a bell ring?",
+      "options": [
+        "Frost",
+        "Being hit",
+        "Sunlight",
+        "Rain"
+      ],
+      "correctIndex": 1,
+      "explanation": "A bell rings when it is hit.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-S-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Which keeps food warm?",
+      "options": [
+        "A fridge",
+        "A fan",
+        "A stove",
+        "An ice block"
+      ],
+      "correctIndex": 2,
+      "explanation": "A stove keeps food warm.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-S-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Where does rain come from?",
+      "options": [
+        "Trees",
+        "Rocks",
+        "The sun",
+        "Clouds"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rain falls from clouds.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-G-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why do we need the sun?",
+      "options": [
+        "For light and heat",
+        "For rain",
+        "For wind",
+        "For snow"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sun gives light and heat.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-G-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "How do lamps shine?",
+      "options": [
+        "They eat",
+        "They use energy",
+        "They grow",
+        "They freeze"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lamps shine when they use energy.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-G-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why do we use sound?",
+      "options": [
+        "To eat",
+        "To sleep only",
+        "To talk and sing",
+        "To swim"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sound helps us talk and sing.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-G-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "What melts when heated?",
+      "options": [
+        "A stone",
+        "A brick",
+        "A key",
+        "Ice"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ice melts when it is heated.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-G-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why do wet clothes dry in sun?",
+      "options": [
+        "The sun heats them",
+        "The wind eats them",
+        "The rain washes them",
+        "The moon shines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Heat from the sun dries wet clothes.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-G-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Which one uses fuel?",
+      "options": [
+        "A book",
+        "A car",
+        "A shoe",
+        "A cup"
+      ],
+      "correctIndex": 1,
+      "explanation": "A car burns fuel to move.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-G-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why is fire good for cooking?",
+      "options": [
+        "It gives cold",
+        "It gives rain",
+        "It gives heat",
+        "It gives salt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fire gives the heat to cook food.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-ENE-G-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "What does the sun melt?",
+      "options": [
+        "Rocks",
+        "Trees",
+        "Bricks",
+        "Ice"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sun melts ice.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, light and heat",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

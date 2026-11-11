@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "arabic",
+  "topic": "arabic-numbers",
+  "title": "Number nest",
+  "questions": [
+    {
+      "code": "4-ARB-NUM-B-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is واحد?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "واحد (wahid) means one.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-B-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is اثنان?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctIndex": 1,
+      "explanation": "اثنان (ithnan) means two.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-B-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is ثلاثة?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "ثلاثة (thalatha) means three.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-B-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is أربعة?",
+      "options": [
+        "5",
+        "3",
+        "7",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "أربعة (arbaa) means four.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-B-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is خمسة?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "خمسة (khamsa) means five.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-B-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is ستة?",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "9"
+      ],
+      "correctIndex": 1,
+      "explanation": "ستة (sitta) means six.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-B-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is سبعة?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "سبعة (saba) means seven.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-B-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "bronze",
+      "text": "What number is ثمانية?",
+      "options": [
+        "7",
+        "9",
+        "10",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "ثمانية (thamaniya) means eight.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-S-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What does ١ show?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Ten"
+      ],
+      "correctIndex": 0,
+      "explanation": "١ is one in Arabic numerals.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-S-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What does ٢ show?",
+      "options": [
+        "One",
+        "Two",
+        "Four",
+        "Seven"
+      ],
+      "correctIndex": 1,
+      "explanation": "٢ is two in Arabic numerals.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-S-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What does ٣ show?",
+      "options": [
+        "Five",
+        "Six",
+        "Three",
+        "Eight"
+      ],
+      "correctIndex": 2,
+      "explanation": "٣ is three in Arabic numerals.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-S-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What does ٤ stand for?",
+      "options": [
+        "Six",
+        "Nine",
+        "Two",
+        "Four"
+      ],
+      "correctIndex": 3,
+      "explanation": "٤ is four in Arabic numerals.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-S-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What does ٥ stand for?",
+      "options": [
+        "Five",
+        "Three",
+        "Seven",
+        "Ten"
+      ],
+      "correctIndex": 0,
+      "explanation": "٥ is five in Arabic numerals.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-S-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "Which symbol shows the number 7?",
+      "options": [
+        "٦",
+        "٧",
+        "٨",
+        "٩"
+      ],
+      "correctIndex": 1,
+      "explanation": "٧ is seven in Arabic numerals.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-S-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "Which symbol shows the number 9?",
+      "options": [
+        "٦",
+        "٥",
+        "٩",
+        "٨"
+      ],
+      "correctIndex": 2,
+      "explanation": "٩ is nine in Arabic numerals.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-S-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "silver",
+      "text": "What number is عشرة?",
+      "options": [
+        "8",
+        "9",
+        "12",
+        "10"
+      ],
+      "correctIndex": 3,
+      "explanation": "عشرة (ashara) means ten.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-G-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "Count: واحد، اثنان، ثلاثة. What comes next?",
+      "options": [
+        "أربعة",
+        "خمسة",
+        "اثنان",
+        "ستة"
+      ],
+      "correctIndex": 0,
+      "explanation": "After three comes four, أربعة.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-G-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "What is اثنان plus واحد?",
+      "options": [
+        "أربعة",
+        "ثلاثة",
+        "اثنان",
+        "واحد"
+      ],
+      "correctIndex": 1,
+      "explanation": "اثنان plus واحد makes ثلاثة.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-G-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "Which number is bigger: خمسة or ثلاثة?",
+      "options": [
+        "ثلاثة",
+        "اثنان",
+        "خمسة",
+        "واحد"
+      ],
+      "correctIndex": 2,
+      "explanation": "خمسة is five and ثلاثة is three.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-G-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "How do you write six in Arabic symbols?",
+      "options": [
+        "٥",
+        "٧",
+        "٨",
+        "٦"
+      ],
+      "correctIndex": 3,
+      "explanation": "٦ is six in Arabic numerals.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-G-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "What is تسعة minus واحد?",
+      "options": [
+        "ثمانية",
+        "سبعة",
+        "ستة",
+        "عشرة"
+      ],
+      "correctIndex": 0,
+      "explanation": "تسعة minus واحد equals ثمانية.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-G-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "Which word means the number 4?",
+      "options": [
+        "ثلاثة",
+        "أربعة",
+        "خمسة",
+        "اثنان"
+      ],
+      "correctIndex": 1,
+      "explanation": "أربعة (arbaa) means four.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-G-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "What is اثنان plus اثنان?",
+      "options": [
+        "ثلاثة",
+        "خمسة",
+        "أربعة",
+        "ستة"
+      ],
+      "correctIndex": 2,
+      "explanation": "اثنان plus اثنان equals أربعة.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-NUM-G-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-numbers",
+      "level": "gold",
+      "text": "Count: سبعة، ثمانية، تسعة. What comes next?",
+      "options": [
+        "ثمانية",
+        "سبعة",
+        "ستة",
+        "عشرة"
+      ],
+      "correctIndex": 3,
+      "explanation": "After nine comes ten, عشرة.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, numbers in Arabic",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "science",
+  "topic": "earth-space",
+  "title": "Sky summit",
+  "questions": [
+    {
+      "code": "10-SCI-EAR-B-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What planet do we live on?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Humans live on planet Earth.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-B-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What is the shape of the Earth?",
+      "options": [
+        "A cube",
+        "A sphere",
+        "A flat disc",
+        "A triangle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Earth is round like a sphere.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-B-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What force pulls objects towards the ground?",
+      "options": [
+        "Friction",
+        "Magnetism",
+        "Gravity",
+        "Tension"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gravity pulls everything towards Earth.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-B-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "How long does Earth take to go round the sun?",
+      "options": [
+        "One day",
+        "One month",
+        "One week",
+        "One year"
+      ],
+      "correctIndex": 3,
+      "explanation": "Earth orbits the sun in about 365 days.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-B-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What makes day and night?",
+      "options": [
+        "Earth spinning on its axis",
+        "The sun circling Earth",
+        "The moon blocking the sun",
+        "Clouds covering the sky"
+      ],
+      "correctIndex": 0,
+      "explanation": "Earth spins, so the sun lights half at a time.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-B-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What is the sun?",
+      "options": [
+        "A planet",
+        "A star",
+        "A moon",
+        "A comet"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sun is the star nearest to Earth.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-B-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "Which of these travels around the Earth?",
+      "options": [
+        "A rocket",
+        "A plane",
+        "The moon",
+        "A cloud"
+      ],
+      "correctIndex": 2,
+      "explanation": "The moon orbits the Earth.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-B-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What do we call water that falls from clouds?",
+      "options": [
+        "Dew",
+        "Steam",
+        "Mist",
+        "Rain"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rain is water that falls from clouds.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-S-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Why does the moon seem to change shape?",
+      "options": [
+        "We see different amounts of its lit side",
+        "Clouds hide parts of it",
+        "It blocks the sun",
+        "It spins very fast"
+      ],
+      "correctIndex": 0,
+      "explanation": "The moon reflects light, and we see it from changing angles.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-S-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "What causes the seasons?",
+      "options": [
+        "Earth stops spinning",
+        "Earth tilts as it orbits the sun",
+        "The sun burns out",
+        "The moon pulls Earth"
+      ],
+      "correctIndex": 1,
+      "explanation": "Earth's tilt changes how sunlight falls on each half.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-S-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Why is the sky usually blue by day?",
+      "options": [
+        "The sea reflects up",
+        "Clouds are blue",
+        "Air scatters sunlight",
+        "Dust blocks other colours"
+      ],
+      "correctIndex": 2,
+      "explanation": "Air scatters blue light more than other colours.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-S-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "How do we know rain may fall soon?",
+      "options": [
+        "Birds sing louder",
+        "The sun turns red",
+        "Stars appear",
+        "Dark clouds gather and wind rises"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dark, gathering clouds often bring rain.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-S-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Why do we have daytime and night-time?",
+      "options": [
+        "Earth spins on its axis",
+        "The sun travels round Earth",
+        "The moon covers the sky",
+        "Seasons change"
+      ],
+      "correctIndex": 0,
+      "explanation": "As Earth spins, each side faces the sun in turn.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-S-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "What is a crater?",
+      "options": [
+        "A volcano top",
+        "A hole made by a rock from space",
+        "A deep river",
+        "A mountain peak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Craters form when space rocks hit a surface.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-S-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Why does the moon have no weather like Earth?",
+      "options": [
+        "It spins too fast",
+        "It is too small",
+        "It has almost no air",
+        "It has no sunlight"
+      ],
+      "correctIndex": 2,
+      "explanation": "Weather needs air, and the moon has almost none.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-S-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Why does a solar eclipse happen?",
+      "options": [
+        "Clouds block the sun",
+        "Earth blocks the moon",
+        "A planet hides the sun",
+        "The moon blocks the sun's light"
+      ],
+      "correctIndex": 3,
+      "explanation": "A solar eclipse happens when the moon passes in front of the sun.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-G-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why do we see stars only at night?",
+      "options": [
+        "The sun is too bright by day",
+        "Stars move away by day",
+        "Clouds always hide them",
+        "Stars sleep by day"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sunlight outshines the stars during the day.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-G-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why does the same side of the moon face Earth?",
+      "options": [
+        "It does not spin",
+        "It spins once in the time it orbits",
+        "Earth pulls it still",
+        "Magnets lock it in place"
+      ],
+      "correctIndex": 1,
+      "explanation": "The moon's spin and orbit take the same time.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-G-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "About how many Earths would fit across the sun?",
+      "options": [
+        "About 3",
+        "About 12",
+        "About 109",
+        "About 1000"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sun is about 109 times wider than Earth.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-G-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why is space travel hard for humans?",
+      "options": [
+        "Space is only cold",
+        "Rockets cannot fly high",
+        "Space has too much water",
+        "There is no air or gravity there"
+      ],
+      "correctIndex": 3,
+      "explanation": "Space lacks air, so astronauts need special suits.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-G-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why do planets stay in orbit round the sun?",
+      "options": [
+        "The sun's gravity pulls them",
+        "Wind pushes them",
+        "They float on gas",
+        "Magnets hold them"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gravity keeps the planets circling the sun.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-G-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why does Nigeria have a wet season?",
+      "options": [
+        "The sun melts more water",
+        "Moist ocean winds carry rain inland",
+        "Mountains make rain daily",
+        "The moon pulls rain down"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moist ocean winds bring rain in the wet season.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-G-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why is the moon not a star?",
+      "options": [
+        "It is too small",
+        "It is too far away",
+        "It shines by reflected sunlight",
+        "It is made of ice"
+      ],
+      "correctIndex": 2,
+      "explanation": "The moon gives off no light of its own.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-EAR-G-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why do astronauts float inside a space station?",
+      "options": [
+        "There is no gravity there",
+        "The station pushes them",
+        "They are lighter in space",
+        "Everything falls round Earth together"
+      ],
+      "correctIndex": 3,
+      "explanation": "The station and the astronauts fall round Earth together.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

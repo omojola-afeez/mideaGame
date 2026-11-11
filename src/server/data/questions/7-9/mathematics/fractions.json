@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "mathematics",
+  "topic": "fractions",
+  "title": "Fraction falls",
+  "questions": [
+    {
+      "code": "7-MAT-FRA-B-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is one half of 10?",
+      "options": [
+        "5",
+        "2",
+        "10",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Half of 10 is 5.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-B-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is one quarter of 20?",
+      "options": [
+        "4",
+        "5",
+        "10",
+        "2"
+      ],
+      "correctIndex": 1,
+      "explanation": "A quarter of 20 is 5.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-B-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "Which fraction means one of 2 equal parts?",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 of 2 equal parts is 1/2.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-B-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is half of 8?",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "Half of 8 is 4.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-B-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "Which is bigger, 1/2 or 1/4?",
+      "options": [
+        "1/2",
+        "1/4",
+        "They are the same",
+        "1/3"
+      ],
+      "correctIndex": 0,
+      "explanation": "A half is bigger than a quarter.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-B-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "How many quarters make one half?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "Two quarters make one half.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-B-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is half of 100?",
+      "options": [
+        "25",
+        "10",
+        "50",
+        "100"
+      ],
+      "correctIndex": 2,
+      "explanation": "Half of 100 is 50.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-B-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "Fraction with 4 equal parts?",
+      "options": [
+        "1/2",
+        "3/4",
+        "1/3",
+        "1/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "1/4 means one of four equal parts.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-S-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is one third of 9?",
+      "options": [
+        "3",
+        "2",
+        "6",
+        "1"
+      ],
+      "correctIndex": 0,
+      "explanation": "A third of 9 is 3.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-S-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is one half of 50?",
+      "options": [
+        "20",
+        "25",
+        "10",
+        "30"
+      ],
+      "correctIndex": 1,
+      "explanation": "Half of 50 is 25.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-S-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which fraction is equal to 2/4?",
+      "options": [
+        "1/4",
+        "3/4",
+        "1/2",
+        "2/3"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 of 4 parts is the same as 1 of 2.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-S-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is a quarter of 100?",
+      "options": [
+        "20",
+        "50",
+        "10",
+        "25"
+      ],
+      "correctIndex": 3,
+      "explanation": "A quarter of 100 is 25.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-S-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "How many thirds make one whole?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Three thirds make one whole.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-S-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which is smallest: 1/2, 1/3 or 1/4?",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/3",
+        "They are equal"
+      ],
+      "correctIndex": 1,
+      "explanation": "More parts means each part is smaller.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-S-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is half of 36?",
+      "options": [
+        "16",
+        "20",
+        "18",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "Half of 36 is 18.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-S-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which fraction is bigger: 2/4 or 3/4?",
+      "options": [
+        "2/4",
+        "They are the same",
+        "1/4",
+        "3/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 of 4 parts is more than 2.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-G-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 1/2 of ₦100?",
+      "options": [
+        "₦50",
+        "₦25",
+        "₦20",
+        "₦75"
+      ],
+      "correctIndex": 0,
+      "explanation": "Half of ₦100 is ₦50.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-G-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "A pie is cut into 4 equal parts. Bola eats 3. How much is left?",
+      "options": [
+        "3/4",
+        "1/4",
+        "1/2",
+        "2/4"
+      ],
+      "correctIndex": 1,
+      "explanation": "4 parts minus 3 eaten leaves 1/4.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-G-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Which fraction is equal to 2/6?",
+      "options": [
+        "1/2",
+        "2/3",
+        "1/3",
+        "1/6"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 of 6 parts is the same as 1 of 3.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-G-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 3/4 of 20?",
+      "options": [
+        "10",
+        "5",
+        "12",
+        "15"
+      ],
+      "correctIndex": 3,
+      "explanation": "A quarter of 20 is 5, times 3 is 15.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-G-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Chidi has 12 marbles. He gives half away. How many does he keep?",
+      "options": [
+        "6",
+        "4",
+        "8",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Half of 12 is 6.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-G-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Arrange 1/4, 1/2 and 3/4 from small to large.",
+      "options": [
+        "3/4, 1/2, 1/4",
+        "1/4, 1/2, 3/4",
+        "1/2, 1/4, 3/4",
+        "1/2, 3/4, 1/4"
+      ],
+      "correctIndex": 1,
+      "explanation": "The quarters grow from 1 to 2 to 3.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-G-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 2/5 of 10?",
+      "options": [
+        "2",
+        "5",
+        "4",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "A fifth of 10 is 2, times 2 is 4.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-FRA-G-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Which is closer to 1: 3/4 or 1/4?",
+      "options": [
+        "1/4",
+        "They are the same",
+        "1/2",
+        "3/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 of 4 parts is nearly one whole.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

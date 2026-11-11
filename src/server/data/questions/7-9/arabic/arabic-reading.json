@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "arabic",
+  "topic": "arabic-reading",
+  "title": "Read reef",
+  "questions": [
+    {
+      "code": "7-ARB-RED-B-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: السماء زرقاء. What does it mean?",
+      "options": [
+        "The sky is blue",
+        "The sun is hot",
+        "The moon is bright",
+        "The sea is deep"
+      ],
+      "correctIndex": 0,
+      "explanation": "زرقاء means blue.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-B-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: الكتاب جديد. What does it mean?",
+      "options": [
+        "The book is old",
+        "The book is new",
+        "The book is big",
+        "The book is red"
+      ],
+      "correctIndex": 1,
+      "explanation": "جديد means new.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-B-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: التفاحة حمراء. What does it mean?",
+      "options": [
+        "The apple is green",
+        "The banana is yellow",
+        "The apple is red",
+        "The orange is sweet"
+      ],
+      "correctIndex": 2,
+      "explanation": "حمراء means red.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-B-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: القط صغير. What does it mean?",
+      "options": [
+        "The dog is big",
+        "The bird is fast",
+        "The fish is slow",
+        "The cat is small"
+      ],
+      "correctIndex": 3,
+      "explanation": "صغير means small.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-B-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Which sentence means the school is big?",
+      "options": [
+        "المدرسة كبيرة",
+        "المدرسة صغيرة",
+        "المدرسة بعيدة",
+        "المدرسة جديدة"
+      ],
+      "correctIndex": 0,
+      "explanation": "كبيرة means big.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-B-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Which sentence means the water is cold?",
+      "options": [
+        "الماء ساخن",
+        "الماء بارد",
+        "الماء نظيف",
+        "الماء حلو"
+      ],
+      "correctIndex": 1,
+      "explanation": "بارد means cold.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-B-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: اليوم جميل. What does it mean?",
+      "options": [
+        "The day is dark",
+        "The night is cold",
+        "The day is beautiful",
+        "The morning is early"
+      ],
+      "correctIndex": 2,
+      "explanation": "جميل means beautiful.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-B-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Which sentence means I like milk?",
+      "options": [
+        "أشرب الماء",
+        "أحب الخبز",
+        "أكره اللبن",
+        "أحب اللبن"
+      ],
+      "correctIndex": 3,
+      "explanation": "أحب اللبن means I love milk.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-S-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: ذهب أحمد إلى المدرسة صباحا. When did Ahmad go?",
+      "options": [
+        "In the morning",
+        "In the evening",
+        "At night",
+        "At noon"
+      ],
+      "correctIndex": 0,
+      "explanation": "صباحا means in the morning.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-S-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: أكلت مريم تفاحة حمراء. What did Maryam eat?",
+      "options": [
+        "A green apple",
+        "A red apple",
+        "A banana",
+        "An orange"
+      ],
+      "correctIndex": 1,
+      "explanation": "تفاحة حمراء means a red apple.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-S-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: يصلي أبي في المسجد. Where does papa pray?",
+      "options": [
+        "At home",
+        "In the school",
+        "In the mosque",
+        "In the market"
+      ],
+      "correctIndex": 2,
+      "explanation": "المسجد means the mosque.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-S-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: شربت سارة اللبن. What did Sara drink?",
+      "options": [
+        "Water",
+        "Tea",
+        "Juice",
+        "Milk"
+      ],
+      "correctIndex": 3,
+      "explanation": "اللبن means milk.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-S-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: لعب الولد بالكرة في الملعب. Where did the boy play?",
+      "options": [
+        "On the field",
+        "In the house",
+        "In the school",
+        "In the market"
+      ],
+      "correctIndex": 0,
+      "explanation": "الملعب means the playground.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-S-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: قرأ يوسف القصة. What did Yusuf do?",
+      "options": [
+        "He wrote the story",
+        "He read the story",
+        "He heard the story",
+        "He drew the story"
+      ],
+      "correctIndex": 1,
+      "explanation": "قرأ means he read.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-S-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Which sentence means the sun shines?",
+      "options": [
+        "القمر يضيء",
+        "النجوم تلمع",
+        "الشمس تشرق",
+        "السحب تمطر"
+      ],
+      "correctIndex": 2,
+      "explanation": "تشرق means rises or shines.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-S-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: أمي تطبخ الغداء. What is mother doing?",
+      "options": [
+        "Washing dishes",
+        "Reading a book",
+        "Sweeping the floor",
+        "Cooking lunch"
+      ],
+      "correctIndex": 3,
+      "explanation": "تطبخ means is cooking and الغداء means lunch.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-G-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: أحب أن أقرأ القرآن كل صباح. What does the writer love to do?",
+      "options": [
+        "Read the Quran every morning",
+        "Pray at noon",
+        "Visit his friend",
+        "Play in the morning"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he loves to read the Quran each morning.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-G-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: ذهب الطلاب إلى المكتبة ليبحثوا عن الكتب. Why did the pupils go?",
+      "options": [
+        "To play games",
+        "To look for books",
+        "To eat lunch",
+        "To sleep"
+      ],
+      "correctIndex": 1,
+      "explanation": "ليبحثوا means so that they may search.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-G-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: إن مع العسر يسرا. What does it mean?",
+      "options": [
+        "Work is hard",
+        "Money solves problems",
+        "With hardship comes ease",
+        "Study is important"
+      ],
+      "correctIndex": 2,
+      "explanation": "This Quranic verse promises ease after hardship.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-G-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: الماء أساس الحياة. What does it mean?",
+      "options": [
+        "Water is free",
+        "Water is cold",
+        "Water is deep",
+        "Water is the basis of life"
+      ],
+      "correctIndex": 3,
+      "explanation": "أساس means basis or foundation.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-G-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: الصلاة عماد الدين. What does it mean?",
+      "options": [
+        "Prayer is the pillar of religion",
+        "Fasting is the pillar of religion",
+        "Charity is the pillar of religion",
+        "Travel is the pillar of religion"
+      ],
+      "correctIndex": 0,
+      "explanation": "عماد means pillar or support.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-G-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: من طلب العلا سهر الليالي. What advice does it give?",
+      "options": [
+        "Sleep early",
+        "Success needs hard work",
+        "Play at night",
+        "Wake up late"
+      ],
+      "correctIndex": 1,
+      "explanation": "The saying links high goals to long, wakeful nights of study.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-G-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "What does العلم نور والجهل ظلام mean?",
+      "options": [
+        "Knowledge is wealth, ignorance is poverty",
+        "Knowledge is power, ignorance is weakness",
+        "Knowledge is light, ignorance is darkness",
+        "Knowledge is joy, ignorance is misery"
+      ],
+      "correctIndex": 2,
+      "explanation": "نور means light and ظلام means darkness.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-RED-G-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: الوقاية خير من العلاج. What does it mean?",
+      "options": [
+        "Medicine is cheap",
+        "Hospitals are good",
+        "Doctors are kind",
+        "Prevention is better than cure"
+      ],
+      "correctIndex": 3,
+      "explanation": "الوقاية is prevention and العلاج is cure.",
+      "curriculumRef": "NERDC Primary 3 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

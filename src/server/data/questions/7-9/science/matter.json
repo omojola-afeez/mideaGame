@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "science",
+  "topic": "matter",
+  "title": "Matter marsh",
+  "questions": [
+    {
+      "code": "7-SCI-MAT-B-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which of these is a solid?",
+      "options": [
+        "A spoon",
+        "Water",
+        "Air",
+        "Milk"
+      ],
+      "correctIndex": 0,
+      "explanation": "A spoon is a solid.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-B-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which one is a liquid?",
+      "options": [
+        "A pencil",
+        "Milk",
+        "A chair",
+        "A stone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Milk is a liquid.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-B-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "What do we breathe in?",
+      "options": [
+        "Water",
+        "Sand",
+        "Air",
+        "Smoke"
+      ],
+      "correctIndex": 2,
+      "explanation": "We breathe in air.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-B-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which of these can melt?",
+      "options": [
+        "A rock",
+        "A key",
+        "A brick",
+        "Ice"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ice melts when heated.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-B-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "What happens when steam cools?",
+      "options": [
+        "It becomes water",
+        "It becomes salt",
+        "It becomes smoke",
+        "It stays steam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Steam cools and turns back to water.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-B-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which is heavier, a stone or a leaf?",
+      "options": [
+        "A leaf",
+        "A stone",
+        "A feather",
+        "A piece of paper"
+      ],
+      "correctIndex": 1,
+      "explanation": "A stone is heavier than a leaf.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-B-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "What do we get when water boils?",
+      "options": [
+        "Ice",
+        "Smoke",
+        "Steam",
+        "Sand"
+      ],
+      "correctIndex": 2,
+      "explanation": "Boiling water gives steam.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-B-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which one can we see through?",
+      "options": [
+        "A brick",
+        "A wooden door",
+        "A black cloth",
+        "Clean glass"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clean glass is clear.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-S-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Why does metal feel cold?",
+      "options": [
+        "It takes heat from our hands",
+        "It makes its own cold",
+        "It is always cold",
+        "It eats the heat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metal takes heat from the skin, so it feels cold.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-S-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Which is best for a cooking pot?",
+      "options": [
+        "Paper",
+        "Metal",
+        "Cloth",
+        "Sponge"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metal conducts heat well for cooking.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-S-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "What is a mixture?",
+      "options": [
+        "A single pure thing",
+        "A living thing",
+        "Things mixed together, not joined",
+        "A broken thing"
+      ],
+      "correctIndex": 2,
+      "explanation": "A mixture has two or more things mixed together.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-S-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "How can we part sand and water?",
+      "options": [
+        "By stirring only",
+        "By adding salt",
+        "By freezing it",
+        "By filtering"
+      ],
+      "correctIndex": 3,
+      "explanation": "A filter holds back the sand.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-S-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Which one does a magnet not pick?",
+      "options": [
+        "A plastic comb",
+        "A nail",
+        "A pin",
+        "An iron key"
+      ],
+      "correctIndex": 0,
+      "explanation": "Magnets pick iron, not plastic.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-S-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Why is glass used for windows?",
+      "options": [
+        "It is very soft",
+        "It lets light through",
+        "It is very warm",
+        "It is light in colour"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clear glass lets light pass through.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-S-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "What is water made of?",
+      "options": [
+        "Salt and sugar",
+        "Sand and stone",
+        "Hydrogen and oxygen",
+        "Iron and dust"
+      ],
+      "correctIndex": 2,
+      "explanation": "Water is made of hydrogen and oxygen.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-S-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "What does salt do in water?",
+      "options": [
+        "It stays on top",
+        "It turns to gas",
+        "It grows bigger",
+        "It dissolves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Salt dissolves in water.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-G-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "How does salt mix in water?",
+      "options": [
+        "It dissolves evenly",
+        "It stays at the bottom",
+        "It floats on top",
+        "It turns to gas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Salt dissolves evenly in water.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-G-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Which one is pure?",
+      "options": [
+        "Salt water",
+        "Table salt",
+        "Muddy water",
+        "Sand water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Table salt is a pure substance.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-G-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "How can we get salt from sea water?",
+      "options": [
+        "By boiling and throwing the salt away",
+        "By filtering it",
+        "By evaporating the water",
+        "By freezing it"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sea water is evaporated to leave salt behind.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-G-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Why do wet clothes dry on a sunny day?",
+      "options": [
+        "The wind eats the water",
+        "The sun paints them",
+        "The air pushes them",
+        "The heat turns water to vapour"
+      ],
+      "correctIndex": 3,
+      "explanation": "Heat turns water into vapour, so clothes dry.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-G-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "What happens to ice in the sun?",
+      "options": [
+        "It melts",
+        "It freezes more",
+        "It breaks into dust",
+        "It turns to salt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ice melts in the heat of the sun.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-G-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Why is iron good for nails?",
+      "options": [
+        "It bends easily",
+        "It is very strong and hard",
+        "It is very light",
+        "It is soft"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iron is strong, so nails hold well.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-G-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Which one floats on water?",
+      "options": [
+        "Iron",
+        "Stone",
+        "Wood",
+        "Lead"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wood floats on water.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-MAT-G-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Why do potters dry pots in the sun?",
+      "options": [
+        "To colour them",
+        "To melt them",
+        "To shrink them",
+        "To make them hard"
+      ],
+      "correctIndex": 3,
+      "explanation": "Drying makes clay pots hard.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, matter and materials",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

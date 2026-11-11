@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "science",
+  "topic": "body-health",
+  "title": "Body bay",
+  "questions": [
+    {
+      "code": "10-SCI-BOD-B-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Which organ pumps blood around the body?",
+      "options": [
+        "The heart",
+        "The lungs",
+        "The liver",
+        "The stomach"
+      ],
+      "correctIndex": 0,
+      "explanation": "The heart pumps blood to every part of the body.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-B-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Which organs help us breathe?",
+      "options": [
+        "The kidneys",
+        "The lungs",
+        "The heart",
+        "The brain"
+      ],
+      "correctIndex": 1,
+      "explanation": "The lungs take in oxygen and let out carbon dioxide.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-B-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "How many senses do people have?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Seven"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sight, hearing, touch, taste and smell.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-B-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Which sense do you use to see colours?",
+      "options": [
+        "Smell",
+        "Touch",
+        "Hearing",
+        "Sight"
+      ],
+      "correctIndex": 3,
+      "explanation": "The eyes use the sense of sight to see colours.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-B-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Which organ thinks and controls the body?",
+      "options": [
+        "The brain",
+        "The heart",
+        "The stomach",
+        "The lungs"
+      ],
+      "correctIndex": 0,
+      "explanation": "The brain controls movement, feelings and thinking.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-B-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "What does the skin protect?",
+      "options": [
+        "The clothes",
+        "The body inside",
+        "The hair",
+        "The shoes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Skin protects the organs and tissues underneath it.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-B-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Which organ turns food into energy?",
+      "options": [
+        "The lungs",
+        "The eyes",
+        "The stomach",
+        "The skin"
+      ],
+      "correctIndex": 2,
+      "explanation": "The stomach helps break food into small parts the body can use.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-B-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "bronze",
+      "text": "Why do we need to sleep?",
+      "options": [
+        "To grow taller overnight",
+        "To lose weight",
+        "To avoid homework",
+        "So our bodies can rest and repair"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sleep lets the body and brain rest and repair.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-S-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why do we need to wash our hands before meals?",
+      "options": [
+        "To remove germs",
+        "To stay cool",
+        "To smell nice",
+        "To keep skin soft"
+      ],
+      "correctIndex": 0,
+      "explanation": "Washing hands removes germs that can make us ill.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-S-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "What does a balanced diet include?",
+      "options": [
+        "Only rice and beans",
+        "Many different kinds of food",
+        "Only fruits",
+        "Only snacks"
+      ],
+      "correctIndex": 1,
+      "explanation": "A balanced diet gives the body many nutrients from different foods.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-S-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why is exercise good for the body?",
+      "options": [
+        "It makes us sleepy",
+        "It stops us eating",
+        "It keeps the heart and muscles strong",
+        "It makes skin darker"
+      ],
+      "correctIndex": 2,
+      "explanation": "Exercise strengthens the heart, muscles and bones.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-S-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "How does the body get rid of waste liquid?",
+      "options": [
+        "Through sweat only",
+        "Through tears",
+        "Through saliva",
+        "Through urine"
+      ],
+      "correctIndex": 3,
+      "explanation": "The kidneys filter waste from the blood into urine.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-S-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why is clean drinking water important?",
+      "options": [
+        "It prevents sickness from dirty water",
+        "It tastes sweet",
+        "It makes us stronger",
+        "It is free"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unsafe water carries germs that cause diarrhoea and other illness.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-S-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "What happens when you do not get enough vitamins?",
+      "options": [
+        "You grow faster",
+        "You can fall ill more often",
+        "You never feel tired",
+        "Your bones grow stronger"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vitamins help the body fight illness, so too little makes us sick.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-S-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "Why should we brush our teeth twice a day?",
+      "options": [
+        "To make teeth whiter",
+        "To smell like mint",
+        "To remove food and keep gums healthy",
+        "To clean the tongue"
+      ],
+      "correctIndex": 2,
+      "explanation": "Brushing removes leftover food and plaque that decay teeth.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-S-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "silver",
+      "text": "How do vaccines protect the body?",
+      "options": [
+        "They make you taller",
+        "They cure old injuries",
+        "They stop hunger",
+        "They teach the body to fight diseases"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vaccines train the immune system to recognise and fight germs.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-G-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why does the body need a mix of foods, not just one type?",
+      "options": [
+        "Different foods give different nutrients",
+        "To make meals colourful",
+        "To save money",
+        "To avoid cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "No single food has everything the body needs, so we mix foods.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-G-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "How does sleep improve learning and memory?",
+      "options": [
+        "It stretches the brain",
+        "The brain sorts and stores memories while we rest",
+        "It cools the body down",
+        "It cleans the eyes"
+      ],
+      "correctIndex": 1,
+      "explanation": "During sleep the brain files away the day's learning.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-G-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why is smoking harmful to the lungs?",
+      "options": [
+        "It builds up cough sweets",
+        "It keeps lungs warm",
+        "The smoke damages lung tissue and makes breathing hard",
+        "It makes the voice deeper"
+      ],
+      "correctIndex": 2,
+      "explanation": "Smoke carries chemicals that injure lungs and raise disease risk.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-G-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Which habit best protects the eyes in bright sun?",
+      "options": [
+        "Staring at the sun",
+        "Closing one eye",
+        "Rubbing them often",
+        "Wearing a hat or shades outdoors"
+      ],
+      "correctIndex": 3,
+      "explanation": "Shade protects the eyes from strong sunlight that harms sight.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-G-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "How can a school stop the spread of germs?",
+      "options": [
+        "Clean hands, clean classrooms and clean water",
+        "By buying more fans",
+        "By painting the walls",
+        "By planting more trees"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hygiene like hand washing and clean toilets stops germs spreading.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-G-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why is exercise good for children?",
+      "options": [
+        "It shortens the day",
+        "It builds strong bones and a healthy heart",
+        "It reduces appetite",
+        "It speeds up growing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Activity strengthens bones, muscles and the heart during growth.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-G-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "What does the liver do in the body?",
+      "options": [
+        "It pumps blood",
+        "It digests food in the mouth",
+        "It filters blood and stores energy",
+        "It breathes for us"
+      ],
+      "correctIndex": 2,
+      "explanation": "The liver filters blood, makes bile and stores sugar for energy.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-BOD-G-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "body-health",
+      "level": "gold",
+      "text": "Why should children drink enough clean water daily?",
+      "options": [
+        "It replaces breakfast",
+        "It makes teeth whiter",
+        "It increases weight",
+        "It keeps the body cool and blood flowing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Water cools the body, carries nutrients and removes waste.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, the human body",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

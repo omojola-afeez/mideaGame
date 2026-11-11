@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Giraffe">
+  <rect x="36" y="5" width="6" height="14" rx="3" fill="#C98A3B"/>
+  <rect x="58" y="5" width="6" height="14" rx="3" fill="#C98A3B"/>
+  <circle cx="39" cy="5" r="4" fill="#8A5A22"/>
+  <circle cx="61" cy="5" r="4" fill="#8A5A22"/>
+  <path d="M28 40 q22 -18 44 0 l6 22 q-28 12 -56 0 Z" fill="#E8B45A"/>
+  <circle cx="42" cy="30" r="2.6" fill="#B5702B"/>
+  <circle cx="58" cy="28" r="2.2" fill="#B5702B"/>
+  <circle cx="50" cy="22" r="2" fill="#B5702B"/>
+  <circle cx="38" cy="46" r="3.2" fill="#3A2412"/>
+  <circle cx="62" cy="46" r="3.2" fill="#3A2412"/>
+  <circle cx="39" cy="44.8" r="1" fill="#ffffff"/>
+  <circle cx="63" cy="44.8" r="1" fill="#ffffff"/>
+  <ellipse cx="50" cy="62" rx="16" ry="10" fill="#F2D79B"/>
+  <ellipse cx="44" cy="62" rx="1.6" ry="2.2" fill="#8A5A22"/>
+  <ellipse cx="56" cy="62" rx="1.6" ry="2.2" fill="#8A5A22"/>
+</svg>

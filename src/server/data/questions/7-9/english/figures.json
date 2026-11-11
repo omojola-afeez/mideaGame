@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "english",
+  "topic": "figures",
+  "title": "Figure forest",
+  "questions": [
+    {
+      "code": "7-ENG-FIG-B-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As busy as a ___",
+      "options": [
+        "bee",
+        "cat",
+        "snail",
+        "fish"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bee is always very busy.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-B-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As light as a ___",
+      "options": [
+        "stone",
+        "feather",
+        "brick",
+        "cart"
+      ],
+      "correctIndex": 1,
+      "explanation": "A feather weighs almost nothing.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-B-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As strong as a ___",
+      "options": [
+        "hen",
+        "rabbit",
+        "lion",
+        "ant"
+      ],
+      "correctIndex": 2,
+      "explanation": "A lion is very strong.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-B-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As smooth as ___",
+      "options": [
+        "stone",
+        "bark",
+        "sand",
+        "silk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Silk is very smooth.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-B-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As clear as ___",
+      "options": [
+        "crystal",
+        "mud",
+        "smoke",
+        "darkness"
+      ],
+      "correctIndex": 0,
+      "explanation": "Crystal is very clear.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-B-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As cold as ___",
+      "options": [
+        "pepper",
+        "ice",
+        "fire",
+        "the sun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ice is very cold.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-B-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As white as ___",
+      "options": [
+        "mud",
+        "ash",
+        "snow",
+        "grass"
+      ],
+      "correctIndex": 2,
+      "explanation": "Snow is very white.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-B-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "Finish the line: As black as ___",
+      "options": [
+        "day",
+        "snow",
+        "milk",
+        "night"
+      ],
+      "correctIndex": 3,
+      "explanation": "Night is very dark.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-S-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "He eats like a ___.",
+      "options": [
+        "pig",
+        "bird",
+        "fish",
+        "ant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eats like a pig means eats very greedily.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-S-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "She slept like a ___.",
+      "options": [
+        "lion",
+        "baby",
+        "owl",
+        "fox"
+      ],
+      "correctIndex": 1,
+      "explanation": "Slept like a baby means slept soundly.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-S-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "He is as cunning as a ___.",
+      "options": [
+        "lion",
+        "cow",
+        "fox",
+        "donkey"
+      ],
+      "correctIndex": 2,
+      "explanation": "A fox is very cunning.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-S-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "The thief ran like a ___ of the wind.",
+      "options": [
+        "drop",
+        "stone",
+        "leaf",
+        "gust"
+      ],
+      "correctIndex": 3,
+      "explanation": "Like a gust of wind means very fast.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-S-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "Her words were sweet like ___.",
+      "options": [
+        "honey",
+        "salt",
+        "pepper",
+        "vinegar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sweet like honey means sweet to hear.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-S-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "The crowd was as loud as ___.",
+      "options": [
+        "a whisper",
+        "thunder",
+        "a drizzle",
+        "a breeze"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loud as thunder means very loud.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-S-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "She is as graceful as a ___.",
+      "options": [
+        "stone",
+        "log",
+        "dancer",
+        "chair"
+      ],
+      "correctIndex": 2,
+      "explanation": "Graceful as a dancer means moving beautifully.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-S-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "The runner was as swift as a ___.",
+      "options": [
+        "cow",
+        "snail",
+        "tortoise",
+        "cheetah"
+      ],
+      "correctIndex": 3,
+      "explanation": "Swift as a cheetah means very fast.",
+      "curriculumRef": "NERDC Primary 3 English, figures: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-G-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "What does spill the beans mean?",
+      "options": [
+        "Tell a secret",
+        "Cook beans",
+        "Drop beans",
+        "Buy beans"
+      ],
+      "correctIndex": 0,
+      "explanation": "To spill the beans is to tell a secret.",
+      "curriculumRef": "NERDC Primary 3 English, figures: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-G-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "What does a piece of cake mean?",
+      "options": [
+        "Very sweet",
+        "Very easy",
+        "Very hard",
+        "Very costly"
+      ],
+      "correctIndex": 1,
+      "explanation": "A piece of cake means a task is easy.",
+      "curriculumRef": "NERDC Primary 3 English, figures: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-G-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "What does it is raining cats and dogs mean?",
+      "options": [
+        "Cats are falling",
+        "Dogs are falling",
+        "It is raining heavily",
+        "It is sunny"
+      ],
+      "correctIndex": 2,
+      "explanation": "The idiom means a heavy rain.",
+      "curriculumRef": "NERDC Primary 3 English, figures: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-G-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "What does break a leg mean?",
+      "options": [
+        "Be careful",
+        "Run fast",
+        "Sit down",
+        "Good luck"
+      ],
+      "correctIndex": 3,
+      "explanation": "Break a leg is said to wish good luck.",
+      "curriculumRef": "NERDC Primary 3 English, figures: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-G-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "What does once in a blue moon mean?",
+      "options": [
+        "Very rarely",
+        "Very often",
+        "Every month",
+        "Every week"
+      ],
+      "correctIndex": 0,
+      "explanation": "A blue moon is rare. The idiom means rarely.",
+      "curriculumRef": "NERDC Primary 3 English, figures: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-G-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "What does better late than never mean?",
+      "options": [
+        "Never do it at all",
+        "Doing it late is better than not",
+        "Do it quickly",
+        "Late is never good"
+      ],
+      "correctIndex": 1,
+      "explanation": "Even late is better than not doing it.",
+      "curriculumRef": "NERDC Primary 3 English, figures: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-G-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "In the line, the sun smiled at the village, the sun is ___.",
+      "options": [
+        "a simile",
+        "an idiom",
+        "personified",
+        "a metaphor"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sun is given a human action.",
+      "curriculumRef": "NERDC Primary 3 English, figures: personification",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-FIG-G-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "In the line, the wind whispered through the trees, the wind is ___.",
+      "options": [
+        "a simile",
+        "an idiom",
+        "a rhyme",
+        "personified"
+      ],
+      "correctIndex": 3,
+      "explanation": "The wind is given a human action.",
+      "curriculumRef": "NERDC Primary 3 English, figures: personification",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

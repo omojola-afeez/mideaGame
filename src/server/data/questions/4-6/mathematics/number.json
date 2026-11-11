@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "mathematics",
+  "topic": "number",
+  "title": "Number nook",
+  "questions": [
+    {
+      "code": "4-MAT-NUM-B-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What comes after 5?",
+      "options": [
+        "6",
+        "4",
+        "7",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "The next number after 5 is 6.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-B-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What comes before 9?",
+      "options": [
+        "10",
+        "8",
+        "7",
+        "9"
+      ],
+      "correctIndex": 1,
+      "explanation": "The number before 9 is 8.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-B-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Fingers on one hand?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "10"
+      ],
+      "correctIndex": 2,
+      "explanation": "One hand has 5 fingers.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-B-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is 3 more than 4?",
+      "options": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "correctIndex": 3,
+      "explanation": "4 plus 3 is 7.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-B-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "How many tens make 20?",
+      "options": [
+        "2",
+        "1",
+        "10",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ten and ten make twenty.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-B-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Which number is bigger, 6 or 9?",
+      "options": [
+        "6",
+        "9",
+        "They are the same",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "9 is greater than 6.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-B-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is ten plus three?",
+      "options": [
+        "10",
+        "30",
+        "13",
+        "11"
+      ],
+      "correctIndex": 2,
+      "explanation": "10 plus 3 makes 13.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-B-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is 7 in words?",
+      "options": [
+        "Six",
+        "Eight",
+        "Nine",
+        "Seven"
+      ],
+      "correctIndex": 3,
+      "explanation": "7 is written as seven.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-S-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which number is the greatest: 12, 21, 9, 18?",
+      "options": [
+        "21",
+        "12",
+        "18",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "21 is bigger than the rest.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-S-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Write 15 in words.",
+      "options": [
+        "Thirteen",
+        "Fifteen",
+        "Fourteen",
+        "Sixteen"
+      ],
+      "correctIndex": 1,
+      "explanation": "15 is written as fifteen.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-S-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "How many tens are in 40?",
+      "options": [
+        "2",
+        "10",
+        "4",
+        "14"
+      ],
+      "correctIndex": 2,
+      "explanation": "Forty is made of 4 tens.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-S-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "What comes next: 5, 10, 15, ...?",
+      "options": [
+        "16",
+        "18",
+        "25",
+        "20"
+      ],
+      "correctIndex": 3,
+      "explanation": "The pattern adds 5 each time.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-S-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which number is smaller, 14 or 41?",
+      "options": [
+        "14",
+        "41",
+        "They are the same",
+        "44"
+      ],
+      "correctIndex": 0,
+      "explanation": "14 is less than 41.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-S-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Round 8 to the nearest 10.",
+      "options": [
+        "0",
+        "10",
+        "8",
+        "100"
+      ],
+      "correctIndex": 1,
+      "explanation": "8 is closer to 10 than to 0.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-S-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "How many ones are in 17?",
+      "options": [
+        "1",
+        "10",
+        "7",
+        "17"
+      ],
+      "correctIndex": 2,
+      "explanation": "17 has 1 ten and 7 ones.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-S-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "What is 25 in tens and ones?",
+      "options": [
+        "5 tens and 2 ones",
+        "2 tens and 2 ones",
+        "5 tens and 5 ones",
+        "2 tens and 5 ones"
+      ],
+      "correctIndex": 3,
+      "explanation": "25 is made of 2 tens and 5 ones.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-G-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "How many more is 9 than 5?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "9 minus 5 is 4.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-G-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "What number is 10 more than 8?",
+      "options": [
+        "16",
+        "18",
+        "10",
+        "28"
+      ],
+      "correctIndex": 1,
+      "explanation": "8 plus 10 is 18.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-G-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which is even?",
+      "options": [
+        "3",
+        "5",
+        "8",
+        "7"
+      ],
+      "correctIndex": 2,
+      "explanation": "8 splits into two equal groups.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-G-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which is odd?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "9"
+      ],
+      "correctIndex": 3,
+      "explanation": "9 leaves 1 when split into two.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-G-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "What comes next: 10, 20, 30, ...?",
+      "options": [
+        "40",
+        "31",
+        "35",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pattern adds 10 each time.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-G-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "How many ones are in 23?",
+      "options": [
+        "2",
+        "3",
+        "13",
+        "20"
+      ],
+      "correctIndex": 1,
+      "explanation": "23 has 2 tens and 3 ones.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-G-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which number is the smallest: 15, 5, 25, 10?",
+      "options": [
+        "10",
+        "15",
+        "5",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "5 is less than all the rest.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-NUM-G-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Write 40 in words.",
+      "options": [
+        "Four",
+        "Fourteen",
+        "Four hundred",
+        "Forty"
+      ],
+      "correctIndex": 3,
+      "explanation": "40 is written as forty.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, numbers and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

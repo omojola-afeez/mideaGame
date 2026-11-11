@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "science",
+  "topic": "earth-space",
+  "title": "Sky summit",
+  "questions": [
+    {
+      "code": "7-SCI-EAR-B-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "Which planet do we live on?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "correctIndex": 0,
+      "explanation": "We live on planet Earth.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-B-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What is the moon?",
+      "options": [
+        "A star",
+        "A natural satellite of Earth",
+        "A planet",
+        "A cloud"
+      ],
+      "correctIndex": 1,
+      "explanation": "The moon is a natural satellite of Earth.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-B-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What gives us light by day?",
+      "options": [
+        "The moon",
+        "Lamps",
+        "The sun",
+        "Stars"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sun gives us light by day.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-B-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "Which one brings rain?",
+      "options": [
+        "Trees",
+        "Stones",
+        "The moon",
+        "Clouds"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rain falls from clouds.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-B-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What happens when water boils?",
+      "options": [
+        "It becomes steam",
+        "It becomes ice",
+        "It becomes salt",
+        "It becomes sand"
+      ],
+      "correctIndex": 0,
+      "explanation": "Boiling water becomes steam.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-B-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "Which is our star?",
+      "options": [
+        "The pole star",
+        "The sun",
+        "Sirius",
+        "The moon"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sun is the star nearest to us.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-B-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What falls from the sky?",
+      "options": [
+        "Stones",
+        "Leaves",
+        "Rain",
+        "Feathers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rain falls from the sky.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-B-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "Where do rivers flow to?",
+      "options": [
+        "The sky",
+        "The desert always",
+        "The sun",
+        "The sea"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rivers flow to the sea.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-S-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Why does it rain?",
+      "options": [
+        "Water vapour cools and falls",
+        "Clouds burst from wind",
+        "The sun cries",
+        "Birds drink the clouds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Water vapour cools in the sky and falls as rain.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-S-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "What do we call a group of stars?",
+      "options": [
+        "A comet",
+        "A constellation",
+        "An orbit",
+        "A galaxy of none"
+      ],
+      "correctIndex": 1,
+      "explanation": "A group of stars is a constellation.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-S-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Which season is dry?",
+      "options": [
+        "The rainy season",
+        "The cold season",
+        "Harmattan",
+        "August"
+      ],
+      "correctIndex": 2,
+      "explanation": "Harmattan is the dry season.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-S-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Why is Earth a planet?",
+      "options": [
+        "It makes its own light",
+        "It is a star",
+        "It is made of gas",
+        "It goes around the sun"
+      ],
+      "correctIndex": 3,
+      "explanation": "Earth goes round the sun, so it is a planet.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-S-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "What is the sea made of?",
+      "options": [
+        "Salt water",
+        "Fresh water",
+        "Mud",
+        "Oil"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sea is salt water.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-S-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Why do we have day and night?",
+      "options": [
+        "The sun goes round us",
+        "The earth turns on its axis",
+        "The moon blocks the sun",
+        "Clouds cover the sky"
+      ],
+      "correctIndex": 1,
+      "explanation": "The earth turns, giving us day and night.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-S-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "What do we use to see stars?",
+      "options": [
+        "A stethoscope",
+        "A thermometer",
+        "A telescope",
+        "A microscope"
+      ],
+      "correctIndex": 2,
+      "explanation": "A telescope makes far stars look close.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-S-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Which of these is not a planet?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "The sun"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sun is a star, not a planet.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-G-001",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why does the moon seem to shine?",
+      "options": [
+        "It reflects light from the sun",
+        "It makes its own light",
+        "It burns gas",
+        "It glows like fire"
+      ],
+      "correctIndex": 0,
+      "explanation": "The moon shines by reflecting sunlight.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-G-002",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "What is weather?",
+      "options": [
+        "The shape of the sky",
+        "The state of the air at a place",
+        "The heat of the sun only",
+        "The number of stars"
+      ],
+      "correctIndex": 1,
+      "explanation": "Weather is the state of the air at a place.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-G-003",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why does the sea taste salty?",
+      "options": [
+        "Fish put salt in it",
+        "Rain falls as salt water",
+        "Rivers carry salt into it",
+        "People pour salt in it"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rivers carry salt into the sea.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-G-004",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why do floods happen?",
+      "options": [
+        "The sea rises by itself",
+        "Farmers open dams always",
+        "Sand blocks the sky",
+        "Heavy rain fills rivers too fast"
+      ],
+      "correctIndex": 3,
+      "explanation": "Heavy rain can fill rivers too fast.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-G-005",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Which planet is the red one?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mars is known as the red planet.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-G-006",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why is the sky blue?",
+      "options": [
+        "The sea reflects up",
+        "The air scatters sunlight",
+        "The sky is painted",
+        "The sun is blue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Air scatters sunlight, which makes the sky look blue.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-G-007",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "What does the word climate mean?",
+      "options": [
+        "One day's weather",
+        "A storm warning",
+        "The usual weather of a place",
+        "The wind speed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Climate is the usual weather of a place.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SCI-EAR-G-008",
+      "band": "7-9",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "How does rain water help farms?",
+      "options": [
+        "It washes away farm tools",
+        "It rusts the farm tools",
+        "It floods the yam barns",
+        "It waters the crops"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rain waters the crops on the farm.",
+      "curriculumRef": "NERDC Primary 3 Integrated Science, earth and space",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

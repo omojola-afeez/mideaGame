@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "home-economics",
+  "topic": "food-cook",
+  "title": "Kitchen cove",
+  "questions": [
+    {
+      "code": "10-HEC-COO-B-001",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "Which tool is used to drain fried food?",
+      "options": [
+        "A sieve or colander",
+        "A ladle",
+        "A rolling pin",
+        "A spatula"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sieve lets excess oil drain off fried food.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-B-002",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What is the purpose of a whisk in cooking?",
+      "options": [
+        "To cut vegetables",
+        "To beat eggs and mix batter",
+        "To stir thick stew",
+        "To measure water"
+      ],
+      "correctIndex": 1,
+      "explanation": "A whisk incorporates air and blends ingredients smoothly.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-B-003",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "Why must meat be defrosted before cooking?",
+      "options": [
+        "To add salt",
+        "To save gas",
+        "So it cooks evenly throughout",
+        "To make it look bigger"
+      ],
+      "correctIndex": 2,
+      "explanation": "Frozen centres stay raw while outer parts burn.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-B-004",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "Which of these is a dry heat cooking method?",
+      "options": [
+        "Boiling",
+        "Steaming",
+        "Poaching",
+        "Grilling"
+      ],
+      "correctIndex": 3,
+      "explanation": "Grilling cooks food with dry radiant heat, not water.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-B-005",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What does a pressure cooker do?",
+      "options": [
+        "Cooks food faster with steam pressure",
+        "Chills food quickly",
+        "Blends ingredients",
+        "Measures temperature"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trapped steam raises pressure and cooking temperature.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-B-006",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "Why use a wooden spoon in non-stick pans?",
+      "options": [
+        "It adds flavour",
+        "It does not scratch the coating",
+        "It cleans faster",
+        "It cools the oil"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wood is gentle on non-stick surfaces unlike metal.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-B-007",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What must you do with raw meat juices on the chopping board?",
+      "options": [
+        "Wipe with a dry cloth only",
+        "Use immediately for vegetables",
+        "Wash the board and knife before reuse",
+        "Leave it to dry in the sun"
+      ],
+      "correctIndex": 2,
+      "explanation": "Raw meat juices carry bacteria that cause cross-contamination.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-B-008",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "Which oil is most common in our kitchens?",
+      "options": [
+        "Mustard oil",
+        "Lard",
+        "Butter",
+        "Palm oil"
+      ],
+      "correctIndex": 3,
+      "explanation": "Palm oil is the traditional cooking fat in many homes.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-S-001",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why should we get ingredients ready first?",
+      "options": [
+        "It prevents burning and mistakes",
+        "It saves on ingredients",
+        "It makes food taste sweeter",
+        "It cools the kitchen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Having everything ready prevents food from burning mid-cook.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-S-002",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "What happens to meat cooked too long?",
+      "options": [
+        "It gets sweeter",
+        "It becomes tough and dry",
+        "It becomes tender",
+        "It turns purple"
+      ],
+      "correctIndex": 1,
+      "explanation": "Overcooking squeezes out moisture and toughens proteins.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-S-003",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why should we not wash chicken in the kitchen sink?",
+      "options": [
+        "It wastes soap",
+        "It makes the chicken tough",
+        "Splashing spreads bacteria around the sink",
+        "It is not allowed by law"
+      ],
+      "correctIndex": 2,
+      "explanation": "Washing poultry splashes campylobacter onto surfaces.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-S-004",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "How do you correctly hold a knife for safety?",
+      "options": [
+        "Hold the tip tightly",
+        "Rest it on your palm",
+        "Grip the blade itself",
+        "Curl fingers back and grip firmly"
+      ],
+      "correctIndex": 3,
+      "explanation": "A firm grip with tucked fingers prevents slips and cuts.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-S-005",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why is it important to let a stock simmer rather than boil hard?",
+      "options": [
+        "Gentle heat extracts flavour without clouding",
+        "Hard boiling saves more gas",
+        "It makes the stock sweeter",
+        "It is faster"
+      ],
+      "correctIndex": 0,
+      "explanation": "Simmering extracts flavours gently and keeps the stock clear.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-S-006",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "What is the safest way to test if oil is hot enough for frying?",
+      "options": [
+        "Splash water in the pot",
+        "Drop a small piece of onion or bread in it",
+        "Use your wet finger",
+        "Taste the oil"
+      ],
+      "correctIndex": 1,
+      "explanation": "A food drop sizzling shows the oil is ready without risk.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-S-007",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why should cooked food not sit at room temperature for long?",
+      "options": [
+        "It tastes better cold",
+        "Flies will not touch it",
+        "Bacteria multiply rapidly in the danger zone",
+        "It saves electricity"
+      ],
+      "correctIndex": 2,
+      "explanation": "Between 5 and 60 degrees, bacteria multiply quickly.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-S-008",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "What is the function of a marinade in cooking?",
+      "options": [
+        "To preserve meat for years",
+        "To cool the kitchen",
+        "To thicken sauces",
+        "To tenderise and flavour meat before cooking"
+      ],
+      "correctIndex": 3,
+      "explanation": "Acid and spices in marinades tenderise meat and add flavour.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-G-001",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Why does adding a pinch of salt to boiling pasta improve it?",
+      "options": [
+        "It seasons the pasta from inside",
+        "It makes pasta cook faster",
+        "It prevents sticking entirely",
+        "It adds calories"
+      ],
+      "correctIndex": 0,
+      "explanation": "Salt in the water seasons pasta throughout, not just on top.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-G-002",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "A pot of soup must serve 12 people but only feeds 8. How do you scale the recipe?",
+      "options": [
+        "Double every ingredient",
+        "Multiply each ingredient by 1.5",
+        "Add more water only",
+        "Add more salt only"
+      ],
+      "correctIndex": 1,
+      "explanation": "12 divided by 8 equals 1.5, so scale everything by half again.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-G-003",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Why must a chip pan never be left alone?",
+      "options": [
+        "It cools too fast",
+        "It soaks up water",
+        "Overheated oil can burst into flames",
+        "It turns green"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chip pan fires ignite without warning once oil overheats.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-G-004",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "How can a cook avoid spreading germs from raw chicken to salad?",
+      "options": [
+        "Use one board for everything",
+        "Rinse chicken in the salad bowl",
+        "Chop chicken last without washing",
+        "Use separate boards and wash hands between"
+      ],
+      "correctIndex": 3,
+      "explanation": "Separate boards and handwashing stop salmonella reaching salad.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-G-005",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Why might a cake fail to rise even with fresh yeast?",
+      "options": [
+        "Yeast needs warmth and moisture to activate",
+        "Yeast needs direct sunlight",
+        "Yeast only works at night",
+        "Yeast works better in cold water"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yeast is a living organism needing warmth, moisture and sugar.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-G-006",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "What is the science behind resting meat after cooking?",
+      "options": [
+        "It makes the meat cooler to touch only",
+        "Juices redistribute, keeping the meat moist",
+        "It kills leftover bacteria",
+        "It improves the colour"
+      ],
+      "correctIndex": 1,
+      "explanation": "Resting lets muscle fibres relax and reabsorb juices.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-G-007",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Why should we use low heat for custard or milk sauces?",
+      "options": [
+        "Low heat saves more energy",
+        "High heat burns the sugar",
+        "High heat curdles the milk proteins",
+        "Low heat keeps it whiter"
+      ],
+      "correctIndex": 2,
+      "explanation": "Milk proteins clump and curdle under sudden high heat.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-HEC-COO-G-008",
+      "band": "10-12",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "How does steaming keep more nutrients than boiling?",
+      "options": [
+        "Steaming adds vitamins",
+        "Boiling removes fibre",
+        "Steaming uses plastic",
+        "Vitamins dissolve in water and are drained away"
+      ],
+      "correctIndex": 3,
+      "explanation": "Water-soluble vitamins leach into boiling water and are poured away.",
+      "curriculumRef": "NERDC Primary 5 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

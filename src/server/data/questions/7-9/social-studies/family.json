@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "social-studies",
+  "topic": "family",
+  "title": "Family forest",
+  "questions": [
+    {
+      "code": "7-SOC-FAM-B-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Who takes care of the children at home?",
+      "options": [
+        "The parents",
+        "The neighbours",
+        "The shopkeeper",
+        "The driver"
+      ],
+      "correctIndex": 0,
+      "explanation": "Parents love and care for their children at home.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-B-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "What should children do to help at home?",
+      "options": [
+        "Break plates",
+        "Tidy their rooms",
+        "Ignore chores",
+        "Fight"
+      ],
+      "correctIndex": 1,
+      "explanation": "Helping with chores builds good character.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-B-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "What is the duty of an elder brother?",
+      "options": [
+        "To boss everyone about",
+        "To play all day",
+        "To guide his younger ones",
+        "To stay quiet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elder brothers protect and guide their younger siblings.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-B-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Why do families pray?",
+      "options": [
+        "To win prizes",
+        "To rush bedtime",
+        "No reason",
+        "To grow closer to God"
+      ],
+      "correctIndex": 3,
+      "explanation": "Family prayer strengthens love and faith.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-B-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Who heads a single parent home?",
+      "options": [
+        "One parent only",
+        "Both parents",
+        "Grandparents only",
+        "No one"
+      ],
+      "correctIndex": 0,
+      "explanation": "A single-parent home has one parent caring for the children.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-B-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "How do parents provide for us?",
+      "options": [
+        "By wishing",
+        "By working to earn money",
+        "By borrowing always",
+        "By begging"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parents work hard to feed, clothe and train us.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-B-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Who belongs to a big family?",
+      "options": [
+        "Only parents",
+        "Only children",
+        "Uncles, aunts and cousins",
+        "No one"
+      ],
+      "correctIndex": 2,
+      "explanation": "Extended family includes uncles, aunts and grandparents.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-B-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "What are chores?",
+      "options": [
+        "Exams",
+        "Games",
+        "Holidays",
+        "Small jobs at home"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chores are small duties like sweeping and washing dishes.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-S-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "How are good values learnt?",
+      "options": [
+        "By copying parents",
+        "By watching TV only",
+        "By keeping quiet",
+        "By fighting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Children learn manners and values by copying their parents.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-S-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "Why respect our parents?",
+      "options": [
+        "They are bossy",
+        "They care for us",
+        "They own us",
+        "For their money"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parents deserve respect for their sacrifices.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-S-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "Why settle home quarrels?",
+      "options": [
+        "Quarrels are fun",
+        "Quarrels bring gifts",
+        "Quarrels divide the home",
+        "No reason"
+      ],
+      "correctIndex": 2,
+      "explanation": "Quick settlement keeps the family peaceful.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-S-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "What is the role of grandparents?",
+      "options": [
+        "To cook only",
+        "To travel abroad",
+        "To stay away",
+        "To guide and share wisdom"
+      ],
+      "correctIndex": 3,
+      "explanation": "Grandparents teach culture, history and wise counsel.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-S-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "How can families spend time?",
+      "options": [
+        "Eating and talking together",
+        "Sleeping apart",
+        "Watching screens only",
+        "Fighting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shared meals and stories strengthen family bonds.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-S-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "Why do homes plan spending?",
+      "options": [
+        "To flash wealth",
+        "To avoid debt",
+        "To please neighbours",
+        "No reason"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning spending stops waste and debt.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-S-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "What is the danger of broken homes?",
+      "options": [
+        "Houses collapse",
+        "Food spoils",
+        "Children may lack care",
+        "Schools close"
+      ],
+      "correctIndex": 2,
+      "explanation": "Children from broken homes often need extra support.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-S-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "How should siblings act?",
+      "options": [
+        "With jealousy",
+        "With violence",
+        "With mockery",
+        "With love and patience"
+      ],
+      "correctIndex": 3,
+      "explanation": "Siblings must love, share and forgive each other.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-G-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "Why is the family called the first school?",
+      "options": [
+        "It teaches a child first",
+        "It has classrooms",
+        "It gives homework",
+        "It is near school"
+      ],
+      "correctIndex": 0,
+      "explanation": "The family teaches values before any school does.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-G-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "How does lack of money affect homes?",
+      "options": [
+        "Houses grow bigger",
+        "Children may miss school",
+        "Food tastes better",
+        "It brings joy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Poor homes may struggle to feed and school children.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-G-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "Why do some children live with aunties?",
+      "options": [
+        "For fun only",
+        "To avoid chores",
+        "Parents may be away or passed on",
+        "By accident"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kinship care is a Nigerian tradition of support.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-G-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "What is the duty of parents to children?",
+      "options": [
+        "To farm only",
+        "To travel abroad",
+        "To sell the home",
+        "To feed, train and protect"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigerian law expects parents to care for their children.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-G-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "How do we settle home disputes?",
+      "options": [
+        "By talking and forgiving",
+        "By shouting",
+        "By hiding",
+        "By fighting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Calm talk and forgiveness heal broken hearts.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-G-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "Why do foster homes matter?",
+      "options": [
+        "For praise",
+        "They shelter children in need",
+        "They must",
+        "No reason"
+      ],
+      "correctIndex": 1,
+      "explanation": "Foster parents sacrifice much to raise other children.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-G-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "What is loyalty at home?",
+      "options": [
+        "Betraying secrets",
+        "Ignoring relatives",
+        "Standing by your family",
+        "Chasing money"
+      ],
+      "correctIndex": 2,
+      "explanation": "Loyalty means supporting family members in all seasons.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-FAM-G-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "How do good homes shape society?",
+      "options": [
+        "Society gets worse",
+        "No effect",
+        "Houses improve",
+        "Children grow into good citizens"
+      ],
+      "correctIndex": 3,
+      "explanation": "Strong families build strong, honest nations.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

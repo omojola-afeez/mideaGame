@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "home-economics",
+  "topic": "nutrition",
+  "title": "Food field",
+  "questions": [
+    {
+      "code": "7-HEC-NUT-B-001",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which food group do beans belong to?",
+      "options": [
+        "Protein foods",
+        "Starchy foods",
+        "Fats and oils",
+        "Sugary foods"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beans are rich in protein, which builds our body.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-B-002",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which of these is rich in vitamin C?",
+      "options": [
+        "Rice",
+        "Oranges",
+        "Yam",
+        "Bread"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oranges are a good source of vitamin C.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-B-003",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "What do yam and rice give us?",
+      "options": [
+        "Vitamins only",
+        "Iron only",
+        "Energy to play and learn",
+        "Calcium only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yam and rice are starchy foods that give energy.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-B-004",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "How many food groups are there?",
+      "options": [
+        "One group",
+        "Two groups",
+        "Ten groups",
+        "Three basic groups"
+      ],
+      "correctIndex": 3,
+      "explanation": "Body-building, energy-giving and protective foods are the three groups.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-B-005",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which food keeps us from falling sick?",
+      "options": [
+        "Fruits and vegetables",
+        "Sugar and salt",
+        "Oil and butter",
+        "Sweets and biscuits"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fruits and vegetables protect our bodies from illness.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-B-006",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Why should we not eat too much sugar?",
+      "options": [
+        "It makes us tall",
+        "It rots our teeth",
+        "It helps us run",
+        "It builds muscles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Too much sugar causes tooth decay and weight gain.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-B-007",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which drink is best for us?",
+      "options": [
+        "Fizzy drinks",
+        "Palm wine",
+        "Water",
+        "Beer"
+      ],
+      "correctIndex": 2,
+      "explanation": "Water is the best and cheapest drink for our bodies.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-B-008",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "What does milk do for us?",
+      "options": [
+        "Makes us sleepy",
+        "Gives us sugar",
+        "Makes us cough",
+        "Makes bones and teeth strong"
+      ],
+      "correctIndex": 3,
+      "explanation": "Milk has calcium for strong bones and teeth.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-S-001",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Why should we eat a balanced diet?",
+      "options": [
+        "To get all nutrients",
+        "To look rich",
+        "To eat less",
+        "To save money"
+      ],
+      "correctIndex": 0,
+      "explanation": "A balanced diet gives the body every nutrient it needs.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-S-002",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Which meal gives us the best start to the day?",
+      "options": [
+        "Lunch",
+        "Breakfast",
+        "Dinner",
+        "Supper"
+      ],
+      "correctIndex": 1,
+      "explanation": "Breakfast gives us energy and focus for the day.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-S-003",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Why is fish a good food for children?",
+      "options": [
+        "It is sweet",
+        "It is cheap only",
+        "It has protein for growth",
+        "It fills the tummy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fish protein helps children grow and stay strong.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-S-004",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "What happens when we skip meals often?",
+      "options": [
+        "We gain weight",
+        "We grow faster",
+        "We become stronger",
+        "We become weak and tired"
+      ],
+      "correctIndex": 3,
+      "explanation": "Skipping meals deprives the body of energy and nutrients.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-S-005",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Which is a better snack than sweets?",
+      "options": [
+        "Groundnuts",
+        "Cake",
+        "Chocolate",
+        "Biscuits"
+      ],
+      "correctIndex": 0,
+      "explanation": "Groundnuts give protein instead of empty sugar.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-S-006",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Why should we eat fruits instead of drinking juice?",
+      "options": [
+        "Juice is too cheap",
+        "Fruits have more fibre",
+        "Juice is too salty",
+        "Fruits have no taste"
+      ],
+      "correctIndex": 1,
+      "explanation": "Whole fruits give fibre and less sugar than juice.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-S-007",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "How does fixed meal time help us?",
+      "options": [
+        "It makes us sleepy",
+        "It saves water",
+        "It keeps our energy steady",
+        "It improves taste"
+      ],
+      "correctIndex": 2,
+      "explanation": "Regular meals keep our blood sugar steady and mood good.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-S-008",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Why do we need iron in our diet?",
+      "options": [
+        "It makes bones white",
+        "It helps us sleep",
+        "It cleans our skin",
+        "It builds healthy blood"
+      ],
+      "correctIndex": 3,
+      "explanation": "Iron helps the body make blood and stops weakness.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-G-001",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Your friend eats only noodles daily. What is wrong?",
+      "options": [
+        "Noodles alone cannot supply all nutrients",
+        "Noodles are too expensive",
+        "Noodles make people cough",
+        "Noodles must be eaten at night"
+      ],
+      "correctIndex": 0,
+      "explanation": "A single food cannot supply every nutrient the body needs.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-G-002",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Why are local foods like beans and yam a good choice?",
+      "options": [
+        "They look nice",
+        "They are cheap and nutritious",
+        "They are imported",
+        "They never spoil"
+      ],
+      "correctIndex": 1,
+      "explanation": "Local foods are affordable and full of good nutrients.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-G-003",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "A child is always tired and pale. Which food may help?",
+      "options": [
+        "Sugar for energy",
+        "Water for thirst",
+        "Beans and meat for iron",
+        "Salt for taste"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tiredness and paleness can be signs of low iron.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-G-004",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Why should children drink milk or eat fish daily?",
+      "options": [
+        "For shiny hair only",
+        "To sleep longer",
+        "To talk more",
+        "For strong bones, teeth and growth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Milk and fish supply calcium and protein for growing bodies.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-G-005",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "How can a home eat well on a small budget?",
+      "options": [
+        "Buy beans, vegetables and seasonal fruits",
+        "Buy sweets and drinks",
+        "Buy only imported food",
+        "Skip breakfast daily"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beans and seasonal produce give nutrients at low cost.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-G-006",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Why is water better than soft drinks?",
+      "options": [
+        "It tastes sweeter",
+        "It hydrates without sugar",
+        "It is colder",
+        "It has more gas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Water rehydrates the body with no sugar or additives.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-G-007",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "What may happen if a child never eats greens?",
+      "options": [
+        "The child will grow faster",
+        "The child will sleep more",
+        "The child may fall sick often",
+        "Nothing at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "Greens supply vitamins and fibre that protect health.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-NUT-G-008",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "A woman is pregnant. Which nutrient does she need more of?",
+      "options": [
+        "Only sugar",
+        "Only salt",
+        "Only fat",
+        "Folic acid and iron"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pregnant women need extra iron and folate for the baby.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

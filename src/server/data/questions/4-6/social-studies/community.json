@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "social-studies",
+  "topic": "community",
+  "title": "Community coast",
+  "questions": [
+    {
+      "code": "4-SOC-COM-B-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "Where do we buy food?",
+      "options": [
+        "At the market",
+        "At school",
+        "At the library",
+        "On the road"
+      ],
+      "correctIndex": 0,
+      "explanation": "Markets sell food and goods in Nigeria.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-B-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "Who sells food in the market?",
+      "options": [
+        "A nurse",
+        "A trader",
+        "A pilot",
+        "A teacher"
+      ],
+      "correctIndex": 1,
+      "explanation": "Traders sell food at the market.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-B-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What do we call a place where people live?",
+      "options": [
+        "A bedroom",
+        "A basket",
+        "A community",
+        "A river"
+      ],
+      "correctIndex": 2,
+      "explanation": "People who live together form a community.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-B-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "Who puts out fires?",
+      "options": [
+        "Teachers",
+        "Nurses",
+        "Drivers",
+        "Firefighters"
+      ],
+      "correctIndex": 3,
+      "explanation": "Firefighters put out fires and save lives.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-B-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What do we use to travel?",
+      "options": [
+        "Cars and buses",
+        "Spoons",
+        "Chairs",
+        "Books"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cars and buses help us travel around.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-B-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "Who treats sick people?",
+      "options": [
+        "A farmer",
+        "A doctor",
+        "A tailor",
+        "A barber"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doctors and nurses help sick people get well.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-B-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What is a road used for?",
+      "options": [
+        "For sleeping",
+        "For cooking",
+        "For travelling",
+        "For swimming"
+      ],
+      "correctIndex": 2,
+      "explanation": "Roads help people and cars move around.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-B-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "Who keeps the market clean?",
+      "options": [
+        "Nobody",
+        "Visitors only",
+        "The rain",
+        "Market cleaners"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cleaners keep our markets safe and tidy.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-S-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Where do we buy fresh fish?",
+      "options": [
+        "At the market",
+        "At the library",
+        "At the bank",
+        "At the clinic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fresh fish is sold in our markets.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-S-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "What does a nurse do?",
+      "options": [
+        "Builds houses",
+        "Cares for sick people",
+        "Sings songs",
+        "Sells shoes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nurses help doctors care for patients.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-S-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Why do we have traffic lights?",
+      "options": [
+        "To make noise",
+        "To save light",
+        "To control cars safely",
+        "To guide birds"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traffic lights stop crashes and keep roads safe.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-S-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Who mends a burst pipe?",
+      "options": [
+        "A teacher",
+        "A farmer",
+        "A nurse",
+        "A plumber"
+      ],
+      "correctIndex": 3,
+      "explanation": "Plumbers fix burst pipes and taps.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-S-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Where do we go for lessons?",
+      "options": [
+        "School",
+        "Market",
+        "Hospital",
+        "Bank"
+      ],
+      "correctIndex": 0,
+      "explanation": "Schools teach children reading and maths.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-S-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "What is a market for?",
+      "options": [
+        "Sleeping",
+        "Buying and selling",
+        "Bathing",
+        "Dancing"
+      ],
+      "correctIndex": 1,
+      "explanation": "A market is where people buy and sell goods.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-S-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Why do we need a hospital?",
+      "options": [
+        "To buy food",
+        "To watch films",
+        "To treat sick people",
+        "To play games"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hospitals give care to people who are ill.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-S-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "How does a trader help us?",
+      "options": [
+        "By shouting at us",
+        "By closing shop",
+        "By sleeping",
+        "By selling goods"
+      ],
+      "correctIndex": 3,
+      "explanation": "Traders sell the things we need each day.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-G-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "Why should we keep our town clean?",
+      "options": [
+        "To stop disease",
+        "To win prizes",
+        "To please visitors",
+        "No reason"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clean towns stop germs and keep people healthy.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-G-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "How can we help our neighbours?",
+      "options": [
+        "By fighting",
+        "By offering our hands",
+        "By stealing",
+        "By ignoring them"
+      ],
+      "correctIndex": 1,
+      "explanation": "Good neighbours help each other in times of need.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-G-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "What makes a good leader?",
+      "options": [
+        "A loud voice",
+        "A big car",
+        "Honesty and fairness",
+        "Fine clothes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Good leaders are honest and treat all fairly.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-G-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "Why do we obey the law?",
+      "options": [
+        "To avoid work",
+        "For prizes",
+        "To impress",
+        "To keep everyone safe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Laws keep order and protect everyone.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-G-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "What is the work of a post office?",
+      "options": [
+        "Delivering letters",
+        "Selling bread",
+        "Fixing cars",
+        "Teaching pupils"
+      ],
+      "correctIndex": 0,
+      "explanation": "The post office moves letters across the country.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-G-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "How do good roads help us?",
+      "options": [
+        "They store rain",
+        "They ease travel and trade",
+        "They stop trade",
+        "They block travel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Good roads link markets and help trade.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-G-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "Why must our traders be truthful?",
+      "options": [
+        "So they cheat",
+        "So they get rich quick",
+        "So buyers trust them",
+        "No real reason"
+      ],
+      "correctIndex": 2,
+      "explanation": "Honest traders build trust with their buyers.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-COM-G-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "What does a clean town give us?",
+      "options": [
+        "Dirt and sickness",
+        "Loud noise",
+        "Broken roads",
+        "Health and joy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clean places keep people strong and happy.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

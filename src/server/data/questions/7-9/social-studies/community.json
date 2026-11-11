@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "social-studies",
+  "topic": "community",
+  "title": "Community coast",
+  "questions": [
+    {
+      "code": "7-SOC-COM-B-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "Where do farmers sell their yams?",
+      "options": [
+        "At the market",
+        "At the library",
+        "At the clinic",
+        "At the mosque"
+      ],
+      "correctIndex": 0,
+      "explanation": "The market is where farm goods are sold.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-B-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "Who cleans the streets in a town?",
+      "options": [
+        "Only the president",
+        "The sanitation workers",
+        "Nobody",
+        "Visitors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sanitation workers keep our streets clean.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-B-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What does a bank do?",
+      "options": [
+        "Sells food",
+        "Tells stories",
+        "Keeps money safe",
+        "Repairs cars"
+      ],
+      "correctIndex": 2,
+      "explanation": "Banks keep money safe and lend to businesses.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-B-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What is a neighbour?",
+      "options": [
+        "A stranger in another country",
+        "A shop in town",
+        "A river",
+        "Someone living near you"
+      ],
+      "correctIndex": 3,
+      "explanation": "Neighbours are the people who live close to us.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-B-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "How many states do we have?",
+      "options": [
+        "Thirty-six states and the FCT",
+        "Ten states",
+        "Twenty states",
+        "One hundred states"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria has thirty-six states and the FCT, Abuja.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-B-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What does a fireman do?",
+      "options": [
+        "Polices traffic",
+        "Puts out fires",
+        "Teaches pupils",
+        "Builds roads"
+      ],
+      "correctIndex": 1,
+      "explanation": "Firefighters rescue people from burning buildings.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-B-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What is the main market in Lagos?",
+      "options": [
+        "Onitsha market",
+        "Kano market",
+        "Balogun market",
+        "Aba market"
+      ],
+      "correctIndex": 2,
+      "explanation": "Balogun market is a famous Lagos trading hub.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-B-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What does a librarian do?",
+      "options": [
+        "Sells medicine",
+        "Drives buses",
+        "Cooks meals",
+        "Manages the library"
+      ],
+      "correctIndex": 3,
+      "explanation": "Librarians help people find books to read.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-S-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Why are markets vital to a town?",
+      "options": [
+        "They link buyers and sellers",
+        "They waste money",
+        "They cause fights",
+        "They close schools"
+      ],
+      "correctIndex": 0,
+      "explanation": "Markets connect farmers and traders with buyers.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-S-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "What does the council do?",
+      "options": [
+        "Makes national laws",
+        "Manages local roads and markets",
+        "Prints money",
+        "Runs the navy"
+      ],
+      "correctIndex": 1,
+      "explanation": "The local council runs markets, roads and refuse.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-S-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Why do we have a fire service?",
+      "options": [
+        "To entertain",
+        "To sell water",
+        "To fight fires and save lives",
+        "To guard banks"
+      ],
+      "correctIndex": 2,
+      "explanation": "The fire service responds to fire outbreaks quickly.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-S-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "What is one job of the council?",
+      "options": [
+        "Minting money",
+        "Running airports",
+        "Judging cases",
+        "Collecting refuse"
+      ],
+      "correctIndex": 3,
+      "explanation": "The local council handles refuse and local roads.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-S-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Why should we obey traffic rules?",
+      "options": [
+        "To stop accidents",
+        "To impress police",
+        "To drive fast",
+        "To save fuel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Traffic rules keep road users safe.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-S-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "How can young people improve their town?",
+      "options": [
+        "Complaining only",
+        "Volunteering and cleaning",
+        "Breaking benches",
+        "Dropping dirt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voluntary work makes communities better.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-S-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "What does a town crier do?",
+      "options": [
+        "Sells clothes",
+        "Heals the sick",
+        "Spreads news to villagers",
+        "Builds houses"
+      ],
+      "correctIndex": 2,
+      "explanation": "The town crier used to announce news and meetings.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-S-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Why do towns hold market days?",
+      "options": [
+        "To play music",
+        "To rest",
+        "To close shops",
+        "To gather traders and buyers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Market days bring trade and social life together.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-G-001",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "How does city growth affect housing?",
+      "options": [
+        "Demand rises and rents climb",
+        "Rents fall always",
+        "No change",
+        "Houses disappear"
+      ],
+      "correctIndex": 0,
+      "explanation": "More people in cities means fewer affordable homes.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-G-002",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "Why do we join town meetings?",
+      "options": [
+        "To sell goods",
+        "To air our views",
+        "To eat free food",
+        "To sleep"
+      ],
+      "correctIndex": 1,
+      "explanation": "Town meetings let citizens voice concerns and ideas.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-G-003",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "Why is open waste dumping bad?",
+      "options": [
+        "It saves money",
+        "It smells nice",
+        "It spreads diseases",
+        "It helps farms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Waste in the open spreads cholera and typhoid.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-G-004",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "How do local banks help traders?",
+      "options": [
+        "They close shops",
+        "They raise prices",
+        "They ban trade",
+        "They give small loans"
+      ],
+      "correctIndex": 3,
+      "explanation": "Small loans let traders buy more stock.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-G-005",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "Why is clean water vital?",
+      "options": [
+        "It prevents waterborne diseases",
+        "It tastes sweet only",
+        "It fills rivers",
+        "No real reason"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clean water stops cholera and diarrhoea.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-G-006",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "What can a youth corps member do?",
+      "options": [
+        "Avoid all duty",
+        "Teach in rural schools",
+        "Fight in wars",
+        "Sell drugs"
+      ],
+      "correctIndex": 1,
+      "explanation": "NYSC members serve communities in health and education.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-G-007",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "How do farmer groups help?",
+      "options": [
+        "They fix prices high",
+        "They quarrel",
+        "They pool resources for bulk buying",
+        "They do nothing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cooperatives let farmers buy and sell together.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-SOC-COM-G-008",
+      "band": "7-9",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "Why is waste recycling good?",
+      "options": [
+        "It costs less never",
+        "It creates jobs only",
+        "It has no use",
+        "It reduces rubbish and pollution"
+      ],
+      "correctIndex": 3,
+      "explanation": "Recycling turns waste into useful products.",
+      "curriculumRef": "NERDC Primary 3 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

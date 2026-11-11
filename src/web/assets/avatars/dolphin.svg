@@ -1,0 +1,7 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dolphin">
+  <path d="M8 58 C 22 22, 72 18, 92 56 C 74 55, 62 62, 48 74 C 33 68, 20 66, 8 58 Z" fill="#8FB6D9"/>
+  <path d="M18 60 C 31 59, 44 64, 52 72 C 40 75, 26 70, 18 60 Z" fill="#CFE6F5"/>
+  <path d="M47 29 Q 52 14 62 20 Q 55 25 52 33 Z" fill="#5B84A6"/>
+  <circle cx="25" cy="51" r="2.7" fill="#1a1a1a"/>
+  <path d="M17 56 Q 23 60 30 58" stroke="#1a1a1a" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+</svg>

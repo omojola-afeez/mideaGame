@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "english",
+  "topic": "writing",
+  "title": "Story studio",
+  "questions": [
+    {
+      "code": "7-ENG-WRI-B-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which order is right?",
+      "options": [
+        "The goat eats grass.",
+        "Goat the eats grass.",
+        "Grass the eats goat.",
+        "Eats grass goat the."
+      ],
+      "correctIndex": 0,
+      "explanation": "A sentence starts with a capital letter.",
+      "curriculumRef": "NERDC Primary 3 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-B-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which order works?",
+      "options": [
+        "Father my strong is.",
+        "My father is strong.",
+        "Is strong father my.",
+        "Strong my father is."
+      ],
+      "correctIndex": 1,
+      "explanation": "Start with the naming part.",
+      "curriculumRef": "NERDC Primary 3 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-B-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which group of words is a question?",
+      "options": [
+        "The market is big.",
+        "The market",
+        "Where is the market?",
+        "Is big the market."
+      ],
+      "correctIndex": 2,
+      "explanation": "A question asks and ends with a question mark.",
+      "curriculumRef": "NERDC Primary 3 English, writing: questions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-B-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which group of words is a command?",
+      "options": [
+        "The door is shut.",
+        "Where is the door?",
+        "The door.",
+        "Shut the door."
+      ],
+      "correctIndex": 3,
+      "explanation": "A command tells someone to act.",
+      "curriculumRef": "NERDC Primary 3 English, writing: sentence types",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-B-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which sentence fits a boy and a ball?",
+      "options": [
+        "The boy kicks the ball.",
+        "The girl reads a book.",
+        "The goat eats grass.",
+        "The sun is hot."
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence names the boy and the ball.",
+      "curriculumRef": "NERDC Primary 3 English, writing: sentences",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-B-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Put in order: play we football",
+      "options": [
+        "Play we football.",
+        "We play football.",
+        "Football we play.",
+        "We football play."
+      ],
+      "correctIndex": 1,
+      "explanation": "The naming word comes first.",
+      "curriculumRef": "NERDC Primary 3 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-B-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which group of words is a statement?",
+      "options": [
+        "I like rice and beans",
+        "Like I rice and beans.",
+        "I like rice and beans.",
+        "And I rice beans like."
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary 3 English, writing: sentence types",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-B-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which shows strong feeling?",
+      "options": [
+        "What a goal.",
+        "What a goal?",
+        "What a goal,",
+        "What a goal!"
+      ],
+      "correctIndex": 3,
+      "explanation": "An exclamation shows strong feeling.",
+      "curriculumRef": "NERDC Primary 3 English, writing: sentence types",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-S-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Fix: ran fast I",
+      "options": [
+        "I ran fast.",
+        "Ran fast I.",
+        "Fast I ran.",
+        "I fast ran."
+      ],
+      "correctIndex": 0,
+      "explanation": "A sentence starts with a capital letter.",
+      "curriculumRef": "NERDC Primary 3 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-S-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Join the two ideas: It rained. We stayed indoors.",
+      "options": [
+        "It rained and indoors we.",
+        "It rained, so we stayed indoors.",
+        "So we stayed it rained, we.",
+        "We rained, so it indoors stayed."
+      ],
+      "correctIndex": 1,
+      "explanation": "So joins a cause and its effect.",
+      "curriculumRef": "NERDC Primary 3 English, writing: joining words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-S-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Join the two ideas: He was hungry. He ate the food.",
+      "options": [
+        "He ate hungry, so he was food.",
+        "Hungry he was the food ate.",
+        "He was hungry, so he ate the food.",
+        "So he was hungry and ate indoors."
+      ],
+      "correctIndex": 2,
+      "explanation": "So joins cause and effect.",
+      "curriculumRef": "NERDC Primary 3 English, writing: joining words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-S-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Which sentence shows a question?",
+      "options": [
+        "I am fine today.",
+        "You are a girl.",
+        "It is sunny out.",
+        "How are you today?"
+      ],
+      "correctIndex": 3,
+      "explanation": "A question asks something and ends with a question mark.",
+      "curriculumRef": "NERDC Primary 3 English, writing: questions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-S-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Which sentence is polite?",
+      "options": [
+        "Please help me with my bag.",
+        "Help me now.",
+        "Give me that bag.",
+        "I want the bag now."
+      ],
+      "correctIndex": 0,
+      "explanation": "Please makes a request polite.",
+      "curriculumRef": "NERDC Primary 3 English, writing: polite speech",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-S-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Fix the order: to the farm went we early",
+      "options": [
+        "Went we to the farm early.",
+        "We went to the farm early.",
+        "To the farm we early went.",
+        "Early to the farm we went to."
+      ],
+      "correctIndex": 1,
+      "explanation": "A sentence starts with a capital letter.",
+      "curriculumRef": "NERDC Primary 3 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-S-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Which sentence is about the future?",
+      "options": [
+        "We visited Kano last week.",
+        "We visit Kano every week.",
+        "We will visit Kano next week.",
+        "We are visiting Kano now."
+      ],
+      "correctIndex": 2,
+      "explanation": "Will shows the future.",
+      "curriculumRef": "NERDC Primary 3 English, writing: tenses in writing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-S-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Which sentence is a question?",
+      "options": [
+        "The hospital is near.",
+        "Near the hospital.",
+        "Is near the hospital.",
+        "Where is the nearest hospital?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Where is asks a question.",
+      "curriculumRef": "NERDC Primary 3 English, writing: questions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-G-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Join the two ideas: It was hot. We drank water.",
+      "options": [
+        "It was hot, so we drank water.",
+        "It was hot but we drank water.",
+        "We drank water, so it was hot.",
+        "Hot it was, but water we drank."
+      ],
+      "correctIndex": 0,
+      "explanation": "So joins cause and effect.",
+      "curriculumRef": "NERDC Primary 3 English, writing: joining words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-G-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Join with because: He shouted. The crowd clapped.",
+      "options": [
+        "Because he shouted clapped the crowd.",
+        "The crowd clapped because he shouted.",
+        "He shouted because the crowd clapped.",
+        "Clapped the crowd because shouted he."
+      ],
+      "correctIndex": 1,
+      "explanation": "Because gives the reason something happened.",
+      "curriculumRef": "NERDC Primary 3 English, writing: joining words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-G-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Which order makes a good paragraph?",
+      "options": [
+        "Farmers smiled. Rain fell. The ground.",
+        "The ground got wet. Rain. Farmers smiled.",
+        "Rain fell. The ground got wet. Farmers smiled.",
+        "Rain fell smile."
+      ],
+      "correctIndex": 2,
+      "explanation": "A good paragraph flows in order.",
+      "curriculumRef": "NERDC Primary 3 English, writing: paragraphs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-G-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Which opens a letter to a friend?",
+      "options": [
+        "Dear Sir, I am writing to apply.",
+        "Dear Bola, see you well.",
+        "Dear friends how are you?",
+        "Dear Bola, how are you?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dear names the friend. How are you is friendly.",
+      "curriculumRef": "NERDC Primary 3 English, writing: letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-G-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Which sentence is a fact?",
+      "options": [
+        "Nigeria is in West Africa.",
+        "I think rice is tasty.",
+        "My favourite fruit is mango.",
+        "The sky is beautiful today."
+      ],
+      "correctIndex": 0,
+      "explanation": "A fact can be proved true.",
+      "curriculumRef": "NERDC Primary 3 English, writing: facts and opinions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-G-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Which tells what you think?",
+      "options": [
+        "Yam porridge has yams.",
+        "Yam porridge is the best meal.",
+        "Yam porridge is cooked in pots.",
+        "Yam porridge is eaten at noon."
+      ],
+      "correctIndex": 1,
+      "explanation": "An opinion cannot be proved right or wrong.",
+      "curriculumRef": "NERDC Primary 3 English, writing: facts and opinions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-G-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Fix the order: crowded was market the",
+      "options": [
+        "The market crowded was.",
+        "Market the was crowded.",
+        "The market was crowded.",
+        "Crowded was the market."
+      ],
+      "correctIndex": 2,
+      "explanation": "A sentence starts with a capital letter.",
+      "curriculumRef": "NERDC Primary 3 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-WRI-G-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Fix the order: people mosque the prayed at",
+      "options": [
+        "Went people to the mosque for prayers.",
+        "For prayers people went the to mosque.",
+        "To the mosque for prayers went people.",
+        "People prayed at the mosque."
+      ],
+      "correctIndex": 3,
+      "explanation": "A sentence starts with a capital letter.",
+      "curriculumRef": "NERDC Primary 3 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

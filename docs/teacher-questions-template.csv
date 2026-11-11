@@ -1,2 +1,5 @@
-code,subject,topic,level,text,options,correctIndex,explanation,curriculumRef,author,reviewer,status,hint,passage
-ENG-COM-B-001,english,comprehension,bronze,Who found the book?,Ada|The rain|The door|The road,1,Ada found it under the bed.,NERDC Primary 4 English, Teacher A, Mrs Bello,draft,,Who found the book under the bed?
+code,band,subject,topic,level,text,options,correctIndex,explanation,curriculumRef,author,reviewer,status,hint,passage
+10-ENG-COM-B-001,10-12,english,comprehension,bronze,"Who found the book?","Ada|The rain|The door|The road",1,"Ada found it under the bed.","NERDC Primary 5 English, comprehension",Teacher A,,draft,,
+10-ENG-COM-B-002,10-12,english,comprehension,bronze,"Where did Ada find the book?","In the kitchen|Under the bed|On the desk|By the door",1,"The book was found under the bed.","NERDC Primary 5 English, comprehension",Teacher A,,draft,,
+7-ENG-GRA-B-001,7-9,english,grammar,bronze,"Pick the noun.","run|dog|quickly|blue",1,"Dog names a thing, so it is a noun.","NERDC Primary 3 English, nouns",Teacher A,,draft,,
+4-MAT-NUM-B-001,4-6,mathematics,number,bronze,"What is 2 plus 3?","4|5|6|3",1,"Two and three make five.","NERDC Primary 1 Mathematics, addition",Teacher A,,draft,,

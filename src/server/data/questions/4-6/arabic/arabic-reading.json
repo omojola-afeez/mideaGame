@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "arabic",
+  "topic": "arabic-reading",
+  "title": "Read reef",
+  "questions": [
+    {
+      "code": "4-ARB-RED-B-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: ب. What is the letter?",
+      "options": [
+        "Ba",
+        "Ta",
+        "Tha",
+        "Jeem"
+      ],
+      "correctIndex": 0,
+      "explanation": "ب is the letter ba.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-B-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: ا. What is the letter?",
+      "options": [
+        "Waw",
+        "Alif",
+        "Ya",
+        "Lam"
+      ],
+      "correctIndex": 1,
+      "explanation": "ا is the letter alif.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-B-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: م. What is the letter?",
+      "options": [
+        "Noon",
+        "Ra",
+        "Meem",
+        "Ha"
+      ],
+      "correctIndex": 2,
+      "explanation": "م is the letter meem.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-B-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: ت. What is the letter?",
+      "options": [
+        "Ba",
+        "Tha",
+        "Dal",
+        "Ta"
+      ],
+      "correctIndex": 3,
+      "explanation": "ت is the letter ta.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-B-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Read: ل. What is the letter?",
+      "options": [
+        "Lam",
+        "Alif",
+        "Ra",
+        "Kaf"
+      ],
+      "correctIndex": 0,
+      "explanation": "ل is the letter lam.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-B-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Which one says ba?",
+      "options": [
+        "ت",
+        "ب",
+        "ج",
+        "ن"
+      ],
+      "correctIndex": 1,
+      "explanation": "ب is ba with one dot below.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-B-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Which one says alif?",
+      "options": [
+        "و",
+        "ي",
+        "ا",
+        "ر"
+      ],
+      "correctIndex": 2,
+      "explanation": "ا is alif, the first letter.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-B-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "bronze",
+      "text": "Which one says meem?",
+      "options": [
+        "ن",
+        "و",
+        "ل",
+        "م"
+      ],
+      "correctIndex": 3,
+      "explanation": "م is the letter meem.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-S-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: بيت. What does it mean?",
+      "options": [
+        "House",
+        "Book",
+        "Dog",
+        "Water"
+      ],
+      "correctIndex": 0,
+      "explanation": "بيت (bayt) means house.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-S-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: ماء. What does it mean?",
+      "options": [
+        "Sun",
+        "Water",
+        "Moon",
+        "Bread"
+      ],
+      "correctIndex": 1,
+      "explanation": "ماء (ma) means water.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-S-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: قلم. What does it mean?",
+      "options": [
+        "Book",
+        "Chair",
+        "Pen",
+        "House"
+      ],
+      "correctIndex": 2,
+      "explanation": "قلم (qalam) means pen.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-S-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: شمس. What does it mean?",
+      "options": [
+        "Moon",
+        "Star",
+        "Night",
+        "Sun"
+      ],
+      "correctIndex": 3,
+      "explanation": "شمس (shams) means sun.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-S-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "How many letters are in بيت?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "correctIndex": 0,
+      "explanation": "بيت has three letters: ba, ya, ta.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-S-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Which word starts with ب?",
+      "options": [
+        "قلم",
+        "بيت",
+        "ماء",
+        "شمس"
+      ],
+      "correctIndex": 1,
+      "explanation": "بيت begins with the letter ba.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-S-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: باب. What does it mean?",
+      "options": [
+        "Book",
+        "House",
+        "Door",
+        "Pen"
+      ],
+      "correctIndex": 2,
+      "explanation": "باب (bab) means door.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-S-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "silver",
+      "text": "Read: يد. What does it mean?",
+      "options": [
+        "Eye",
+        "Leg",
+        "Ear",
+        "Hand"
+      ],
+      "correctIndex": 3,
+      "explanation": "يد (yad) means hand.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-G-001",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: أنا تلميذ. What does it mean?",
+      "options": [
+        "I am a pupil",
+        "I am a teacher",
+        "I am a farmer",
+        "I am a trader"
+      ],
+      "correctIndex": 0,
+      "explanation": "أنا تلميذ means I am a pupil.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-G-002",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: هذا بيت. What does it mean?",
+      "options": [
+        "This is a book",
+        "This is a house",
+        "This is a school",
+        "This is a pen"
+      ],
+      "correctIndex": 1,
+      "explanation": "هذا بيت means this is a house.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-G-003",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: الماء نظيف. What does it mean?",
+      "options": [
+        "The water is cold",
+        "The water is hot",
+        "The water is clean",
+        "The water is sweet"
+      ],
+      "correctIndex": 2,
+      "explanation": "نظيف means clean.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-G-004",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: الشمس تشرق. What does it mean?",
+      "options": [
+        "The moon shines",
+        "The rain falls",
+        "The star twinkles",
+        "The sun rises"
+      ],
+      "correctIndex": 3,
+      "explanation": "تشرق means rises or comes up.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-G-005",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: القطة تشرب. What does it mean?",
+      "options": [
+        "The cat drinks",
+        "The dog runs",
+        "The bird flies",
+        "The fish swims"
+      ],
+      "correctIndex": 0,
+      "explanation": "تشرب means drinks.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-G-006",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: أبي يقرأ. What does it mean?",
+      "options": [
+        "My mother is cooking",
+        "My father is reading",
+        "My brother is playing",
+        "My sister is sleeping"
+      ],
+      "correctIndex": 1,
+      "explanation": "أبي يقرأ means my father is reading.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-G-007",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Read: أمي تطبخ. What does it mean?",
+      "options": [
+        "My father is working",
+        "My brother is reading",
+        "My mother is cooking",
+        "My sister is drawing"
+      ],
+      "correctIndex": 2,
+      "explanation": "أمي تطبخ means my mother is cooking.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ARB-RED-G-008",
+      "band": "4-6",
+      "subject": "arabic",
+      "topic": "arabic-reading",
+      "level": "gold",
+      "text": "Which sentence means this is a book?",
+      "options": [
+        "هذا قلم",
+        "هذا بيت",
+        "هذا باب",
+        "هذا كتاب"
+      ],
+      "correctIndex": 3,
+      "explanation": "كتاب is the Arabic word for book.",
+      "curriculumRef": "NERDC Nursery 2 Arabic, simple Arabic reading",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

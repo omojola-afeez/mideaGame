@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "mathematics",
+  "topic": "geometry",
+  "title": "Shape summit",
+  "questions": [
+    {
+      "code": "4-MAT-GEO-B-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "Sides on a triangle?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "A triangle has 3 sides.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-B-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "Sides on a square?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 1,
+      "explanation": "A square has 4 sides.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-B-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "Corners on a circle?",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "4"
+      ],
+      "correctIndex": 2,
+      "explanation": "A circle is round, with no corners.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-B-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "Which shape has no corners?",
+      "options": [
+        "Square",
+        "Triangle",
+        "Rectangle",
+        "Circle"
+      ],
+      "correctIndex": 3,
+      "explanation": "A circle has no corners.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-B-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "Corners on a triangle?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "A triangle has 3 corners.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-B-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "What shape is a door?",
+      "options": [
+        "Circle",
+        "Rectangle",
+        "Oval",
+        "Triangle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Most doors are rectangles.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-B-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "Straight sides on a circle?",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "4"
+      ],
+      "correctIndex": 2,
+      "explanation": "A circle has no straight sides.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-B-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "A coin is shaped like what?",
+      "options": [
+        "Square",
+        "Triangle",
+        "Rectangle",
+        "Circle"
+      ],
+      "correctIndex": 3,
+      "explanation": "A coin is round like a circle.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-S-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "Corners on a square?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "0"
+      ],
+      "correctIndex": 0,
+      "explanation": "A square has 4 corners.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-S-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "Sides of a rectangle. Count them.",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "correctIndex": 1,
+      "explanation": "A rectangle has 4 sides.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-S-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "Flat shape with 4 equal sides?",
+      "options": [
+        "Rectangle",
+        "Circle",
+        "Square",
+        "Triangle"
+      ],
+      "correctIndex": 2,
+      "explanation": "All 4 sides are equal in a square.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-S-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "Corners of a rectangle. Count them.",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "A rectangle has 4 corners.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-S-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "Which shape has 3 sides?",
+      "options": [
+        "Triangle",
+        "Square",
+        "Circle",
+        "Pentagon"
+      ],
+      "correctIndex": 0,
+      "explanation": "A triangle has 3 sides.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-S-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "Which solid is a die?",
+      "options": [
+        "Sphere",
+        "Cube",
+        "Cone",
+        "Cylinder"
+      ],
+      "correctIndex": 1,
+      "explanation": "A die is cube shaped.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-S-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "Faces on a cube?",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "A cube has 6 flat faces.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-S-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "Which shape is round?",
+      "options": [
+        "Square",
+        "Triangle",
+        "Rectangle",
+        "Circle"
+      ],
+      "correctIndex": 3,
+      "explanation": "A circle is round.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-G-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "Which solid has 6 flat faces?",
+      "options": [
+        "Cube",
+        "Sphere",
+        "Cone",
+        "Cylinder"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cube has 6 flat faces.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-G-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "Which flat shape has 4 equal sides?",
+      "options": [
+        "Rectangle",
+        "Square",
+        "Triangle",
+        "Circle"
+      ],
+      "correctIndex": 1,
+      "explanation": "A square has 4 equal sides.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-G-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "Corners on a box?",
+      "options": [
+        "6",
+        "4",
+        "8",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "A cuboid has 8 corners.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-G-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "A wheel is shaped like which flat shape?",
+      "options": [
+        "Square",
+        "Triangle",
+        "Oval",
+        "Circle"
+      ],
+      "correctIndex": 3,
+      "explanation": "A wheel is round like a circle.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-G-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "Which shape has no straight sides?",
+      "options": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Rectangle"
+      ],
+      "correctIndex": 0,
+      "explanation": "A circle has only a curved side.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-G-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "Edges on a cube?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "A cube has 12 edges.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-G-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "Equal sides of a square. Count them.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "A square has 4 equal sides.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-GEO-G-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "Which flat shape has 4 sides but not all equal?",
+      "options": [
+        "Square",
+        "Triangle",
+        "Circle",
+        "Rectangle"
+      ],
+      "correctIndex": 3,
+      "explanation": "A rectangle has 4 sides, not all equal.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

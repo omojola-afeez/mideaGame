@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "mathematics",
+  "topic": "muldiv",
+  "title": "Multiply and divide",
+  "questions": [
+    {
+      "code": "7-MAT-MUL-B-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 2 × 6?",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 times 6 is 12.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-B-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 5 × 3?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "5 times 3 is 15.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-B-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 10 × 4?",
+      "options": [
+        "14",
+        "400",
+        "40",
+        "20"
+      ],
+      "correctIndex": 2,
+      "explanation": "10 times 4 is 40.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-B-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 5 × 5?",
+      "options": [
+        "10",
+        "20",
+        "35",
+        "25"
+      ],
+      "correctIndex": 3,
+      "explanation": "5 times 5 is 25.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-B-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 2 × 9?",
+      "options": [
+        "18",
+        "11",
+        "16",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 times 9 is 18.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-B-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 10 × 7?",
+      "options": [
+        "17",
+        "70",
+        "700",
+        "60"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 times 7 is 70.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-B-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 5 × 8?",
+      "options": [
+        "30",
+        "45",
+        "40",
+        "35"
+      ],
+      "correctIndex": 2,
+      "explanation": "5 times 8 is 40.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-B-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 2 × 7?",
+      "options": [
+        "9",
+        "16",
+        "12",
+        "14"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 times 7 is 14.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-S-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 12 ÷ 2?",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "12 shared into 2 groups is 6.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-S-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 30 ÷ 5?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "30 shared by 5 is 6.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-S-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 40 ÷ 10?",
+      "options": [
+        "10",
+        "5",
+        "4",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "40 shared by 10 is 4.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-S-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 5 × 6?",
+      "options": [
+        "11",
+        "25",
+        "35",
+        "30"
+      ],
+      "correctIndex": 3,
+      "explanation": "5 times 6 is 30.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-S-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 2 × 12?",
+      "options": [
+        "24",
+        "14",
+        "22",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 times 12 is 24.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-S-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 50 ÷ 5?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "25"
+      ],
+      "correctIndex": 1,
+      "explanation": "50 shared by 5 is 10.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-S-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 10 × 9?",
+      "options": [
+        "19",
+        "900",
+        "90",
+        "80"
+      ],
+      "correctIndex": 2,
+      "explanation": "10 times 9 is 90.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-S-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 14 ÷ 2?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "7"
+      ],
+      "correctIndex": 3,
+      "explanation": "14 shared into 2 groups is 7.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-G-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 5 × 7?",
+      "options": [
+        "35",
+        "30",
+        "40",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "5 times 7 is 35.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-G-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "There are 24 oranges in 2 baskets equally. How many in each?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "24 shared into 2 is 12 each.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-G-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 100 ÷ 10?",
+      "options": [
+        "1",
+        "100",
+        "10",
+        "5"
+      ],
+      "correctIndex": 2,
+      "explanation": "100 shared by 10 is 10.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-G-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "A class has 5 rows. Each row has 6 seats. How many seats?",
+      "options": [
+        "11",
+        "25",
+        "35",
+        "30"
+      ],
+      "correctIndex": 3,
+      "explanation": "5 rows of 6 seats is 30.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-G-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 45 ÷ 5?",
+      "options": [
+        "9",
+        "5",
+        "8",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "45 shared by 5 is 9.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-G-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 3 × 10?",
+      "options": [
+        "13",
+        "30",
+        "40",
+        "310"
+      ],
+      "correctIndex": 1,
+      "explanation": "3 times 10 is 30.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-G-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 60 ÷ 10?",
+      "options": [
+        "10",
+        "5",
+        "6",
+        "3"
+      ],
+      "correctIndex": 2,
+      "explanation": "60 shared by 10 is 6.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-MUL-G-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Bags of rice cost ₦500 each. What is the cost of 2 bags?",
+      "options": [
+        "₦700",
+        "₦500",
+        "₦1,500",
+        "₦1000"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 bags at ₦500 is ₦1000.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, multiplication and division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

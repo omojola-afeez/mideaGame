@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "mathematics",
+  "topic": "decimals",
+  "title": "Decimal dunes",
+  "questions": [
+    {
+      "code": "4-MAT-DEC-B-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many kobo make ₦1?",
+      "options": [
+        "100",
+        "50",
+        "10",
+        "1000"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦1 is 100 kobo.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-B-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "50 kobo is what part of ₦1?",
+      "options": [
+        "Quarter",
+        "Half",
+        "Whole",
+        "Double"
+      ],
+      "correctIndex": 1,
+      "explanation": "50 kobo is half of 100 kobo.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-B-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "Which shows ₦1.50?",
+      "options": [
+        "₦150",
+        "₦0.15",
+        "₦1.50",
+        "₦15.00"
+      ],
+      "correctIndex": 2,
+      "explanation": "One naira fifty is ₦1.50.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-B-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "Which is more: 50 kobo or 100 kobo?",
+      "options": [
+        "50 kobo",
+        "They are the same",
+        "25 kobo",
+        "100 kobo"
+      ],
+      "correctIndex": 3,
+      "explanation": "100 kobo is more than 50 kobo.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-B-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many 50 kobo coins make ₦1?",
+      "options": [
+        "2",
+        "1",
+        "4",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "50k and 50k makes 100k.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-B-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many kobo are in ₦2?",
+      "options": [
+        "100",
+        "200",
+        "20",
+        "2000"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦2 is 200 kobo.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-B-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "Which is the same as half of ₦2?",
+      "options": [
+        "₦2",
+        "₦1.50",
+        "₦1",
+        "50 k"
+      ],
+      "correctIndex": 2,
+      "explanation": "Half of ₦2 is ₦1.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-B-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 10 k plus 10 k?",
+      "options": [
+        "10 k",
+        "100 k",
+        "5 k",
+        "20 k"
+      ],
+      "correctIndex": 3,
+      "explanation": "10 k plus 10 k is 20 k.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-S-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is half of ₦4?",
+      "options": [
+        "₦2",
+        "₦1",
+        "₦4",
+        "₦8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Half of ₦4 is ₦2.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-S-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "How many 20 kobo coins make ₦1?",
+      "options": [
+        "4",
+        "5",
+        "10",
+        "2"
+      ],
+      "correctIndex": 1,
+      "explanation": "5 coins of 20 k make 100 k.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-S-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Which is 0.5?",
+      "options": [
+        "One quarter",
+        "One third",
+        "One half",
+        "One tenth"
+      ],
+      "correctIndex": 2,
+      "explanation": "0.5 means one half.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-S-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 0.5 + 0.5?",
+      "options": [
+        "0.10",
+        "10",
+        "1.5",
+        "1"
+      ],
+      "correctIndex": 3,
+      "explanation": "0.5 plus 0.5 makes 1.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-S-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Which is bigger: ₦1.50 or ₦1.20?",
+      "options": [
+        "₦1.50",
+        "₦1.20",
+        "They are the same",
+        "₦1.05"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦1.50 is more than ₦1.20.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-S-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "How many kobo are in ₦1.50?",
+      "options": [
+        "100",
+        "150",
+        "50",
+        "15"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦1.50 is 150 kobo.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-S-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is ₦5 - ₦2?",
+      "options": [
+        "₦2",
+        "₦4",
+        "₦3",
+        "₦7"
+      ],
+      "correctIndex": 2,
+      "explanation": "₦5 take away ₦2 is ₦3.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-S-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is ₦2.50 + ₦1.50?",
+      "options": [
+        "₦3.50",
+        "₦3.00",
+        "₦5.00",
+        "₦4.00"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦2.50 plus ₦1.50 is ₦4.00.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-G-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is ₦3.25 + ₦1.25?",
+      "options": [
+        "₦4.50",
+        "₦4.00",
+        "₦5.50",
+        "₦4.75"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦3.25 plus ₦1.25 is ₦4.50.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-G-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is ₦5.00 - ₦2.50?",
+      "options": [
+        "₦2.00",
+        "₦2.50",
+        "₦3.50",
+        "₦7.50"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦5.00 minus ₦2.50 is ₦2.50.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-G-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "Write ₦2.25 with digits.",
+      "options": [
+        "₦2.50",
+        "₦22.5",
+        "₦2.25",
+        "₦0.25"
+      ],
+      "correctIndex": 2,
+      "explanation": "Two naira twenty-five kobo is ₦2.25.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-G-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is half of ₦6?",
+      "options": [
+        "₦2",
+        "₦4",
+        "₦12",
+        "₦3"
+      ],
+      "correctIndex": 3,
+      "explanation": "Half of ₦6 is ₦3.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-G-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.5 + 0.5 + 0.5?",
+      "options": [
+        "1.5",
+        "1.0",
+        "15",
+        "2.0"
+      ],
+      "correctIndex": 0,
+      "explanation": "Three halves make 1 and a half.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-G-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "Which is less: ₦1.75 or ₦1.25?",
+      "options": [
+        "₦1.75",
+        "₦1.25",
+        "They are the same",
+        "₦1.50"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦1.25 is less than ₦1.75.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-G-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "How many 25 kobo coins make ₦1?",
+      "options": [
+        "2",
+        "5",
+        "4",
+        "10"
+      ],
+      "correctIndex": 2,
+      "explanation": "Four 25 k coins make 100 k.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-DEC-G-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is ₦4.50 + ₦2.00?",
+      "options": [
+        "₦6.00",
+        "₦5.50",
+        "₦7.50",
+        "₦6.50"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦4.50 plus ₦2.00 is ₦6.50.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, decimals and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

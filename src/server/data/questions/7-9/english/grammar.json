@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "english",
+  "topic": "grammar",
+  "title": "Grammar garden",
+  "questions": [
+    {
+      "code": "7-ENG-GRA-B-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word names a person in the sentence?",
+      "options": [
+        "farmer",
+        "planting",
+        "quickly",
+        "tall"
+      ],
+      "correctIndex": 0,
+      "explanation": "A farmer is a naming word. It is a noun.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: nouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-B-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word names a thing in: The goat eats grass?",
+      "options": [
+        "eats",
+        "grass",
+        "goatly",
+        "the"
+      ],
+      "correctIndex": 1,
+      "explanation": "Grass names a thing. It is a noun.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: nouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-B-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word shows action in: The boy kicks the ball?",
+      "options": [
+        "boy",
+        "ball",
+        "kicks",
+        "the"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kicks shows what the boy does.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: verbs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-B-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word shows action in: My mother cooks rice?",
+      "options": [
+        "mother",
+        "rice",
+        "my",
+        "cooks"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cooks shows an action. It is a verb.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: verbs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-B-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word describes a noun in: The red car moves fast?",
+      "options": [
+        "red",
+        "car",
+        "moves",
+        "fast"
+      ],
+      "correctIndex": 0,
+      "explanation": "Red describes the car. It is an adjective.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: adjectives",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-B-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word describes the cat in: The fluffy cat sleeps?",
+      "options": [
+        "cat",
+        "fluffy",
+        "sleeps",
+        "the"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fluffy describes the cat.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: adjectives",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-B-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word names a place in: The school is near the market?",
+      "options": [
+        "near",
+        "marketly",
+        "school",
+        "is"
+      ],
+      "correctIndex": 2,
+      "explanation": "School names a place. It is a noun.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: nouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-B-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word shows action in: The birds fly in the sky?",
+      "options": [
+        "birds",
+        "sky",
+        "the",
+        "fly"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fly shows what the birds do.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: verbs",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-S-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Which pronoun can replace Ada in: Ada sings a song?",
+      "options": [
+        "She",
+        "He",
+        "It",
+        "They"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ada is one girl, so we use she.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: pronouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-S-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Which pronoun can replace the boys in: The boys play?",
+      "options": [
+        "He",
+        "They",
+        "She",
+        "It"
+      ],
+      "correctIndex": 1,
+      "explanation": "The boys are many, so we use they.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: pronouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-S-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Which pronoun can replace the cat in: The cat is black?",
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
+      "correctIndex": 2,
+      "explanation": "An animal like a cat can be it.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: pronouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-S-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Fill the gap: Tom and I ___ friends.",
+      "options": [
+        "am",
+        "is",
+        "be",
+        "are"
+      ],
+      "correctIndex": 3,
+      "explanation": "Plural subjects take are.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: subject and verb agreement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-S-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Fill the gap: The dog ___ loudly.",
+      "options": [
+        "barks",
+        "bark",
+        "barking",
+        "barked"
+      ],
+      "correctIndex": 0,
+      "explanation": "A single dog takes barks.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: subject and verb agreement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-S-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Fill the gap: My pens ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural subjects take are.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: subject and verb agreement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-S-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Fill the gap: She ___ to school by bus.",
+      "options": [
+        "go",
+        "going",
+        "goes",
+        "gone"
+      ],
+      "correctIndex": 2,
+      "explanation": "She takes the verb with s.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: subject and verb agreement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-S-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Fill the gap: The children ___ in the field.",
+      "options": [
+        "plays",
+        "playing",
+        "played",
+        "play"
+      ],
+      "correctIndex": 3,
+      "explanation": "Children is plural, so no s on the verb.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: subject and verb agreement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-G-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "What is the plural of knife?",
+      "options": [
+        "knives",
+        "knifes",
+        "knifs",
+        "knife"
+      ],
+      "correctIndex": 0,
+      "explanation": "Knife changes its f to v and takes es.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: plurals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-G-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "What is the plural of child?",
+      "options": [
+        "childs",
+        "children",
+        "childes",
+        "childrens"
+      ],
+      "correctIndex": 1,
+      "explanation": "Child has an irregular plural, children.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: plurals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-G-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "What is the plural of foot?",
+      "options": [
+        "foots",
+        "feets",
+        "feet",
+        "footes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Foot has an irregular plural, feet.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: plurals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-G-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "What is the plural of bush?",
+      "options": [
+        "bushs",
+        "bushies",
+        "bush",
+        "bushes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Words ending in sh add es.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: plurals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-G-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "Fill the gap: She is ___ than her brother.",
+      "options": [
+        "taller",
+        "tall",
+        "tallest",
+        "talls"
+      ],
+      "correctIndex": 0,
+      "explanation": "Use taller to compare two people.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: comparison",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-G-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "Fill the gap: Of the three, Ngozi sings the ___.",
+      "options": [
+        "better",
+        "best",
+        "good",
+        "well"
+      ],
+      "correctIndex": 1,
+      "explanation": "Use best when comparing three or more.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: comparison",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-G-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "Fill the gap: This is ___ book, not mine.",
+      "options": [
+        "you're",
+        "yours",
+        "your",
+        "you"
+      ],
+      "correctIndex": 2,
+      "explanation": "Your shows ownership. Yours stands alone.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: possessive pronouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-GRA-G-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "Fill the gap: The cat is washing ___ paws.",
+      "options": [
+        "it's",
+        "its'",
+        "their",
+        "its"
+      ],
+      "correctIndex": 3,
+      "explanation": "Its shows ownership. It's means it is.",
+      "curriculumRef": "NERDC Primary 3 English, grammar: possessive pronouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

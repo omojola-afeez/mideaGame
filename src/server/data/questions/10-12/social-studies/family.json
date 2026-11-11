@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "social-studies",
+  "topic": "family",
+  "title": "Family forest",
+  "questions": [
+    {
+      "code": "10-SOC-FAM-B-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "What is a nuclear family?",
+      "options": [
+        "Parents and their children",
+        "All relatives in one house",
+        "Only grandparents",
+        "A group of friends"
+      ],
+      "correctIndex": 0,
+      "explanation": "A nuclear family has parents and their children.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-B-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "What are parents' duties?",
+      "options": [
+        "Making money only",
+        "Feeding, clothing and educating children",
+        "Travelling abroad",
+        "Working all day"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parents must provide for and train their children.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-B-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Who are aunts and uncles?",
+      "options": [
+        "Parents",
+        "Children",
+        "Extended family members",
+        "Neighbours"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aunts and uncles are part of the extended family.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-B-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Why should children obey parents?",
+      "options": [
+        "Parents own them",
+        "It is fear only",
+        "No reason",
+        "It shows respect and brings blessing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Obedience brings peace and blessing on the home.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-B-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "What is the duty of children at home?",
+      "options": [
+        "Helping with chores",
+        "Commanding parents",
+        "Locking doors",
+        "Selling the house"
+      ],
+      "correctIndex": 0,
+      "explanation": "Children must help with age-appropriate chores.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-B-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "How can homes stay united?",
+      "options": [
+        "By avoiding each other",
+        "Through love and communication",
+        "By fighting",
+        "By keeping secrets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Open talk keeps families close and strong.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-B-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "What is the meaning of family tree?",
+      "options": [
+        "A tree grown by the family",
+        "A family crest",
+        "A chart of family members across generations",
+        "A type of fruit tree"
+      ],
+      "correctIndex": 2,
+      "explanation": "A family tree shows how relatives are related.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-B-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Why do homes pray together?",
+      "options": [
+        "To win prizes",
+        "To impress guests",
+        "No reason",
+        "To grow closer to God"
+      ],
+      "correctIndex": 3,
+      "explanation": "Family prayer strengthens bond and faith.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-S-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "How does the extended family help?",
+      "options": [
+        "By sharing care and resources",
+        "By ignoring them",
+        "By charging fees",
+        "By fighting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Extended families cushion burdens and share care.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-S-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "Why are home values important?",
+      "options": [
+        "They buy wealth",
+        "They shape character from childhood",
+        "They are outdated",
+        "No reason"
+      ],
+      "correctIndex": 1,
+      "explanation": "Values learnt at home guide us for life.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-S-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "What makes a happy home?",
+      "options": [
+        "Wealth and gadgets",
+        "Many servants",
+        "Love, respect and support",
+        "Big houses"
+      ],
+      "correctIndex": 2,
+      "explanation": "Love and support, not money, make a home happy.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-S-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "Why do some children live with guardians?",
+      "options": [
+        "For fun",
+        "To escape chores",
+        "By choice",
+        "Parents may have passed or be abroad"
+      ],
+      "correctIndex": 3,
+      "explanation": "Guardians care for children when parents cannot.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-S-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "What is the role of the mother in a home?",
+      "options": [
+        "Caring and nurturing the family",
+        "Working only",
+        "Cooking only",
+        "Travelling widely"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mothers nurture, guide and keep the home.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-S-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "How do parents train children?",
+      "options": [
+        "With abuse",
+        "With love and firm rules",
+        "With neglect",
+        "With bribery"
+      ],
+      "correctIndex": 1,
+      "explanation": "Good discipline combines love with firmness.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-S-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "Why does home income matter?",
+      "options": [
+        "It buys luxuries",
+        "It impresses neighbours",
+        "It covers feeding, school and health",
+        "No reason"
+      ],
+      "correctIndex": 2,
+      "explanation": "Income must cover basic needs before wants.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-S-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "What does a family budget help with?",
+      "options": [
+        "Buying everything now",
+        "Flashing wealth",
+        "Borrowing more",
+        "Avoiding waste and debt"
+      ],
+      "correctIndex": 3,
+      "explanation": "Budgeting prevents debt and builds savings.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-G-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "Why is family the base of society?",
+      "options": [
+        "It shapes citizens' character",
+        "It builds houses",
+        "It collects taxes",
+        "It runs schools"
+      ],
+      "correctIndex": 0,
+      "explanation": "Values learnt at home build the nation.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-G-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "How does home violence hurt children?",
+      "options": [
+        "It makes them strong",
+        "It causes fear and trauma",
+        "It improves grades",
+        "No effect"
+      ],
+      "correctIndex": 1,
+      "explanation": "Violence at home scars children emotionally.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-G-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "Why is talk vital in marriage?",
+      "options": [
+        "It wastes time",
+        "It causes quarrels",
+        "It prevents misunderstandings",
+        "No effect"
+      ],
+      "correctIndex": 2,
+      "explanation": "Open talk resolves problems before they grow.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-G-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "How can homes support special children?",
+      "options": [
+        "By ignoring them",
+        "By hiding them",
+        "By sending them away",
+        "With patience and inclusion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Every child deserves love, care and inclusion.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-G-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "What is the meaning of a broken home?",
+      "options": [
+        "A home where parents have separated",
+        "A house that fell down",
+        "A very poor home",
+        "A crowded home"
+      ],
+      "correctIndex": 0,
+      "explanation": "Broken homes need extra support for the children.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-G-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "Why register a new baby?",
+      "options": [
+        "To make hospital profit",
+        "To give the child legal identity",
+        "To decorate homes",
+        "No reason"
+      ],
+      "correctIndex": 1,
+      "explanation": "Birth registration proves identity and nationality.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-G-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "How does child labour harm society?",
+      "options": [
+        "It builds wealth",
+        "It trains skills",
+        "It steals childhood and education",
+        "No harm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Child labour denies children school and safety.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-FAM-G-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "Why is the family the bedrock?",
+      "options": [
+        "It builds houses",
+        "It collects taxes",
+        "It runs schools",
+        "It nurtures future citizens"
+      ],
+      "correctIndex": 3,
+      "explanation": "Strong families raise capable, honest citizens.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

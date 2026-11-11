@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "english",
+  "topic": "writing",
+  "title": "Story studio",
+  "questions": [
+    {
+      "code": "4-ENG-WRI-B-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which is a sentence?",
+      "options": [
+        "The sun is hot.",
+        "Sun hot the is.",
+        "Is hot the sun.",
+        "Hot is sun the."
+      ],
+      "correctIndex": 0,
+      "explanation": "A sentence starts with a capital letter.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: sentences",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-B-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Put the words in order: my is Ada name",
+      "options": [
+        "Name my Ada is.",
+        "My name is Ada.",
+        "Ada name is my.",
+        "Is name my Ada."
+      ],
+      "correctIndex": 1,
+      "explanation": "A good sentence starts with a capital.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-B-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which is a full idea?",
+      "options": [
+        "The hen",
+        "Sits the",
+        "The hen sits.",
+        "The"
+      ],
+      "correctIndex": 2,
+      "explanation": "A sentence names and says something.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: sentences",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-B-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which tells a story?",
+      "options": [
+        "The girl kind.",
+        "Girl is kind.",
+        "Is kind the girl.",
+        "The girl is kind."
+      ],
+      "correctIndex": 3,
+      "explanation": "A telling sentence names who and what.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: sentences",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-B-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which group of words makes a question?",
+      "options": [
+        "Where is my shoe?",
+        "My shoe is here.",
+        "The shoe is red.",
+        "Shoe red shoe."
+      ],
+      "correctIndex": 0,
+      "explanation": "A question asks for something to be answered.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: questions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-B-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which group of words is an order?",
+      "options": [
+        "The door is shut.",
+        "Close the door.",
+        "Where is the door?",
+        "The door."
+      ],
+      "correctIndex": 1,
+      "explanation": "An order asks someone to do something.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: sentences",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-B-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which tells a feeling?",
+      "options": [
+        "The roof is red.",
+        "The bag is heavy.",
+        "I am glad.",
+        "The dog barks."
+      ],
+      "correctIndex": 2,
+      "explanation": "Glad tells a feeling.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: sentences",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-B-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Which tells about the rain?",
+      "options": [
+        "The sun rose.",
+        "The cat slept.",
+        "The dog ran.",
+        "The rain fell."
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence about the rain is about rain.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: sentences",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-S-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Which one is written right?",
+      "options": [
+        "I like rice and beans.",
+        "I like rice beans.",
+        "I rice like and beans.",
+        "Like and rice beans I."
+      ],
+      "correctIndex": 0,
+      "explanation": "Use and to join two things.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: joining words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-S-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Join: Ada is tall. Ada is kind.",
+      "options": [
+        "Ada is tall Ada is kind.",
+        "Ada is tall and kind.",
+        "Ada and tall kind is.",
+        "Tall is Ada and kind."
+      ],
+      "correctIndex": 1,
+      "explanation": "And joins two ideas about Ada.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: joining words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-S-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Fix the order: to school went I",
+      "options": [
+        "Went to school I.",
+        "To school I went.",
+        "I went to school.",
+        "School to I went."
+      ],
+      "correctIndex": 2,
+      "explanation": "A sentence starts with a capital letter.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-S-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Order it: plays football he",
+      "options": [
+        "Football he plays.",
+        "Plays he football.",
+        "He football plays.",
+        "He plays football."
+      ],
+      "correctIndex": 3,
+      "explanation": "A sentence starts with a capital letter.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-S-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Which uses and well?",
+      "options": [
+        "I ate rice and fish.",
+        "I and ate rice fish.",
+        "Ate and I rice fish.",
+        "Rice fish ate and I."
+      ],
+      "correctIndex": 0,
+      "explanation": "And joins two things you ate.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: joining words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-S-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Order it: sun the shines",
+      "options": [
+        "Sun shines the.",
+        "The sun shines.",
+        "Shines the sun.",
+        "The shines sun."
+      ],
+      "correctIndex": 1,
+      "explanation": "Start with the naming part.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-S-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Order it: happy the is girl",
+      "options": [
+        "The happy is girl.",
+        "Girl the happy is.",
+        "The girl is happy.",
+        "Happy is girl the."
+      ],
+      "correctIndex": 2,
+      "explanation": "A telling sentence names who first.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-S-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Order it: school is my big",
+      "options": [
+        "School is my big.",
+        "Big is school my.",
+        "Is big my school.",
+        "My school is big."
+      ],
+      "correctIndex": 3,
+      "explanation": "Say my school first, then big.",
+      "curriculumRef": "NERDC Nursery 2 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-G-001",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Pick the right word order.",
+      "options": [
+        "Mama cooked the food.",
+        "Cooked mama food the.",
+        "Food cooked mama the.",
+        "The food cooked mama."
+      ],
+      "correctIndex": 0,
+      "explanation": "A telling sentence names who first.",
+      "curriculumRef": "NERDC Primary 1 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-G-002",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Fix this: You are okay",
+      "options": [
+        "You are okay?",
+        "Are you okay?",
+        "You okay are?",
+        "Okay you are?"
+      ],
+      "correctIndex": 1,
+      "explanation": "A question like this starts with are.",
+      "curriculumRef": "NERDC Primary 1 English, writing: questions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-G-003",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Fix this: She is happy",
+      "options": [
+        "She is happy?",
+        "Happy she is?",
+        "Is she happy?",
+        "She happy is?"
+      ],
+      "correctIndex": 2,
+      "explanation": "A question like this starts with is.",
+      "curriculumRef": "NERDC Primary 1 English, writing: questions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-G-004",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Which uses but well?",
+      "options": [
+        "I like but rice beans.",
+        "But I like rice and beans not.",
+        "Rice I like not but beans.",
+        "I like rice but not beans."
+      ],
+      "correctIndex": 3,
+      "explanation": "But shows a contrast.",
+      "curriculumRef": "NERDC Primary 1 English, writing: joining words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-G-005",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Fix the order: dog my barks big",
+      "options": [
+        "My big dog barks.",
+        "Dog barks my big.",
+        "Barks big dog my.",
+        "Big barks my dog."
+      ],
+      "correctIndex": 0,
+      "explanation": "My big dog is the naming part.",
+      "curriculumRef": "NERDC Primary 1 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-G-006",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Fix the order: going we are home",
+      "options": [
+        "Going home we are.",
+        "We are going home.",
+        "Home going we are.",
+        "Are home we going."
+      ],
+      "correctIndex": 1,
+      "explanation": "Start with we are.",
+      "curriculumRef": "NERDC Primary 1 English, writing: word order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-G-007",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Which sounds polite?",
+      "options": [
+        "Salt now.",
+        "Pass the salt.",
+        "Please pass the salt.",
+        "I want salt now."
+      ],
+      "correctIndex": 2,
+      "explanation": "Please makes a request polite.",
+      "curriculumRef": "NERDC Primary 1 English, writing: polite speech",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-ENG-WRI-G-008",
+      "band": "4-6",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Which tells a full idea?",
+      "options": [
+        "At the market",
+        "Mama sells",
+        "The market.",
+        "Mama sells fish at the market."
+      ],
+      "correctIndex": 3,
+      "explanation": "A full idea names who and what.",
+      "curriculumRef": "NERDC Primary 1 English, writing: complete ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

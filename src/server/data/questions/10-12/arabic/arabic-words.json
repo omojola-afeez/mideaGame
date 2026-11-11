@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "arabic",
+  "topic": "arabic-words",
+  "title": "Word waters",
+  "questions": [
+    {
+      "code": "10-ARB-WRD-B-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does مستشفى mean?",
+      "options": [
+        "Hospital",
+        "School",
+        "Bank",
+        "Library"
+      ],
+      "correctIndex": 0,
+      "explanation": "مستشفى (mustashfa) means hospital.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-B-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does مطعم mean?",
+      "options": [
+        "Mosque",
+        "Restaurant",
+        "Market",
+        "Cinema"
+      ],
+      "correctIndex": 1,
+      "explanation": "مطعم (mat am) means restaurant.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-B-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does صيدلية mean?",
+      "options": [
+        "Hospital",
+        "Bakery",
+        "Pharmacy",
+        "Library"
+      ],
+      "correctIndex": 2,
+      "explanation": "صيدلية (saydaliyya) means pharmacy.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-B-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does حديقة mean?",
+      "options": [
+        "House",
+        "Street",
+        "Market",
+        "Garden"
+      ],
+      "correctIndex": 3,
+      "explanation": "حديقة (hadiqa) means garden.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-B-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does جامعة mean?",
+      "options": [
+        "University",
+        "School",
+        "Mosque",
+        "Hospital"
+      ],
+      "correctIndex": 0,
+      "explanation": "جامعة (jami a) means university.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-B-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does وظيفة mean?",
+      "options": [
+        "School",
+        "Job",
+        "House",
+        "Money"
+      ],
+      "correctIndex": 1,
+      "explanation": "وظيفة (wazifa) means job.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-B-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does سيارة mean?",
+      "options": [
+        "Train",
+        "Airplane",
+        "Car",
+        "Bicycle"
+      ],
+      "correctIndex": 2,
+      "explanation": "سيارة (sayyara) means car.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-B-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does طائرة mean?",
+      "options": [
+        "Car",
+        "Ship",
+        "Bus",
+        "Airplane"
+      ],
+      "correctIndex": 3,
+      "explanation": "طائرة (ta ira) means airplane.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-S-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does صديق mean?",
+      "options": [
+        "Friend",
+        "Enemy",
+        "Neighbor",
+        "Brother"
+      ],
+      "correctIndex": 0,
+      "explanation": "صديق (sadiq) means friend.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-S-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does جار mean?",
+      "options": [
+        "Friend",
+        "Neighbor",
+        "Guest",
+        "Stranger"
+      ],
+      "correctIndex": 1,
+      "explanation": "جار (jar) means neighbor.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-S-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does ضيف mean?",
+      "options": [
+        "Host",
+        "Neighbor",
+        "Guest",
+        "Friend"
+      ],
+      "correctIndex": 2,
+      "explanation": "ضيف (dayf) means guest.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-S-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does أمانة mean?",
+      "options": [
+        "Lie",
+        "Fear",
+        "Anger",
+        "Trust"
+      ],
+      "correctIndex": 3,
+      "explanation": "أمانة (amana) means trust or honesty.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-S-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does صدق mean?",
+      "options": [
+        "Truthfulness",
+        "Laziness",
+        "Greed",
+        "Anger"
+      ],
+      "correctIndex": 0,
+      "explanation": "صدق (sidq) means truthfulness.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-S-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does صبر mean?",
+      "options": [
+        "Haste",
+        "Patience",
+        "Anger",
+        "Fear"
+      ],
+      "correctIndex": 1,
+      "explanation": "صبر (sabr) means patience.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-S-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does كرم mean?",
+      "options": [
+        "Stinginess",
+        "Laziness",
+        "Generosity",
+        "Pride"
+      ],
+      "correctIndex": 2,
+      "explanation": "كرم (karam) means generosity.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-S-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does تواضع mean?",
+      "options": [
+        "Pride",
+        "Anger",
+        "Envy",
+        "Humility"
+      ],
+      "correctIndex": 3,
+      "explanation": "تواضع (tawadu) means humility.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-G-001",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does العفو عند المقدرة mean?",
+      "options": [
+        "Forgiving when you can",
+        "Being strong",
+        "Never forgive",
+        "Seeking revenge"
+      ],
+      "correctIndex": 0,
+      "explanation": "العفو عند المقدرة praises pardoning at the moment of power.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-G-002",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does من جد وجد mean?",
+      "options": [
+        "He who sleeps wins",
+        "He who strives finds",
+        "He who asks gets",
+        "He who waits sees"
+      ],
+      "correctIndex": 1,
+      "explanation": "من جد وجد means hard work is rewarded.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-G-003",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does الوقت كالسيف mean?",
+      "options": [
+        "Time is money",
+        "Time is long",
+        "Time is like a sword",
+        "Time is short"
+      ],
+      "correctIndex": 2,
+      "explanation": "The full saying warns that time cuts those who waste it.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-G-004",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "Which phrase means I am learning Arabic?",
+      "options": [
+        "أكره العربية",
+        "أنسى العربية",
+        "أترك العربية",
+        "أتعلم اللغة العربية"
+      ],
+      "correctIndex": 3,
+      "explanation": "أتعلم اللغة العربية means I am learning Arabic.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-G-005",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does العلم نور mean?",
+      "options": [
+        "Knowledge is light",
+        "Knowledge is money",
+        "Knowledge is power",
+        "Knowledge is wealth"
+      ],
+      "correctIndex": 0,
+      "explanation": "العلم نور means knowledge is light.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-G-006",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does الوحدة قوة mean?",
+      "options": [
+        "Divide and rule",
+        "Unity is strength",
+        "Each for himself",
+        "Strength is wealth"
+      ],
+      "correctIndex": 1,
+      "explanation": "الوحدة قوة means unity is strength.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-G-007",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "Which phrase means please speak slowly?",
+      "options": [
+        "تكلم بسرعة",
+        "لا تتكلم",
+        "من فضلك تكلم ببطء",
+        "تكلم بصوت عال"
+      ],
+      "correctIndex": 2,
+      "explanation": "ببطء means slowly.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-ARB-WRD-G-008",
+      "band": "10-12",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does رب ضارة نافعة mean?",
+      "options": [
+        "Harm is always bad",
+        "Benefit is always easy",
+        "Pain is useless",
+        "A harm may bring benefit"
+      ],
+      "correctIndex": 3,
+      "explanation": "The saying notes that harm can hide a benefit.",
+      "curriculumRef": "NERDC Primary 5 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

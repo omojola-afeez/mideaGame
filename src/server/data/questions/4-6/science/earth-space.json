@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "science",
+  "topic": "earth-space",
+  "title": "Sky summit",
+  "questions": [
+    {
+      "code": "4-SCI-EAR-B-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What is up in the sky?",
+      "options": [
+        "The sun",
+        "The sea",
+        "A tree",
+        "A pot"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sun is up in the sky.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-B-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What falls from clouds?",
+      "options": [
+        "Stones",
+        "Rain",
+        "Sand",
+        "Salt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rain falls from clouds.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-B-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "Which one is round?",
+      "options": [
+        "A brick",
+        "A ruler",
+        "The sun",
+        "A book"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sun is round.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-B-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What is the sun?",
+      "options": [
+        "A cloud",
+        "A moon",
+        "A planet",
+        "A star"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sun is a big star.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-B-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What do we see in the night sky?",
+      "options": [
+        "Stars",
+        "Fish",
+        "Chairs",
+        "Cars"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stars shine in the night sky.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-B-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "Which one is very cold?",
+      "options": [
+        "Fire",
+        "Snow",
+        "A stove",
+        "The sun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Snow is very cold.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-B-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "Where do we live?",
+      "options": [
+        "On the moon",
+        "On a star",
+        "On Earth",
+        "In a cloud"
+      ],
+      "correctIndex": 2,
+      "explanation": "We live on planet Earth.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-B-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "bronze",
+      "text": "What do we call the land we live on?",
+      "options": [
+        "The sky",
+        "The moon",
+        "The sun",
+        "Earth"
+      ],
+      "correctIndex": 3,
+      "explanation": "The land we live on is Earth.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-S-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "What is a cloud made of?",
+      "options": [
+        "Tiny drops of water",
+        "Smoke",
+        "Sand",
+        "Salt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clouds are made of tiny drops of water.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-S-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Why does it get dark at night?",
+      "options": [
+        "The moon eats the sun",
+        "The sun goes down",
+        "Birds cover the sky",
+        "Clouds eat the sun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Night comes when the sun goes down.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-S-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Which one tells hot from cold?",
+      "options": [
+        "A ruler",
+        "A cup",
+        "A thermometer",
+        "A spoon"
+      ],
+      "correctIndex": 2,
+      "explanation": "A thermometer measures heat.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-S-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "What brings rain?",
+      "options": [
+        "Trees",
+        "Rocks",
+        "Books",
+        "Clouds"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rain comes from clouds.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-S-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "When is the sun strongest?",
+      "options": [
+        "At noon",
+        "At night",
+        "At dawn",
+        "At midnight"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sun is strongest at noon.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-S-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "What do we use to see the stars?",
+      "options": [
+        "A cup",
+        "A telescope",
+        "A pot",
+        "A spoon"
+      ],
+      "correctIndex": 1,
+      "explanation": "A telescope makes far things look closer.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-S-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Which one is a planet?",
+      "options": [
+        "The sun",
+        "A cloud",
+        "Earth",
+        "A star"
+      ],
+      "correctIndex": 2,
+      "explanation": "Earth is a planet.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-S-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "silver",
+      "text": "Why is rain good for us?",
+      "options": [
+        "It cools the sun",
+        "It wakes the moon",
+        "It feeds the birds",
+        "It helps plants grow"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rain waters the crops.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-G-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why is the earth round?",
+      "options": [
+        "Like a ball",
+        "Like a box",
+        "Like a plate",
+        "Like a cup"
+      ],
+      "correctIndex": 0,
+      "explanation": "The earth is round like a ball.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-G-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "What is the sun made of?",
+      "options": [
+        "Ice",
+        "Hot gases",
+        "Water",
+        "Rocks"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sun is a ball of hot gases.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-G-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Which season brings rain?",
+      "options": [
+        "The dry season",
+        "The cold season",
+        "The rainy season",
+        "The harvest"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rain falls in the rainy season.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-G-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "How long is one day?",
+      "options": [
+        "Twelve hours",
+        "One hour",
+        "One week",
+        "Twenty-four hours"
+      ],
+      "correctIndex": 3,
+      "explanation": "One day is twenty-four hours.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-G-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Why do we see the sun in the day?",
+      "options": [
+        "The sun is up",
+        "The stars are white",
+        "The clouds go away",
+        "It rains"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sun is up in the day.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-G-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "What makes rain stop?",
+      "options": [
+        "The sun hides",
+        "The clouds go",
+        "The wind sleeps",
+        "The moon goes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rain stops when the clouds move away.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-G-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Which one is nearer to us?",
+      "options": [
+        "The sun",
+        "A star",
+        "The moon",
+        "A cloud"
+      ],
+      "correctIndex": 2,
+      "explanation": "The moon is nearer to us than the sun.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-EAR-G-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "earth-space",
+      "level": "gold",
+      "text": "Which season is hot and dry?",
+      "options": [
+        "The rainy season",
+        "August",
+        "The cold season",
+        "Harmattan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Harmattan is hot, dry and dusty.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, the sun and the sky",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

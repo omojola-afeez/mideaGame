@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "home-economics",
+  "topic": "home-care",
+  "title": "Home harbour",
+  "questions": [
+    {
+      "code": "7-HEC-HOM-B-001",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "What tool is used for sweeping?",
+      "options": [
+        "A broom",
+        "A kettle",
+        "A spade",
+        "A fork"
+      ],
+      "correctIndex": 0,
+      "explanation": "A broom gathers dust and dirt from the floor.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-B-002",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Why do we mop the floor?",
+      "options": [
+        "To wet the floor",
+        "To remove hidden dust",
+        "To paint it",
+        "To warm it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mopping picks up fine dust that sweeping leaves behind.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-B-003",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Where should dirty clothes be kept?",
+      "options": [
+        "On the dining table",
+        "Under the bed",
+        "In the laundry basket",
+        "In the kitchen"
+      ],
+      "correctIndex": 2,
+      "explanation": "The laundry basket keeps dirty clothes in one place.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-B-004",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "What should we do with spilt liquids?",
+      "options": [
+        "Leave them to dry",
+        "Cover with paper",
+        "Walk around them",
+        "Wipe them up quickly"
+      ],
+      "correctIndex": 3,
+      "explanation": "Spilt liquids make floors slippery and unsafe.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-B-005",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Why do we cover our food?",
+      "options": [
+        "To keep flies away",
+        "To keep it hot",
+        "To hide it",
+        "To make it tasty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Covering food stops flies from contaminating it.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-B-006",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Which room needs the most cleaning?",
+      "options": [
+        "The study",
+        "The kitchen",
+        "The bedroom",
+        "The sitting room"
+      ],
+      "correctIndex": 1,
+      "explanation": "The kitchen handles food, so it must be cleanest.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-B-007",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "What do we use to wash dishes?",
+      "options": [
+        "Oil and salt",
+        "Dust and sand",
+        "Soap and water",
+        "Paper and glue"
+      ],
+      "correctIndex": 2,
+      "explanation": "Soap and water remove grease and germs from dishes.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-B-008",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Why is it dangerous to leave toys on the stairs?",
+      "options": [
+        "Toys may break",
+        "Toys will rust",
+        "Stairs may shrink",
+        "People may trip and fall"
+      ],
+      "correctIndex": 3,
+      "explanation": "Toys on stairs cause falls for children and adults.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-S-001",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "How often should we change our bedsheets?",
+      "options": [
+        "At least once a week",
+        "Once a year",
+        "Never",
+        "Once a month"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weekly sheet changing removes sweat, dust and mites.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-S-002",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why must plugs and water never mix?",
+      "options": [
+        "They make noise",
+        "Water conducts electricity",
+        "They smell bad",
+        "They rust"
+      ],
+      "correctIndex": 1,
+      "explanation": "Water carries current and can shock or kill.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-S-003",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "What should you check before using the stove?",
+      "options": [
+        "Light it with paper",
+        "Pour water on it",
+        "Check for leaks and open a window",
+        "Turn it fully on"
+      ],
+      "correctIndex": 2,
+      "explanation": "Checking for leaks prevents fires and gas poisoning.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-S-004",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why do we wash fruits before eating them?",
+      "options": [
+        "To add flavour",
+        "To cool them",
+        "To make them shiny",
+        "To remove dirt and pesticides"
+      ],
+      "correctIndex": 3,
+      "explanation": "Washing removes dirt, germs and chemical residues.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-S-005",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "What is the best way to store leftover food?",
+      "options": [
+        "Cover it and refrigerate it",
+        "Leave it uncovered",
+        "Put it in the sun",
+        "Feed it to the cat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Refrigerating covered leftovers slows spoilage.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-S-006",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why should we keep the toilet clean and flushed?",
+      "options": [
+        "To save water",
+        "To stop germs and bad smells",
+        "To help flies breed",
+        "To block the drain"
+      ],
+      "correctIndex": 1,
+      "explanation": "A clean toilet stops germs spreading in the home.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-S-007",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "How can children help with chores at home?",
+      "options": [
+        "By cooking alone",
+        "By carrying hot pots",
+        "By tidying toys and sweeping",
+        "By climbing ladders"
+      ],
+      "correctIndex": 2,
+      "explanation": "Age-appropriate chores teach responsibility and teamwork.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-S-008",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why is it unsafe to burn rubbish near the house?",
+      "options": [
+        "It makes too much noise",
+        "It wastes firewood",
+        "It smells sweet",
+        "Fire can spread to the house"
+      ],
+      "correctIndex": 3,
+      "explanation": "Open burning can spark and set nearby buildings alight.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-G-001",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Your mother mops the floor while you walk in with wet shoes. What should you do?",
+      "options": [
+        "Remove the shoes or stay off the floor",
+        "Splash more water",
+        "Run on the floor",
+        "Ignore her"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wet shoes on a mopped floor cause dangerous slips.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-G-002",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Why must drugs be kept from children?",
+      "options": [
+        "Children like the taste",
+        "Children may swallow them by mistake",
+        "Drugs attract ants",
+        "Drugs melt in rain"
+      ],
+      "correctIndex": 1,
+      "explanation": "Accidental swallowing of medicines can seriously harm children.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-G-003",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "What should you do if you smell leaking gas?",
+      "options": [
+        "Light a match to check",
+        "Switch on the fan",
+        "Open windows and tell a grown-up",
+        "Close all doors"
+      ],
+      "correctIndex": 2,
+      "explanation": "Opening windows and alerting adults prevents fire or poisoning.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-G-004",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Why must we wash hands after the toilet?",
+      "options": [
+        "To smell nice",
+        "To cool the hands",
+        "To save soap",
+        "To remove germs before touching food"
+      ],
+      "correctIndex": 3,
+      "explanation": "Toilet germs spread disease if we touch food afterwards.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-G-005",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "How can we stop mosquitoes at home?",
+      "options": [
+        "Drain stagnant water and use nets",
+        "Leave windows open at night",
+        "Keep dirty water in buckets",
+        "Sweep once a week"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mosquitoes breed in still water, so drain it and sleep under nets.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-G-006",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Why should we empty bins daily?",
+      "options": [
+        "To make the bin lighter",
+        "To stop flies and bad smells",
+        "To feed the cat",
+        "To save space indoors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Full bins attract flies and rats that spread disease.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-G-007",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Your little brother swallowed a coin. What should you do?",
+      "options": [
+        "Give him more coins",
+        "Make him run around",
+        "Tell a grown-up immediately",
+        "Wait and see"
+      ],
+      "correctIndex": 2,
+      "explanation": "Swallowing small objects can block breathing or harm the body.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-HOM-G-008",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Why can the heater be risky?",
+      "options": [
+        "It uses too much power",
+        "It mars the clothes",
+        "It takes too long",
+        "It can start a fire"
+      ],
+      "correctIndex": 3,
+      "explanation": "Drying clothes on heaters can overheat and ignite the fabric.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

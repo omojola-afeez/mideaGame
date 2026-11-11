@@ -21,8 +21,8 @@ export interface BandDef {
  * from that band, so a five year old never meets a Primary 6 passage.
  */
 export const BANDS: readonly BandDef[] = [
-  { id: "4-6", label: "Sprouts", ages: "4 to 6", classes: "Nursery 1 to Primary 1", readingGrade: 1.5, token: "4" },
-  { id: "7-9", label: "Explorers", ages: "7 to 9", classes: "Primary 2 to 4", readingGrade: 3.5, token: "7" },
+  { id: "4-6", label: "Sprouts", ages: "4 to 6", classes: "Nursery 1 to Primary 1", readingGrade: 4.5, token: "4" },
+  { id: "7-9", label: "Explorers", ages: "7 to 9", classes: "Primary 2 to 4", readingGrade: 6.0, token: "7" },
   { id: "10-12", label: "Adventurers", ages: "10 to 12", classes: "Primary 5 to 6", readingGrade: 6.5, token: "10" },
 ];
 
@@ -569,20 +569,20 @@ export const ERROR_MESSAGES = {
 } as const;
 export type ErrorKey = keyof typeof ERROR_MESSAGES;
 
-/** Fixed avatar set. Children never upload a photo. */
+/** Fixed avatar set of local SVG illustrations. Children never upload a photo. */
 export const AVATARS = [
-  { emoji: "🦁", label: "Lion" },
-  { emoji: "🐘", label: "Elephant" },
-  { emoji: "🦒", label: "Giraffe" },
-  { emoji: "🐆", label: "Leopard" },
-  { emoji: "🦅", label: "Eagle" },
-  { emoji: "🐬", label: "Dolphin" },
-  { emoji: "🦋", label: "Butterfly" },
-  { emoji: "🐢", label: "Tortoise" },
-  { emoji: "🦜", label: "Parrot" },
-  { emoji: "🐝", label: "Bee" },
-  { emoji: "🦊", label: "Fox" },
-  { emoji: "🐐", label: "Goat" },
+  { label: "Lion", image: "lion" },
+  { label: "Elephant", image: "elephant" },
+  { label: "Giraffe", image: "giraffe" },
+  { label: "Leopard", image: "leopard" },
+  { label: "Eagle", image: "eagle" },
+  { label: "Dolphin", image: "dolphin" },
+  { label: "Butterfly", image: "butterfly" },
+  { label: "Tortoise", image: "tortoise" },
+  { label: "Parrot", image: "parrot" },
+  { label: "Bee", image: "bee" },
+  { label: "Fox", image: "fox" },
+  { label: "Goat", image: "goat" },
 ] as const;
 
 export const NICKNAME_ADJECTIVES = [

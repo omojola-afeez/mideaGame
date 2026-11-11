@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "home-economics",
+  "topic": "food-cook",
+  "title": "Kitchen cove",
+  "questions": [
+    {
+      "code": "7-HEC-COO-B-001",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What is the job of a cooking pot?",
+      "options": [
+        "To boil or cook food",
+        "To serve food only",
+        "To store food",
+        "To wash food"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pot holds food and water while it cooks.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-B-002",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What do we fry akara in?",
+      "options": [
+        "A colander",
+        "A frying pan",
+        "A grater",
+        "A kettle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Akara is deep fried in hot oil in a pan.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-B-003",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "Why do we sieve garri?",
+      "options": [
+        "To add water",
+        "To cool it",
+        "To remove lumps and chaff",
+        "To sweeten it"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sieving garri removes lumps so it soaks evenly.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-B-004",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What must we always check before we light the stove?",
+      "options": [
+        "That the pot is big",
+        "That the salt is ready",
+        "That the food is spicy",
+        "That the gas is not leaking"
+      ],
+      "correctIndex": 3,
+      "explanation": "Checking for leaks prevents fires before lighting.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-B-005",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "Which of these do we cook with?",
+      "options": [
+        "Pepper and onions",
+        "Soap and sponge",
+        "Books and pens",
+        "Buckets and brooms"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pepper and onions are common kitchen ingredients.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-B-006",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "Why must we never leave hot oil alone?",
+      "options": [
+        "It will get cold",
+        "It can catch fire",
+        "It will turn sweet",
+        "It will dry up"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hot oil can ignite, so never leave it unattended.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-B-007",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "What do we use to peel yam?",
+      "options": [
+        "A spoon",
+        "A fork",
+        "A peeler or knife",
+        "A pair of scissors"
+      ],
+      "correctIndex": 2,
+      "explanation": "A peeler or knife removes the tough yam skin safely.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-B-008",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "bronze",
+      "text": "When is it safe for children to help in the kitchen?",
+      "options": [
+        "When frying alone",
+        "When using sharp knives alone",
+        "When the stove is on",
+        "When a grown-up is watching"
+      ],
+      "correctIndex": 3,
+      "explanation": "Children must always cook under adult supervision.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-S-001",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why do we soak beans before cooking them?",
+      "options": [
+        "To soften them and save time",
+        "To make them sweet",
+        "To keep them raw",
+        "To change their colour"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soaking softens the beans so they cook faster.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-S-002",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "What is the right order to cook rice?",
+      "options": [
+        "Boil, then wash, then add salt",
+        "Wash, then boil with water and salt",
+        "Soak in sugar, then fry",
+        "Fry first, then boil"
+      ],
+      "correctIndex": 1,
+      "explanation": "Washing rice before boiling removes starch and dirt.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-S-003",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why should we not overfill a frying pan with oil?",
+      "options": [
+        "It saves cooking gas",
+        "It makes food crispier",
+        "Hot oil can splash out and burn",
+        "It cools the oil faster"
+      ],
+      "correctIndex": 2,
+      "explanation": "Too much oil can bubble over and splash onto flames.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-S-004",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "How do we know spaghetti is done?",
+      "options": [
+        "It turns green",
+        "It floats fully",
+        "It becomes black",
+        "It feels soft when bitten"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cooked spaghetti is tender with a slight firmness.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-S-005",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why should we thaw frozen meat fully?",
+      "options": [
+        "So the inside cooks through and kills germs",
+        "So it tastes salty",
+        "So it cooks faster",
+        "So it looks bigger"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unthawed meat cooks unevenly, leaving raw spots inside.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-S-006",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "What should you use to taste food while cooking?",
+      "options": [
+        "Your fingers",
+        "A clean spoon",
+        "The same spoon you stir with",
+        "A fork from the sink"
+      ],
+      "correctIndex": 1,
+      "explanation": "Always taste with a clean spoon to avoid contamination.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-S-007",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why do we pound yam with a mortar and pestle?",
+      "options": [
+        "To cut it into cubes",
+        "To fry it",
+        "To make smooth pounded yam",
+        "To mash it with sugar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pounding makes the cooked yam soft and stretchy.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-S-008",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "silver",
+      "text": "Why can a boiling pot be risky?",
+      "options": [
+        "It adds too much salt",
+        "It burns the rice only",
+        "It makes too much noise",
+        "It can put out the flame or scald"
+      ],
+      "correctIndex": 3,
+      "explanation": "Boil-overs can extinguish burners or scald nearby cooks.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-G-001",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "You are asked to fry plantain. What must you check?",
+      "options": [
+        "That the oil is hot and you watch it",
+        "That the pan is wet",
+        "That the door is open",
+        "That the light is off"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot oil and constant watching prevent burns and fires.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-G-002",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Why is water on a hot oil fire bad?",
+      "options": [
+        "It puts the fire out safely",
+        "It makes the fire explode and spread",
+        "It cools the pan slowly",
+        "It boils the oil"
+      ],
+      "correctIndex": 1,
+      "explanation": "Water turns to steam and throws burning oil across the kitchen.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-G-003",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "A recipe says two cups of rice for four people. How much for eight?",
+      "options": [
+        "Two cups",
+        "Eight cups",
+        "Four cups",
+        "One cup"
+      ],
+      "correctIndex": 2,
+      "explanation": "Doubling the people doubles the rice needed.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-G-004",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Why must fish and meat be cooked well?",
+      "options": [
+        "To make them heavier",
+        "To remove their smell",
+        "To keep them raw inside",
+        "To kill harmful germs inside them"
+      ],
+      "correctIndex": 3,
+      "explanation": "Raw meat and fish can carry germs that cause illness.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-G-005",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "What will happen if you add too much pepper to soup?",
+      "options": [
+        "The soup will be too spicy to enjoy",
+        "The soup will thicken",
+        "The soup will freeze",
+        "The soup will turn sweet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Too much pepper overpowers other flavours and upsets stomachs.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-G-006",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Why should sharp knives be handled with care?",
+      "options": [
+        "Sharp knives are heavier",
+        "Dull knives slip and sharp knives cut cleanly",
+        "Dull knives rust faster",
+        "Sharp knives attract flies"
+      ],
+      "correctIndex": 1,
+      "explanation": "A dull knife slips, while a sharp one cuts cleanly.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-G-007",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "How can you reduce oil when frying plantain?",
+      "options": [
+        "Add water to the oil",
+        "Cover the pan fully",
+        "Use a non-stick pan with little oil",
+        "Fry on high heat only"
+      ],
+      "correctIndex": 2,
+      "explanation": "A non-stick pan needs less oil for crispy plantain.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-HEC-COO-G-008",
+      "band": "7-9",
+      "subject": "home-economics",
+      "topic": "food-cook",
+      "level": "gold",
+      "text": "Why must we wash hands before cooking?",
+      "options": [
+        "It makes the food salty",
+        "It saves water",
+        "It keeps the tap clean",
+        "It stops germs reaching the food"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clean hands prevent germs from contaminating meals.",
+      "curriculumRef": "NERDC Primary 3 Home Economics, cooking tools, steps and recipes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

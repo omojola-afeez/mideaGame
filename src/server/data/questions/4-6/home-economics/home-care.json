@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "home-economics",
+  "topic": "home-care",
+  "title": "Home harbour",
+  "questions": [
+    {
+      "code": "4-HEC-HOM-B-001",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "What do we use to sweep the floor?",
+      "options": [
+        "A broom",
+        "A cup",
+        "A spoon",
+        "A fork"
+      ],
+      "correctIndex": 0,
+      "explanation": "A broom sweeps dirt off the floor.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-B-002",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Why do we mop the floor?",
+      "options": [
+        "To make it wet",
+        "To keep it clean",
+        "To paint it",
+        "To dry it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mopping removes dirt and dust from the floor.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-B-003",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Where do we keep clean clothes?",
+      "options": [
+        "In the bin",
+        "On the floor",
+        "In a wardrobe",
+        "Outside"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clean clothes stay safe in a wardrobe.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-B-004",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "What must we do with plates?",
+      "options": [
+        "Leave them",
+        "Throw them",
+        "Sell them",
+        "Wash them"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dirty plates must be washed with soap and water.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-B-005",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Who can touch a hot stove?",
+      "options": [
+        "Only grown-ups",
+        "Children",
+        "Pets",
+        "Friends"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot stoves can burn, so only grown-ups use them.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-B-006",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "What do we use to wash our hands?",
+      "options": [
+        "Dust",
+        "Soap and water",
+        "Oil",
+        "Sand"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soap and water keep our hands clean.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-B-007",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Why must we keep our room tidy?",
+      "options": [
+        "So it stays big",
+        "So it looks new",
+        "So nobody trips",
+        "So it smells nice"
+      ],
+      "correctIndex": 2,
+      "explanation": "A tidy room stops falls and bumps.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-B-008",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "bronze",
+      "text": "Where should we put rubbish?",
+      "options": [
+        "On the road",
+        "Under the mat",
+        "In the sink",
+        "In the bin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rubbish in the bin keeps flies away.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-S-001",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why wash hands before meals?",
+      "options": [
+        "To keep germs away",
+        "To look smart",
+        "To get warm",
+        "To smell nice"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hands carry germs, so we wash them before meals.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-S-002",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "A knife is on the floor. What should you do?",
+      "options": [
+        "Pick it up fast",
+        "Tell a grown-up",
+        "Play with it",
+        "Kick it away"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sharp things can cut, so tell a grown-up.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-S-003",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why must we not play with matches?",
+      "options": [
+        "They are too loud",
+        "They are too big",
+        "They can start fires",
+        "They cost money"
+      ],
+      "correctIndex": 2,
+      "explanation": "Matches can start fires and burn the home.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-S-004",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "How often should we sweep the house?",
+      "options": [
+        "Once a year",
+        "Never",
+        "Once a month",
+        "Every day"
+      ],
+      "correctIndex": 3,
+      "explanation": "Daily sweeping keeps dust and germs away.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-S-005",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Where do we keep drugs?",
+      "options": [
+        "High up, away from children",
+        "On the floor",
+        "In the cooking pot",
+        "In the fridge"
+      ],
+      "correctIndex": 0,
+      "explanation": "Drugs can harm children, so keep them high up.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-S-006",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why do we clean as we cook?",
+      "options": [
+        "To fill the sink",
+        "To stop germs spreading",
+        "To waste time",
+        "To use more water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cleaning as you cook keeps germs from food.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-S-007",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Where do we throw tissues?",
+      "options": [
+        "On the floor",
+        "In the toilet",
+        "In the bin",
+        "Out the window"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tissues carry germs, so they go in the bin.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-S-008",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "silver",
+      "text": "Why can a wet floor harm us?",
+      "options": [
+        "It looks bad",
+        "It smells bad",
+        "It cools the room",
+        "We may slip and fall"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wet floors are slippery and can cause falls.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-G-001",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "A glass breaks in the kitchen. What should you do?",
+      "options": [
+        "Call a grown-up and keep away",
+        "Pick up the pieces",
+        "Sweep it with bare hands",
+        "Step over it"
+      ],
+      "correctIndex": 0,
+      "explanation": "Broken glass can cut, so keep away and call help.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-G-002",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Why can a gas cooker burn?",
+      "options": [
+        "It uses too much salt",
+        "It can start a fire",
+        "It is too cold",
+        "It is too heavy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gas can leak and burn, so children stay away.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-G-003",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Mum is cooking. Where should you play?",
+      "options": [
+        "Right beside her",
+        "Under the pot",
+        "Away from the stove",
+        "On the counter"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hot pots and oil can burn children.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-G-004",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Why do we not touch plugs with wet hands?",
+      "options": [
+        "They are noisy",
+        "They are cold",
+        "They are sticky",
+        "Water conducts electricity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Water carries current into our bodies.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-G-005",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Water is spilt on the floor. What do you do?",
+      "options": [
+        "Wipe it up at once",
+        "Step on it",
+        "Walk over it fast",
+        "Leave it there"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wiping spills quickly stops slips and falls.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-G-006",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Why should we not climb high shelves?",
+      "options": [
+        "Shelves are sticky",
+        "You may fall and get hurt",
+        "It is too quiet",
+        "It is too dusty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Climbing high shelves can make you fall.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-G-007",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "What should we check before we sleep?",
+      "options": [
+        "The TV is on",
+        "The tap is running",
+        "Doors and lights are off",
+        "The window is open"
+      ],
+      "correctIndex": 2,
+      "explanation": "Checking doors and lights keeps the home safe.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-HOM-G-008",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "home-care",
+      "level": "gold",
+      "text": "Why must kids stay away from hot pots?",
+      "options": [
+        "They are too cold",
+        "They are sticky",
+        "They are too heavy",
+        "They can burn you"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hot pots can burn, so kids keep their distance.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, keeping the home clean and safe",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "english",
+  "topic": "spelling",
+  "title": "Spelling shore",
+  "questions": [
+    {
+      "code": "7-ENG-SPE-B-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: Children go to ___ every day.",
+      "options": [
+        "school",
+        "schooll",
+        "skuul",
+        "schoo"
+      ],
+      "correctIndex": 0,
+      "explanation": "School is spelled s c h o o l.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: silent letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-B-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: Please ___ your name.",
+      "options": [
+        "rite",
+        "write",
+        "wirte",
+        "wrtie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Write starts with a silent w.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: silent letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-B-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: A ___ saved the king.",
+      "options": [
+        "nite",
+        "knyght",
+        "knight",
+        "knigth"
+      ],
+      "correctIndex": 2,
+      "explanation": "Knight starts with a silent k.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: silent letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-B-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: Always be ___.",
+      "options": [
+        "onest",
+        "honnest",
+        "honst",
+        "honest"
+      ],
+      "correctIndex": 3,
+      "explanation": "Honest starts with a silent h.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: silent letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-B-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: A tortoise lives on an ___.",
+      "options": [
+        "island",
+        "iland",
+        "isalnd",
+        "islannd"
+      ],
+      "correctIndex": 0,
+      "explanation": "Island has a silent s.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: silent letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-B-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: The ___ is bright.",
+      "options": [
+        "lite",
+        "light",
+        "ligth",
+        "ligt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Light has the igh sound.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: vowel teams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-B-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: The ___ is made of wood.",
+      "options": [
+        "tabel",
+        "tablle",
+        "table",
+        "tabble"
+      ],
+      "correctIndex": 2,
+      "explanation": "Table is spelled t a b l e.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-B-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Fill the gap: We grow ___ in the backyard.",
+      "options": [
+        "gardin",
+        "gaerden",
+        "gardan",
+        "garden"
+      ],
+      "correctIndex": 3,
+      "explanation": "Garden is spelled with an e.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-S-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: Many ___ attended the meeting.",
+      "options": [
+        "people",
+        "peopel",
+        "poeple",
+        "peeple"
+      ],
+      "correctIndex": 0,
+      "explanation": "People is spelled p e o p l e.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-S-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: Can you ___ the question?",
+      "options": [
+        "answar",
+        "answer",
+        "ansur",
+        "anser"
+      ],
+      "correctIndex": 1,
+      "explanation": "Answer has a silent w.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-S-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: I ___ before I slept.",
+      "options": [
+        "thot",
+        "thowt",
+        "thought",
+        "thougt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thought is spelled t h o u g h t.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-S-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: The hunter ___ the antelope.",
+      "options": [
+        "cought",
+        "caut",
+        "cauht",
+        "caught"
+      ],
+      "correctIndex": 3,
+      "explanation": "Caught is spelled c a u g h t.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-S-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: Please be ___ in church.",
+      "options": [
+        "quiet",
+        "queit",
+        "quiete",
+        "quite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quiet is spelled q u i e t.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-S-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: Pass me the water ___.",
+      "options": [
+        "botle",
+        "bottle",
+        "bottel",
+        "bottll"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bottle doubles the t.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: double letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-S-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: The carpenter used a ___.",
+      "options": [
+        "hamer",
+        "hammur",
+        "hammer",
+        "hamerr"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hammer doubles the m.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: double letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-S-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Fill the gap: I received a ___ from my aunt.",
+      "options": [
+        "leter",
+        "litter",
+        "lettir",
+        "letter"
+      ],
+      "correctIndex": 3,
+      "explanation": "Letter doubles the t.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: double letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-G-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the right word: The boy ate ___ food.",
+      "options": [
+        "his",
+        "he's",
+        "his'",
+        "is"
+      ],
+      "correctIndex": 0,
+      "explanation": "His shows the boy owns the food.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: homophones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-G-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the right word: ___ raining hard.",
+      "options": [
+        "Its",
+        "It's",
+        "Its'",
+        "Itse"
+      ],
+      "correctIndex": 1,
+      "explanation": "It's means it is.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: homophones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-G-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the right word: I have ___ friends in Kano.",
+      "options": [
+        "too",
+        "to",
+        "two",
+        "tu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Two is the number 2.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: homophones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-G-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the right word: Ada is going ___ the market.",
+      "options": [
+        "too",
+        "two",
+        "toe",
+        "to"
+      ],
+      "correctIndex": 3,
+      "explanation": "To shows movement towards a place.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: homophones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-G-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the right word: The peppers are ___ hot.",
+      "options": [
+        "too",
+        "to",
+        "two",
+        "tu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Too means excessively.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: homophones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-G-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the right word: He gave me ___ books.",
+      "options": [
+        "there",
+        "their",
+        "they're",
+        "theire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Their shows the books belong to them.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: homophones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-G-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the right spelling of the word meaning needed.",
+      "options": [
+        "neccessary",
+        "necessery",
+        "necessary",
+        "necesary"
+      ],
+      "correctIndex": 2,
+      "explanation": "Necessary has one c and two s.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-SPE-G-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the right spelling of the word meaning lovely.",
+      "options": [
+        "beautifull",
+        "beautful",
+        "beautyful",
+        "beautiful"
+      ],
+      "correctIndex": 3,
+      "explanation": "Beautiful keeps the y changed to i.",
+      "curriculumRef": "NERDC Primary 3 English, spelling: tricky words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

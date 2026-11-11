@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "mathematics",
+  "topic": "money-data",
+  "title": "Money market",
+  "questions": [
+    {
+      "code": "4-MAT-MON-B-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "Which note is worth more, ₦5 or ₦10?",
+      "options": [
+        "₦10",
+        "₦5",
+        "They are the same",
+        "₦1"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦10 is more than ₦5.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-B-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "What is 5 k + 5 k?",
+      "options": [
+        "5 k",
+        "10 k",
+        "50 k",
+        "100 k"
+      ],
+      "correctIndex": 1,
+      "explanation": "5 k plus 5 k is 10 k.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-B-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "Which is a note, not a coin?",
+      "options": [
+        "50 k",
+        "10 k",
+        "₦100",
+        "25 k"
+      ],
+      "correctIndex": 2,
+      "explanation": "₦100 is a note.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-B-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "What is ₦2 + ₦3?",
+      "options": [
+        "₦4",
+        "₦6",
+        "₦23",
+        "₦5"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦2 plus ₦3 is ₦5.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-B-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "Which coin is worth the least?",
+      "options": [
+        "5 k",
+        "10 k",
+        "25 k",
+        "50 k"
+      ],
+      "correctIndex": 0,
+      "explanation": "5 k is the smallest coin.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-B-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "What is ₦5 - ₦1?",
+      "options": [
+        "₦5",
+        "₦4",
+        "₦6",
+        "₦3"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦5 take away ₦1 is ₦4.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-B-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "An orange costs ₦2. How much are 2 oranges?",
+      "options": [
+        "₦2",
+        "₦3",
+        "₦4",
+        "₦6"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 oranges at ₦2 is ₦4.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-B-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "bronze",
+      "text": "What is 25 k + 25 k?",
+      "options": [
+        "25 k",
+        "75 k",
+        "100 k",
+        "50 k"
+      ],
+      "correctIndex": 3,
+      "explanation": "25 k plus 25 k is 50 k.",
+      "curriculumRef": "NERDC Nursery 2 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-S-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "What is ₦10 + ₦10?",
+      "options": [
+        "₦20",
+        "₦10",
+        "₦100",
+        "₦30"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦10 plus ₦10 is ₦20.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-S-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "What is ₦50 - ₦20?",
+      "options": [
+        "₦20",
+        "₦30",
+        "₦50",
+        "₦70"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦50 take away ₦20 is ₦30.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-S-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "A pencil costs ₦5. A ruler costs ₦3. What is the total?",
+      "options": [
+        "₦7",
+        "₦9",
+        "₦8",
+        "₦2"
+      ],
+      "correctIndex": 2,
+      "explanation": "₦5 plus ₦3 is ₦8.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-S-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "How many 10 k coins make 50 k?",
+      "options": [
+        "2",
+        "4",
+        "10",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "5 coins of 10 k make 50 k.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-S-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "Which is more: ₦100 or ₦50?",
+      "options": [
+        "₦100",
+        "₦50",
+        "They are the same",
+        "₦5"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦100 is more than ₦50.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-S-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "Bread costs ₦20. You pay with ₦50. What is your change?",
+      "options": [
+        "₦20",
+        "₦30",
+        "₦50",
+        "₦70"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦50 minus ₦20 is ₦30.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-S-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "What is ₦20 + ₦20 + ₦20?",
+      "options": [
+        "₦40",
+        "₦80",
+        "₦60",
+        "₦200"
+      ],
+      "correctIndex": 2,
+      "explanation": "Three lots of ₦20 is ₦60.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-S-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "silver",
+      "text": "How many 25 k coins make ₦1?",
+      "options": [
+        "2",
+        "5",
+        "10",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "Four 25 k coins make 100 k.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-G-001",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "Musa buys a biscuit for ₦15. He pays with ₦20. What is his change?",
+      "options": [
+        "₦5",
+        "₦15",
+        "₦20",
+        "₦10"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦20 minus ₦15 is ₦5.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-G-002",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "What is ₦100 - ₦40?",
+      "options": [
+        "₦40",
+        "₦60",
+        "₦100",
+        "₦140"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦100 minus ₦40 is ₦60.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-G-003",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "Rice costs ₦30. Beans cost ₦25. What is the total?",
+      "options": [
+        "₦50",
+        "₦60",
+        "₦55",
+        "₦5"
+      ],
+      "correctIndex": 2,
+      "explanation": "₦30 plus ₦25 is ₦55.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-G-004",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "How many ₦10 notes make ₦100?",
+      "options": [
+        "5",
+        "100",
+        "20",
+        "10"
+      ],
+      "correctIndex": 3,
+      "explanation": "10 notes of ₦10 make ₦100.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-G-005",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "A book costs ₦45. You give ₦50. What is the change?",
+      "options": [
+        "₦5",
+        "₦45",
+        "₦50",
+        "₦95"
+      ],
+      "correctIndex": 0,
+      "explanation": "₦50 minus ₦45 is ₦5.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-G-006",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "What is ₦200 + ₦300?",
+      "options": [
+        "₦400",
+        "₦500",
+        "₦600",
+        "₦800"
+      ],
+      "correctIndex": 1,
+      "explanation": "₦200 plus ₦300 is ₦500.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-G-007",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "3 mangoes cost ₦30. How much is one mango?",
+      "options": [
+        "₦3",
+        "₦15",
+        "₦10",
+        "₦30"
+      ],
+      "correctIndex": 2,
+      "explanation": "₦30 shared by 3 is ₦10.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-MAT-MON-G-008",
+      "band": "4-6",
+      "subject": "mathematics",
+      "topic": "money-data",
+      "level": "gold",
+      "text": "Which note is worth the most?",
+      "options": [
+        "₦100",
+        "₦50",
+        "₦10",
+        "₦200"
+      ],
+      "correctIndex": 3,
+      "explanation": "₦200 is the highest note listed.",
+      "curriculumRef": "NERDC Primary 1 Mathematics, money and simple charts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

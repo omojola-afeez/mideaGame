@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "code-ai",
+  "topic": "code-and-ai",
+  "title": "Robot ridge",
+  "questions": [
+    {
+      "code": "4-COD-COD-B-001",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What is a computer?",
+      "options": [
+        "A machine",
+        "A bird",
+        "A tree",
+        "A stone"
+      ],
+      "correctIndex": 0,
+      "explanation": "A computer is a smart machine.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-B-002",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What do we use a computer for?",
+      "options": [
+        "Sleeping",
+        "Learning",
+        "Eating",
+        "Swimming"
+      ],
+      "correctIndex": 1,
+      "explanation": "Computers help us learn and play.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-B-003",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "Which part do you press to type?",
+      "options": [
+        "The screen",
+        "The mouse",
+        "The keyboard",
+        "The plug"
+      ],
+      "correctIndex": 2,
+      "explanation": "You press keys on the keyboard.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-B-004",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "Which part shows pictures?",
+      "options": [
+        "The mouse",
+        "The keyboard",
+        "The cable",
+        "The screen"
+      ],
+      "correctIndex": 3,
+      "explanation": "The screen shows words and pictures.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-B-005",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What is a robot?",
+      "options": [
+        "A helper machine",
+        "A pet dog",
+        "A cooking pot",
+        "A story book"
+      ],
+      "correctIndex": 0,
+      "explanation": "A robot is a smart helper machine.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-B-006",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What can a computer do?",
+      "options": [
+        "Fly a plane",
+        "Add numbers",
+        "Grow food",
+        "Build a house"
+      ],
+      "correctIndex": 1,
+      "explanation": "Computers can add numbers quickly.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-B-007",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "Which one is a computer?",
+      "options": [
+        "A banana",
+        "A chair",
+        "A laptop",
+        "A bag"
+      ],
+      "correctIndex": 2,
+      "explanation": "A laptop is a small computer.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-B-008",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What do you click with?",
+      "options": [
+        "A fork",
+        "A drum",
+        "A shoe",
+        "A mouse"
+      ],
+      "correctIndex": 3,
+      "explanation": "A mouse helps you click on the screen.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-S-001",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "A computer helps you do what?",
+      "options": [
+        "Add up numbers",
+        "Climb a ladder",
+        "Boil water",
+        "Wash clothes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Computers are very good at adding numbers.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-S-002",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "Which part do you move to see things move on the screen?",
+      "options": [
+        "The cable",
+        "The mouse",
+        "The speaker",
+        "The plug"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moving the mouse moves the pointer.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-S-003",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "What should you do with a computer?",
+      "options": [
+        "Throw it",
+        "Bite it",
+        "Use it kindly",
+        "Break it"
+      ],
+      "correctIndex": 2,
+      "explanation": "Be gentle with computers.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-S-004",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "What does a screen show?",
+      "options": [
+        "Only silence",
+        "Only heat",
+        "Only smell",
+        "Words and pictures"
+      ],
+      "correctIndex": 3,
+      "explanation": "The screen shows words, pictures and games.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-S-005",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "Why do people like computers?",
+      "options": [
+        "They help with work",
+        "They are noisy",
+        "They are big",
+        "They are heavy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Computers help people work and learn.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-S-006",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "Which one is not a computer?",
+      "options": [
+        "A laptop",
+        "A spoon",
+        "A tablet",
+        "A phone"
+      ],
+      "correctIndex": 1,
+      "explanation": "A spoon is not a computer.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-S-007",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "What keeps your computer safe?",
+      "options": [
+        "A sticker",
+        "A crayon",
+        "A password",
+        "A spoon"
+      ],
+      "correctIndex": 2,
+      "explanation": "A password stops others using it.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-S-008",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "A robot can do what?",
+      "options": [
+        "Sleep for you",
+        "Eat for you",
+        "Walk for you",
+        "Repeat a task"
+      ],
+      "correctIndex": 3,
+      "explanation": "Robots can repeat the same job again and again.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-G-001",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Why is a computer fast?",
+      "options": [
+        "It does sums quickly",
+        "It is big",
+        "It is heavy",
+        "It is quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Computers do sums far faster than people.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-G-002",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Why do we not share our password?",
+      "options": [
+        "To lose it",
+        "To keep things safe",
+        "To forget it",
+        "To share it"
+      ],
+      "correctIndex": 1,
+      "explanation": "A password keeps your things safe.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-G-003",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "A robot follows what?",
+      "options": [
+        "Feelings",
+        "Dreams",
+        "Instructions",
+        "Songs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Robots do what we tell them.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-G-004",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "What must a computer have to work?",
+      "options": [
+        "A hat",
+        "A toy",
+        "A snack",
+        "Instructions"
+      ],
+      "correctIndex": 3,
+      "explanation": "A computer needs instructions to do any job.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-G-005",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Why is it nice to ask before using a computer?",
+      "options": [
+        "Grown-ups help us use it well",
+        "So we press more keys",
+        "So we break it",
+        "So we lose the mouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "A grown-up can keep you safe and help you learn.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-G-006",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "What must a computer obey?",
+      "options": [
+        "Feelings",
+        "Instructions",
+        "Dreams",
+        "Songs"
+      ],
+      "correctIndex": 1,
+      "explanation": "A computer follows the steps people give it.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-G-007",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Which is kind to the computer?",
+      "options": [
+        "Hitting it",
+        "Throwing it",
+        "Being gentle with it",
+        "Dropping it"
+      ],
+      "correctIndex": 2,
+      "explanation": "Be gentle and the computer works well.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-COD-COD-G-008",
+      "band": "4-6",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Why should you ask before you share a photo?",
+      "options": [
+        "So it looks nice",
+        "So it grows",
+        "So it flies",
+        "Not everyone has permission"
+      ],
+      "correctIndex": 3,
+      "explanation": "Always ask before you share a photo of someone.",
+      "curriculumRef": "NERDC Nursery 2 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

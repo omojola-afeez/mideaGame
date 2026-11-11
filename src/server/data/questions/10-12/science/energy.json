@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "science",
+  "topic": "energy",
+  "title": "Energy edge",
+  "questions": [
+    {
+      "code": "10-SCI-ENE-B-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "What is the main source of energy for Earth?",
+      "options": [
+        "The sun",
+        "The moon",
+        "Wind",
+        "Coal"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sun gives light and heat to Earth.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-B-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which of these gives us light?",
+      "options": [
+        "A drum",
+        "A bulb",
+        "A chair",
+        "A fan"
+      ],
+      "correctIndex": 1,
+      "explanation": "A bulb changes electrical energy into light.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-B-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "What energy does a beating drum produce?",
+      "options": [
+        "Heat",
+        "Light",
+        "Sound",
+        "Wind"
+      ],
+      "correctIndex": 2,
+      "explanation": "A drum vibrates to make sound.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-B-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which fuel do most Nigerian cars use?",
+      "options": [
+        "Charcoal",
+        "Firewood",
+        "Candle wax",
+        "Petrol"
+      ],
+      "correctIndex": 3,
+      "explanation": "Most cars in Nigeria run on petrol.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-B-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Why do homes need power?",
+      "options": [
+        "To power appliances",
+        "To grow plants",
+        "To paint walls",
+        "To make salt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Electricity powers lights, fans, fridges and TVs.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-B-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which of these is a source of heat?",
+      "options": [
+        "A mirror",
+        "A match flame",
+        "A bell",
+        "A stone"
+      ],
+      "correctIndex": 1,
+      "explanation": "A match gives off heat and light.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-B-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "What does a fan do with power?",
+      "options": [
+        "Turns it into light",
+        "Turns it into sound only",
+        "Turns it into movement",
+        "Stores it in water"
+      ],
+      "correctIndex": 2,
+      "explanation": "A fan changes electrical energy into movement.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-B-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "bronze",
+      "text": "Which energy do our ears detect?",
+      "options": [
+        "Light",
+        "Heat",
+        "Gravity",
+        "Sound"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sound is the energy our ears detect.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-S-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Why do we put food in a fridge?",
+      "options": [
+        "To keep it cold and fresh",
+        "To cook it faster",
+        "To dry it out",
+        "To make it sweeter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cold slows spoilage, so food lasts longer.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-S-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "What energy does a moving car have?",
+      "options": [
+        "Heat energy",
+        "Kinetic energy",
+        "Light energy",
+        "Chemical energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moving things have kinetic energy.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-S-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Why do solar panels work best in full sun?",
+      "options": [
+        "They store rain",
+        "They need wind",
+        "They need sunlight to make power",
+        "They like the heat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Solar panels change sunlight into electricity.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-S-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "How does a torch work?",
+      "options": [
+        "Sunlight charges it",
+        "Gas burns inside",
+        "It stores sound",
+        "Batteries push current to a bulb"
+      ],
+      "correctIndex": 3,
+      "explanation": "A torch battery sends current through the bulb.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-S-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "How does sound travel through a drum skin?",
+      "options": [
+        "The skin vibrates",
+        "The skin is hot",
+        "The skin is shiny",
+        "The skin is heavy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vibration carries sound through materials.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-S-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "What change happens when firewood burns?",
+      "options": [
+        "Light to sound",
+        "Chemical energy turns to heat",
+        "Heat to light",
+        "Movement to heat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Burning firewood changes stored chemical energy to heat.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-S-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "Why do we wear light clothes in hot weather?",
+      "options": [
+        "They absorb heat",
+        "They are cheaper",
+        "They reflect sunlight",
+        "They are thicker"
+      ],
+      "correctIndex": 2,
+      "explanation": "Light surfaces reflect light and keep us cooler.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-S-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "silver",
+      "text": "What happens to your shadow on a cloudy day?",
+      "options": [
+        "It turns blue",
+        "It doubles in size",
+        "It moves behind you",
+        "It fades or disappears"
+      ],
+      "correctIndex": 3,
+      "explanation": "A shadow needs direct light to show.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-G-001",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why do we hear thunder after we see lightning?",
+      "options": [
+        "Light travels faster than sound",
+        "Thunder forms later",
+        "Sound is louder at night",
+        "Light is slower in rain"
+      ],
+      "correctIndex": 0,
+      "explanation": "Light reaches our eyes before sound reaches our ears.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-G-002",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "How do hydro dams like Kainji make power?",
+      "options": [
+        "Dams store sunlight",
+        "Moving water turns turbines",
+        "Dams make wind",
+        "Heat boils the water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moving water spins turbines linked to generators.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-G-003",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "How can a house save electricity?",
+      "options": [
+        "Opening all the windows",
+        "Painting the walls white",
+        "Using LED bulbs and switching off unused appliances",
+        "Buying more fans"
+      ],
+      "correctIndex": 2,
+      "explanation": "LEDs use little power, and unused appliances waste none.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-G-004",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why does a bicycle dynamo light the lamp?",
+      "options": [
+        "Friction makes fire",
+        "The chain stores charge",
+        "Pedalling cools the lamp",
+        "Movement makes electric current"
+      ],
+      "correctIndex": 3,
+      "explanation": "A dynamo turns movement into electrical energy.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-G-005",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why do people cook with firewood?",
+      "options": [
+        "It is cheap and easy to get",
+        "It gives no smoke",
+        "It burns cold",
+        "It is found underground"
+      ],
+      "correctIndex": 0,
+      "explanation": "Firewood is widely available and affordable for cooking.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-G-006",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Which one shows energy turning to motion?",
+      "options": [
+        "A still stone",
+        "A ball falling from a roof",
+        "A burning candle",
+        "A glowing bulb"
+      ],
+      "correctIndex": 1,
+      "explanation": "A high ball stores energy it releases as it falls.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-G-007",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why does a steel cup feel hotter than a wooden one with tea?",
+      "options": [
+        "Wood stores more heat",
+        "Steel reflects heat away",
+        "Steel passes heat faster",
+        "Wood blocks all cold"
+      ],
+      "correctIndex": 2,
+      "explanation": "Steel passes heat quickly to your hand.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SCI-ENE-G-008",
+      "band": "10-12",
+      "subject": "science",
+      "topic": "energy",
+      "level": "gold",
+      "text": "Why should we switch off lights when leaving a room?",
+      "options": [
+        "To rest the bulb",
+        "To keep the room warm",
+        "To stop insects",
+        "To save electricity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Switching off saves power and money.",
+      "curriculumRef": "NERDC Primary 5 Integrated Science, energy and force",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

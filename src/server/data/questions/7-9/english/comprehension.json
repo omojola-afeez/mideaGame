@@ -1,0 +1,512 @@
+{
+  "band": "7-9",
+  "subject": "english",
+  "topic": "comprehension",
+  "title": "Reading detective",
+  "questions": [
+    {
+      "code": "7-ENG-COM-B-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "What did Ada do first?",
+      "passage": "Ada woke up early. She swept the compound. Then she fetched water. Mama cooked yam porridge. Papa returned at noon. The family ate together.",
+      "options": [
+        "She swept the compound",
+        "She cooked the meal",
+        "She went to the farm",
+        "She fetched water"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story says she swept the compound first.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-B-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Where is Musa's school?",
+      "passage": "Musa's school is near the market. He passes it each morning. He greets the traders on the way. When the bell rings, he runs to class.",
+      "options": [
+        "Near the river",
+        "Near the market",
+        "Near the farm",
+        "Near the church"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story says his school is near the market.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-B-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "What is Bola's favourite book about?",
+      "passage": "Bola loves reading. She reads a book each day. Her favourite is about a clever tortoise. The tortoise tricks the other animals. Bola learned a lesson from it.",
+      "options": [
+        "A fierce lion",
+        "A brave hunter",
+        "A clever tortoise",
+        "A kind king"
+      ],
+      "correctIndex": 2,
+      "explanation": "Her favourite book is about a clever tortoise.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-B-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "What did Papa get when he came in?",
+      "passage": "The rain beat hard on the roof. Papa came in soaked. Mama passed him a dry wrapper. She also gave him hot tea. Papa smiled at her.",
+      "options": [
+        "A new shirt and shoes",
+        "His lunch and water",
+        "A blanket and a snack",
+        "A dry wrapper and hot tea"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mama passed him a dry wrapper and tea.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-B-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "When is Independence Day?",
+      "passage": "Nigeria celebrates Independence Day on 1 October. Flags fly in the streets. Children dress in green and white. There are parades at the square. Everyone sings the anthem.",
+      "options": [
+        "1 October",
+        "1 May",
+        "1 December",
+        "25 December"
+      ],
+      "correctIndex": 0,
+      "explanation": "Independence Day is on 1 October.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-B-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "What does the family do with the goat money?",
+      "passage": "Chiamaka keeps goats behind her house. She feeds them in the evening. Every Saturday, her father sells two goats. The money helps pay school fees.",
+      "options": [
+        "Buy new clothes",
+        "Pay school fees",
+        "Build a house",
+        "Travel to Lagos"
+      ],
+      "correctIndex": 1,
+      "explanation": "The money helps pay school fees.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-B-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "How did the pap taste to Uche?",
+      "passage": "The matron gave every child a cup of pap. It was warm and sweet. Uche said it tasted like honey. Ngozi finished hers quickly. Soon all the cups were empty.",
+      "options": [
+        "Like pepper",
+        "Like salt water",
+        "Like honey",
+        "Like bitter leaf"
+      ],
+      "correctIndex": 2,
+      "explanation": "Uche said the pap tasted like honey.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-B-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "What grew after two weeks?",
+      "passage": "Emeka's class planted flowers in the garden. He watered his plant every day. After two weeks, small leaves appeared. His teacher praised him in class.",
+      "options": [
+        "Big flowers",
+        "Tall grass",
+        "Cassava stems",
+        "Small leaves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Small leaves appeared after two weeks.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-S-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "What does the story tell us about Kemi?",
+      "passage": "Kemi's mother sells roasted plantain by the road. Kemi helps her carry the basket. She fans the charcoal when the wind is low. After school, she counts the money with her. She dreams of owning a big shop.",
+      "options": [
+        "She is hardworking",
+        "She is lazy",
+        "She is fearful",
+        "She is rude"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kemi works hard to help her mother.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-S-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "What can we tell from the match?",
+      "passage": "The match ended in a draw. Both teams played very well. The crowd cheered every goal. The two captains shook hands at the end. Everyone left the field smiling.",
+      "options": [
+        "One team cheated",
+        "Both teams were respectful",
+        "The referee was angry",
+        "The fans fought"
+      ],
+      "correctIndex": 1,
+      "explanation": "The captains shook hands. Both sides were fair.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-S-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "What is the key message in the passage?",
+      "passage": "The generator failed at night. The house went dark. Ifele lit a kerosene lamp. Her brother read by the light. Their mother told them folktales until they slept. Ifele loved the tortoise stories.",
+      "options": [
+        "Generators often fail in Nigeria",
+        "Kerosene lamps are costly",
+        "The family shared stories in the dark",
+        "Tortoise tales are for adults"
+      ],
+      "correctIndex": 2,
+      "explanation": "The heart of the story is sharing tales in the dark.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-S-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why do the children love Aunty Biola?",
+      "passage": "Aunty Biola teaches in a village school. She walks two kilometres each day. She carries books for her pupils. On rainy days, she wears her boots. The children love her.",
+      "options": [
+        "She lives close",
+        "She gives gifts",
+        "She tells jokes",
+        "She is kind"
+      ],
+      "correctIndex": 3,
+      "explanation": "The children love her because she is kind.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-S-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "How did Tobi feel after buying the ball?",
+      "passage": "Tobi saved his pocket money for weeks. He wanted a new football. On Saturday, he walked to the shop with his father. He counted the notes and paid. He felt very proud.",
+      "options": [
+        "Proud",
+        "Afraid",
+        "Angry",
+        "Bored"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tobi felt proud of his purchase.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-S-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why must hands be washed with soap?",
+      "passage": "The nurse told Ngozi to wash her hands with soap before eating. Soap removes the germs that water alone cannot. Ngozi washed her hands and ate her lunch. She did not fall ill that week.",
+      "options": [
+        "To smell nice",
+        "To remove germs",
+        "To cool the hands",
+        "To save water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soap removes germs that water cannot.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-S-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "What do farmers do under the tree?",
+      "passage": "A baobab tree stands at the village square. It is over a hundred years old. Its trunk is very wide. Farmers rest under it on hot afternoons. Birds nest on its branches.",
+      "options": [
+        "They trade goods",
+        "They dance",
+        "They rest",
+        "They pray"
+      ],
+      "correctIndex": 2,
+      "explanation": "Farmers rest under the tree on hot afternoons.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-S-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "What does Zainab want to be?",
+      "passage": "Zainab wants to be a doctor. She reads her science books every night. Her brother says she will heal many people. Zainab saves her allowance for books. She never misses study time.",
+      "options": [
+        "A teacher",
+        "A trader",
+        "An engineer",
+        "A doctor"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zainab wants to be a doctor.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-G-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "How does the writer feel about the village trip?",
+      "passage": "Every December, we travel to our grandfather's village. The bus ride is long but fun. My cousins wait at the motor park. We feast, we play, we tell old stories. I wish the holiday never ended.",
+      "options": [
+        "Excited and happy",
+        "Scared and worried",
+        "Bored and tired",
+        "Angry and sad"
+      ],
+      "correctIndex": 0,
+      "explanation": "The writer loves the trip and wishes it lasted.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-G-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "What is the main idea of the passage?",
+      "passage": "The new borehole changed life in our town. Women no longer walk far for water. Crops grow taller with regular water. Children look cleaner at school. Even the cattle drink from it.",
+      "options": [
+        "Cattle need water daily",
+        "The borehole improved life in town",
+        "Children must look clean",
+        "Women travel far to markets"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage lists many ways the borehole helped.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-G-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "What lesson does the story teach?",
+      "passage": "Akin found a wallet at the bus stop. He handed it to the driver. The owner returned and gave him a reward. Akin refused the money but smiled. His teacher praised him before the school.",
+      "options": [
+        "Money is always lost",
+        "Drivers are kind",
+        "Honesty brings respect",
+        "Always refuse money"
+      ],
+      "correctIndex": 2,
+      "explanation": "Akin was respected because he was honest.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-G-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "What does the passage suggest about reading?",
+      "passage": "Our school library has many books. Pupils visit it every week. Reading grows the mind. Some pupils borrow novels. The librarian says reading is key.",
+      "options": [
+        "Reading is only for exams",
+        "Newspapers are better than books",
+        "Libraries are noisy places",
+        "Reading builds the mind"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reading grows the mind and teaches ideas.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-G-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "Why do farmers watch their farms in harmattan?",
+      "passage": "In harmattan, the air is dry and dusty. People wear warm clothes at night. Dry leaves rattle on the ground. Fires start easily on farms. Farmers watch their crops with extra care.",
+      "options": [
+        "Fires start easily",
+        "Thieves come often",
+        "Crops grow too fast",
+        "Wind blocks the roads"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage says fires start easily in harmattan.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-G-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "How did Adaeze's writing help others?",
+      "passage": "Adaeze joined the press club at school. She wrote about the new lab. Her article praised the people who built it. Readers from other classes praised her work. She hopes to become a writer.",
+      "options": [
+        "Readers ignored her",
+        "Readers praised her",
+        "Readers laughed at her",
+        "Readers rejected her"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage says readers praised her work.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-G-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "What is the main lesson of the passage?",
+      "passage": "The old fisherman taught his grandson to mend nets. The boy watched each knot closely. At first his fingers fumbled. After many tries, he tied strong knots. The old man said practice makes perfect.",
+      "options": [
+        "Nets are hard to mend",
+        "Fishing is a hard life",
+        "Practice makes perfect",
+        "Children should watch only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The grandson learned through steady practice.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-COM-G-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "What does the passage say about the river?",
+      "passage": "The Benue river carries canoes and fish. Fishermen catch fish for sale. Many families depend on the river. It gives food and income. It also floods farms when it overflows.",
+      "options": [
+        "It is only for swimming",
+        "It never floods",
+        "It has no fish",
+        "It provides food and income"
+      ],
+      "correctIndex": 3,
+      "explanation": "Many families depend on the river for food and income.",
+      "curriculumRef": "NERDC Primary 3 English, reading comprehension",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

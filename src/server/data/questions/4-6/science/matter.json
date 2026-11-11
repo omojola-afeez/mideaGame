@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "science",
+  "topic": "matter",
+  "title": "Matter marsh",
+  "questions": [
+    {
+      "code": "4-SCI-MAT-B-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which one can pour?",
+      "options": [
+        "Water",
+        "A stone",
+        "A chair",
+        "A book"
+      ],
+      "correctIndex": 0,
+      "explanation": "Water can pour from one place to another.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-B-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which one is hard?",
+      "options": [
+        "A cloth",
+        "A rock",
+        "A balloon",
+        "A sponge"
+      ],
+      "correctIndex": 1,
+      "explanation": "A rock is hard and strong.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-B-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "What does ice feel like?",
+      "options": [
+        "Hot",
+        "Soft and warm",
+        "Cold",
+        "Dry and hot"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ice is very cold to touch.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-B-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which one melts?",
+      "options": [
+        "A cup",
+        "A spoon",
+        "A plate",
+        "Ice cream"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ice cream melts in the heat.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-B-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Where does rain land?",
+      "options": [
+        "In puddles",
+        "In the sky",
+        "On the sun",
+        "In the clouds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rain falls to the ground and fills puddles.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-B-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which one is wet?",
+      "options": [
+        "A dry towel",
+        "A wet cloth",
+        "A clean plate",
+        "A wool cap"
+      ],
+      "correctIndex": 1,
+      "explanation": "A wet cloth holds water.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-B-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Where do we keep water?",
+      "options": [
+        "In a bag",
+        "In a sock",
+        "In a cup",
+        "In a book"
+      ],
+      "correctIndex": 2,
+      "explanation": "A cup can hold water.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-B-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "bronze",
+      "text": "Which one can flow?",
+      "options": [
+        "A shoe",
+        "A stone",
+        "A chair",
+        "Milk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Milk flows like water does.",
+      "curriculumRef": "NERDC Nursery 2 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-S-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "What is water when it boils?",
+      "options": [
+        "Steam",
+        "Ice",
+        "Salt",
+        "Smoke"
+      ],
+      "correctIndex": 0,
+      "explanation": "Boiling water turns into steam.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-S-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Which one sinks in water?",
+      "options": [
+        "A leaf",
+        "A stone",
+        "A cork",
+        "An empty bottle"
+      ],
+      "correctIndex": 1,
+      "explanation": "A stone is heavy and sinks.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-S-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Which one floats?",
+      "options": [
+        "A stone",
+        "A coin",
+        "A cork",
+        "A key"
+      ],
+      "correctIndex": 2,
+      "explanation": "A cork is light and floats.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-S-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "What do we call water we can drink?",
+      "options": [
+        "Dirty water",
+        "Sea water",
+        "Muddy water",
+        "Drinking water"
+      ],
+      "correctIndex": 3,
+      "explanation": "Drinking water is clean and safe.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-S-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Which is a mix of sand and water?",
+      "options": [
+        "Mud",
+        "Salt",
+        "Ice",
+        "Oil"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mud is sand mixed with water.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-S-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "What is steam?",
+      "options": [
+        "Smoke from fire",
+        "Water as a hot gas",
+        "Dust from sand",
+        "Cold mist"
+      ],
+      "correctIndex": 1,
+      "explanation": "Steam is water as a hot gas.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-S-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "Which one is the hardest?",
+      "options": [
+        "A sponge",
+        "A leaf",
+        "A rock",
+        "A balloon"
+      ],
+      "correctIndex": 2,
+      "explanation": "A rock is very hard.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-S-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "silver",
+      "text": "What do we use for water?",
+      "options": [
+        "A net",
+        "A bag",
+        "A plate",
+        "A bucket"
+      ],
+      "correctIndex": 3,
+      "explanation": "A bucket holds and carries water.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-G-001",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Why can we not see air?",
+      "options": [
+        "Air has no colour",
+        "Air is black",
+        "Air is too bright",
+        "Air hides in holes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Air is clear, so we cannot see it.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-G-002",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "What is steam made of?",
+      "options": [
+        "Smoke",
+        "Water",
+        "Sand",
+        "Salt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Steam is water as a hot gas.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-G-003",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Which water is safe to drink?",
+      "options": [
+        "Muddy water",
+        "Sea water",
+        "Boiled water",
+        "Rain from a roof"
+      ],
+      "correctIndex": 2,
+      "explanation": "Boiling kills germs in water.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-G-004",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "How does ice feel?",
+      "options": [
+        "Warm and soft",
+        "Hot and wet",
+        "Soft and dry",
+        "Cold and hard"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ice is cold and hard.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-G-005",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Why do we boil water?",
+      "options": [
+        "To kill germs",
+        "To add salt",
+        "To make it cold",
+        "To change its taste"
+      ],
+      "correctIndex": 0,
+      "explanation": "Boiling water kills germs.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-G-006",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Which one can melt?",
+      "options": [
+        "A stone",
+        "Ice",
+        "A spoon",
+        "A plate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ice melts when it gets warm.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-G-007",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "Where does salt come from?",
+      "options": [
+        "The sky",
+        "Fire",
+        "The sea",
+        "Trees"
+      ],
+      "correctIndex": 2,
+      "explanation": "Salt is taken from sea water.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SCI-MAT-G-008",
+      "band": "4-6",
+      "subject": "science",
+      "topic": "matter",
+      "level": "gold",
+      "text": "How can we keep water clean?",
+      "options": [
+        "Leave it open",
+        "Mix it with oil",
+        "Stir it with sand",
+        "Keep the cup covered"
+      ],
+      "correctIndex": 3,
+      "explanation": "A covered cup keeps dirt out.",
+      "curriculumRef": "NERDC Primary 1 Integrated Science, solids and liquids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

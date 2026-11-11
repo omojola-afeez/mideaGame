@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "english",
+  "topic": "tenses",
+  "title": "Time travellers",
+  "questions": [
+    {
+      "code": "7-ENG-TEN-B-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: I ___ to school every day.",
+      "options": [
+        "go",
+        "went",
+        "going",
+        "gone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Every day shows the habitual present.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-B-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: She ___ her books at night.",
+      "options": [
+        "read",
+        "reads",
+        "reading",
+        "will read"
+      ],
+      "correctIndex": 1,
+      "explanation": "She takes the verb with s.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-B-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: The sun ___ in the east.",
+      "options": [
+        "rise",
+        "rising",
+        "rises",
+        "rose"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sun rises in the east each day.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-B-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: We ___ English in school.",
+      "options": [
+        "spoke",
+        "spoken",
+        "speaking",
+        "speak"
+      ],
+      "correctIndex": 3,
+      "explanation": "We speak English. This is the simple present.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-B-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: The bus ___ at the park daily.",
+      "options": [
+        "stops",
+        "stop",
+        "stopped",
+        "stopping"
+      ],
+      "correctIndex": 0,
+      "explanation": "A single bus takes stops.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-B-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: My father ___ in Kano.",
+      "options": [
+        "work",
+        "works",
+        "worked",
+        "working"
+      ],
+      "correctIndex": 1,
+      "explanation": "My father takes works.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-B-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Fill the gap: Birds ___ in the trees.",
+      "options": [
+        "nests",
+        "nested",
+        "nest",
+        "nesting"
+      ],
+      "correctIndex": 2,
+      "explanation": "Birds is plural, so use nest.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-B-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "Which word shows action now?",
+      "options": [
+        "sang",
+        "sung",
+        "sing",
+        "sings"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sings shows present action.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple present",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-S-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last week, we ___ the new borehole.",
+      "options": [
+        "visited",
+        "visit",
+        "visits",
+        "will visit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday shows the simple past.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-S-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last week, she ___ a prize.",
+      "options": [
+        "wins",
+        "won",
+        "win",
+        "will win"
+      ],
+      "correctIndex": 1,
+      "explanation": "Won is the past of win.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-S-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Yesterday, the rain ___ all day.",
+      "options": [
+        "falls",
+        "fall",
+        "fell",
+        "will fall"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fell is the past of fall.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-S-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last night, I ___ my homework.",
+      "options": [
+        "finish",
+        "finishes",
+        "will finish",
+        "finished"
+      ],
+      "correctIndex": 3,
+      "explanation": "Last night shows the past.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-S-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last night, he ___ his grandmother.",
+      "options": [
+        "called",
+        "calls",
+        "call",
+        "will call"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us it is past.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-S-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last year, they ___ to Lagos.",
+      "options": [
+        "move",
+        "moved",
+        "moves",
+        "will move"
+      ],
+      "correctIndex": 1,
+      "explanation": "Last year shows the past.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-S-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last week, the baby ___ all night.",
+      "options": [
+        "cries",
+        "cry",
+        "cried",
+        "will cry"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cried is the past of cry.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-S-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Fill the gap: Last Saturday, we ___ yams.",
+      "options": [
+        "plant",
+        "plants",
+        "will plant",
+        "planted"
+      ],
+      "correctIndex": 3,
+      "explanation": "Last Saturday shows the past.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-G-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Next week, we ___ the museum.",
+      "options": [
+        "will visit",
+        "visited",
+        "visit",
+        "visits"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tomorrow shows the future. Use will.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-G-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Next month, she ___ her exams.",
+      "options": [
+        "wrote",
+        "will write",
+        "writes",
+        "write"
+      ],
+      "correctIndex": 1,
+      "explanation": "Next month shows the future. Use will.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-G-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Next year, they ___ a new school.",
+      "options": [
+        "built",
+        "builds",
+        "will build",
+        "build"
+      ],
+      "correctIndex": 2,
+      "explanation": "Next year shows the future. Use will.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-G-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Tomorrow, the plane ___ at noon.",
+      "options": [
+        "landed",
+        "lands",
+        "land",
+        "will land"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tomorrow shows the future. Use will land.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-G-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: By next week, I ___ my project.",
+      "options": [
+        "will finish",
+        "finished",
+        "finishes",
+        "finish"
+      ],
+      "correctIndex": 0,
+      "explanation": "Next week shows the future. Use will.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-G-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: Soon, the rains ___.",
+      "options": [
+        "came",
+        "will come",
+        "comes",
+        "come"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soon shows the future. Use will come.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-G-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: On Friday, we ___ Independence Day.",
+      "options": [
+        "celebrated",
+        "celebrates",
+        "will celebrate",
+        "celebrate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Next Friday shows the future. Use will.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-TEN-G-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap: By 2027, I ___ in junior school.",
+      "options": [
+        "am",
+        "was",
+        "were",
+        "will be"
+      ],
+      "correctIndex": 3,
+      "explanation": "2027 is the future. Use will be.",
+      "curriculumRef": "NERDC Primary 3 English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

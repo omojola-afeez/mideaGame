@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "social-studies",
+  "topic": "family",
+  "title": "Family forest",
+  "questions": [
+    {
+      "code": "4-SOC-FAM-B-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Who cooks the food at home?",
+      "options": [
+        "Mother",
+        "The tailor",
+        "The driver",
+        "The pilot"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mothers prepare meals in many Nigerian homes.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-B-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Who takes you to school?",
+      "options": [
+        "The goat",
+        "My parents",
+        "The rain",
+        "The cat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parents take their children to school.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-B-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Who lives with you at your home?",
+      "options": [
+        "Shopkeepers",
+        "Farmers",
+        "Family members",
+        "Pilots"
+      ],
+      "correctIndex": 2,
+      "explanation": "People who live together at home are family.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-B-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "What does your family eat for lunch?",
+      "options": [
+        "Sand",
+        "Stones",
+        "Paper",
+        "Rice and stew"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rice and stew are common Nigerian lunch dishes.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-B-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Who teaches you good manners at home?",
+      "options": [
+        "My parents",
+        "The radio",
+        "The chair",
+        "The rain"
+      ],
+      "correctIndex": 0,
+      "explanation": "Parents teach children how to behave well.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-B-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "What should you say when you want something?",
+      "options": [
+        "Nothing",
+        "Please",
+        "Give me",
+        "Now"
+      ],
+      "correctIndex": 1,
+      "explanation": "Say please to ask for things politely.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-B-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "Who is your mother's own mother?",
+      "options": [
+        "Sister",
+        "Auntie",
+        "Grandma",
+        "Teacher"
+      ],
+      "correctIndex": 2,
+      "explanation": "Your mother's mother is your grandma.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-B-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "bronze",
+      "text": "How should you talk to elders?",
+      "options": [
+        "With shouting",
+        "With rudeness",
+        "With noise",
+        "With respect"
+      ],
+      "correctIndex": 3,
+      "explanation": "Always speak to elders with respect.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-S-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "What is a family made of?",
+      "options": [
+        "People who care for each other",
+        "Only rich people",
+        "Only adults",
+        "People on TV"
+      ],
+      "correctIndex": 0,
+      "explanation": "A family is people who live and care together.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-S-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "Why do homes share food?",
+      "options": [
+        "To waste food",
+        "So everyone is fed",
+        "To sell it",
+        "To hide it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sharing food is a kind family habit.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-S-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "Who helps when a child is sick?",
+      "options": [
+        "The neighbour's cat",
+        "The wind",
+        "The parents",
+        "The shop"
+      ],
+      "correctIndex": 2,
+      "explanation": "Parents care for sick children and take them to hospital.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-S-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "What work does a tailor do?",
+      "options": [
+        "Fixes cars",
+        "Grows rice",
+        "Drives buses",
+        "Sews clothes"
+      ],
+      "correctIndex": 3,
+      "explanation": "A tailor sews dresses and shirts for people.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-S-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "What does a farmer grow?",
+      "options": [
+        "Crops like maize",
+        "Clothes",
+        "Cars",
+        "Phones"
+      ],
+      "correctIndex": 0,
+      "explanation": "Farmers grow crops such as maize, rice and yams.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-S-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "How can children help at home?",
+      "options": [
+        "By sleeping all day",
+        "By tidying their toys",
+        "By fighting",
+        "By hiding"
+      ],
+      "correctIndex": 1,
+      "explanation": "Children can pack toys and sweep small areas.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-S-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "What should you do before meals?",
+      "options": [
+        "Run outside",
+        "Sleep",
+        "Wash your hands",
+        "Shout"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clean hands stop germs from entering the body.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-S-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "silver",
+      "text": "Who keeps the home safe and clean?",
+      "options": [
+        "Only visitors",
+        "Nobody",
+        "Only teachers",
+        "The whole family"
+      ],
+      "correctIndex": 3,
+      "explanation": "Every family member shares in keeping the home clean.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-G-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "Why is it good to eat together?",
+      "options": [
+        "Family bonds grow stronger",
+        "Food tastes better",
+        "It saves money",
+        "No reason"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sharing meals brings family members closer.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-G-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "How do parents show love?",
+      "options": [
+        "By buying toys only",
+        "By caring for their children",
+        "By shouting",
+        "By leaving them"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parents show love through care, time and food.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-G-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "What can a child do when sad?",
+      "options": [
+        "Hide away",
+        "Break toys",
+        "Tell a parent",
+        "Stay silent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Talking to a parent helps a child feel better.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-G-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "Why should we respect our parents?",
+      "options": [
+        "They give orders",
+        "We fear them",
+        "For gifts",
+        "They care for us"
+      ],
+      "correctIndex": 3,
+      "explanation": "Parents work hard to feed and protect their children.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-G-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "How can we save money at home?",
+      "options": [
+        "Spend only what we need",
+        "Buy many toys",
+        "Waste food",
+        "Borrow always"
+      ],
+      "correctIndex": 0,
+      "explanation": "Buying only what is needed saves money.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-G-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "Why do people live in families?",
+      "options": [
+        "To make noise",
+        "To love and support each other",
+        "To have fights",
+        "To hide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Families give love, care and support to members.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-G-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "Why do we visit our elders?",
+      "options": [
+        "To play loudly",
+        "To collect gifts",
+        "To show respect",
+        "To sleep"
+      ],
+      "correctIndex": 2,
+      "explanation": "Visiting elders shows love and respect.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-FAM-G-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "family",
+      "level": "gold",
+      "text": "How can we show love at home?",
+      "options": [
+        "By shouting",
+        "By refusing",
+        "By ignoring",
+        "By helping and sharing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Helping and sharing are ways of showing love.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, the family",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

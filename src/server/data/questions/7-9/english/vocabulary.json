@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "english",
+  "topic": "vocabulary",
+  "title": "Word workshop",
+  "questions": [
+    {
+      "code": "7-ENG-VOC-B-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does enormous mean?",
+      "options": [
+        "Very big",
+        "Very small",
+        "Very fast",
+        "Very cold"
+      ],
+      "correctIndex": 0,
+      "explanation": "Enormous means very big.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-B-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does tiny mean?",
+      "options": [
+        "Very big",
+        "Very small",
+        "Very loud",
+        "Very hot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tiny means very small.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-B-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does ancient mean?",
+      "options": [
+        "Very new",
+        "Very young",
+        "Very old",
+        "Very big"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ancient means very old.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-B-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does brave mean?",
+      "options": [
+        "Very scared",
+        "Very weak",
+        "Very shy",
+        "Not scared"
+      ],
+      "correctIndex": 3,
+      "explanation": "Brave means not scared.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-B-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does assist mean?",
+      "options": [
+        "Help",
+        "Hinder",
+        "Watch",
+        "Leave"
+      ],
+      "correctIndex": 0,
+      "explanation": "Assist means to help.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-B-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does delighted mean?",
+      "options": [
+        "Very sad",
+        "Very happy",
+        "Very angry",
+        "Very tired"
+      ],
+      "correctIndex": 1,
+      "explanation": "Delighted means very happy.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-B-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does rapid mean?",
+      "options": [
+        "Very slow",
+        "Very late",
+        "Very fast",
+        "Very calm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rapid means very fast.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-B-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "What does silent mean?",
+      "options": [
+        "Very noisy",
+        "Very loud",
+        "Very busy",
+        "Very quiet"
+      ],
+      "correctIndex": 3,
+      "explanation": "Silent means very quiet.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-S-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of brave?",
+      "options": [
+        "Cowardly",
+        "Bold",
+        "Fearless",
+        "Mighty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Brave and cowardly are opposites.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-S-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of ancient?",
+      "options": [
+        "Old",
+        "Modern",
+        "Historic",
+        "Rustic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ancient and modern are opposites.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-S-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of enormous?",
+      "options": [
+        "Huge",
+        "Large",
+        "Tiny",
+        "Grand"
+      ],
+      "correctIndex": 2,
+      "explanation": "Enormous and tiny are opposites.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-S-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "What is the opposite of noisy?",
+      "options": [
+        "Loud",
+        "Rowdy",
+        "Boisterous",
+        "Silent"
+      ],
+      "correctIndex": 3,
+      "explanation": "Noisy and silent are opposites.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: opposites",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-S-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word means the same as happy?",
+      "options": [
+        "Joyful",
+        "Sad",
+        "Moody",
+        "Gloomy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Happy and joyful mean the same.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-S-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word means the same as begin?",
+      "options": [
+        "End",
+        "Commence",
+        "Cease",
+        "Conclude"
+      ],
+      "correctIndex": 1,
+      "explanation": "Begin and commence mean the same.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-S-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word means the same as help?",
+      "options": [
+        "Hinder",
+        "Refuse",
+        "Assist",
+        "Ignore"
+      ],
+      "correctIndex": 2,
+      "explanation": "Help and assist mean the same.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-S-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word means the same as rich?",
+      "options": [
+        "Poor",
+        "Needy",
+        "Broke",
+        "Wealthy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rich and wealthy mean the same.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-G-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Which word means the same as huge?",
+      "options": [
+        "Massive",
+        "Small",
+        "Light",
+        "Narrow"
+      ],
+      "correctIndex": 0,
+      "explanation": "Huge and massive mean very big.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-G-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Which word means the same as quick?",
+      "options": [
+        "Slow",
+        "Swift",
+        "Steady",
+        "Calm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quick and swift mean fast.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-G-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Which word means the same as clever?",
+      "options": [
+        "Foolish",
+        "Dull",
+        "Smart",
+        "Slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clever and smart mean the same.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-G-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "What does generous mean?",
+      "options": [
+        "Unwilling to share",
+        "Very quiet",
+        "Always angry",
+        "Free with giving"
+      ],
+      "correctIndex": 3,
+      "explanation": "A generous person gives freely.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-G-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "What does unfriendly mean?",
+      "options": [
+        "Not friendly",
+        "Very friendly",
+        "Very helpful",
+        "Very kind"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unfriendly means not friendly.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-G-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "What does dislike mean?",
+      "options": [
+        "Like very much",
+        "Not like",
+        "Love",
+        "Admire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dislike means not to like.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-G-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Fill the gap: The tired boy ___ to the farm.",
+      "options": [
+        "sprinted",
+        "dashed",
+        "wandered",
+        "raced"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wandered means walked without haste.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-VOC-G-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Fill the gap: The market was full of ___ people.",
+      "options": [
+        "silent",
+        "sleepy",
+        "empty",
+        "cheerful"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cheerful people are happy and merry.",
+      "curriculumRef": "NERDC Primary 3 English, vocabulary: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

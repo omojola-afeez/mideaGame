@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "mathematics",
+  "topic": "geometry",
+  "title": "Shape summit",
+  "questions": [
+    {
+      "code": "7-MAT-GEO-B-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "Name a 6-sided shape.",
+      "options": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "A hexagon has 6 sides.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-B-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "Name a 5-sided shape.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "correctIndex": 1,
+      "explanation": "A pentagon has 5 corners.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-B-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "What is a 3-sided shape?",
+      "options": [
+        "Square",
+        "Pentagon",
+        "Triangle",
+        "Hexagon"
+      ],
+      "correctIndex": 2,
+      "explanation": "A 3-sided polygon is a triangle.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-B-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "How many fold lines does a square have?",
+      "options": [
+        "2",
+        "1",
+        "8",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "A square has 4 lines of symmetry.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-B-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "What shape has 5 sides?",
+      "options": [
+        "Pentagon",
+        "Hexagon",
+        "Square",
+        "Triangle"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pentagon has 5 sides.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-B-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "Faces on a cube?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctIndex": 1,
+      "explanation": "A cube has 6 flat faces.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-B-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "Not all sides are equal. What shape is it?",
+      "options": [
+        "Square",
+        "Triangle",
+        "Rectangle",
+        "Circle"
+      ],
+      "correctIndex": 2,
+      "explanation": "A rectangle has two pairs of equal sides.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-B-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "bronze",
+      "text": "What shape has 8 sides?",
+      "options": [
+        "Hexagon",
+        "Pentagon",
+        "Square",
+        "Octagon"
+      ],
+      "correctIndex": 3,
+      "explanation": "An octagon has 8 sides.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-S-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "A square has sides of 4 cm. What is its perimeter?",
+      "options": [
+        "16 cm",
+        "8 cm",
+        "12 cm",
+        "20 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "4 + 4 + 4 + 4 is 16 cm.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-S-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "Right angles in a rectangle?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "A rectangle has 4 right angles.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-S-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "Which solid has 2 flat faces and a curve?",
+      "options": [
+        "Cuboid",
+        "Sphere",
+        "Cylinder",
+        "Pyramid"
+      ],
+      "correctIndex": 2,
+      "explanation": "A cylinder has 2 flat faces and a curved face.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-S-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "What is the perimeter of a rectangle 6 cm by 4 cm?",
+      "options": [
+        "10 cm",
+        "24 cm",
+        "12 cm",
+        "20 cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "6 + 4 + 6 + 4 is 20 cm.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-S-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "An angle less than 90 degrees is?",
+      "options": [
+        "Acute angle",
+        "Obtuse angle",
+        "Right angle",
+        "Straight angle"
+      ],
+      "correctIndex": 0,
+      "explanation": "Less than 90 degrees is an acute angle.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-S-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "Which angle is 90 degrees?",
+      "options": [
+        "Acute angle",
+        "Right angle",
+        "Obtuse angle",
+        "Straight angle"
+      ],
+      "correctIndex": 1,
+      "explanation": "A 90 degree angle is a right angle.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-S-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "How many fold lines does a circle have?",
+      "options": [
+        "1",
+        "2",
+        "Many",
+        "4"
+      ],
+      "correctIndex": 2,
+      "explanation": "A circle has many lines of symmetry.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-S-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "silver",
+      "text": "An angle over 90 degrees is?",
+      "options": [
+        "Acute angle",
+        "Right angle",
+        "Sharp angle",
+        "Obtuse angle"
+      ],
+      "correctIndex": 3,
+      "explanation": "More than 90 degrees is an obtuse angle.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-G-001",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "Angles in a triangle add up to?",
+      "options": [
+        "180°",
+        "90°",
+        "270°",
+        "360°"
+      ],
+      "correctIndex": 0,
+      "explanation": "The angles of a triangle sum to 180°.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-G-002",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "A square has side 7 cm. What is its perimeter?",
+      "options": [
+        "14 cm",
+        "28 cm",
+        "21 cm",
+        "49 cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "4 sides of 7 cm is 28 cm.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-G-003",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "A triangle has sides 3 cm, 4 cm, 5 cm. What is its perimeter?",
+      "options": [
+        "10 cm",
+        "15 cm",
+        "12 cm",
+        "7 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "3 + 4 + 5 is 12 cm.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-G-004",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "Which has one line of symmetry?",
+      "options": [
+        "Square",
+        "Circle",
+        "Equilateral triangle",
+        "Isosceles triangle"
+      ],
+      "correctIndex": 3,
+      "explanation": "An isosceles triangle has one line of symmetry.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-G-005",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "A rectangle is 8 cm long and 2 cm wide. Find its perimeter.",
+      "options": [
+        "20 cm",
+        "10 cm",
+        "16 cm",
+        "32 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "8 + 2 + 8 + 2 is 20 cm.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-G-006",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "What do we call two lines that never meet?",
+      "options": [
+        "Perpendicular lines",
+        "Parallel lines",
+        "Straight lines",
+        "Curved lines"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lines that never meet are parallel.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-G-007",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "Which solid has 8 corners?",
+      "options": [
+        "Sphere",
+        "Cone",
+        "Cube",
+        "Cylinder"
+      ],
+      "correctIndex": 2,
+      "explanation": "A cube has 8 corners.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-MAT-GEO-G-008",
+      "band": "7-9",
+      "subject": "mathematics",
+      "topic": "geometry",
+      "level": "gold",
+      "text": "One side of a square is 9 cm. What is its perimeter?",
+      "options": [
+        "18 cm",
+        "27 cm",
+        "81 cm",
+        "36 cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "4 sides of 9 cm is 36 cm.",
+      "curriculumRef": "NERDC Primary 3 Mathematics, shapes and solids",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

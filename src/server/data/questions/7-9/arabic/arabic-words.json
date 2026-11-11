@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "arabic",
+  "topic": "arabic-words",
+  "title": "Word waters",
+  "questions": [
+    {
+      "code": "7-ARB-WRD-B-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does مدرسة mean?",
+      "options": [
+        "School",
+        "Market",
+        "Hospital",
+        "Farm"
+      ],
+      "correctIndex": 0,
+      "explanation": "مدرسة (madrasa) means school.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-B-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does مكتبة mean?",
+      "options": [
+        "School",
+        "Library",
+        "Cinema",
+        "Bank"
+      ],
+      "correctIndex": 1,
+      "explanation": "مكتبة (maktaba) means library.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-B-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does مطعم mean?",
+      "options": [
+        "Mosque",
+        "Market",
+        "Restaurant",
+        "Library"
+      ],
+      "correctIndex": 2,
+      "explanation": "مطعم (matam) means restaurant.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-B-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does سوق mean?",
+      "options": [
+        "School",
+        "House",
+        "Farm",
+        "Market"
+      ],
+      "correctIndex": 3,
+      "explanation": "سوق (suq) means market.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-B-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does مسجد mean?",
+      "options": [
+        "Mosque",
+        "Church",
+        "School",
+        "Market"
+      ],
+      "correctIndex": 0,
+      "explanation": "مسجد (masjid) means mosque.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-B-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does فلاح mean?",
+      "options": [
+        "Trader",
+        "Farmer",
+        "Teacher",
+        "Doctor"
+      ],
+      "correctIndex": 1,
+      "explanation": "فلاح (fallah) means farmer.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-B-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does تاجر mean?",
+      "options": [
+        "Farmer",
+        "Imam",
+        "Trader",
+        "Driver"
+      ],
+      "correctIndex": 2,
+      "explanation": "تاجر (tajir) means trader.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-B-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "bronze",
+      "text": "What does طبيب mean?",
+      "options": [
+        "Teacher",
+        "Student",
+        "Trader",
+        "Doctor"
+      ],
+      "correctIndex": 3,
+      "explanation": "طبيب (tabib) means doctor.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-S-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does السلام عليكم mean?",
+      "options": [
+        "Peace be upon you",
+        "Good morning",
+        "Good night",
+        "Welcome"
+      ],
+      "correctIndex": 0,
+      "explanation": "السلام عليكم is a Muslim greeting.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-S-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "How do you reply to السلام عليكم?",
+      "options": [
+        "صباح الخير",
+        "وعليكم السلام",
+        "مع السلامة",
+        "أهلا بك"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reply is وعليكم السلام.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-S-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does كيف حالك mean?",
+      "options": [
+        "What is your name?",
+        "Where are you going?",
+        "How are you?",
+        "What do you want?"
+      ],
+      "correctIndex": 2,
+      "explanation": "كيف حالك asks how you are.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-S-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does أنا بخير، شكرا mean?",
+      "options": [
+        "I am sick",
+        "I am busy",
+        "I am hungry",
+        "I am fine, thank you"
+      ],
+      "correctIndex": 3,
+      "explanation": "أنا بخير means I am fine.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-S-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does صباح الخير mean?",
+      "options": [
+        "Good morning",
+        "Good evening",
+        "Good night",
+        "Hello"
+      ],
+      "correctIndex": 0,
+      "explanation": "صباح الخير is a morning greeting.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-S-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "What does مساء الخير mean?",
+      "options": [
+        "Good morning",
+        "Good evening",
+        "Welcome",
+        "Goodbye"
+      ],
+      "correctIndex": 1,
+      "explanation": "مساء الخير is an evening greeting.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-S-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "Which word means thank you?",
+      "options": [
+        "أهلا",
+        "مع السلامة",
+        "شكرا",
+        "نعم"
+      ],
+      "correctIndex": 2,
+      "explanation": "شكرا (shukran) means thank you.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-S-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "silver",
+      "text": "Which word means yes?",
+      "options": [
+        "لا",
+        "شكرا",
+        "أهلا",
+        "نعم"
+      ],
+      "correctIndex": 3,
+      "explanation": "نعم (na am) means yes.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-G-001",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "Which phrase means my name is?",
+      "options": [
+        "اسمي",
+        "عمري",
+        "عندي",
+        "أبي"
+      ],
+      "correctIndex": 0,
+      "explanation": "اسمي (ismi) means my name.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-G-002",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does من أين أنت mean?",
+      "options": [
+        "What is your name?",
+        "Where are you from?",
+        "How old are you?",
+        "What do you do?"
+      ],
+      "correctIndex": 1,
+      "explanation": "من أين أنت asks where you come from.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-G-003",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does أنا من نيجيريا mean?",
+      "options": [
+        "I live in Kano",
+        "Nigeria is big",
+        "I am from Nigeria",
+        "I go to Lagos"
+      ],
+      "correctIndex": 2,
+      "explanation": "أنا من نيجيريا means I am from Nigeria.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-G-004",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does عمري تسع سنوات mean?",
+      "options": [
+        "I am ten years old",
+        "I have nine books",
+        "I have ten pencils",
+        "I am nine years old"
+      ],
+      "correctIndex": 3,
+      "explanation": "عمري تسع سنوات means I am nine years old.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-G-005",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "Which phrase means I love learning?",
+      "options": [
+        "أحب العلم",
+        "أكره المدرسة",
+        "ألعب الكرة",
+        "أنام مبكرا"
+      ],
+      "correctIndex": 0,
+      "explanation": "أحب العلم means I love knowledge.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-G-006",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does أهلا وسهلا mean?",
+      "options": [
+        "Goodbye",
+        "Welcome",
+        "Sorry",
+        "Please"
+      ],
+      "correctIndex": 1,
+      "explanation": "أهلا وسهلا is a warm welcome.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-G-007",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "What does مع السلامة mean?",
+      "options": [
+        "Welcome",
+        "Thank you",
+        "Goodbye",
+        "Good morning"
+      ],
+      "correctIndex": 2,
+      "explanation": "مع السلامة (ma salama) means goodbye.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ARB-WRD-G-008",
+      "band": "7-9",
+      "subject": "arabic",
+      "topic": "arabic-words",
+      "level": "gold",
+      "text": "Which phrase means please?",
+      "options": [
+        "شكرا",
+        "عفوا",
+        "أهلا",
+        "من فضلك"
+      ],
+      "correctIndex": 3,
+      "explanation": "من فضلك (min fadlik) means please.",
+      "curriculumRef": "NERDC Primary 3 Arabic, everyday Arabic words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

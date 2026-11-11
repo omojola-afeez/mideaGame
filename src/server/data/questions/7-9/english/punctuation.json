@@ -1,0 +1,488 @@
+{
+  "band": "7-9",
+  "subject": "english",
+  "topic": "punctuation",
+  "title": "Punctuation point",
+  "questions": [
+    {
+      "code": "7-ENG-PUN-B-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark ends a statement?",
+      "options": [
+        "A full stop",
+        "A comma",
+        "A question mark",
+        "A hyphen"
+      ],
+      "correctIndex": 0,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-B-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark ends a question?",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "A comma",
+        "An exclamation mark"
+      ],
+      "correctIndex": 1,
+      "explanation": "Questions end with a question mark.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-B-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark ends a strong command like Stop?",
+      "options": [
+        "A comma",
+        "A full stop",
+        "An exclamation mark",
+        "A colon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Strong commands take an exclamation mark.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: exclamation marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-B-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark starts a new sentence?",
+      "options": [
+        "A small letter",
+        "A number",
+        "A comma",
+        "A capital letter"
+      ],
+      "correctIndex": 3,
+      "explanation": "Start sentences with capital letters.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: capital letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-B-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "i live in abuja. Which words take big letters?",
+      "options": [
+        "I and Abuja",
+        "I and live",
+        "live and Abuja",
+        "in and Abuja"
+      ],
+      "correctIndex": 0,
+      "explanation": "I and Abuja take capital letters.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: capital letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-B-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which name is written right?",
+      "options": [
+        "Chineduh",
+        "Chinedu",
+        "Chinadu",
+        "Chi-Nedu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Names start with a capital letter.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: capital letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-B-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "What is missing here: Where is my cap ___",
+      "options": [
+        "A full stop",
+        "A comma",
+        "A question mark",
+        "An exclamation mark"
+      ],
+      "correctIndex": 2,
+      "explanation": "Where is my cap is a question.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-B-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "What is missing here: I am ten years old ___",
+      "options": [
+        "A question mark",
+        "A comma",
+        "An exclamation mark",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "I am ten years old is a statement.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-S-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark joins things in a list?",
+      "options": [
+        "A comma",
+        "A full stop",
+        "A question mark",
+        "An apostrophe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commas separate items in a list.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: commas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-S-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark shows that one boy owns the book?",
+      "options": [
+        "A comma",
+        "An apostrophe",
+        "A full stop",
+        "A hyphen"
+      ],
+      "correctIndex": 1,
+      "explanation": "An apostrophe shows ownership: boy's book.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-S-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which shows more than one girl owns the bags?",
+      "options": [
+        "girl's bags",
+        "girls bags",
+        "girls' bags",
+        "girles bags"
+      ],
+      "correctIndex": 2,
+      "explanation": "girls' shows many girls own them.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-S-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "What is missing here: Wow, what a goal ___",
+      "options": [
+        "A full stop",
+        "A comma",
+        "A question mark",
+        "An exclamation mark"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wow shows strong feeling.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: exclamation marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-S-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which shows one owner: the car of my father?",
+      "options": [
+        "my father's car",
+        "my fathers car",
+        "my fathers' car",
+        "my father car"
+      ],
+      "correctIndex": 0,
+      "explanation": "my father's car shows it is his car.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-S-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "she visited kaduna. Which words take big letters?",
+      "options": [
+        "she and visited",
+        "She and Kaduna",
+        "visited and Kaduna",
+        "and and Kaduna"
+      ],
+      "correctIndex": 1,
+      "explanation": "She starts the sentence. Kaduna is a place.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: capital letters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-S-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "What is missing here: Do you know the way ___",
+      "options": [
+        "A full stop",
+        "A comma",
+        "A question mark",
+        "An exclamation mark"
+      ],
+      "correctIndex": 2,
+      "explanation": "Do you know the way is a question.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-S-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes after the last item in a list?",
+      "options": [
+        "A comma",
+        "A question mark",
+        "An exclamation mark",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "The list is a statement, so it ends with a full stop.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-G-001",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which mark opens speech?",
+      "options": [
+        "A speech mark",
+        "A comma",
+        "A full stop",
+        "A hyphen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Speech marks open and close direct speech.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: speech marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-G-002",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence uses speech marks right?",
+      "options": [
+        "She said \"I am here\".",
+        "She said, \"I am here.\"",
+        "\"She said, I am here.\"",
+        "She said \"I am\" here.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Speech marks wrap the exact spoken words.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: speech marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-G-003",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Fill the gap: The dog wagged ___ tail.",
+      "options": [
+        "it's",
+        "its'",
+        "its",
+        "ites"
+      ],
+      "correctIndex": 2,
+      "explanation": "Its shows ownership. It's means it is.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-G-004",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Fill the gap: ___ raining hard today.",
+      "options": [
+        "Its",
+        "Its'",
+        "Itse",
+        "It's"
+      ],
+      "correctIndex": 3,
+      "explanation": "It's means it is.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-G-005",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which marks wrap the exact words a person speaks?",
+      "options": [
+        "Speech marks",
+        "Commas",
+        "Brackets",
+        "Hyphens"
+      ],
+      "correctIndex": 0,
+      "explanation": "Speech marks show direct speech.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: speech marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-G-006",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Pick the right word: Put the book over ___.",
+      "options": [
+        "their",
+        "there",
+        "they're",
+        "theire"
+      ],
+      "correctIndex": 1,
+      "explanation": "There means a place.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: homophones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-G-007",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Pick the right word: The players tied ___ boots together.",
+      "options": [
+        "there",
+        "they're",
+        "their",
+        "theire"
+      ],
+      "correctIndex": 2,
+      "explanation": "Their shows the boots belong to the players.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: homophones",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "7-ENG-PUN-G-008",
+      "band": "7-9",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Fill the gap: He gave me ___ book and a pen.",
+      "options": [
+        "an",
+        "some",
+        "many",
+        "a"
+      ],
+      "correctIndex": 3,
+      "explanation": "Use a before a consonant sound.",
+      "curriculumRef": "NERDC Primary 3 English, punctuation: articles",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

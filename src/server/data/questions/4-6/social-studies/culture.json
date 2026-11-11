@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "social-studies",
+  "topic": "culture",
+  "title": "Culture crests",
+  "questions": [
+    {
+      "code": "4-SOC-CUL-B-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "Which language do you speak?",
+      "options": [
+        "Yoruba, Igbo or Hausa",
+        "French only",
+        "Chinese",
+        "Arabic only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria has many languages like Yoruba, Igbo and Hausa.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-B-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "Why do we hold grand festivals?",
+      "options": [
+        "To fight",
+        "To celebrate our culture",
+        "To sleep",
+        "To sell food"
+      ],
+      "correctIndex": 1,
+      "explanation": "Festivals mark happy cultural occasions.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-B-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is the name of our country?",
+      "options": [
+        "Ghana",
+        "Kenya",
+        "Nigeria",
+        "Egypt"
+      ],
+      "correctIndex": 2,
+      "explanation": "We live in Nigeria, our great country.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-B-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What do we wear on special days?",
+      "options": [
+        "School uniforms only",
+        "Wet clothes",
+        "Torn clothes",
+        "Traditional attire"
+      ],
+      "correctIndex": 3,
+      "explanation": "Traditional clothes show our cultural beauty.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-B-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What is Abuja?",
+      "options": [
+        "The capital of Nigeria",
+        "A state",
+        "A river",
+        "A market"
+      ],
+      "correctIndex": 0,
+      "explanation": "Abuja is the capital city of Nigeria.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-B-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "How should we greet elders?",
+      "options": [
+        "With shouting",
+        "With respect and a bow",
+        "With silence",
+        "With anger"
+      ],
+      "correctIndex": 1,
+      "explanation": "Greeting with a bow shows honour to elders.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-B-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "Which food do we love most?",
+      "options": [
+        "Ice cream only",
+        "Grass",
+        "Rice and yam",
+        "Sandwiches daily"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rice, yam and cassava are favourite Nigerian foods.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-B-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "bronze",
+      "text": "What colours are on our flag?",
+      "options": [
+        "Red and blue",
+        "Black and gold",
+        "Yellow and red",
+        "Green and white"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Nigerian flag is green and white.",
+      "curriculumRef": "NERDC Nursery 2 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-S-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is Jollof rice?",
+      "options": [
+        "A Nigerian food",
+        "A dance",
+        "A song",
+        "A language"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jollof rice is a beloved Nigerian dish.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-S-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is the New Yam festival for?",
+      "options": [
+        "To welcome kings",
+        "To thank God for harvest",
+        "To mourn the dead",
+        "To open schools"
+      ],
+      "correctIndex": 1,
+      "explanation": "The New Yam festival honours the harvest season.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-S-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "Which tribe speaks Hausa?",
+      "options": [
+        "The Zulu people",
+        "The Maasai",
+        "The Hausa people",
+        "The Inuit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hausa is spoken mainly in the north of Nigeria.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-S-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What do we sing each day?",
+      "options": [
+        "A birthday song",
+        "A lullaby",
+        "A church song only",
+        "The national anthem"
+      ],
+      "correctIndex": 3,
+      "explanation": "The national anthem honours our country.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-S-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is Adire cloth?",
+      "options": [
+        "A Yoruba dyed cloth",
+        "A dance",
+        "A drum",
+        "A dish"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adire is a beautiful hand-dyed Yoruba cloth.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-S-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What do the Hausa call a cap?",
+      "options": [
+        "A buba",
+        "A fila",
+        "A wrapper",
+        "A turban"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Hausa fila is a colourful round cap.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-S-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What is garri made from?",
+      "options": [
+        "Yam",
+        "Maize",
+        "Cassava",
+        "Rice"
+      ],
+      "correctIndex": 2,
+      "explanation": "Garri is made from cassava tubers.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-S-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "silver",
+      "text": "What do we beat at festivals?",
+      "options": [
+        "Spoons",
+        "Books",
+        "Stones",
+        "Drums"
+      ],
+      "correctIndex": 3,
+      "explanation": "Talking drums are played at Nigerian festivals.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-G-001",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "Why is our culture key?",
+      "options": [
+        "It is our shared heritage",
+        "It is old only",
+        "It has no value",
+        "It is foreign"
+      ],
+      "correctIndex": 0,
+      "explanation": "Culture unites us and shapes our identity.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-G-002",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "How does music lift our hearts?",
+      "options": [
+        "It divides us",
+        "It moves and joins us",
+        "It bores us",
+        "It silences us"
+      ],
+      "correctIndex": 1,
+      "explanation": "Music brings people together in joy.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-G-003",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "What does the national dress show?",
+      "options": [
+        "Our wealth only",
+        "Our anger",
+        "Our pride and heritage",
+        "Our foreign ties"
+      ],
+      "correctIndex": 2,
+      "explanation": "National dress shows our pride in Nigerian heritage.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-G-004",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "Why should we love our tongue?",
+      "options": [
+        "It is fun only",
+        "It wins prizes",
+        "No reason",
+        "It keeps our heritage alive"
+      ],
+      "correctIndex": 3,
+      "explanation": "Our mother tongue carries our stories and wisdom.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-G-005",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "What is one good of festivals?",
+      "options": [
+        "They teach respect for tradition",
+        "They cost money only",
+        "They cause fights",
+        "They spoil food"
+      ],
+      "correctIndex": 0,
+      "explanation": "Festivals pass culture from parents to children.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-G-006",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "How do we keep culture alive?",
+      "options": [
+        "By forgetting it",
+        "By teaching our children",
+        "By mocking it",
+        "By hiding it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Teaching culture keeps Nigerian heritage alive.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-G-007",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "What is a masquerade dance for?",
+      "options": [
+        "To scare children",
+        "To sell masks",
+        "To honour ancestral spirits",
+        "To chase tourists"
+      ],
+      "correctIndex": 2,
+      "explanation": "Masquerades honour the spirits of our ancestors.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-SOC-CUL-G-008",
+      "band": "4-6",
+      "subject": "social-studies",
+      "topic": "culture",
+      "level": "gold",
+      "text": "Why do we respect all tribes?",
+      "options": [
+        "Some tribes are better",
+        "No need",
+        "Only our tribe matters",
+        "All Nigerians are one"
+      ],
+      "correctIndex": 3,
+      "explanation": "Every tribe is equal; we are one Nigeria.",
+      "curriculumRef": "NERDC Primary 1 Social Studies, Nigerian culture",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

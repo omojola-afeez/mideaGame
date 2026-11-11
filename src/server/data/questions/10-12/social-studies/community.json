@@ -1,0 +1,488 @@
+{
+  "band": "10-12",
+  "subject": "social-studies",
+  "topic": "community",
+  "title": "Community coast",
+  "questions": [
+    {
+      "code": "10-SOC-COM-B-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What does the local government do?",
+      "options": [
+        "Runs grassroots affairs",
+        "Runs federal ministries",
+        "Runs the navy",
+        "Runs the central bank"
+      ],
+      "correctIndex": 0,
+      "explanation": "Local government handles community roads, markets and refuse.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-B-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "Why do traders need markets?",
+      "options": [
+        "To make noise",
+        "To sell goods and earn income",
+        "To beg",
+        "To rest"
+      ],
+      "correctIndex": 1,
+      "explanation": "Markets are where traders earn their living.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-B-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What does a public library offer?",
+      "options": [
+        "Selling books only",
+        "Showing films",
+        "Free access to books and study",
+        "Selling food"
+      ],
+      "correctIndex": 2,
+      "explanation": "Public libraries give free reading and study space.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-B-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What is the role of the fire service?",
+      "options": [
+        "Traffic control",
+        "Ambulance service",
+        "Electricity supply",
+        "Fire prevention and rescue"
+      ],
+      "correctIndex": 3,
+      "explanation": "The fire service rescues people from fires.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-B-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "Why do towns hold meetings?",
+      "options": [
+        "To plan development together",
+        "To fight",
+        "To sell goods",
+        "To rest"
+      ],
+      "correctIndex": 0,
+      "explanation": "Town meetings gather citizens for shared decisions.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-B-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What do farmer groups do?",
+      "options": [
+        "Fix prices always",
+        "Help members pool resources",
+        "Ban farming",
+        "Sell land only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cooperatives let small farmers compete well.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-B-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What does cleaning do for health?",
+      "options": [
+        "It spoils food",
+        "It spreads germs",
+        "It prevents disease",
+        "It wastes water"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clean surroundings stop diseases like cholera.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-B-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "bronze",
+      "text": "What is the duty of the police?",
+      "options": [
+        "Writing laws",
+        "Judging cases",
+        "Collecting taxes",
+        "Maintaining law and order"
+      ],
+      "correctIndex": 3,
+      "explanation": "The police enforce the law and protect citizens.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-S-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Why do cities grow crowded?",
+      "options": [
+        "People move in for jobs",
+        "Cities build more houses",
+        "Fewer people live there",
+        "Government orders it"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rural-urban migration swells city populations.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-S-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "What is the danger of slums?",
+      "options": [
+        "Too much space",
+        "Disease and poor sanitation",
+        "High rent only",
+        "No traders"
+      ],
+      "correctIndex": 1,
+      "explanation": "Slums breed disease and social problems.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-S-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "How do community leaders serve their people?",
+      "options": [
+        "By collecting fines",
+        "By selling goods",
+        "By settling disputes and guiding development",
+        "By keeping office forever"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traditional rulers settle disputes and drive development.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-S-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Why is waste disposal vital?",
+      "options": [
+        "It beautifies only",
+        "It saves money",
+        "It is a law only",
+        "It keeps the environment healthy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Proper disposal prevents disease and pollution.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-S-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "What is the role of the traditional ruler?",
+      "options": [
+        "Custodian of culture and peace",
+        "Tax collector",
+        "Head of government",
+        "Party chairman"
+      ],
+      "correctIndex": 0,
+      "explanation": "Traditional rulers guard culture and foster peace.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-S-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "How can we report crimes?",
+      "options": [
+        "Through gossip",
+        "Through the police or hotlines",
+        "Through fights",
+        "By ignoring them"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prompt reporting helps the police act fast.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-S-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "Why is power vital to shops?",
+      "options": [
+        "It lights streets only",
+        "It cools houses only",
+        "Machines and refrigeration need it",
+        "No importance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Steady power keeps shops and factories running.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-S-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "silver",
+      "text": "What does rural growth bring?",
+      "options": [
+        "Only water pipes",
+        "Only electricity",
+        "Only markets",
+        "Schools, clinics and roads"
+      ],
+      "correctIndex": 3,
+      "explanation": "Development brings schools, clinics and tarred roads.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-G-001",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "How does city growth strain services?",
+      "options": [
+        "Overcrowding, traffic and waste",
+        "Better services for all",
+        "Lower rents",
+        "No effect"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rapid growth overwhelms roads, housing and water.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-G-002",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "Why is private sector partnership key?",
+      "options": [
+        "It favours only the rich",
+        "Combined funds build better roads",
+        "It wastes money",
+        "No benefit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Public-private partnerships fund infrastructure faster.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-G-003",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "How can citizens check projects?",
+      "options": [
+        "Avoid them",
+        "Destroy them",
+        "Demand budgets, audits and reports",
+        "Ignore them"
+      ],
+      "correctIndex": 2,
+      "explanation": "Citizens can demand transparency and accountability.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-G-004",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "What is the danger of fake drugs?",
+      "options": [
+        "They save money",
+        "They work better",
+        "No risk",
+        "They harm or kill people"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fake drugs cause deaths and treatment failure.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-G-005",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "How does queueing at election booths show order?",
+      "options": [
+        "It shows patience and fairness",
+        "It wastes time",
+        "It favours nobody",
+        "It causes fights"
+      ],
+      "correctIndex": 0,
+      "explanation": "Orderly queues keep elections peaceful and fair.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-G-006",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "Why is the railway coming back?",
+      "options": [
+        "For decoration",
+        "To move goods and people cheaply",
+        "To compete with buses",
+        "No reason"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rail moves heavy goods and passengers cheaply.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-G-007",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "Why do we have the NYSC scheme?",
+      "options": [
+        "To recruit soldiers",
+        "To employ graduates only",
+        "To build unity after school",
+        "For parties"
+      ],
+      "correctIndex": 2,
+      "explanation": "NYSC unites graduate youths in service to Nigeria.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "10-SOC-COM-G-008",
+      "band": "10-12",
+      "subject": "social-studies",
+      "topic": "community",
+      "level": "gold",
+      "text": "What is the purpose of the census?",
+      "options": [
+        "To collect taxes",
+        "To spy on citizens",
+        "To sell data",
+        "To plan national development"
+      ],
+      "correctIndex": 3,
+      "explanation": "Census data guides schools, roads and hospitals planning.",
+      "curriculumRef": "NERDC Primary 5 Social Studies, our community",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

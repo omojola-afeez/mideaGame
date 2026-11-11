@@ -1,0 +1,488 @@
+{
+  "band": "4-6",
+  "subject": "home-economics",
+  "topic": "nutrition",
+  "title": "Food field",
+  "questions": [
+    {
+      "code": "4-HEC-NUT-B-001",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which one is a fruit?",
+      "options": [
+        "Mango",
+        "Rice",
+        "Beans",
+        "Garri"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mango is a sweet fruit we eat.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-B-002",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "What do eggs give us?",
+      "options": [
+        "Sugar",
+        "Protein",
+        "Salt",
+        "Starch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Eggs give our bodies protein to grow.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-B-003",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "What do we drink for strong bones?",
+      "options": [
+        "Coke",
+        "Malt",
+        "Milk",
+        "Yoghurt drink"
+      ],
+      "correctIndex": 2,
+      "explanation": "Milk has calcium for strong bones.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-B-004",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which is a leafy green?",
+      "options": [
+        "Rice",
+        "Yam",
+        "Fish",
+        "Efo"
+      ],
+      "correctIndex": 3,
+      "explanation": "Efo is a leafy green vegetable.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-B-005",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which food gives us strength?",
+      "options": [
+        "Yam",
+        "Water",
+        "Soap",
+        "Sand"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yam gives our bodies power to play.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-B-006",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "How often should we eat?",
+      "options": [
+        "Once a day",
+        "Three times",
+        "Every night only",
+        "Never"
+      ],
+      "correctIndex": 1,
+      "explanation": "Eating three times a day keeps us strong.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-B-007",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Which drink is best for our bodies?",
+      "options": [
+        "Coke",
+        "Malt",
+        "Water",
+        "Palm wine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Water keeps our bodies cool and clean.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-B-008",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "bronze",
+      "text": "Why do we wash our hands before we eat?",
+      "options": [
+        "To get warm",
+        "To look nice",
+        "To save time",
+        "To keep germs away"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clean hands keep dirt and germs off our food.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-S-001",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Why must we eat each day?",
+      "options": [
+        "To grow and stay strong",
+        "To sleep well",
+        "To get tall only",
+        "To look brown"
+      ],
+      "correctIndex": 0,
+      "explanation": "Food helps our bodies grow and stay strong.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-S-002",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Which food builds our muscles?",
+      "options": [
+        "Sugar",
+        "Beans",
+        "Coke",
+        "Salt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Beans are full of protein for our muscles.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-S-003",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Which food helps us fight germs?",
+      "options": [
+        "Rice",
+        "Yam",
+        "Oranges",
+        "Garri"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oranges have vitamins that fight germs.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-S-004",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "How much water should we drink?",
+      "options": [
+        "A little each week",
+        "None at all",
+        "Only at night",
+        "Lots each day"
+      ],
+      "correctIndex": 3,
+      "explanation": "Water keeps our bodies cool and clean.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-S-005",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Why should we chew our food well?",
+      "options": [
+        "To help our stomach work well",
+        "To taste it more",
+        "To finish faster",
+        "To look polite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chewing well helps the stomach break food down.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-S-006",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Which snack is healthier?",
+      "options": [
+        "Sweets",
+        "Groundnuts",
+        "Biscuits",
+        "Candy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Groundnuts give us protein and power.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-S-007",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "What does our body need to grow?",
+      "options": [
+        "Just water",
+        "Only sleep",
+        "Good food",
+        "Only meat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Our body needs good food to grow.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-S-008",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "silver",
+      "text": "Why is it bad to skip meals?",
+      "options": [
+        "We grow faster",
+        "We never sleep",
+        "We get taller",
+        "We get weak and tired"
+      ],
+      "correctIndex": 3,
+      "explanation": "Missing meals makes us weak and tired.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-G-001",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "You are thirsty. What should you drink?",
+      "options": [
+        "Water",
+        "Palm wine",
+        "Coke",
+        "Coffee"
+      ],
+      "correctIndex": 0,
+      "explanation": "Water is the best drink when you are thirsty.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-G-002",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Why should we eat fruits daily?",
+      "options": [
+        "They are cheap",
+        "They have vitamins",
+        "They are sweet",
+        "They are big"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fruits give us vitamins to stay healthy.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-G-003",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Your friend only eats rice. What should you tell them?",
+      "options": [
+        "Rice is all you need",
+        "Stop eating rice",
+        "Eat beans and fruits too",
+        "Eat only fruits"
+      ],
+      "correctIndex": 2,
+      "explanation": "A mix of foods gives the body all it needs.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-G-004",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Which plate is the healthiest?",
+      "options": [
+        "Rice only",
+        "Bread and soda",
+        "Yam and oil only",
+        "Rice with vegetables"
+      ],
+      "correctIndex": 3,
+      "explanation": "A plate with grains and greens is best.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-G-005",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Why must girls and boys eat well?",
+      "options": [
+        "To grow strong and healthy",
+        "To win races",
+        "To sleep longer",
+        "To talk more"
+      ],
+      "correctIndex": 0,
+      "explanation": "Growing bodies need good food each day.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-G-006",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "What do you do after meals?",
+      "options": [
+        "Sleep at once",
+        "Wash your plate",
+        "Run outside",
+        "Skip washing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Washing dishes after meals keeps germs away.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-G-007",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Which food comes from the farm?",
+      "options": [
+        "Biscuits",
+        "Sweets",
+        "Yam",
+        "Coke"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yam is grown by farmers on the farm.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "4-HEC-NUT-G-008",
+      "band": "4-6",
+      "subject": "home-economics",
+      "topic": "nutrition",
+      "level": "gold",
+      "text": "Why does a home share meals?",
+      "options": [
+        "It saves money only",
+        "It is just a game",
+        "It fills the pot",
+        "It brings the family close"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sharing meals keeps the family close and happy.",
+      "curriculumRef": "NERDC Nursery 2 Home Economics, food groups and eating well",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

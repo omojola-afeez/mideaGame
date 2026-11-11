@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: midea-game
+    name: mideaGame
     runtime: node
     plan: free
     buildCommand: npm ci --include=dev && npm run build

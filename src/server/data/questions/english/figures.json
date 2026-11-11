@@ -1,0 +1,2287 @@
+{
+  "subject": "english",
+  "topic": "figures",
+  "title": "Figure forest",
+  "questions": [
+    {
+      "code": "ENG-FIG-B-001",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"a piece of cake\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "feeling ill"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"a piece of cake\" means very easy.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-002",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"once in a blue moon\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "feeling ill"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"once in a blue moon\" means very rarely.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-003",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"hit the nail on the head\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "feeling ill"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"hit the nail on the head\" means say exactly the right thing.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-004",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"under the weather\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "feeling ill"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"under the weather\" means feeling ill.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-005",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"break the ice\" mean?",
+      "options": [
+        "start a conversation",
+        "very easy",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"break the ice\" means start a conversation.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-006",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"let the cat out of the bag\" mean?",
+      "options": [
+        "very easy",
+        "tell a secret",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"let the cat out of the bag\" means tell a secret.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-007",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"a blessing in disguise\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "something good that seemed bad",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"a blessing in disguise\" means something good that seemed bad.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-008",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"cost an arm and a leg\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "very expensive"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"cost an arm and a leg\" means very expensive.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-009",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"on the dot\" mean?",
+      "options": [
+        "exactly on time",
+        "very easy",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"on the dot\" means exactly on time.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-010",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"see eye to eye\" mean?",
+      "options": [
+        "very easy",
+        "agree with each other",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"see eye to eye\" means agree with each other.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-011",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"in hot water\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "in trouble",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"in hot water\" means in trouble.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-012",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"pull someone's leg\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "joke with someone"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"pull someone's leg\" means joke with someone.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-013",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"raining cats and dogs\" mean?",
+      "options": [
+        "raining very heavily",
+        "very easy",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"raining cats and dogs\" means raining very heavily.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-014",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"a drop in the ocean\" mean?",
+      "options": [
+        "very easy",
+        "a very small amount",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"a drop in the ocean\" means a very small amount.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-015",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"bite off more than you can chew\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "take on too much",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"bite off more than you can chew\" means take on too much.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-016",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"call it a day\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "stop working for now"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"call it a day\" means stop working for now.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-017",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"get cold feet\" mean?",
+      "options": [
+        "become nervous",
+        "very easy",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"get cold feet\" means become nervous.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-018",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"hit the road\" mean?",
+      "options": [
+        "very easy",
+        "start a journey",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"hit the road\" means start a journey.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-019",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"keep an eye on\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "watch carefully",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"keep an eye on\" means watch carefully.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-020",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"lose your temper\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "become angry"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"lose your temper\" means become angry.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-021",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"make ends meet\" mean?",
+      "options": [
+        "have just enough money",
+        "very easy",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"make ends meet\" means have just enough money.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-022",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"on the other hand\" mean?",
+      "options": [
+        "very easy",
+        "from another point of view",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"on the other hand\" means from another point of view.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-023",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"spill the beans\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "reveal a secret",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"spill the beans\" means reveal a secret.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-024",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"take it easy\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "relax"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"take it easy\" means relax.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-025",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"the last straw\" mean?",
+      "options": [
+        "the final problem",
+        "very easy",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"the last straw\" means the final problem.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-026",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"time flies\" mean?",
+      "options": [
+        "very easy",
+        "time passes quickly",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"time flies\" means time passes quickly.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-027",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"turn a blind eye\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "pretend not to see",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"turn a blind eye\" means pretend not to see.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-028",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"walk on air\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "feel very happy"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"walk on air\" means feel very happy.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-029",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"a shoulder to cry on\" mean?",
+      "options": [
+        "someone who listens",
+        "very easy",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"a shoulder to cry on\" means someone who listens.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-030",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"food for thought\" mean?",
+      "options": [
+        "very easy",
+        "something to think about",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"food for thought\" means something to think about.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-031",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"a storm in a teacup\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "a small problem made to seem big",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"a storm in a teacup\" means a small problem made to seem big.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-032",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"birds of a feather\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "people who are alike"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"birds of a feather\" means people who are alike.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-033",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"every cloud has a silver lining\" mean?",
+      "options": [
+        "there is hope in a bad situation",
+        "very easy",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"every cloud has a silver lining\" means there is hope in a bad situation.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-034",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"actions speak louder than words\" mean?",
+      "options": [
+        "very easy",
+        "what you do matters more",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"actions speak louder than words\" means what you do matters more.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-035",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"better late than never\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "late is better than not at all",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"better late than never\" means late is better than not at all.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-036",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"practice makes perfect\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "doing it again improves it"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"practice makes perfect\" means doing it again improves it.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-037",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"easy come, easy go\" mean?",
+      "options": [
+        "money is quickly lost",
+        "very easy",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"easy come, easy go\" means money is quickly lost.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-038",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"look before you leap\" mean?",
+      "options": [
+        "very easy",
+        "think before acting",
+        "very rarely",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"look before you leap\" means think before acting.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-039",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"two heads are better than one\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "teamwork helps",
+        "say exactly the right thing"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"two heads are better than one\" means teamwork helps.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-B-040",
+      "subject": "english",
+      "topic": "figures",
+      "level": "bronze",
+      "text": "What does the idiom \"do not judge a book by its cover\" mean?",
+      "options": [
+        "very easy",
+        "very rarely",
+        "say exactly the right thing",
+        "do not judge by looks"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"do not judge a book by its cover\" means do not judge by looks.",
+      "curriculumRef": "NERDC Primary English, figures of speech: idioms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-001",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as brave as a lion\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very slow"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as brave as a lion\" means very brave.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-002",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as busy as a bee\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very slow"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as busy as a bee\" means very busy.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-003",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as quiet as a mouse\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as quiet as a mouse\" means very quiet.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-004",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as slow as a snail\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very slow"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as slow as a snail\" means very slow.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-005",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as fast as a cheetah\" mean?",
+      "options": [
+        "very fast",
+        "very brave",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as fast as a cheetah\" means very fast.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-006",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as strong as an ox\" mean?",
+      "options": [
+        "very brave",
+        "very strong",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as strong as an ox\" means very strong.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-007",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as light as a feather\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very light",
+        "very quiet"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as light as a feather\" means very light.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-008",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as heavy as a stone\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very heavy"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as heavy as a stone\" means very heavy.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-009",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as cold as ice\" mean?",
+      "options": [
+        "very cold",
+        "very brave",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as cold as ice\" means very cold.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-010",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as hot as fire\" mean?",
+      "options": [
+        "very brave",
+        "very hot",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as hot as fire\" means very hot.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-011",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as white as snow\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very white",
+        "very quiet"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as white as snow\" means very white.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-012",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as black as coal\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very black"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as black as coal\" means very black.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-013",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as bright as the sun\" mean?",
+      "options": [
+        "very bright",
+        "very brave",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as bright as the sun\" means very bright.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-014",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as dark as night\" mean?",
+      "options": [
+        "very brave",
+        "very dark",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as dark as night\" means very dark.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-015",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as tall as a tree\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very tall",
+        "very quiet"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as tall as a tree\" means very tall.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-016",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as small as an ant\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very small"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as small as an ant\" means very small.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-017",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as hungry as a wolf\" mean?",
+      "options": [
+        "very hungry",
+        "very brave",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as hungry as a wolf\" means very hungry.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-018",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as thirsty as a camel\" mean?",
+      "options": [
+        "very brave",
+        "very thirsty",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as thirsty as a camel\" means very thirsty.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-019",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as happy as a lark\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very happy",
+        "very quiet"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as happy as a lark\" means very happy.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-020",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as sad as a rainy day\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very sad"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as sad as a rainy day\" means very sad.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-021",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as proud as a peacock\" mean?",
+      "options": [
+        "very proud",
+        "very brave",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as proud as a peacock\" means very proud.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-022",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as wise as an owl\" mean?",
+      "options": [
+        "very brave",
+        "very wise",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as wise as an owl\" means very wise.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-023",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as silly as a monkey\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very silly",
+        "very quiet"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as silly as a monkey\" means very silly.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-024",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as stubborn as a mule\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very stubborn"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as stubborn as a mule\" means very stubborn.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-025",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as gentle as a lamb\" mean?",
+      "options": [
+        "very gentle",
+        "very brave",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as gentle as a lamb\" means very gentle.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-026",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as sharp as a needle\" mean?",
+      "options": [
+        "very brave",
+        "very sharp",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as sharp as a needle\" means very sharp.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-027",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as smooth as silk\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very smooth",
+        "very quiet"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as smooth as silk\" means very smooth.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-028",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as hard as rock\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very hard"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as hard as rock\" means very hard.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-029",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as soft as wool\" mean?",
+      "options": [
+        "very soft",
+        "very brave",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as soft as wool\" means very soft.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-030",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as clear as crystal\" mean?",
+      "options": [
+        "very brave",
+        "very clear",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as clear as crystal\" means very clear.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-031",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as green as grass\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very green",
+        "very quiet"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as green as grass\" means very green.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-032",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as red as a rose\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very red"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as red as a rose\" means very red.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-033",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as blue as the sky\" mean?",
+      "options": [
+        "very blue",
+        "very brave",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as blue as the sky\" means very blue.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-034",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as sweet as honey\" mean?",
+      "options": [
+        "very brave",
+        "very sweet",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as sweet as honey\" means very sweet.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-035",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as sour as a lemon\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very sour",
+        "very quiet"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as sour as a lemon\" means very sour.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-036",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as fresh as a daisy\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very fresh"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as fresh as a daisy\" means very fresh.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-037",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as old as the hills\" mean?",
+      "options": [
+        "very old",
+        "very brave",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as old as the hills\" means very old.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-038",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as clean as a whistle\" mean?",
+      "options": [
+        "very brave",
+        "very clean",
+        "very busy",
+        "very quiet"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as clean as a whistle\" means very clean.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-039",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as deep as the sea\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very deep",
+        "very quiet"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as deep as the sea\" means very deep.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-S-040",
+      "subject": "english",
+      "topic": "figures",
+      "level": "silver",
+      "text": "What does the simile \"as round as a ball\" mean?",
+      "options": [
+        "very brave",
+        "very busy",
+        "very quiet",
+        "very round"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as round as a ball\" means very round.",
+      "curriculumRef": "NERDC Primary English, figures of speech: similes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-001",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very brave\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as slow as a snail"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as brave as a lion\" is the simile that means very brave.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-002",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very busy\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as slow as a snail"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as busy as a bee\" is the simile that means very busy.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-003",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very quiet\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as slow as a snail"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as quiet as a mouse\" is the simile that means very quiet.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-004",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very slow\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as slow as a snail"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as slow as a snail\" is the simile that means very slow.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-005",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very fast\"?",
+      "options": [
+        "as fast as a cheetah",
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as fast as a cheetah\" is the simile that means very fast.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-006",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very strong\"?",
+      "options": [
+        "as brave as a lion",
+        "as strong as an ox",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as strong as an ox\" is the simile that means very strong.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-007",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very light\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as light as a feather",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as light as a feather\" is the simile that means very light.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-008",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very heavy\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as heavy as a stone"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as heavy as a stone\" is the simile that means very heavy.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-009",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very cold\"?",
+      "options": [
+        "as cold as ice",
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as cold as ice\" is the simile that means very cold.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-010",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very hot\"?",
+      "options": [
+        "as brave as a lion",
+        "as hot as fire",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as hot as fire\" is the simile that means very hot.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-011",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very white\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as white as snow",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as white as snow\" is the simile that means very white.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-012",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very black\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as black as coal"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as black as coal\" is the simile that means very black.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-013",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very bright\"?",
+      "options": [
+        "as bright as the sun",
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as bright as the sun\" is the simile that means very bright.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-014",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very dark\"?",
+      "options": [
+        "as brave as a lion",
+        "as dark as night",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as dark as night\" is the simile that means very dark.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-015",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very tall\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as tall as a tree",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as tall as a tree\" is the simile that means very tall.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-016",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very small\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as small as an ant"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as small as an ant\" is the simile that means very small.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-017",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very hungry\"?",
+      "options": [
+        "as hungry as a wolf",
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as hungry as a wolf\" is the simile that means very hungry.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-018",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very thirsty\"?",
+      "options": [
+        "as brave as a lion",
+        "as thirsty as a camel",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as thirsty as a camel\" is the simile that means very thirsty.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-019",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very happy\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as happy as a lark",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as happy as a lark\" is the simile that means very happy.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-020",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very sad\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as sad as a rainy day"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as sad as a rainy day\" is the simile that means very sad.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-021",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very proud\"?",
+      "options": [
+        "as proud as a peacock",
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as proud as a peacock\" is the simile that means very proud.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-022",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very wise\"?",
+      "options": [
+        "as brave as a lion",
+        "as wise as an owl",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as wise as an owl\" is the simile that means very wise.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-023",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very silly\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as silly as a monkey",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as silly as a monkey\" is the simile that means very silly.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-024",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very stubborn\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as stubborn as a mule"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as stubborn as a mule\" is the simile that means very stubborn.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-025",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very gentle\"?",
+      "options": [
+        "as gentle as a lamb",
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as gentle as a lamb\" is the simile that means very gentle.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-026",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very sharp\"?",
+      "options": [
+        "as brave as a lion",
+        "as sharp as a needle",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as sharp as a needle\" is the simile that means very sharp.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-027",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very smooth\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as smooth as silk",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as smooth as silk\" is the simile that means very smooth.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-028",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very hard\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as hard as rock"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as hard as rock\" is the simile that means very hard.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-029",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very soft\"?",
+      "options": [
+        "as soft as wool",
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as soft as wool\" is the simile that means very soft.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-030",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very clear\"?",
+      "options": [
+        "as brave as a lion",
+        "as clear as crystal",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as clear as crystal\" is the simile that means very clear.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-031",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very green\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as green as grass",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as green as grass\" is the simile that means very green.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-032",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very red\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as red as a rose"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as red as a rose\" is the simile that means very red.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-033",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very blue\"?",
+      "options": [
+        "as blue as the sky",
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as blue as the sky\" is the simile that means very blue.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-034",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very sweet\"?",
+      "options": [
+        "as brave as a lion",
+        "as sweet as honey",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as sweet as honey\" is the simile that means very sweet.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-035",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very sour\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as sour as a lemon",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as sour as a lemon\" is the simile that means very sour.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-036",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very fresh\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as fresh as a daisy"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as fresh as a daisy\" is the simile that means very fresh.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-037",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very old\"?",
+      "options": [
+        "as old as the hills",
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"as old as the hills\" is the simile that means very old.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-038",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very clean\"?",
+      "options": [
+        "as brave as a lion",
+        "as clean as a whistle",
+        "as busy as a bee",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"as clean as a whistle\" is the simile that means very clean.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-039",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very deep\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as deep as the sea",
+        "as quiet as a mouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"as deep as the sea\" is the simile that means very deep.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-FIG-G-040",
+      "subject": "english",
+      "topic": "figures",
+      "level": "gold",
+      "text": "Which simile means \"very round\"?",
+      "options": [
+        "as brave as a lion",
+        "as busy as a bee",
+        "as quiet as a mouse",
+        "as round as a ball"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"as round as a ball\" is the simile that means very round.",
+      "curriculumRef": "NERDC Primary English, figures of speech: matching meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

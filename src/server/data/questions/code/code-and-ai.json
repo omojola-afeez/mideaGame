@@ -1,0 +1,463 @@
+{
+  "subject": "code-ai",
+  "topic": "code-and-ai",
+  "title": "Robot ridge",
+  "questions": [
+    {
+      "code": "COD-COD-B-001",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What do we call the steps a computer follows?",
+      "options": [
+        "An algorithm",
+        "A song",
+        "A picture",
+        "A number"
+      ],
+      "correctIndex": 0,
+      "explanation": "An algorithm is a clear set of steps for solving a task.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, algorithms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-B-002",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "Which machine follows instructions to do a job?",
+      "options": [
+        "A basket",
+        "A computer",
+        "A chair",
+        "A bucket"
+      ],
+      "correctIndex": 1,
+      "explanation": "A computer follows instructions given by a person.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, computers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-B-003",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What does a loop do in a program?",
+      "options": [
+        "It stops the program",
+        "It draws a picture",
+        "It repeats steps",
+        "It deletes the work"
+      ],
+      "correctIndex": 2,
+      "explanation": "A loop runs the same steps again and again.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, loops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-B-004",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What is a bug in computing?",
+      "options": [
+        "A small insect",
+        "A new screen",
+        "A loud sound",
+        "A mistake in the code"
+      ],
+      "correctIndex": 3,
+      "explanation": "A bug is a mistake that makes a program work wrongly.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, debugging",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-B-005",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "Which one puts data in a computer?",
+      "options": [
+        "A keyboard",
+        "A screen",
+        "A speaker",
+        "A printer"
+      ],
+      "correctIndex": 0,
+      "explanation": "A keyboard is an input device. It sends letters and numbers in.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, input devices",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-B-006",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "Which one shows data from a computer?",
+      "options": [
+        "A mouse",
+        "A screen",
+        "A keyboard",
+        "A scanner"
+      ],
+      "correctIndex": 1,
+      "explanation": "A screen is an output device. It shows the result.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, output devices",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-B-007",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What does a robot need before it can move?",
+      "options": [
+        "A hat",
+        "A song",
+        "Clear instructions",
+        "A window"
+      ],
+      "correctIndex": 2,
+      "explanation": "A robot only moves when a person gives it clear steps.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, robots",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-B-008",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "bronze",
+      "text": "What is AI short for?",
+      "options": [
+        "Automatic internet",
+        "Another idea",
+        "Active input",
+        "Artificial intelligence"
+      ],
+      "correctIndex": 3,
+      "explanation": "AI stands for artificial intelligence.",
+      "curriculumRef": "NERDC Primary 4 Computer Studies, AI",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-S-001",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "A robot moves 2 steps, then repeats this 3 times. How many steps in all?",
+      "options": [
+        "6 steps",
+        "5 steps",
+        "8 steps",
+        "9 steps"
+      ],
+      "correctIndex": 0,
+      "explanation": "A loop repeats 2 steps three times, so 2 × 3 = 6.",
+      "curriculumRef": "NERDC Primary 5 Computer Studies, loops and counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-S-002",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "Which instruction is a loop?",
+      "options": [
+        "Pick up one book",
+        "Clap 3 times",
+        "Open the door",
+        "Sit down once"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clap 3 times repeats the same action, so it is a loop.",
+      "curriculumRef": "NERDC Primary 5 Computer Studies, repeats",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-S-003",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "If it is raining, take an umbrella. What is the condition?",
+      "options": [
+        "Take an umbrella",
+        "It is sunny",
+        "It is raining",
+        "The umbrella is red"
+      ],
+      "correctIndex": 2,
+      "explanation": "The condition is the test. Here it is whether it is raining.",
+      "curriculumRef": "NERDC Primary 5 Computer Studies, conditions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-S-004",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "A computer gives a wrong answer. What is the likely cause?",
+      "options": [
+        "The screen is clean",
+        "The room is quiet",
+        "The desk is new",
+        "The instructions are wrong"
+      ],
+      "correctIndex": 3,
+      "explanation": "A computer follows its instructions. Wrong steps give wrong answers.",
+      "curriculumRef": "NERDC Primary 5 Computer Studies, errors",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-S-005",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "Which is a sensible use of AI?",
+      "options": [
+        "Suggesting a song you may like",
+        "Cooking your dinner alone",
+        "Carrying your bag home",
+        "Paying your school fees"
+      ],
+      "correctIndex": 0,
+      "explanation": "AI can suggest things from patterns, but it cannot do physical jobs by itself.",
+      "curriculumRef": "NERDC Primary 5 Computer Studies, uses of AI",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-S-006",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "What should you do before trusting an AI answer?",
+      "options": [
+        "Share it at once",
+        "Check it with a book or teacher",
+        "Delete the question",
+        "Change the answer yourself"
+      ],
+      "correctIndex": 1,
+      "explanation": "AI can be wrong, so check important answers with a trusted person or book.",
+      "curriculumRef": "NERDC Primary 5 Computer Studies, checking AI",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-S-007",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "Which information should you not share with an AI chat?",
+      "options": [
+        "Your favourite colour",
+        "A maths question",
+        "Your home address",
+        "A story idea"
+      ],
+      "correctIndex": 2,
+      "explanation": "Personal details like your address should stay private.",
+      "curriculumRef": "NERDC Primary 5 Computer Studies, online safety",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-S-008",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "silver",
+      "text": "What is debugging?",
+      "options": [
+        "Adding more colours",
+        "Buying a new mouse",
+        "Turning off the screen",
+        "Finding and fixing mistakes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Debugging means finding bugs and fixing them.",
+      "curriculumRef": "NERDC Primary 5 Computer Studies, debugging",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-G-001",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "A loop runs 4 times and adds 3 each time. What is the total?",
+      "options": [
+        "12",
+        "7",
+        "10",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "4 × 3 = 12. The loop adds 3 four times.",
+      "curriculumRef": "NERDC Primary 6 Computer Studies, loops with numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-G-002",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "The rule says: if score is more than 10, you win. The score is 10. What happens?",
+      "options": [
+        "You win",
+        "You do not win yet",
+        "The game ends",
+        "The score doubles"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 is not more than 10, so the winning step does not run.",
+      "curriculumRef": "NERDC Primary 6 Computer Studies, conditions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-G-003",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Why do the same AI questions get other answers later?",
+      "options": [
+        "The screen changes colour",
+        "The keyboard is old",
+        "AI predicts words and can vary",
+        "The internet is off"
+      ],
+      "correctIndex": 2,
+      "explanation": "Many AI tools predict likely words, so the wording can change.",
+      "curriculumRef": "NERDC Primary 6 Computer Studies, how AI responds",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-G-004",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Which is a good way to test a program?",
+      "options": [
+        "Look at it once",
+        "Ask a friend to guess",
+        "Change the title",
+        "Try it with different inputs"
+      ],
+      "correctIndex": 3,
+      "explanation": "Different inputs show whether the program works in many cases.",
+      "curriculumRef": "NERDC Primary 6 Computer Studies, testing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-G-005",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Why should a person review an AI answer?",
+      "options": [
+        "AI can be wrong or unfair",
+        "AI is always slow",
+        "AI cannot use words",
+        "AI has no screen"
+      ],
+      "correctIndex": 0,
+      "explanation": "AI can make mistakes or repeat unfair patterns, so a person should check.",
+      "curriculumRef": "NERDC Primary 6 Computer Studies, responsible AI",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-G-006",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "A robot repeats move and turn 5 times. How many turns does it make?",
+      "options": [
+        "4 turns",
+        "5 turns",
+        "6 turns",
+        "10 turns"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each loop does one move and one turn, so 5 loops give 5 turns.",
+      "curriculumRef": "NERDC Primary 6 Computer Studies, robot loops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-G-007",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Why should you keep personal data private?",
+      "options": [
+        "It takes up space",
+        "It makes the screen hot",
+        "It can be copied and shared",
+        "It is hard to spell"
+      ],
+      "correctIndex": 2,
+      "explanation": "Once personal data is shared, other people may copy or pass it on.",
+      "curriculumRef": "NERDC Primary 6 Computer Studies, privacy",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "COD-COD-G-008",
+      "subject": "code-ai",
+      "topic": "code-and-ai",
+      "level": "gold",
+      "text": "Which task is AI good at?",
+      "options": [
+        "Feeling hungry",
+        "Growing a real tree",
+        "Keeping a secret safe forever",
+        "Sorting many photos by pattern"
+      ],
+      "correctIndex": 3,
+      "explanation": "AI can spot patterns in large amounts of data.",
+      "curriculumRef": "NERDC Primary 6 Computer Studies, strengths of AI",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

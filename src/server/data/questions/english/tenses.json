@@ -1,0 +1,2287 @@
+{
+  "subject": "english",
+  "topic": "tenses",
+  "title": "Time travellers",
+  "questions": [
+    {
+      "code": "ENG-TEN-B-001",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"walk\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "cleaned"
+      ],
+      "correctIndex": 0,
+      "explanation": "We say \"walked\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-002",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"talk\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "cleaned"
+      ],
+      "correctIndex": 1,
+      "explanation": "We say \"talked\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-003",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"play\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "cleaned"
+      ],
+      "correctIndex": 2,
+      "explanation": "We say \"played\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-004",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"clean\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "cleaned"
+      ],
+      "correctIndex": 3,
+      "explanation": "We say \"cleaned\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-005",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"cook\"?",
+      "options": [
+        "cooked",
+        "walked",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 0,
+      "explanation": "We say \"cooked\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-006",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"help\"?",
+      "options": [
+        "walked",
+        "helped",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 1,
+      "explanation": "We say \"helped\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-007",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"jump\"?",
+      "options": [
+        "walked",
+        "talked",
+        "jumped",
+        "played"
+      ],
+      "correctIndex": 2,
+      "explanation": "We say \"jumped\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-008",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"look\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "looked"
+      ],
+      "correctIndex": 3,
+      "explanation": "We say \"looked\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-009",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"call\"?",
+      "options": [
+        "called",
+        "walked",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 0,
+      "explanation": "We say \"called\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-010",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"wash\"?",
+      "options": [
+        "walked",
+        "washed",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 1,
+      "explanation": "We say \"washed\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-011",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"watch\"?",
+      "options": [
+        "walked",
+        "talked",
+        "watched",
+        "played"
+      ],
+      "correctIndex": 2,
+      "explanation": "We say \"watched\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-012",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"ask\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "asked"
+      ],
+      "correctIndex": 3,
+      "explanation": "We say \"asked\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-013",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"answer\"?",
+      "options": [
+        "answered",
+        "walked",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 0,
+      "explanation": "We say \"answered\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-014",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"open\"?",
+      "options": [
+        "walked",
+        "opened",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 1,
+      "explanation": "We say \"opened\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-015",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"push\"?",
+      "options": [
+        "walked",
+        "talked",
+        "pushed",
+        "played"
+      ],
+      "correctIndex": 2,
+      "explanation": "We say \"pushed\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-016",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"plant\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "planted"
+      ],
+      "correctIndex": 3,
+      "explanation": "We say \"planted\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-017",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"want\"?",
+      "options": [
+        "wanted",
+        "walked",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 0,
+      "explanation": "We say \"wanted\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-018",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"need\"?",
+      "options": [
+        "walked",
+        "needed",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 1,
+      "explanation": "We say \"needed\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-019",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"go\"?",
+      "options": [
+        "walked",
+        "talked",
+        "went",
+        "played"
+      ],
+      "correctIndex": 2,
+      "explanation": "We say \"went\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-020",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"eat\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "ate"
+      ],
+      "correctIndex": 3,
+      "explanation": "We say \"ate\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-021",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"drink\"?",
+      "options": [
+        "drank",
+        "walked",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 0,
+      "explanation": "We say \"drank\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-022",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"run\"?",
+      "options": [
+        "walked",
+        "ran",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 1,
+      "explanation": "We say \"ran\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-023",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"sing\"?",
+      "options": [
+        "walked",
+        "talked",
+        "sang",
+        "played"
+      ],
+      "correctIndex": 2,
+      "explanation": "We say \"sang\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-024",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"swim\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "swam"
+      ],
+      "correctIndex": 3,
+      "explanation": "We say \"swam\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-025",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"write\"?",
+      "options": [
+        "wrote",
+        "walked",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 0,
+      "explanation": "We say \"wrote\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-026",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"take\"?",
+      "options": [
+        "walked",
+        "took",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 1,
+      "explanation": "We say \"took\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-027",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"give\"?",
+      "options": [
+        "walked",
+        "talked",
+        "gave",
+        "played"
+      ],
+      "correctIndex": 2,
+      "explanation": "We say \"gave\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-028",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"see\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "saw"
+      ],
+      "correctIndex": 3,
+      "explanation": "We say \"saw\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-029",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"come\"?",
+      "options": [
+        "came",
+        "walked",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 0,
+      "explanation": "We say \"came\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-030",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"do\"?",
+      "options": [
+        "walked",
+        "did",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 1,
+      "explanation": "We say \"did\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-031",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"make\"?",
+      "options": [
+        "walked",
+        "talked",
+        "made",
+        "played"
+      ],
+      "correctIndex": 2,
+      "explanation": "We say \"made\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-032",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"find\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "found"
+      ],
+      "correctIndex": 3,
+      "explanation": "We say \"found\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-033",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"buy\"?",
+      "options": [
+        "bought",
+        "walked",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 0,
+      "explanation": "We say \"bought\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-034",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"bring\"?",
+      "options": [
+        "walked",
+        "brought",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 1,
+      "explanation": "We say \"brought\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-035",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"think\"?",
+      "options": [
+        "walked",
+        "talked",
+        "thought",
+        "played"
+      ],
+      "correctIndex": 2,
+      "explanation": "We say \"thought\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-036",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"teach\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "taught"
+      ],
+      "correctIndex": 3,
+      "explanation": "We say \"taught\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-037",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"catch\"?",
+      "options": [
+        "caught",
+        "walked",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 0,
+      "explanation": "We say \"caught\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-038",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"choose\"?",
+      "options": [
+        "walked",
+        "chose",
+        "talked",
+        "played"
+      ],
+      "correctIndex": 1,
+      "explanation": "We say \"chose\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-039",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"begin\"?",
+      "options": [
+        "walked",
+        "talked",
+        "began",
+        "played"
+      ],
+      "correctIndex": 2,
+      "explanation": "We say \"began\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-B-040",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "bronze",
+      "text": "What is the past tense of \"break\"?",
+      "options": [
+        "walked",
+        "talked",
+        "played",
+        "broke"
+      ],
+      "correctIndex": 3,
+      "explanation": "We say \"broke\" when the action already happened.",
+      "curriculumRef": "NERDC Primary English, tenses: simple past",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-001",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"walk\" in the future.",
+      "options": [
+        "She will walk to school tomorrow.",
+        "She walked to school tomorrow.",
+        "She walk to school tomorrow.",
+        "She walking to school tomorrow."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Will\" plus the base verb shows the future: will walk.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-002",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"talk\" in the future.",
+      "options": [
+        "She talked to the teacher tomorrow.",
+        "She will talk to the teacher tomorrow.",
+        "She talk to the teacher tomorrow.",
+        "She talking to the teacher tomorrow."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Will\" plus the base verb shows the future: will talk.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-003",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"play\" in the future.",
+      "options": [
+        "She played in the field tomorrow.",
+        "She play in the field tomorrow.",
+        "She will play in the field tomorrow.",
+        "She playing in the field tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Will\" plus the base verb shows the future: will play.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-004",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"clean\" in the future.",
+      "options": [
+        "She cleaned the room tomorrow.",
+        "She clean the room tomorrow.",
+        "She cleaning the room tomorrow.",
+        "She will clean the room tomorrow."
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Will\" plus the base verb shows the future: will clean.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-005",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"cook\" in the future.",
+      "options": [
+        "She will cook the rice tomorrow.",
+        "She cooked the rice tomorrow.",
+        "She cook the rice tomorrow.",
+        "She cooking the rice tomorrow."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Will\" plus the base verb shows the future: will cook.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-006",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"help\" in the future.",
+      "options": [
+        "She helped her mother tomorrow.",
+        "She will help her mother tomorrow.",
+        "She help her mother tomorrow.",
+        "She helping her mother tomorrow."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Will\" plus the base verb shows the future: will help.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-007",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"jump\" in the future.",
+      "options": [
+        "She jumped over the rope tomorrow.",
+        "She jump over the rope tomorrow.",
+        "She will jump over the rope tomorrow.",
+        "She jumping over the rope tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Will\" plus the base verb shows the future: will jump.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-008",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"look\" in the future.",
+      "options": [
+        "She looked at the sky tomorrow.",
+        "She look at the sky tomorrow.",
+        "She looking at the sky tomorrow.",
+        "She will look at the sky tomorrow."
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Will\" plus the base verb shows the future: will look.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-009",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"call\" in the future.",
+      "options": [
+        "She will call his friend tomorrow.",
+        "She called his friend tomorrow.",
+        "She call his friend tomorrow.",
+        "She calling his friend tomorrow."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Will\" plus the base verb shows the future: will call.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-010",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"wash\" in the future.",
+      "options": [
+        "She washed the plates tomorrow.",
+        "She will wash the plates tomorrow.",
+        "She wash the plates tomorrow.",
+        "She washing the plates tomorrow."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Will\" plus the base verb shows the future: will wash.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-011",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"watch\" in the future.",
+      "options": [
+        "She watched the match tomorrow.",
+        "She watch the match tomorrow.",
+        "She will watch the match tomorrow.",
+        "She watching the match tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Will\" plus the base verb shows the future: will watch.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-012",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"ask\" in the future.",
+      "options": [
+        "She asked a question tomorrow.",
+        "She ask a question tomorrow.",
+        "She asking a question tomorrow.",
+        "She will ask a question tomorrow."
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Will\" plus the base verb shows the future: will ask.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-013",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"answer\" in the future.",
+      "options": [
+        "She will answer the question tomorrow.",
+        "She answered the question tomorrow.",
+        "She answer the question tomorrow.",
+        "She answering the question tomorrow."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Will\" plus the base verb shows the future: will answer.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-014",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"open\" in the future.",
+      "options": [
+        "She opened the window tomorrow.",
+        "She will open the window tomorrow.",
+        "She open the window tomorrow.",
+        "She opening the window tomorrow."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Will\" plus the base verb shows the future: will open.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-015",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"push\" in the future.",
+      "options": [
+        "She pushed the door tomorrow.",
+        "She push the door tomorrow.",
+        "She will push the door tomorrow.",
+        "She pushing the door tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Will\" plus the base verb shows the future: will push.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-016",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"plant\" in the future.",
+      "options": [
+        "She planted a tree tomorrow.",
+        "She plant a tree tomorrow.",
+        "She planting a tree tomorrow.",
+        "She will plant a tree tomorrow."
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Will\" plus the base verb shows the future: will plant.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-017",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"want\" in the future.",
+      "options": [
+        "She will want some water tomorrow.",
+        "She wanted some water tomorrow.",
+        "She want some water tomorrow.",
+        "She wanting some water tomorrow."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Will\" plus the base verb shows the future: will want.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-018",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"need\" in the future.",
+      "options": [
+        "She needed a pencil tomorrow.",
+        "She will need a pencil tomorrow.",
+        "She need a pencil tomorrow.",
+        "She needing a pencil tomorrow."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Will\" plus the base verb shows the future: will need.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-019",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"go\" in the future.",
+      "options": [
+        "She went to the market tomorrow.",
+        "She go to the market tomorrow.",
+        "She will go to the market tomorrow.",
+        "She going to the market tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Will\" plus the base verb shows the future: will go.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-020",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"eat\" in the future.",
+      "options": [
+        "She ate the mango tomorrow.",
+        "She eat the mango tomorrow.",
+        "She eating the mango tomorrow.",
+        "She will eat the mango tomorrow."
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Will\" plus the base verb shows the future: will eat.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-021",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"drink\" in the future.",
+      "options": [
+        "She will drink the water tomorrow.",
+        "She drank the water tomorrow.",
+        "She drink the water tomorrow.",
+        "She drinking the water tomorrow."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Will\" plus the base verb shows the future: will drink.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-022",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"run\" in the future.",
+      "options": [
+        "She ran to the gate tomorrow.",
+        "She will run to the gate tomorrow.",
+        "She run to the gate tomorrow.",
+        "She runing to the gate tomorrow."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Will\" plus the base verb shows the future: will run.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-023",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"sing\" in the future.",
+      "options": [
+        "She sang a song tomorrow.",
+        "She sing a song tomorrow.",
+        "She will sing a song tomorrow.",
+        "She singing a song tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Will\" plus the base verb shows the future: will sing.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-024",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"swim\" in the future.",
+      "options": [
+        "She swam in the river tomorrow.",
+        "She swim in the river tomorrow.",
+        "She swiming in the river tomorrow.",
+        "She will swim in the river tomorrow."
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Will\" plus the base verb shows the future: will swim.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-025",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"write\" in the future.",
+      "options": [
+        "She will write a letter tomorrow.",
+        "She wrote a letter tomorrow.",
+        "She write a letter tomorrow.",
+        "She writeing a letter tomorrow."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Will\" plus the base verb shows the future: will write.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-026",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"take\" in the future.",
+      "options": [
+        "She took the bag tomorrow.",
+        "She will take the bag tomorrow.",
+        "She take the bag tomorrow.",
+        "She takeing the bag tomorrow."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Will\" plus the base verb shows the future: will take.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-027",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"give\" in the future.",
+      "options": [
+        "She gave the book tomorrow.",
+        "She give the book tomorrow.",
+        "She will give the book tomorrow.",
+        "She giveing the book tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Will\" plus the base verb shows the future: will give.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-028",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"see\" in the future.",
+      "options": [
+        "She saw the bird tomorrow.",
+        "She see the bird tomorrow.",
+        "She seeing the bird tomorrow.",
+        "She will see the bird tomorrow."
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Will\" plus the base verb shows the future: will see.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-029",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"come\" in the future.",
+      "options": [
+        "She will come to school tomorrow.",
+        "She came to school tomorrow.",
+        "She come to school tomorrow.",
+        "She comeing to school tomorrow."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Will\" plus the base verb shows the future: will come.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-030",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"do\" in the future.",
+      "options": [
+        "She did the work tomorrow.",
+        "She will do the work tomorrow.",
+        "She do the work tomorrow.",
+        "She doing the work tomorrow."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Will\" plus the base verb shows the future: will do.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-031",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"make\" in the future.",
+      "options": [
+        "She made a kite tomorrow.",
+        "She make a kite tomorrow.",
+        "She will make a kite tomorrow.",
+        "She makeing a kite tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Will\" plus the base verb shows the future: will make.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-032",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"find\" in the future.",
+      "options": [
+        "She found the key tomorrow.",
+        "She find the key tomorrow.",
+        "She finding the key tomorrow.",
+        "She will find the key tomorrow."
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Will\" plus the base verb shows the future: will find.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-033",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"buy\" in the future.",
+      "options": [
+        "She will buy some bread tomorrow.",
+        "She bought some bread tomorrow.",
+        "She buy some bread tomorrow.",
+        "She buying some bread tomorrow."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Will\" plus the base verb shows the future: will buy.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-034",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"bring\" in the future.",
+      "options": [
+        "She brought the basket tomorrow.",
+        "She will bring the basket tomorrow.",
+        "She bring the basket tomorrow.",
+        "She bringing the basket tomorrow."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Will\" plus the base verb shows the future: will bring.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-035",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"think\" in the future.",
+      "options": [
+        "She thought about the answer tomorrow.",
+        "She think about the answer tomorrow.",
+        "She will think about the answer tomorrow.",
+        "She thinking about the answer tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Will\" plus the base verb shows the future: will think.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-036",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"teach\" in the future.",
+      "options": [
+        "She taught the class tomorrow.",
+        "She teach the class tomorrow.",
+        "She teaching the class tomorrow.",
+        "She will teach the class tomorrow."
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Will\" plus the base verb shows the future: will teach.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-037",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"catch\" in the future.",
+      "options": [
+        "She will catch the ball tomorrow.",
+        "She caught the ball tomorrow.",
+        "She catch the ball tomorrow.",
+        "She catching the ball tomorrow."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Will\" plus the base verb shows the future: will catch.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-038",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"choose\" in the future.",
+      "options": [
+        "She chose a book tomorrow.",
+        "She will choose a book tomorrow.",
+        "She choose a book tomorrow.",
+        "She chooseing a book tomorrow."
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Will\" plus the base verb shows the future: will choose.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-039",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"begin\" in the future.",
+      "options": [
+        "She began the lesson tomorrow.",
+        "She begin the lesson tomorrow.",
+        "She will begin the lesson tomorrow.",
+        "She begining the lesson tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Will\" plus the base verb shows the future: will begin.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-S-040",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "silver",
+      "text": "Pick the sentence that uses \"break\" in the future.",
+      "options": [
+        "She broke the cup tomorrow.",
+        "She break the cup tomorrow.",
+        "She breaking the cup tomorrow.",
+        "She will break the cup tomorrow."
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Will\" plus the base verb shows the future: will break.",
+      "curriculumRef": "NERDC Primary English, tenses: simple future",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-001",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"walk\": Yesterday, she ___ to school.",
+      "options": [
+        "walked",
+        "walk",
+        "will walk",
+        "walking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us the action is past, so we use \"walked\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-002",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"talk\": Yesterday, she ___ to the teacher.",
+      "options": [
+        "talk",
+        "talked",
+        "will talk",
+        "talking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yesterday tells us the action is past, so we use \"talked\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-003",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"play\": Yesterday, she ___ in the field.",
+      "options": [
+        "play",
+        "will play",
+        "played",
+        "playing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday tells us the action is past, so we use \"played\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-004",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"clean\": Yesterday, she ___ the room.",
+      "options": [
+        "clean",
+        "will clean",
+        "cleaning",
+        "cleaned"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yesterday tells us the action is past, so we use \"cleaned\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-005",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"cook\": Yesterday, she ___ the rice.",
+      "options": [
+        "cooked",
+        "cook",
+        "will cook",
+        "cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us the action is past, so we use \"cooked\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-006",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"help\": Yesterday, she ___ her mother.",
+      "options": [
+        "help",
+        "helped",
+        "will help",
+        "helping"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yesterday tells us the action is past, so we use \"helped\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-007",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"jump\": Yesterday, she ___ over the rope.",
+      "options": [
+        "jump",
+        "will jump",
+        "jumped",
+        "jumping"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday tells us the action is past, so we use \"jumped\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-008",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"look\": Yesterday, she ___ at the sky.",
+      "options": [
+        "look",
+        "will look",
+        "looking",
+        "looked"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yesterday tells us the action is past, so we use \"looked\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-009",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"call\": Yesterday, she ___ his friend.",
+      "options": [
+        "called",
+        "call",
+        "will call",
+        "calling"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us the action is past, so we use \"called\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-010",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"wash\": Yesterday, she ___ the plates.",
+      "options": [
+        "wash",
+        "washed",
+        "will wash",
+        "washing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yesterday tells us the action is past, so we use \"washed\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-011",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"watch\": Yesterday, she ___ the match.",
+      "options": [
+        "watch",
+        "will watch",
+        "watched",
+        "watching"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday tells us the action is past, so we use \"watched\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-012",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"ask\": Yesterday, she ___ a question.",
+      "options": [
+        "ask",
+        "will ask",
+        "asking",
+        "asked"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yesterday tells us the action is past, so we use \"asked\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-013",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"answer\": Yesterday, she ___ the question.",
+      "options": [
+        "answered",
+        "answer",
+        "will answer",
+        "answering"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us the action is past, so we use \"answered\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-014",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"open\": Yesterday, she ___ the window.",
+      "options": [
+        "open",
+        "opened",
+        "will open",
+        "opening"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yesterday tells us the action is past, so we use \"opened\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-015",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"push\": Yesterday, she ___ the door.",
+      "options": [
+        "push",
+        "will push",
+        "pushed",
+        "pushing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday tells us the action is past, so we use \"pushed\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-016",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"plant\": Yesterday, she ___ a tree.",
+      "options": [
+        "plant",
+        "will plant",
+        "planting",
+        "planted"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yesterday tells us the action is past, so we use \"planted\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-017",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"want\": Yesterday, she ___ some water.",
+      "options": [
+        "wanted",
+        "want",
+        "will want",
+        "wanting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us the action is past, so we use \"wanted\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-018",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"need\": Yesterday, she ___ a pencil.",
+      "options": [
+        "need",
+        "needed",
+        "will need",
+        "needing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yesterday tells us the action is past, so we use \"needed\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-019",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"go\": Yesterday, she ___ to the market.",
+      "options": [
+        "go",
+        "will go",
+        "went",
+        "going"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday tells us the action is past, so we use \"went\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-020",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"eat\": Yesterday, she ___ the mango.",
+      "options": [
+        "eat",
+        "will eat",
+        "eating",
+        "ate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yesterday tells us the action is past, so we use \"ate\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-021",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"drink\": Yesterday, she ___ the water.",
+      "options": [
+        "drank",
+        "drink",
+        "will drink",
+        "drinking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us the action is past, so we use \"drank\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-022",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"run\": Yesterday, she ___ to the gate.",
+      "options": [
+        "run",
+        "ran",
+        "will run",
+        "runing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yesterday tells us the action is past, so we use \"ran\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-023",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"sing\": Yesterday, she ___ a song.",
+      "options": [
+        "sing",
+        "will sing",
+        "sang",
+        "singing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday tells us the action is past, so we use \"sang\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-024",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"swim\": Yesterday, she ___ in the river.",
+      "options": [
+        "swim",
+        "will swim",
+        "swiming",
+        "swam"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yesterday tells us the action is past, so we use \"swam\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-025",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"write\": Yesterday, she ___ a letter.",
+      "options": [
+        "wrote",
+        "write",
+        "will write",
+        "writeing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us the action is past, so we use \"wrote\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-026",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"take\": Yesterday, she ___ the bag.",
+      "options": [
+        "take",
+        "took",
+        "will take",
+        "takeing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yesterday tells us the action is past, so we use \"took\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-027",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"give\": Yesterday, she ___ the book.",
+      "options": [
+        "give",
+        "will give",
+        "gave",
+        "giveing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday tells us the action is past, so we use \"gave\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-028",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"see\": Yesterday, she ___ the bird.",
+      "options": [
+        "see",
+        "will see",
+        "seeing",
+        "saw"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yesterday tells us the action is past, so we use \"saw\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-029",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"come\": Yesterday, she ___ to school.",
+      "options": [
+        "came",
+        "come",
+        "will come",
+        "comeing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us the action is past, so we use \"came\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-030",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"do\": Yesterday, she ___ the work.",
+      "options": [
+        "do",
+        "did",
+        "will do",
+        "doing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yesterday tells us the action is past, so we use \"did\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-031",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"make\": Yesterday, she ___ a kite.",
+      "options": [
+        "make",
+        "will make",
+        "made",
+        "makeing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday tells us the action is past, so we use \"made\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-032",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"find\": Yesterday, she ___ the key.",
+      "options": [
+        "find",
+        "will find",
+        "finding",
+        "found"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yesterday tells us the action is past, so we use \"found\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-033",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"buy\": Yesterday, she ___ some bread.",
+      "options": [
+        "bought",
+        "buy",
+        "will buy",
+        "buying"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us the action is past, so we use \"bought\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-034",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"bring\": Yesterday, she ___ the basket.",
+      "options": [
+        "bring",
+        "brought",
+        "will bring",
+        "bringing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yesterday tells us the action is past, so we use \"brought\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-035",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"think\": Yesterday, she ___ about the answer.",
+      "options": [
+        "think",
+        "will think",
+        "thought",
+        "thinking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday tells us the action is past, so we use \"thought\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-036",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"teach\": Yesterday, she ___ the class.",
+      "options": [
+        "teach",
+        "will teach",
+        "teaching",
+        "taught"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yesterday tells us the action is past, so we use \"taught\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-037",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"catch\": Yesterday, she ___ the ball.",
+      "options": [
+        "caught",
+        "catch",
+        "will catch",
+        "catching"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yesterday tells us the action is past, so we use \"caught\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-038",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"choose\": Yesterday, she ___ a book.",
+      "options": [
+        "choose",
+        "chose",
+        "will choose",
+        "chooseing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yesterday tells us the action is past, so we use \"chose\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-039",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"begin\": Yesterday, she ___ the lesson.",
+      "options": [
+        "begin",
+        "will begin",
+        "began",
+        "begining"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday tells us the action is past, so we use \"began\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-TEN-G-040",
+      "subject": "english",
+      "topic": "tenses",
+      "level": "gold",
+      "text": "Fill the gap with the past tense of \"break\": Yesterday, she ___ the cup.",
+      "options": [
+        "break",
+        "will break",
+        "breaking",
+        "broke"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yesterday tells us the action is past, so we use \"broke\".",
+      "curriculumRef": "NERDC Primary English, tenses: past in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

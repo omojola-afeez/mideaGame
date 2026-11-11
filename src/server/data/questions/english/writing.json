@@ -1,0 +1,2287 @@
+{
+  "subject": "english",
+  "topic": "writing",
+  "title": "Story studio",
+  "questions": [
+    {
+      "code": "ENG-WRI-B-001",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ ran to the market.",
+      "options": [
+        "Ada",
+        "The rain",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Ada\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-002",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ cooked the rice.",
+      "options": [
+        "The rain",
+        "Musa",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Musa\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-003",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ washed the plates.",
+      "options": [
+        "The rain",
+        "The river",
+        "Ngozi",
+        "The bus"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Ngozi\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-004",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ kicked the ball.",
+      "options": [
+        "The rain",
+        "The river",
+        "The bus",
+        "Tunde"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Tunde\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-005",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ read the letter.",
+      "options": [
+        "Amina",
+        "The rain",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Amina\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-006",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ swept the floor.",
+      "options": [
+        "The rain",
+        "Sani",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Sani\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-007",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ fed the chickens.",
+      "options": [
+        "The rain",
+        "The river",
+        "Ifeoma",
+        "The bus"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Ifeoma\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-008",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ flew the kite.",
+      "options": [
+        "The rain",
+        "The river",
+        "The bus",
+        "Bola"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Bola\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-009",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ opened the gate.",
+      "options": [
+        "The guard",
+        "The rain",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"The guard\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-010",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ drove the bus.",
+      "options": [
+        "The rain",
+        "The driver",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"The driver\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-011",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ treated the patient.",
+      "options": [
+        "The rain",
+        "The river",
+        "The doctor",
+        "The bus"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"The doctor\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-012",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ taught the class.",
+      "options": [
+        "The rain",
+        "The river",
+        "The bus",
+        "The teacher"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"The teacher\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-013",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ planted the yams.",
+      "options": [
+        "The farmer",
+        "The rain",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"The farmer\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-014",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ mended the net.",
+      "options": [
+        "The rain",
+        "The fisherman",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"The fisherman\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-015",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ built the table.",
+      "options": [
+        "The rain",
+        "The river",
+        "The carpenter",
+        "The bus"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"The carpenter\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-016",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ sewed the shirt.",
+      "options": [
+        "The rain",
+        "The river",
+        "The bus",
+        "The tailor"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"The tailor\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-017",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ sold the cloth.",
+      "options": [
+        "The trader",
+        "The rain",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"The trader\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-018",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ beat the drum.",
+      "options": [
+        "The rain",
+        "The drummer",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"The drummer\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-019",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ sang a song.",
+      "options": [
+        "The rain",
+        "The river",
+        "The singer",
+        "The bus"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"The singer\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-020",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ painted the wall.",
+      "options": [
+        "The rain",
+        "The river",
+        "The bus",
+        "The artist"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"The artist\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-021",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ baked the bread.",
+      "options": [
+        "The baker",
+        "The rain",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"The baker\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-022",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ cut the hair.",
+      "options": [
+        "The rain",
+        "The barber",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"The barber\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-023",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ repaired the engine.",
+      "options": [
+        "The rain",
+        "The river",
+        "The mechanic",
+        "The bus"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"The mechanic\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-024",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ cleaned the office.",
+      "options": [
+        "The rain",
+        "The river",
+        "The bus",
+        "The cleaner"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"The cleaner\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-025",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ guarded the gate.",
+      "options": [
+        "The soldier",
+        "The rain",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"The soldier\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-026",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ sailed the boat.",
+      "options": [
+        "The rain",
+        "The sailor",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"The sailor\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-027",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ found the key.",
+      "options": [
+        "The rain",
+        "The river",
+        "The hunter",
+        "The bus"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"The hunter\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-028",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ milked the cow.",
+      "options": [
+        "The rain",
+        "The river",
+        "The bus",
+        "The herder"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"The herder\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-029",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ climbed the tree.",
+      "options": [
+        "The boy",
+        "The rain",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"The boy\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-030",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ drew a picture.",
+      "options": [
+        "The rain",
+        "The girl",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"The girl\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-031",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ fixed the pipe.",
+      "options": [
+        "The rain",
+        "The river",
+        "The plumber",
+        "The bus"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"The plumber\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-032",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ wrote the report.",
+      "options": [
+        "The rain",
+        "The river",
+        "The bus",
+        "The clerk"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"The clerk\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-033",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ counted the money.",
+      "options": [
+        "The cashier",
+        "The rain",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"The cashier\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-034",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ parked the car.",
+      "options": [
+        "The rain",
+        "The driver",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"The driver\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-035",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ watered the plants.",
+      "options": [
+        "The rain",
+        "The river",
+        "The gardener",
+        "The bus"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"The gardener\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-036",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ delivered the parcel.",
+      "options": [
+        "The rain",
+        "The river",
+        "The bus",
+        "The postman"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"The postman\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-037",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ checked the tickets.",
+      "options": [
+        "The conductor",
+        "The rain",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"The conductor\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-038",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ cleaned the shoes.",
+      "options": [
+        "The rain",
+        "The cobbler",
+        "The river",
+        "The bus"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"The cobbler\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-039",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ carried the luggage.",
+      "options": [
+        "The rain",
+        "The river",
+        "The porter",
+        "The bus"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"The porter\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-B-040",
+      "subject": "english",
+      "topic": "writing",
+      "level": "bronze",
+      "text": "Pick the best word: ___ rang the bell.",
+      "options": [
+        "The rain",
+        "The river",
+        "The bus",
+        "The pupil"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"The pupil\" is the person who does the action.",
+      "curriculumRef": "NERDC Primary English, writing: clear subjects",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-001",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Ada was tired ___ she finished her work.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "until"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"but\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-002",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: It rained heavily ___ the match was stopped.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "until"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"so\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-003",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Musa stayed home ___ he was ill.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "until"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"because\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-004",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: We waited at the gate ___ the bus arrived.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "until"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"until\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-005",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Ngozi studied hard ___ she passed the test.",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "until"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"so\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-006",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: The room was small ___ it was clean.",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "until"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"but\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-007",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: ___ it was late, the children kept playing.",
+      "options": [
+        "but",
+        "so",
+        "Although",
+        "because"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Although\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-008",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Tunde washed his hands ___ he ate.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "before"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"before\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-009",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Amina locked the door ___ she left.",
+      "options": [
+        "after",
+        "but",
+        "so",
+        "because"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"after\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-010",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: The baby cried ___ she was hungry.",
+      "options": [
+        "but",
+        "because",
+        "so",
+        "until"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"because\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-011",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: You can take the bus ___ walk to school.",
+      "options": [
+        "but",
+        "so",
+        "or",
+        "because"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"or\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-012",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Sani was late ___ he missed the bus.",
+      "options": [
+        "but",
+        "so",
+        "until",
+        "because"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"because\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-013",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: The soup was hot ___ we waited before eating.",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "until"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"so\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-014",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Bola is small ___ she is very strong.",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "until"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"but\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-015",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: ___ the rain, the pupils went to school.",
+      "options": [
+        "but",
+        "so",
+        "Despite",
+        "because"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Despite\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-016",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: We will play ___ the sun comes out.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "when"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"when\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-017",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: The shop was closed ___ we went home.",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "until"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"so\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-018",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Ifeoma swept the floor ___ her sister washed.",
+      "options": [
+        "but",
+        "while",
+        "so",
+        "because"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"while\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-019",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: The road was blocked ___ we used another route.",
+      "options": [
+        "but",
+        "because",
+        "so",
+        "until"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"so\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-020",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: ___ the noise, the baby slept well.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "Despite"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Despite\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-021",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: You must finish your work ___ you go out.",
+      "options": [
+        "before",
+        "but",
+        "so",
+        "because"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"before\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-022",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: The teacher waited ___ the class became quiet.",
+      "options": [
+        "but",
+        "until",
+        "so",
+        "because"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"until\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-023",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Musa is tall ___ his brother is short.",
+      "options": [
+        "but",
+        "so",
+        "while",
+        "because"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"while\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-024",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: I will call you ___ I arrive.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "when"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"when\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-025",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: The water was dirty ___ nobody drank it.",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "until"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"so\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-026",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: She carried an umbrella ___ it might rain.",
+      "options": [
+        "but",
+        "because",
+        "so",
+        "until"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"because\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-027",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: The pupils were tired ___ they kept smiling.",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "until"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"but\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-028",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: We left early ___ we could reach before noon.",
+      "options": [
+        "but",
+        "because",
+        "until",
+        "so"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"so\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-029",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: ___ he was young, he knew a lot.",
+      "options": [
+        "Although",
+        "but",
+        "so",
+        "because"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Although\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-030",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Wait here ___ I come back.",
+      "options": [
+        "but",
+        "until",
+        "so",
+        "because"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"until\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-031",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: The farmer worked hard ___ his crops grew well.",
+      "options": [
+        "but",
+        "because",
+        "so",
+        "until"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"so\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-032",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Ada likes mangoes ___ she does not like oranges.",
+      "options": [
+        "so",
+        "because",
+        "until",
+        "but"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"but\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-033",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: ___ the heat, the workers finished the job.",
+      "options": [
+        "Despite",
+        "but",
+        "so",
+        "because"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Despite\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-034",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: Wash the pot ___ you cook.",
+      "options": [
+        "but",
+        "before",
+        "so",
+        "because"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"before\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-035",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: The teacher spoke slowly ___ the class could hear.",
+      "options": [
+        "but",
+        "because",
+        "so",
+        "until"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"so\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-036",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: I read my book ___ my sister drew a picture.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "while"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"while\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-037",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: The road was wet ___ the driver went slowly.",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "until"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"so\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-038",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: He was hungry ___ he shared his food.",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "until"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"but\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-039",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: We stayed indoors ___ the storm passed.",
+      "options": [
+        "but",
+        "so",
+        "until",
+        "because"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"until\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-S-040",
+      "subject": "english",
+      "topic": "writing",
+      "level": "silver",
+      "text": "Pick the best word: ___ she was tired, Ngozi helped her mother.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "Although"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Although\" joins the two ideas correctly here.",
+      "curriculumRef": "NERDC Primary English, writing: joining ideas",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-001",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: market. the at mangoes three bought Ada",
+      "options": [
+        "Ada bought three mangoes at the market.",
+        "bought Ada three mangoes at the market.",
+        "Ada three bought mangoes at the market.",
+        "market. the at mangoes three bought Ada"
+      ],
+      "correctIndex": 0,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-002",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: river. the near yams planted farmer The",
+      "options": [
+        "farmer The planted yams near the river.",
+        "The farmer planted yams near the river.",
+        "The planted farmer yams near the river.",
+        "river. the near yams planted farmer The"
+      ],
+      "correctIndex": 1,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-003",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: class. in board the cleaned Musa",
+      "options": [
+        "cleaned Musa the board in class.",
+        "Musa the cleaned board in class.",
+        "Musa cleaned the board in class.",
+        "class. in board the cleaned Musa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-004",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: night. each book one reads Ngozi",
+      "options": [
+        "reads Ngozi one book each night.",
+        "Ngozi one reads book each night.",
+        "night. each book one reads Ngozi",
+        "Ngozi reads one book each night."
+      ],
+      "correctIndex": 3,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-005",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: gate. the at bus the stopped driver The",
+      "options": [
+        "The driver stopped the bus at the gate.",
+        "driver The stopped the bus at the gate.",
+        "The stopped driver the bus at the gate.",
+        "gate. the at bus the stopped driver The"
+      ],
+      "correctIndex": 0,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-006",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: dinner. before hands his washed Tunde",
+      "options": [
+        "washed Tunde his hands before dinner.",
+        "Tunde washed his hands before dinner.",
+        "Tunde his washed hands before dinner.",
+        "dinner. before hands his washed Tunde"
+      ],
+      "correctIndex": 1,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-007",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: morning. the in chickens the fed Amina",
+      "options": [
+        "fed Amina the chickens in the morning.",
+        "Amina the fed chickens in the morning.",
+        "Amina fed the chickens in the morning.",
+        "morning. the in chickens the fed Amina"
+      ],
+      "correctIndex": 2,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-008",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: air. fresh for window the opened teacher The",
+      "options": [
+        "teacher The opened the window for fresh air.",
+        "The opened teacher the window for fresh air.",
+        "air. fresh for window the opened teacher The",
+        "The teacher opened the window for fresh air."
+      ],
+      "correctIndex": 3,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-009",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: field. the on football played boys The",
+      "options": [
+        "The boys played football on the field.",
+        "boys The played football on the field.",
+        "The played boys football on the field.",
+        "field. the on football played boys The"
+      ],
+      "correctIndex": 0,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-010",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: kitchen. the to water the carried Sani",
+      "options": [
+        "carried Sani the water to the kitchen.",
+        "Sani carried the water to the kitchen.",
+        "Sani the carried water to the kitchen.",
+        "kitchen. the to water the carried Sani"
+      ],
+      "correctIndex": 1,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-011",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: party. the at song a sang women The",
+      "options": [
+        "women The sang a song at the party.",
+        "The sang women a song at the party.",
+        "The women sang a song at the party.",
+        "party. the at song a sang women The"
+      ],
+      "correctIndex": 2,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-012",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: Sunday. on roof the fixed father My",
+      "options": [
+        "father My fixed the roof on Sunday.",
+        "My fixed father the roof on Sunday.",
+        "Sunday. on roof the fixed father My",
+        "My father fixed the roof on Sunday."
+      ],
+      "correctIndex": 3,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-013",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: school. after classroom the swept pupils The",
+      "options": [
+        "The pupils swept the classroom after school.",
+        "pupils The swept the classroom after school.",
+        "The swept pupils the classroom after school.",
+        "school. after classroom the swept pupils The"
+      ],
+      "correctIndex": 0,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-014",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: house. her of picture a drew Bola",
+      "options": [
+        "drew Bola a picture of her house.",
+        "Bola drew a picture of her house.",
+        "Bola a drew picture of her house.",
+        "house. her of picture a drew Bola"
+      ],
+      "correctIndex": 1,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-015",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: night. the during river the filled rain The",
+      "options": [
+        "rain The filled the river during the night.",
+        "The filled rain the river during the night.",
+        "The rain filled the river during the night.",
+        "night. the during river the filled rain The"
+      ],
+      "correctIndex": 2,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-016",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: ward. the to doctor the called nurse The",
+      "options": [
+        "nurse The called the doctor to the ward.",
+        "The called nurse the doctor to the ward.",
+        "ward. the to doctor the called nurse The",
+        "The nurse called the doctor to the ward."
+      ],
+      "correctIndex": 3,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-017",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: stall. the at money his counted trader The",
+      "options": [
+        "The trader counted his money at the stall.",
+        "trader The counted his money at the stall.",
+        "The counted trader his money at the stall.",
+        "stall. the at money his counted trader The"
+      ],
+      "correctIndex": 0,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-018",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: tree. the from leaves the ate goat The",
+      "options": [
+        "goat The ate the leaves from the tree.",
+        "The goat ate the leaves from the tree.",
+        "The ate goat the leaves from the tree.",
+        "tree. the from leaves the ate goat The"
+      ],
+      "correctIndex": 1,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-019",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: brother. her for cake a baked Ifeoma",
+      "options": [
+        "baked Ifeoma a cake for her brother.",
+        "Ifeoma a baked cake for her brother.",
+        "Ifeoma baked a cake for her brother.",
+        "brother. her for cake a baked Ifeoma"
+      ],
+      "correctIndex": 2,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-020",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: break. at oranges the shared children The",
+      "options": [
+        "children The shared the oranges at break.",
+        "The shared children the oranges at break.",
+        "break. at oranges the shared children The",
+        "The children shared the oranges at break."
+      ],
+      "correctIndex": 3,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-021",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: journey. the before tyre the checked driver The",
+      "options": [
+        "The driver checked the tyre before the journey.",
+        "driver The checked the tyre before the journey.",
+        "The checked driver the tyre before the journey.",
+        "journey. the before tyre the checked driver The"
+      ],
+      "correctIndex": 0,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-022",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: river. the by net his mended fisherman The",
+      "options": [
+        "fisherman The mended his net by the river.",
+        "The fisherman mended his net by the river.",
+        "The mended fisherman his net by the river.",
+        "river. the by net his mended fisherman The"
+      ],
+      "correctIndex": 1,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-023",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: Friday. on library the cleaned class The",
+      "options": [
+        "class The cleaned the library on Friday.",
+        "The cleaned class the library on Friday.",
+        "The class cleaned the library on Friday.",
+        "Friday. on library the cleaned class The"
+      ],
+      "correctIndex": 2,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-024",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: customer. the for shirt a sewed tailor The",
+      "options": [
+        "tailor The sewed a shirt for the customer.",
+        "The sewed tailor a shirt for the customer.",
+        "customer. the for shirt a sewed tailor The",
+        "The tailor sewed a shirt for the customer."
+      ],
+      "correctIndex": 3,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-025",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: care. with wood the sanded carpenter The",
+      "options": [
+        "The carpenter sanded the wood with care.",
+        "carpenter The sanded the wood with care.",
+        "The sanded carpenter the wood with care.",
+        "care. with wood the sanded carpenter The"
+      ],
+      "correctIndex": 0,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-026",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: garden. the in rabbit the fed girl The",
+      "options": [
+        "girl The fed the rabbit in the garden.",
+        "The girl fed the rabbit in the garden.",
+        "The fed girl the rabbit in the garden.",
+        "garden. the in rabbit the fed girl The"
+      ],
+      "correctIndex": 1,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-027",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: today. opened shop The",
+      "options": [
+        "shop The opened today.",
+        "The opened shop today.",
+        "The shop opened today.",
+        "today. opened shop The"
+      ],
+      "correctIndex": 2,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-028",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: festival. the at drum the beat drummer The",
+      "options": [
+        "drummer The beat the drum at the festival.",
+        "The beat drummer the drum at the festival.",
+        "festival. the at drum the beat drummer The",
+        "The drummer beat the drum at the festival."
+      ],
+      "correctIndex": 3,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-029",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: night. at together ate family The",
+      "options": [
+        "The family ate together at night.",
+        "family The ate together at night.",
+        "The ate family together at night.",
+        "night. at together ate family The"
+      ],
+      "correctIndex": 0,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-030",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: tree. the in nest a built bird The",
+      "options": [
+        "bird The built a nest in the tree.",
+        "The bird built a nest in the tree.",
+        "The built bird a nest in the tree.",
+        "tree. the in nest a built bird The"
+      ],
+      "correctIndex": 1,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-031",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: market. the at maize his sold farmer The",
+      "options": [
+        "farmer The sold his maize at the market.",
+        "The sold farmer his maize at the market.",
+        "The farmer sold his maize at the market.",
+        "market. the at maize his sold farmer The"
+      ],
+      "correctIndex": 2,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-032",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: answer. clear a gave pupil The",
+      "options": [
+        "pupil The gave a clear answer.",
+        "The gave pupil a clear answer.",
+        "answer. clear a gave pupil The",
+        "The pupil gave a clear answer."
+      ],
+      "correctIndex": 3,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-033",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: line. the on clothes the dried sun The",
+      "options": [
+        "The sun dried the clothes on the line.",
+        "sun The dried the clothes on the line.",
+        "The dried sun the clothes on the line.",
+        "line. the on clothes the dried sun The"
+      ],
+      "correctIndex": 0,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-034",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: noon. before stall her opened trader The",
+      "options": [
+        "trader The opened her stall before noon.",
+        "The trader opened her stall before noon.",
+        "The opened trader her stall before noon.",
+        "noon. before stall her opened trader The"
+      ],
+      "correctIndex": 1,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-035",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: care. with road the crossed children The",
+      "options": [
+        "children The crossed the road with care.",
+        "The crossed children the road with care.",
+        "The children crossed the road with care.",
+        "care. with road the crossed children The"
+      ],
+      "correctIndex": 2,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-036",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: check. the before hands his washed doctor The",
+      "options": [
+        "doctor The washed his hands before the check.",
+        "The washed doctor his hands before the check.",
+        "check. the before hands his washed doctor The",
+        "The doctor washed his hands before the check."
+      ],
+      "correctIndex": 3,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-037",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: water. plants the gave gardener The",
+      "options": [
+        "The gardener gave the plants water.",
+        "gardener The gave the plants water.",
+        "The gave gardener the plants water.",
+        "water. plants the gave gardener The"
+      ],
+      "correctIndex": 0,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-038",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: school. to box the took postman The",
+      "options": [
+        "postman The took the box to school.",
+        "The postman took the box to school.",
+        "The took postman the box to school.",
+        "school. to box the took postman The"
+      ],
+      "correctIndex": 1,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-039",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: bus. the on tickets the checked conductor The",
+      "options": [
+        "conductor The checked the tickets on the bus.",
+        "The checked conductor the tickets on the bus.",
+        "The conductor checked the tickets on the bus.",
+        "bus. the on tickets the checked conductor The"
+      ],
+      "correctIndex": 2,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-WRI-G-040",
+      "subject": "english",
+      "topic": "writing",
+      "level": "gold",
+      "text": "Put in order: customer. the for shoes the cleaned cobbler The",
+      "options": [
+        "cobbler The cleaned the shoes for the customer.",
+        "The cleaned cobbler the shoes for the customer.",
+        "customer. the for shoes the cleaned cobbler The",
+        "The cobbler cleaned the shoes for the customer."
+      ],
+      "correctIndex": 3,
+      "explanation": "Read the words as subject, action, then the extra detail.",
+      "curriculumRef": "NERDC Primary English, writing: sentence order",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

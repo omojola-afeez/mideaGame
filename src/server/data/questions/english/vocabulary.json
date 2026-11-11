@@ -1,0 +1,2287 @@
+{
+  "subject": "english",
+  "topic": "vocabulary",
+  "title": "Word workshop",
+  "questions": [
+    {
+      "code": "ENG-VOC-B-001",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"happy\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "quick"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"glad\" has the same meaning as \"happy\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-002",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"big\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "quick"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"large\" has the same meaning as \"big\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-003",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"small\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "quick"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"tiny\" has the same meaning as \"small\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-004",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"fast\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "quick"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"quick\" has the same meaning as \"fast\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-005",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"angry\"?",
+      "options": [
+        "cross",
+        "glad",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"cross\" has the same meaning as \"angry\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-006",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"begin\"?",
+      "options": [
+        "glad",
+        "start",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"start\" has the same meaning as \"begin\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-007",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"buy\"?",
+      "options": [
+        "glad",
+        "large",
+        "purchase",
+        "tiny"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"purchase\" has the same meaning as \"buy\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-008",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"close\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "shut"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"shut\" has the same meaning as \"close\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-009",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"difficult\"?",
+      "options": [
+        "hard",
+        "glad",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"hard\" has the same meaning as \"difficult\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-010",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"easy\"?",
+      "options": [
+        "glad",
+        "simple",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"simple\" has the same meaning as \"easy\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-011",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"good\"?",
+      "options": [
+        "glad",
+        "large",
+        "fine",
+        "tiny"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"fine\" has the same meaning as \"good\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-012",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"bad\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "poor"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"poor\" has the same meaning as \"bad\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-013",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"beautiful\"?",
+      "options": [
+        "pretty",
+        "glad",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"pretty\" has the same meaning as \"beautiful\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-014",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"brave\"?",
+      "options": [
+        "glad",
+        "bold",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"bold\" has the same meaning as \"brave\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-015",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"quiet\"?",
+      "options": [
+        "glad",
+        "large",
+        "silent",
+        "tiny"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"silent\" has the same meaning as \"quiet\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-016",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"loud\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "noisy"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"noisy\" has the same meaning as \"loud\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-017",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"rich\"?",
+      "options": [
+        "wealthy",
+        "glad",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"wealthy\" has the same meaning as \"rich\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-018",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"smart\"?",
+      "options": [
+        "glad",
+        "clever",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"clever\" has the same meaning as \"smart\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-019",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"tired\"?",
+      "options": [
+        "glad",
+        "large",
+        "weary",
+        "tiny"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"weary\" has the same meaning as \"tired\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-020",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"cold\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "chilly"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"chilly\" has the same meaning as \"cold\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-021",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"speak\"?",
+      "options": [
+        "talk",
+        "glad",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"talk\" has the same meaning as \"speak\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-022",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"shout\"?",
+      "options": [
+        "glad",
+        "yell",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"yell\" has the same meaning as \"shout\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-023",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"laugh\"?",
+      "options": [
+        "glad",
+        "large",
+        "giggle",
+        "tiny"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"giggle\" has the same meaning as \"laugh\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-024",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"cry\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "weep"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"weep\" has the same meaning as \"cry\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-025",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"look\"?",
+      "options": [
+        "glance",
+        "glad",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"glance\" has the same meaning as \"look\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-026",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"give\"?",
+      "options": [
+        "glad",
+        "offer",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"offer\" has the same meaning as \"give\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-027",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"take\"?",
+      "options": [
+        "glad",
+        "large",
+        "grab",
+        "tiny"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"grab\" has the same meaning as \"take\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-028",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"make\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "create"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"create\" has the same meaning as \"make\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-029",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"fix\"?",
+      "options": [
+        "repair",
+        "glad",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"repair\" has the same meaning as \"fix\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-030",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"help\"?",
+      "options": [
+        "glad",
+        "assist",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"assist\" has the same meaning as \"help\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-031",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"ask\"?",
+      "options": [
+        "glad",
+        "large",
+        "inquire",
+        "tiny"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"inquire\" has the same meaning as \"ask\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-032",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"answer\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "reply"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"reply\" has the same meaning as \"answer\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-033",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"finish\"?",
+      "options": [
+        "end",
+        "glad",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"end\" has the same meaning as \"finish\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-034",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"choose\"?",
+      "options": [
+        "glad",
+        "select",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"select\" has the same meaning as \"choose\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-035",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"hide\"?",
+      "options": [
+        "glad",
+        "large",
+        "conceal",
+        "tiny"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"conceal\" has the same meaning as \"hide\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-036",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"show\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "display"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"display\" has the same meaning as \"show\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-037",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"tell\"?",
+      "options": [
+        "inform",
+        "glad",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"inform\" has the same meaning as \"tell\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-038",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"want\"?",
+      "options": [
+        "glad",
+        "wish",
+        "large",
+        "tiny"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"wish\" has the same meaning as \"want\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-039",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"like\"?",
+      "options": [
+        "glad",
+        "large",
+        "enjoy",
+        "tiny"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"enjoy\" has the same meaning as \"like\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-B-040",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "bronze",
+      "text": "Which word means the same as \"love\"?",
+      "options": [
+        "glad",
+        "large",
+        "tiny",
+        "adore"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"adore\" has the same meaning as \"love\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: synonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-001",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"happy\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "cold"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"sad\" is the opposite of \"happy\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-002",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"big\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "cold"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"small\" is the opposite of \"big\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-003",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"fast\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "cold"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"slow\" is the opposite of \"fast\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-004",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"hot\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "cold"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"cold\" is the opposite of \"hot\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-005",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"day\"?",
+      "options": [
+        "night",
+        "sad",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"night\" is the opposite of \"day\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-006",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"up\"?",
+      "options": [
+        "sad",
+        "down",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"down\" is the opposite of \"up\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-007",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"open\"?",
+      "options": [
+        "sad",
+        "small",
+        "closed",
+        "slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"closed\" is the opposite of \"open\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-008",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"young\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "old"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"old\" is the opposite of \"young\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-009",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"rich\"?",
+      "options": [
+        "poor",
+        "sad",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"poor\" is the opposite of \"rich\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-010",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"strong\"?",
+      "options": [
+        "sad",
+        "weak",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"weak\" is the opposite of \"strong\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-011",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"full\"?",
+      "options": [
+        "sad",
+        "small",
+        "empty",
+        "slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"empty\" is the opposite of \"full\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-012",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"clean\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "dirty"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"dirty\" is the opposite of \"clean\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-013",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"early\"?",
+      "options": [
+        "late",
+        "sad",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"late\" is the opposite of \"early\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-014",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"hard\"?",
+      "options": [
+        "sad",
+        "soft",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"soft\" is the opposite of \"hard\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-015",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"light\"?",
+      "options": [
+        "sad",
+        "small",
+        "dark",
+        "slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"dark\" is the opposite of \"light\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-016",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"long\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "short"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"short\" is the opposite of \"long\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-017",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"wet\"?",
+      "options": [
+        "dry",
+        "sad",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"dry\" is the opposite of \"wet\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-018",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"loud\"?",
+      "options": [
+        "sad",
+        "quiet",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"quiet\" is the opposite of \"loud\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-019",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"brave\"?",
+      "options": [
+        "sad",
+        "small",
+        "afraid",
+        "slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"afraid\" is the opposite of \"brave\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-020",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"kind\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "cruel"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"cruel\" is the opposite of \"kind\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-021",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"buy\"?",
+      "options": [
+        "sell",
+        "sad",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"sell\" is the opposite of \"buy\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-022",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"give\"?",
+      "options": [
+        "sad",
+        "take",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"take\" is the opposite of \"give\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-023",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"remember\"?",
+      "options": [
+        "sad",
+        "small",
+        "forget",
+        "slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"forget\" is the opposite of \"remember\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-024",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"arrive\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "leave"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"leave\" is the opposite of \"arrive\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-025",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"push\"?",
+      "options": [
+        "pull",
+        "sad",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"pull\" is the opposite of \"push\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-026",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"start\"?",
+      "options": [
+        "sad",
+        "finish",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"finish\" is the opposite of \"start\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-027",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"love\"?",
+      "options": [
+        "sad",
+        "small",
+        "hate",
+        "slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"hate\" is the opposite of \"love\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-028",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"win\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "lose"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"lose\" is the opposite of \"win\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-029",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"true\"?",
+      "options": [
+        "false",
+        "sad",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"false\" is the opposite of \"true\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-030",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"safe\"?",
+      "options": [
+        "sad",
+        "dangerous",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"dangerous\" is the opposite of \"safe\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-031",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"inside\"?",
+      "options": [
+        "sad",
+        "small",
+        "outside",
+        "slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"outside\" is the opposite of \"inside\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-032",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"above\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "below"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"below\" is the opposite of \"above\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-033",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"friend\"?",
+      "options": [
+        "enemy",
+        "sad",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"enemy\" is the opposite of \"friend\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-034",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"peace\"?",
+      "options": [
+        "sad",
+        "war",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"war\" is the opposite of \"peace\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-035",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"build\"?",
+      "options": [
+        "sad",
+        "small",
+        "destroy",
+        "slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"destroy\" is the opposite of \"build\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-036",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"praise\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "blame"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"blame\" is the opposite of \"praise\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-037",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"accept\"?",
+      "options": [
+        "reject",
+        "sad",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"reject\" is the opposite of \"accept\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-038",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"ancient\"?",
+      "options": [
+        "sad",
+        "modern",
+        "small",
+        "slow"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"modern\" is the opposite of \"ancient\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-039",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"generous\"?",
+      "options": [
+        "sad",
+        "small",
+        "stingy",
+        "slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"stingy\" is the opposite of \"generous\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-S-040",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "silver",
+      "text": "Which word is the opposite of \"careful\"?",
+      "options": [
+        "sad",
+        "small",
+        "slow",
+        "careless"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"careless\" is the opposite of \"careful\".",
+      "curriculumRef": "NERDC Primary English, vocabulary: antonyms",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-001",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: Ada was ___ after the long walk, so she sat down.",
+      "options": [
+        "tired",
+        "angry",
+        "hungry",
+        "loud"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence needs \"tired\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-002",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The soup was ___, so everyone asked for more.",
+      "options": [
+        "dirty",
+        "delicious",
+        "empty",
+        "quiet"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence needs \"delicious\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-003",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ rain made the road dangerous.",
+      "options": [
+        "clever",
+        "polite",
+        "heavy",
+        "sweet"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence needs \"heavy\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-004",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: Musa was ___ when he lost his book.",
+      "options": [
+        "tall",
+        "fast",
+        "smooth",
+        "sad"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence needs \"sad\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-005",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The baby slept ___ all night.",
+      "options": [
+        "peacefully",
+        "loudly",
+        "angrily",
+        "quickly"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence needs \"peacefully\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-006",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The teacher spoke ___ so everyone could hear.",
+      "options": [
+        "softly",
+        "clearly",
+        "sadly",
+        "late"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence needs \"clearly\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-007",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ pot broke when it fell.",
+      "options": [
+        "happy",
+        "swift",
+        "clay",
+        "green"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence needs \"clay\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-008",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: We need a ___ day to dry the clothes.",
+      "options": [
+        "hungry",
+        "careful",
+        "round",
+        "sunny"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence needs \"sunny\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-009",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ boy shared his lunch with a friend.",
+      "options": [
+        "kind",
+        "sharp",
+        "deep",
+        "loud"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence needs \"kind\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-010",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The path was ___, so we walked slowly.",
+      "options": [
+        "sweet",
+        "rough",
+        "wise",
+        "bright"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence needs \"rough\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-011",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The market was ___ on Saturday morning.",
+      "options": [
+        "silent",
+        "empty",
+        "crowded",
+        "sleepy"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence needs \"crowded\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-012",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: She wore a ___ dress to the party.",
+      "options": [
+        "difficult",
+        "careful",
+        "hungry",
+        "beautiful"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence needs \"beautiful\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-013",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ water was safe to drink.",
+      "options": [
+        "clean",
+        "tired",
+        "narrow",
+        "polite"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence needs \"clean\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-014",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ child solved the puzzle quickly.",
+      "options": [
+        "weak",
+        "clever",
+        "slow",
+        "cold"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence needs \"clever\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-015",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ wind blew the leaves away.",
+      "options": [
+        "sweet",
+        "quiet",
+        "strong",
+        "round"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence needs \"strong\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-016",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: He was ___ because he had not eaten.",
+      "options": [
+        "sleepy",
+        "angry",
+        "famous",
+        "hungry"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence needs \"hungry\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-017",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ learner asked many questions.",
+      "options": [
+        "curious",
+        "lazy",
+        "rude",
+        "silent"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence needs \"curious\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-018",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The road was ___ after the rain.",
+      "options": [
+        "bright",
+        "muddy",
+        "soft",
+        "cheap"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence needs \"muddy\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-019",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ drum could be heard far away.",
+      "options": [
+        "sour",
+        "narrow",
+        "loud",
+        "heavy"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence needs \"loud\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-020",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: She kept the money in a ___ box.",
+      "options": [
+        "tall",
+        "sweet",
+        "quick",
+        "safe"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence needs \"safe\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-021",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ sky warned us of rain.",
+      "options": [
+        "dark",
+        "kind",
+        "round",
+        "cheap"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence needs \"dark\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-022",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ boy helped the old woman cross.",
+      "options": [
+        "lazy",
+        "polite",
+        "dirty",
+        "sharp"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence needs \"polite\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-023",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: We made a ___ plan for the trip.",
+      "options": [
+        "sour",
+        "loud",
+        "careful",
+        "empty"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence needs \"careful\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-024",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ mangoes were ready to eat.",
+      "options": [
+        "rude",
+        "cold",
+        "slow",
+        "ripe"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence needs \"ripe\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-025",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ room was too small for the class.",
+      "options": [
+        "narrow",
+        "sweet",
+        "happy",
+        "bright"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence needs \"narrow\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-026",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ story made the children laugh.",
+      "options": [
+        "sad",
+        "funny",
+        "angry",
+        "tired"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence needs \"funny\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-027",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: She was ___ to see her grandmother.",
+      "options": [
+        "bored",
+        "rude",
+        "excited",
+        "heavy"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence needs \"excited\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-028",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ knife cut the bread easily.",
+      "options": [
+        "soft",
+        "sweet",
+        "quiet",
+        "sharp"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence needs \"sharp\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-029",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ baby needed a nap.",
+      "options": [
+        "sleepy",
+        "famous",
+        "strong",
+        "wide"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence needs \"sleepy\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-030",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ village had no clean water.",
+      "options": [
+        "sweet",
+        "small",
+        "quick",
+        "calm"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence needs \"small\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-031",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ sun made us seek shade.",
+      "options": [
+        "kind",
+        "soft",
+        "hot",
+        "cheap"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence needs \"hot\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-032",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ river flowed past the school.",
+      "options": [
+        "sour",
+        "polite",
+        "sleepy",
+        "wide"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence needs \"wide\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-033",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ child returned the lost money.",
+      "options": [
+        "honest",
+        "lazy",
+        "rude",
+        "noisy"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence needs \"honest\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-034",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ blanket kept us warm.",
+      "options": [
+        "sour",
+        "thick",
+        "narrow",
+        "angry"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence needs \"thick\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-035",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ noise woke the baby.",
+      "options": [
+        "sweet",
+        "round",
+        "sudden",
+        "cheap"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence needs \"sudden\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-036",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ fruit was too sour to eat.",
+      "options": [
+        "polite",
+        "clean",
+        "wide",
+        "unripe"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence needs \"unripe\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-037",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ teacher praised our work.",
+      "options": [
+        "proud",
+        "sleepy",
+        "narrow",
+        "sour"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence needs \"proud\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-038",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ path led to the river.",
+      "options": [
+        "sweet",
+        "steep",
+        "polite",
+        "calm"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence needs \"steep\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-039",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ child would not share.",
+      "options": [
+        "kind",
+        "brave",
+        "selfish",
+        "clean"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence needs \"selfish\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-VOC-G-040",
+      "subject": "english",
+      "topic": "vocabulary",
+      "level": "gold",
+      "text": "Pick the best word: The ___ box was easy to carry.",
+      "options": [
+        "sour",
+        "loud",
+        "angry",
+        "light"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence needs \"light\" to make sense.",
+      "curriculumRef": "NERDC Primary English, vocabulary: words in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

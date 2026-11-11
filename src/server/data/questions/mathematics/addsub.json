@@ -1,0 +1,2287 @@
+{
+  "subject": "mathematics",
+  "topic": "addsub",
+  "title": "Add and subtract",
+  "questions": [
+    {
+      "code": "MAT-ADD-B-001",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 70 - 25?",
+      "options": [
+        "45",
+        "55",
+        "35",
+        "46"
+      ],
+      "correctIndex": 0,
+      "explanation": "70 - 25 = 45.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-002",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "Ekaette has 27 bags of rice. She buys 26 more. How many does she have now?",
+      "options": [
+        "54",
+        "53",
+        "52",
+        "1"
+      ],
+      "correctIndex": 1,
+      "explanation": "27 + 26 = 53.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, addition word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-003",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What number goes in the box? 6 + __ = 16",
+      "options": [
+        "22",
+        "11",
+        "10",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "16 - 6 = 10.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, missing addend",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-004",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 500 + 200?",
+      "options": [
+        "800",
+        "600",
+        "710",
+        "700"
+      ],
+      "correctIndex": 3,
+      "explanation": "500 + 200 = 700.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding hundreds",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-005",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "Ngozi had 76 naira. He spent 29 naira. How much is left?",
+      "options": [
+        "₦47",
+        "₦57",
+        "₦37",
+        "₦147"
+      ],
+      "correctIndex": 0,
+      "explanation": "76 - 29 = 47 naira.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, money subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-006",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 34 + 34?",
+      "options": [
+        "69",
+        "68",
+        "66",
+        "102"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doubling 34 gives 68.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, doubles",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-007",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 321 - 158?",
+      "options": [
+        "173",
+        "153",
+        "163",
+        "479"
+      ],
+      "correctIndex": 2,
+      "explanation": "321 - 158 = 163.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-008",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 64 + 11?",
+      "options": [
+        "85",
+        "65",
+        "76",
+        "75"
+      ],
+      "correctIndex": 3,
+      "explanation": "64 + 11 = 75.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-009",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 53 - 24?",
+      "options": [
+        "29",
+        "39",
+        "19",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "53 - 24 = 29.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-010",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "Bola has 10 bags of rice. She buys 14 more. How many does she have now?",
+      "options": [
+        "25",
+        "24",
+        "23",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 + 14 = 24.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, addition word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-011",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What number goes in the box? 6 + __ = 17",
+      "options": [
+        "23",
+        "12",
+        "11",
+        "10"
+      ],
+      "correctIndex": 2,
+      "explanation": "17 - 6 = 11.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, missing addend",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-012",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 300 + 400?",
+      "options": [
+        "800",
+        "600",
+        "710",
+        "700"
+      ],
+      "correctIndex": 3,
+      "explanation": "300 + 400 = 700.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding hundreds",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-013",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "Ekaette had 99 naira. He spent 20 naira. How much is left?",
+      "options": [
+        "₦79",
+        "₦89",
+        "₦69",
+        "₦179"
+      ],
+      "correctIndex": 0,
+      "explanation": "99 - 20 = 79 naira.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, money subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-014",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 35 + 35?",
+      "options": [
+        "71",
+        "70",
+        "68",
+        "105"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doubling 35 gives 70.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, doubles",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-015",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 173 - 196?",
+      "options": [
+        "-13",
+        "-33",
+        "-23",
+        "369"
+      ],
+      "correctIndex": 2,
+      "explanation": "173 - 196 = -23.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-016",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 35 + 27?",
+      "options": [
+        "72",
+        "52",
+        "63",
+        "62"
+      ],
+      "correctIndex": 3,
+      "explanation": "35 + 27 = 62.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-017",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 87 - 17?",
+      "options": [
+        "70",
+        "80",
+        "60",
+        "71"
+      ],
+      "correctIndex": 0,
+      "explanation": "87 - 17 = 70.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-018",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "Bola has 21 tomatoes. She buys 23 more. How many does she have now?",
+      "options": [
+        "45",
+        "44",
+        "43",
+        "2"
+      ],
+      "correctIndex": 1,
+      "explanation": "21 + 23 = 44.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, addition word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-019",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What number goes in the box? 7 + __ = 12",
+      "options": [
+        "19",
+        "6",
+        "5",
+        "4"
+      ],
+      "correctIndex": 2,
+      "explanation": "12 - 7 = 5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, missing addend",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-020",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 100 + 200?",
+      "options": [
+        "400",
+        "200",
+        "310",
+        "300"
+      ],
+      "correctIndex": 3,
+      "explanation": "100 + 200 = 300.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding hundreds",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-021",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "Ada had 64 naira. He spent 12 naira. How much is left?",
+      "options": [
+        "₦52",
+        "₦62",
+        "₦42",
+        "₦152"
+      ],
+      "correctIndex": 0,
+      "explanation": "64 - 12 = 52 naira.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, money subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-022",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 31 + 31?",
+      "options": [
+        "63",
+        "62",
+        "60",
+        "93"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doubling 31 gives 62.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, doubles",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-023",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 163 - 74?",
+      "options": [
+        "99",
+        "79",
+        "89",
+        "237"
+      ],
+      "correctIndex": 2,
+      "explanation": "163 - 74 = 89.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-024",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 50 + 39?",
+      "options": [
+        "99",
+        "79",
+        "90",
+        "89"
+      ],
+      "correctIndex": 3,
+      "explanation": "50 + 39 = 89.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-025",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 61 - 19?",
+      "options": [
+        "42",
+        "52",
+        "32",
+        "43"
+      ],
+      "correctIndex": 0,
+      "explanation": "61 - 19 = 42.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-026",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "Bola has 22 pencils. She buys 15 more. How many does she have now?",
+      "options": [
+        "38",
+        "37",
+        "36",
+        "7"
+      ],
+      "correctIndex": 1,
+      "explanation": "22 + 15 = 37.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, addition word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-027",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What number goes in the box? 14 + __ = 19",
+      "options": [
+        "33",
+        "6",
+        "5",
+        "4"
+      ],
+      "correctIndex": 2,
+      "explanation": "19 - 14 = 5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, missing addend",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-028",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 500 + 300?",
+      "options": [
+        "900",
+        "700",
+        "810",
+        "800"
+      ],
+      "correctIndex": 3,
+      "explanation": "500 + 300 = 800.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding hundreds",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-029",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "Ada had 88 naira. He spent 26 naira. How much is left?",
+      "options": [
+        "₦62",
+        "₦72",
+        "₦52",
+        "₦162"
+      ],
+      "correctIndex": 0,
+      "explanation": "88 - 26 = 62 naira.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, money subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-030",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 43 + 43?",
+      "options": [
+        "87",
+        "86",
+        "84",
+        "129"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doubling 43 gives 86.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, doubles",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-031",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 305 - 160?",
+      "options": [
+        "155",
+        "135",
+        "145",
+        "465"
+      ],
+      "correctIndex": 2,
+      "explanation": "305 - 160 = 145.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-032",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 32 + 28?",
+      "options": [
+        "70",
+        "50",
+        "61",
+        "60"
+      ],
+      "correctIndex": 3,
+      "explanation": "32 + 28 = 60.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-033",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 86 - 27?",
+      "options": [
+        "59",
+        "69",
+        "49",
+        "60"
+      ],
+      "correctIndex": 0,
+      "explanation": "86 - 27 = 59.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-034",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "Ekaette has 53 sachets of water. She buys 9 more. How many does she have now?",
+      "options": [
+        "63",
+        "62",
+        "61",
+        "44"
+      ],
+      "correctIndex": 1,
+      "explanation": "53 + 9 = 62.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, addition word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-035",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What number goes in the box? 11 + __ = 14",
+      "options": [
+        "25",
+        "4",
+        "3",
+        "2"
+      ],
+      "correctIndex": 2,
+      "explanation": "14 - 11 = 3.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, missing addend",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-036",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 200 + 300?",
+      "options": [
+        "600",
+        "400",
+        "510",
+        "500"
+      ],
+      "correctIndex": 3,
+      "explanation": "200 + 300 = 500.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding hundreds",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-037",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "Musa had 73 naira. He spent 10 naira. How much is left?",
+      "options": [
+        "₦63",
+        "₦73",
+        "₦53",
+        "₦163"
+      ],
+      "correctIndex": 0,
+      "explanation": "73 - 10 = 63 naira.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, money subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-038",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 20 + 20?",
+      "options": [
+        "41",
+        "40",
+        "38",
+        "60"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doubling 20 gives 40.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, doubles",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-039",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 482 - 156?",
+      "options": [
+        "336",
+        "316",
+        "326",
+        "638"
+      ],
+      "correctIndex": 2,
+      "explanation": "482 - 156 = 326.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-B-040",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "bronze",
+      "text": "What is 30 + 49?",
+      "options": [
+        "89",
+        "69",
+        "80",
+        "79"
+      ],
+      "correctIndex": 3,
+      "explanation": "30 + 49 = 79.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-001",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 3167 - 624?",
+      "options": [
+        "2543",
+        "2643",
+        "2443",
+        "2553"
+      ],
+      "correctIndex": 0,
+      "explanation": "3167 - 624 = 2543.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtraction with regrouping",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-002",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What must be added to 8,210 to make 8,755?",
+      "options": [
+        "555",
+        "545",
+        "535",
+        "645"
+      ],
+      "correctIndex": 1,
+      "explanation": "The difference is 545.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, missing number",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-003",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "A shop sold 761 bottles on Monday and 517 bottles on Tuesday. How many bottles were sold in all?",
+      "options": [
+        "1288",
+        "1268",
+        "1278",
+        "244"
+      ],
+      "correctIndex": 2,
+      "explanation": "761 + 517 = 1278 bottles.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-004",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 2,370 + 155?",
+      "options": [
+        "2,625",
+        "2,425",
+        "2,535",
+        "2,525"
+      ],
+      "correctIndex": 3,
+      "explanation": "2,370 + 155 = 2,525.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-005",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "How much more is 1446 than 803?",
+      "options": [
+        "643",
+        "653",
+        "633",
+        "2249"
+      ],
+      "correctIndex": 0,
+      "explanation": "1446 - 803 = 643.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, finding the difference",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-006",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 4,956 - 621?",
+      "options": [
+        "4,435",
+        "4,335",
+        "4,235",
+        "4,345"
+      ],
+      "correctIndex": 1,
+      "explanation": "4,956 - 621 = 4,335.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-007",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "Chidi walked 351 metres, then 404 metres, then 267 metres. How far did she walk?",
+      "options": [
+        "1032 m",
+        "1012 m",
+        "1022 m",
+        "755 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "351 + 404 + 267 = 1022 metres.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition in measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-008",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 695 + 514?",
+      "options": [
+        "1219",
+        "1109",
+        "1210",
+        "1209"
+      ],
+      "correctIndex": 3,
+      "explanation": "695 + 514 = 1209.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition with regrouping",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-009",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 3114 - 656?",
+      "options": [
+        "2458",
+        "2558",
+        "2358",
+        "2468"
+      ],
+      "correctIndex": 0,
+      "explanation": "3114 - 656 = 2458.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtraction with regrouping",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-010",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What must be added to 2,396 to make 2,673?",
+      "options": [
+        "287",
+        "277",
+        "267",
+        "377"
+      ],
+      "correctIndex": 1,
+      "explanation": "The difference is 277.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, missing number",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-011",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "A shop sold 269 bottles on Monday and 675 bottles on Tuesday. How many bottles were sold in all?",
+      "options": [
+        "954",
+        "934",
+        "944",
+        "406"
+      ],
+      "correctIndex": 2,
+      "explanation": "269 + 675 = 944 bottles.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-012",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 4,076 + 382?",
+      "options": [
+        "4,558",
+        "4,358",
+        "4,468",
+        "4,458"
+      ],
+      "correctIndex": 3,
+      "explanation": "4,076 + 382 = 4,458.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-013",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "How much more is 759 than 1248?",
+      "options": [
+        "-489",
+        "-479",
+        "-499",
+        "2007"
+      ],
+      "correctIndex": 0,
+      "explanation": "759 - 1248 = -489.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, finding the difference",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-014",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 2,203 - 254?",
+      "options": [
+        "2,049",
+        "1,949",
+        "1,849",
+        "1,959"
+      ],
+      "correctIndex": 1,
+      "explanation": "2,203 - 254 = 1,949.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-015",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "Ngozi walked 653 metres, then 472 metres, then 153 metres. How far did she walk?",
+      "options": [
+        "1288 m",
+        "1268 m",
+        "1278 m",
+        "1125 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "653 + 472 + 153 = 1278 metres.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition in measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-016",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 296 + 580?",
+      "options": [
+        "886",
+        "776",
+        "877",
+        "876"
+      ],
+      "correctIndex": 3,
+      "explanation": "296 + 580 = 876.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition with regrouping",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-017",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 3073 - 697?",
+      "options": [
+        "2376",
+        "2476",
+        "2276",
+        "2386"
+      ],
+      "correctIndex": 0,
+      "explanation": "3073 - 697 = 2376.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtraction with regrouping",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-018",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What must be added to 6,649 to make 7,071?",
+      "options": [
+        "432",
+        "422",
+        "412",
+        "522"
+      ],
+      "correctIndex": 1,
+      "explanation": "The difference is 422.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, missing number",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-019",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "A shop sold 325 bottles on Monday and 766 bottles on Tuesday. How many bottles were sold in all?",
+      "options": [
+        "1101",
+        "1081",
+        "1091",
+        "441"
+      ],
+      "correctIndex": 2,
+      "explanation": "325 + 766 = 1091 bottles.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-020",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 4,371 + 714?",
+      "options": [
+        "5,185",
+        "4,985",
+        "5,095",
+        "5,085"
+      ],
+      "correctIndex": 3,
+      "explanation": "4,371 + 714 = 5,085.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-021",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "How much more is 914 than 904?",
+      "options": [
+        "10",
+        "20",
+        "0",
+        "1818"
+      ],
+      "correctIndex": 0,
+      "explanation": "914 - 904 = 10.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, finding the difference",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-022",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 4,825 - 769?",
+      "options": [
+        "4,156",
+        "4,056",
+        "3,956",
+        "4,066"
+      ],
+      "correctIndex": 1,
+      "explanation": "4,825 - 769 = 4,056.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-023",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "Ada walked 650 metres, then 306 metres, then 260 metres. How far did she walk?",
+      "options": [
+        "1226 m",
+        "1206 m",
+        "1216 m",
+        "956 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "650 + 306 + 260 = 1216 metres.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition in measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-024",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 843 + 645?",
+      "options": [
+        "1498",
+        "1388",
+        "1489",
+        "1488"
+      ],
+      "correctIndex": 3,
+      "explanation": "843 + 645 = 1488.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition with regrouping",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-025",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 1603 - 779?",
+      "options": [
+        "824",
+        "924",
+        "724",
+        "834"
+      ],
+      "correctIndex": 0,
+      "explanation": "1603 - 779 = 824.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtraction with regrouping",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-026",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What must be added to 4,664 to make 4,978?",
+      "options": [
+        "324",
+        "314",
+        "304",
+        "414"
+      ],
+      "correctIndex": 1,
+      "explanation": "The difference is 314.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, missing number",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-027",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "A shop sold 564 bottles on Monday and 641 bottles on Tuesday. How many bottles were sold in all?",
+      "options": [
+        "1215",
+        "1195",
+        "1205",
+        "77"
+      ],
+      "correctIndex": 2,
+      "explanation": "564 + 641 = 1205 bottles.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-028",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 2,665 + 877?",
+      "options": [
+        "3,642",
+        "3,442",
+        "3,552",
+        "3,542"
+      ],
+      "correctIndex": 3,
+      "explanation": "2,665 + 877 = 3,542.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-029",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "How much more is 1077 than 206?",
+      "options": [
+        "871",
+        "881",
+        "861",
+        "1283"
+      ],
+      "correctIndex": 0,
+      "explanation": "1077 - 206 = 871.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, finding the difference",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-030",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 3,879 - 414?",
+      "options": [
+        "3,565",
+        "3,465",
+        "3,365",
+        "3,475"
+      ],
+      "correctIndex": 1,
+      "explanation": "3,879 - 414 = 3,465.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-031",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "Ifeoma walked 466 metres, then 697 metres, then 122 metres. How far did she walk?",
+      "options": [
+        "1295 m",
+        "1275 m",
+        "1285 m",
+        "1163 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "466 + 697 + 122 = 1285 metres.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition in measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-032",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 238 + 271?",
+      "options": [
+        "519",
+        "409",
+        "510",
+        "509"
+      ],
+      "correctIndex": 3,
+      "explanation": "238 + 271 = 509.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition with regrouping",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-033",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 1678 - 815?",
+      "options": [
+        "863",
+        "963",
+        "763",
+        "873"
+      ],
+      "correctIndex": 0,
+      "explanation": "1678 - 815 = 863.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtraction with regrouping",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-034",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What must be added to 4,006 to make 4,490?",
+      "options": [
+        "494",
+        "484",
+        "474",
+        "584"
+      ],
+      "correctIndex": 1,
+      "explanation": "The difference is 484.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, missing number",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-035",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "A shop sold 737 bottles on Monday and 463 bottles on Tuesday. How many bottles were sold in all?",
+      "options": [
+        "1210",
+        "1190",
+        "1200",
+        "274"
+      ],
+      "correctIndex": 2,
+      "explanation": "737 + 463 = 1200 bottles.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-036",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 1,978 + 258?",
+      "options": [
+        "2,336",
+        "2,136",
+        "2,246",
+        "2,236"
+      ],
+      "correctIndex": 3,
+      "explanation": "1,978 + 258 = 2,236.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-037",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "How much more is 1293 than 1282?",
+      "options": [
+        "11",
+        "21",
+        "1",
+        "2575"
+      ],
+      "correctIndex": 0,
+      "explanation": "1293 - 1282 = 11.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, finding the difference",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-038",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 1,632 - 578?",
+      "options": [
+        "1,154",
+        "1,054",
+        "954",
+        "1,064"
+      ],
+      "correctIndex": 1,
+      "explanation": "1,632 - 578 = 1,054.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtraction",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-039",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "Ekaette walked 332 metres, then 297 metres, then 376 metres. How far did she walk?",
+      "options": [
+        "1015 m",
+        "995 m",
+        "1005 m",
+        "629 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "332 + 297 + 376 = 1005 metres.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition in measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-S-040",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "silver",
+      "text": "What is 534 + 909?",
+      "options": [
+        "1453",
+        "1343",
+        "1444",
+        "1443"
+      ],
+      "correctIndex": 3,
+      "explanation": "534 + 909 = 1443.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, addition with regrouping",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-001",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What must be added to 1,018 to make 5,058?",
+      "options": [
+        "4,040",
+        "4,140",
+        "3,940",
+        "6,076"
+      ],
+      "correctIndex": 0,
+      "explanation": "5,058 - 1,018 = 4,040.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, missing number",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-002",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Which is greater: 4,034 + 3,661 or 1,783 + 959?",
+      "options": [
+        "The other sum",
+        "The first sum",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first sum is 7,695. The second sum is 2,742.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing sums",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-003",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Estimate 2,935 + 546 by rounding each number to the nearest hundred.",
+      "options": [
+        "3,481",
+        "3,500",
+        "3,400",
+        "3,152"
+      ],
+      "correctIndex": 2,
+      "explanation": "2,935 rounds to 2,900 and 546 rounds to 500.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, estimation",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-004",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Ekaette bought a bag of rice for ₦3,003 and paid with ₦10,000. How much change did she get?",
+      "options": [
+        "₦7,097",
+        "₦6,897",
+        "₦7,997",
+        "₦6,997"
+      ],
+      "correctIndex": 3,
+      "explanation": "10,000 - 3,003 = 6,997 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, money problem solving",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-005",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A school bought 3,500 exercise books in January, 1,807 in February and 2,215 in March. How many books did it buy in all?",
+      "options": [
+        "7,522",
+        "5,307",
+        "7,622",
+        "7,422"
+      ],
+      "correctIndex": 0,
+      "explanation": "3,500 + 1,807 + 2,215 = 7,522.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-006",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A car is on a 8,015 km journey. It has travelled 3,184 km. How far is left?",
+      "options": [
+        "4931 km",
+        "4,831 km",
+        "4731 km",
+        "11199 km"
+      ],
+      "correctIndex": 1,
+      "explanation": "8,015 - 3,184 = 4,831 km.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, distance word problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-007",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "7 books cost ₦591 each. What is the change from ₦10,000?",
+      "options": [
+        "₦6,454",
+        "₦5,272",
+        "₦5,863",
+        "₦6,363"
+      ],
+      "correctIndex": 2,
+      "explanation": "7 × 591 = 4137 naira. 10000 - 4137 = 5863 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step money problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-008",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A trader had 3,815 oranges. She sold 973 and then bought 445 more. How many oranges does she have now?",
+      "options": [
+        "2,842",
+        "3,387",
+        "5,233",
+        "3,287"
+      ],
+      "correctIndex": 3,
+      "explanation": "3,815 - 973 + 445 = 3,287.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two step word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-009",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What must be added to 4,139 to make 8,552?",
+      "options": [
+        "4,413",
+        "4,513",
+        "4,313",
+        "12,691"
+      ],
+      "correctIndex": 0,
+      "explanation": "8,552 - 4,139 = 4,413.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, missing number",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-010",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Which is greater: 4,463 + 1,573 or 1,106 + 1,169?",
+      "options": [
+        "The other sum",
+        "The first sum",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first sum is 6,036. The second sum is 2,275.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing sums",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-011",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Estimate 3,847 + 559 by rounding each number to the nearest hundred.",
+      "options": [
+        "4,406",
+        "4,500",
+        "4,400",
+        "4,012"
+      ],
+      "correctIndex": 2,
+      "explanation": "3,847 rounds to 3,800 and 559 rounds to 600.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, estimation",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-012",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Ekaette bought a bag of rice for ₦2,158 and paid with ₦10,000. How much change did she get?",
+      "options": [
+        "₦7,942",
+        "₦7,742",
+        "₦8,842",
+        "₦7,842"
+      ],
+      "correctIndex": 3,
+      "explanation": "10,000 - 2,158 = 7,842 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, money problem solving",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-013",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A school bought 3,283 exercise books in January, 4,045 in February and 1,772 in March. How many books did it buy in all?",
+      "options": [
+        "9,100",
+        "7,328",
+        "9,200",
+        "9,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "3,283 + 4,045 + 1,772 = 9,100.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-014",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A car is on a 12,162 km journey. It has travelled 3,285 km. How far is left?",
+      "options": [
+        "8977 km",
+        "8,877 km",
+        "8777 km",
+        "15447 km"
+      ],
+      "correctIndex": 1,
+      "explanation": "12,162 - 3,285 = 8,877 km.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, distance word problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-015",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "8 books cost ₦312 each. What is the change from ₦10,000?",
+      "options": [
+        "₦7,816",
+        "₦7,192",
+        "₦7,504",
+        "₦8,004"
+      ],
+      "correctIndex": 2,
+      "explanation": "8 × 312 = 2496 naira. 10000 - 2496 = 7504 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step money problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-016",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A trader had 4,126 oranges. She sold 782 and then bought 468 more. How many oranges does she have now?",
+      "options": [
+        "3,344",
+        "3,912",
+        "5,376",
+        "3,812"
+      ],
+      "correctIndex": 3,
+      "explanation": "4,126 - 782 + 468 = 3,812.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two step word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-017",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What must be added to 4,142 to make 5,224?",
+      "options": [
+        "1,082",
+        "1,182",
+        "982",
+        "9,366"
+      ],
+      "correctIndex": 0,
+      "explanation": "5,224 - 4,142 = 1,082.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, missing number",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-018",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Which is greater: 2,891 + 1,746 or 1,028 + 1,631?",
+      "options": [
+        "The other sum",
+        "The first sum",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first sum is 4,637. The second sum is 2,659.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing sums",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-019",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Estimate 1,602 + 529 by rounding each number to the nearest hundred.",
+      "options": [
+        "2,131",
+        "2,200",
+        "2,100",
+        "1,956"
+      ],
+      "correctIndex": 2,
+      "explanation": "1,602 rounds to 1,600 and 529 rounds to 500.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, estimation",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-020",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Musa bought a bag of rice for ₦1,869 and paid with ₦10,000. How much change did she get?",
+      "options": [
+        "₦8,231",
+        "₦8,031",
+        "₦9,131",
+        "₦8,131"
+      ],
+      "correctIndex": 3,
+      "explanation": "10,000 - 1,869 = 8,131 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, money problem solving",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-021",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A school bought 4,891 exercise books in January, 2,444 in February and 2,993 in March. How many books did it buy in all?",
+      "options": [
+        "10,328",
+        "7,335",
+        "10,428",
+        "10,228"
+      ],
+      "correctIndex": 0,
+      "explanation": "4,891 + 2,444 + 2,993 = 10,328.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-022",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A car is on a 10,407 km journey. It has travelled 1,379 km. How far is left?",
+      "options": [
+        "9128 km",
+        "9,028 km",
+        "8928 km",
+        "11786 km"
+      ],
+      "correctIndex": 1,
+      "explanation": "10,407 - 1,379 = 9,028 km.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, distance word problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-023",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "8 books cost ₦707 each. What is the change from ₦10,000?",
+      "options": [
+        "₦5,051",
+        "₦3,637",
+        "₦4,344",
+        "₦4,844"
+      ],
+      "correctIndex": 2,
+      "explanation": "8 × 707 = 5656 naira. 10000 - 5656 = 4344 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step money problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-024",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A trader had 2,901 oranges. She sold 1,490 and then bought 367 more. How many oranges does she have now?",
+      "options": [
+        "1,411",
+        "1,878",
+        "4,758",
+        "1,778"
+      ],
+      "correctIndex": 3,
+      "explanation": "2,901 - 1,490 + 367 = 1,778.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two step word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-025",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What must be added to 1,788 to make 3,767?",
+      "options": [
+        "1,979",
+        "2,079",
+        "1,879",
+        "5,555"
+      ],
+      "correctIndex": 0,
+      "explanation": "3,767 - 1,788 = 1,979.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, missing number",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-026",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Which is greater: 5,002 + 2,673 or 1,980 + 2,446?",
+      "options": [
+        "The other sum",
+        "The first sum",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first sum is 7,675. The second sum is 4,426.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing sums",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-027",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Estimate 2,613 + 236 by rounding each number to the nearest hundred.",
+      "options": [
+        "2,849",
+        "2,900",
+        "2,800",
+        "2,532"
+      ],
+      "correctIndex": 2,
+      "explanation": "2,613 rounds to 2,600 and 236 rounds to 200.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, estimation",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-028",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Bola bought a bag of rice for ₦1,975 and paid with ₦10,000. How much change did she get?",
+      "options": [
+        "₦8,125",
+        "₦7,925",
+        "₦9,025",
+        "₦8,025"
+      ],
+      "correctIndex": 3,
+      "explanation": "10,000 - 1,975 = 8,025 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, money problem solving",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-029",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A school bought 4,088 exercise books in January, 4,386 in February and 1,584 in March. How many books did it buy in all?",
+      "options": [
+        "10,058",
+        "8,474",
+        "10,158",
+        "9,958"
+      ],
+      "correctIndex": 0,
+      "explanation": "4,088 + 4,386 + 1,584 = 10,058.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-030",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A car is on a 6,183 km journey. It has travelled 1,511 km. How far is left?",
+      "options": [
+        "4772 km",
+        "4,672 km",
+        "4572 km",
+        "7694 km"
+      ],
+      "correctIndex": 1,
+      "explanation": "6,183 - 1,511 = 4,672 km.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, distance word problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-031",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "3 books cost ₦320 each. What is the change from ₦10,000?",
+      "options": [
+        "₦9,360",
+        "₦8,720",
+        "₦9,040",
+        "₦9,540"
+      ],
+      "correctIndex": 2,
+      "explanation": "3 × 320 = 960 naira. 10000 - 960 = 9040 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step money problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-032",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A trader had 4,341 oranges. She sold 668 and then bought 649 more. How many oranges does she have now?",
+      "options": [
+        "3,673",
+        "4,422",
+        "5,658",
+        "4,322"
+      ],
+      "correctIndex": 3,
+      "explanation": "4,341 - 668 + 649 = 4,322.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two step word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-033",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "What must be added to 3,617 to make 6,109?",
+      "options": [
+        "2,492",
+        "2,592",
+        "2,392",
+        "9,726"
+      ],
+      "correctIndex": 0,
+      "explanation": "6,109 - 3,617 = 2,492.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, missing number",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-034",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Which is greater: 4,701 + 3,067 or 1,476 + 908?",
+      "options": [
+        "The other sum",
+        "The first sum",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first sum is 7,768. The second sum is 2,384.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing sums",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-035",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Estimate 1,926 + 519 by rounding each number to the nearest hundred.",
+      "options": [
+        "2,445",
+        "2,500",
+        "2,400",
+        "2,012"
+      ],
+      "correctIndex": 2,
+      "explanation": "1,926 rounds to 1,900 and 519 rounds to 500.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, estimation",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-036",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "Ada bought a bag of rice for ₦1,659 and paid with ₦10,000. How much change did she get?",
+      "options": [
+        "₦8,441",
+        "₦8,241",
+        "₦9,341",
+        "₦8,341"
+      ],
+      "correctIndex": 3,
+      "explanation": "10,000 - 1,659 = 8,341 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, money problem solving",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-037",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A school bought 3,473 exercise books in January, 3,335 in February and 2,928 in March. How many books did it buy in all?",
+      "options": [
+        "9,736",
+        "6,808",
+        "9,836",
+        "9,636"
+      ],
+      "correctIndex": 0,
+      "explanation": "3,473 + 3,335 + 2,928 = 9,736.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-038",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A car is on a 14,867 km journey. It has travelled 1,934 km. How far is left?",
+      "options": [
+        "13033 km",
+        "12,933 km",
+        "12833 km",
+        "16801 km"
+      ],
+      "correctIndex": 1,
+      "explanation": "14,867 - 1,934 = 12,933 km.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, distance word problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-039",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "3 books cost ₦242 each. What is the change from ₦10,000?",
+      "options": [
+        "₦9,516",
+        "₦9,032",
+        "₦9,274",
+        "₦9,774"
+      ],
+      "correctIndex": 2,
+      "explanation": "3 × 242 = 726 naira. 10000 - 726 = 9274 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step money problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-ADD-G-040",
+      "subject": "mathematics",
+      "topic": "addsub",
+      "level": "gold",
+      "text": "A trader had 3,597 oranges. She sold 1,456 and then bought 425 more. How many oranges does she have now?",
+      "options": [
+        "2,141",
+        "2,666",
+        "5,478",
+        "2,566"
+      ],
+      "correctIndex": 3,
+      "explanation": "3,597 - 1,456 + 425 = 2,566.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two step word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

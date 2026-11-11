@@ -1,0 +1,2407 @@
+{
+  "subject": "english",
+  "topic": "comprehension",
+  "title": "Reading detective",
+  "questions": [
+    {
+      "code": "ENG-COM-B-001",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Ada?",
+      "passage": "Ada went to the market on Saturday. She wanted tomatoes to cook stew for her family. The tomatoes were fresh and red. Ada paid the trader and put them in her basket. At home, she washed them and helped her mother cook. The stew smelled good.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "water",
+        "a book"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story mentions tomatoes at the market.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-002",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Musa?",
+      "passage": "Musa walked to his father's farm early in the morning. He carried a bag of yams. He wanted to plant them before the rain came. Musa dug small holes and placed each yam in the soil. By noon, he had planted ten yams. He was tired but happy.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "water",
+        "a book"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story mentions yams at the farm.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-003",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Ngozi?",
+      "passage": "Ngozi took two pots to the river. She wanted to fill them with water for cooking. The river was low, so she walked to a deep part. She carried the full pots home on her head. Her mother thanked her.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "water",
+        "a book"
+      ],
+      "correctIndex": 2,
+      "explanation": "The story mentions water at the river.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-004",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Tunde?",
+      "passage": "Tunde found a book under his bed. It belonged to the school library. He walked to school early to return it. The librarian smiled and stamped the card. Tunde chose another book about animals. He promised to bring it back on time.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "water",
+        "a book"
+      ],
+      "correctIndex": 3,
+      "explanation": "The story mentions a book at the school.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-005",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Amina?",
+      "passage": "Amina's baby brother was hot and crying. Her mother sent her to the clinic. Amina collected medicine from the nurse. The nurse said to give it after food. At home, the baby drank the medicine and slept. By evening, he was cooler.",
+      "options": [
+        "medicine",
+        "tomatoes",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story mentions medicine at the clinic.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-006",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Sani?",
+      "passage": "Sani could not find his pen before the test. He looked in his bag and under his desk. His old pen was lost. He ran to the shop near the gate. He bought a new pen with his pocket money. He reached the class before the bell.",
+      "options": [
+        "tomatoes",
+        "a new pen",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story mentions a new pen at the shop.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-007",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Ifeoma?",
+      "passage": "Ifeoma went to the garden behind her house. She wanted okra for dinner. The okra plants were tall and green. She picked ten soft pods and put them in a bowl. Her grandmother cut them into small pieces. The soup was ready before dark.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "okra",
+        "water"
+      ],
+      "correctIndex": 2,
+      "explanation": "The story mentions okra at the garden.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-008",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Bola?",
+      "passage": "Bola made a kite from paper and sticks. On Sunday, he took it to the park. His friends came with their own kites. The wind lifted Bola's kite high above the trees. He held the string tightly and laughed. They played until the sun went down.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "water",
+        "a kite"
+      ],
+      "correctIndex": 3,
+      "explanation": "The story mentions a kite at the park.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-009",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Chidi?",
+      "passage": "Chidi's stool had a broken leg. He carried it to his uncle's workshop. His uncle gave him a hammer and nails. Chidi held the wood while his uncle repaired the leg. Soon the stool was strong again. Chidi carried it home carefully.",
+      "options": [
+        "a stool",
+        "tomatoes",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story mentions a stool at the workshop.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-010",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Ekaette?",
+      "passage": "Ekaette woke up early on Monday. Her mother gave her money for bread. She walked to the bakery at the corner. The baker pulled fresh loaves from the oven. Ekaette bought two loaves and a small cake. The family ate breakfast together.",
+      "options": [
+        "tomatoes",
+        "bread",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story mentions bread at the bakery.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-011",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Emeka?",
+      "passage": "Emeka took his net to the stream. He wanted to catch fish for lunch. The water was clear and cool. He stood still and watched the fish swim past. Then he moved his net quickly. He caught three small fish and carried them home.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "fish",
+        "a book"
+      ],
+      "correctIndex": 2,
+      "explanation": "The story mentions fish at the stream.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-012",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Fatima?",
+      "passage": "Fatima's aunt gave her a small package. It was wrapped in brown paper. Fatima walked to the village square. She gave the package to the chief's messenger. The messenger thanked her and gave her a sweet. Fatima ran home to tell her aunt.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "water",
+        "a package"
+      ],
+      "correctIndex": 3,
+      "explanation": "The story mentions a package at the village square.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-013",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Garba?",
+      "passage": "Garba stood at the bus stop with a small bag. He wanted to visit his grandmother in the next town. When the bus came, he bought a ticket. He sat near the window and watched the trees pass. Two hours later, he reached her gate.",
+      "options": [
+        "a ticket",
+        "tomatoes",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story mentions a ticket at the bus stop.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-014",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Halima?",
+      "passage": "Halima filled a sack with groundnuts. She carried it to the market before sunrise. She spread them on her stall and waited for buyers. Soon, people came to buy small bags. By noon, her sack was empty. Halima counted her money and smiled.",
+      "options": [
+        "tomatoes",
+        "groundnuts",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story mentions groundnuts at the market.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-015",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Ikenna?",
+      "passage": "Ikenna took his ball to the field. His team had a match on Friday. They practised passing and shooting. Ikenna scored two goals. The coach told them to keep trying. They left the field tired but ready.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "a ball",
+        "water"
+      ],
+      "correctIndex": 2,
+      "explanation": "The story mentions a ball at the field.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-016",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Jumai?",
+      "passage": "Jumai carried a bucket to the well. The rope was long and the water was deep. She pulled the bucket up slowly. The water was cold and clean. She carried it home and washed the plates. Then she watered the small plants.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "a book",
+        "a bucket"
+      ],
+      "correctIndex": 3,
+      "explanation": "The story mentions a bucket at the well.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-017",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Kemi?",
+      "passage": "Kemi went to the library after school. She wanted a story about a brave girl. The librarian showed her a book with a red cover. Kemi read three pages at the table. The girl in the story saved a baby from a fire. Kemi took the book home.",
+      "options": [
+        "a story book",
+        "tomatoes",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story mentions a story book at the library.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-018",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Lanre?",
+      "passage": "Lanre's old shoes had holes in the front. Water came in when it rained. He went to the market with his father. They found a pair of strong black shoes. Lanre tried them on and walked around. They fit well, so his father paid.",
+      "options": [
+        "tomatoes",
+        "shoes",
+        "yams",
+        "a book"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story mentions shoes at the market.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-019",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Maimuna?",
+      "passage": "Maimuna's father had men working on the farm. They were building a new fence. Maimuna helped her mother cook soup. She carried a big pot to the farm. The workers washed their hands and ate. They thanked her for the hot food.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "soup",
+        "water"
+      ],
+      "correctIndex": 2,
+      "explanation": "The story mentions soup at the farm.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-020",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Nnamdi?",
+      "passage": "Nnamdi's bicycle had a flat tyre. He pushed it to the cycle shop. The repairer found a small nail in the rubber. He took out the nail and mended the hole. Nnamdi paid him and rode home. The bicycle moved smoothly again.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "water",
+        "a tyre"
+      ],
+      "correctIndex": 3,
+      "explanation": "The story mentions a tyre at the cycle shop.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-021",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Olamide?",
+      "passage": "Olamide chose a blue cloth at the market. She took it to the tailor. She wanted a dress for her cousin's wedding. The tailor measured her shoulders and waist. Three days later, the dress was ready. Olamide wore it and looked beautiful.",
+      "options": [
+        "a dress",
+        "tomatoes",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story mentions a dress at the tailor's shop.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-022",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Peace?",
+      "passage": "Peace wanted to join the church choir. On Sunday, she arrived early with a song book. The leader taught them a new song. Peace sang softly at first. Then she found the tune and sang louder. The choir leader said she could join.",
+      "options": [
+        "tomatoes",
+        "a song book",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story mentions a song book at the church.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-023",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Qasim?",
+      "passage": "Qasim rolled his mat and walked to the mosque. His father was already there. They washed their hands and faces. Qasim spread his mat near the wall. After prayers, he greeted the old men. His father bought him a cold drink.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "a mat",
+        "water"
+      ],
+      "correctIndex": 2,
+      "explanation": "The story mentions a mat at the mosque.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-024",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Rukayat?",
+      "passage": "Rukayat went with her mother to the farm. The maize was dry and yellow. They pulled the cobs and put them in baskets. Rukayat carried a heavy basket on her head. At home, they spread the maize in the sun. It would be ground into flour.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "water",
+        "maize"
+      ],
+      "correctIndex": 3,
+      "explanation": "The story mentions maize at the farm.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-025",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Segun?",
+      "passage": "Segun spent Saturday at his uncle's shop. His uncle was a mechanic. A car came in with a loud engine. Segun passed the spanner and held the light. His uncle fixed the engine. The driver paid and drove away. Segun learned something new.",
+      "options": [
+        "a car",
+        "tomatoes",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story mentions a car at the mechanic's shop.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-026",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Tolu?",
+      "passage": "Tolu's mother was cooking rice. She opened the cupboard and found no salt. She sent Tolu to the shop. Tolu bought a small bag of salt. He ran home without stopping. His mother added it to the pot. The rice tasted much better.",
+      "options": [
+        "tomatoes",
+        "salt",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story mentions salt at the shop.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-027",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Uche?",
+      "passage": "Uche wanted to visit his friend across the river. There was no bridge. An old man had a canoe tied to a tree. Uche paid him and climbed in. The man rowed slowly across the water. Uche reached the other side and waved goodbye.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "a canoe",
+        "a book"
+      ],
+      "correctIndex": 2,
+      "explanation": "The story mentions a canoe at the river.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-028",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Victor?",
+      "passage": "Victor found a football in the bush near the school. It had a name written on it. He carried it to the coach. The coach said it belonged to the school team. He thanked Victor and let him join the practice. Victor was very happy.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "water",
+        "a football"
+      ],
+      "correctIndex": 3,
+      "explanation": "The story mentions a football at the school.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-029",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Wale?",
+      "passage": "Wale's grandmother was coming for a visit. His mother gave him money for a hen. At the market, Wale chose a healthy brown hen. He carried it in a basket. His grandmother laughed when she saw it. That evening, they cooked a special meal.",
+      "options": [
+        "a hen",
+        "tomatoes",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story mentions a hen at the market.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-030",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Yemi?",
+      "passage": "Yemi's sister was having a birthday. Yemi went to the garden with scissors. She cut yellow flowers and green leaves. She put them in a small vase. Then she placed the vase on the table. The room looked bright and cheerful.",
+      "options": [
+        "tomatoes",
+        "flowers",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story mentions flowers at the garden.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-031",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Zainab?",
+      "passage": "Zainab's mother worked at the clinic. On Saturday, Zainab went with her. A young mother came in with a crying baby. The nurse checked the baby and gave advice. Zainab held the door and carried a small box. She felt proud to help.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "a baby",
+        "water"
+      ],
+      "correctIndex": 2,
+      "explanation": "The story mentions a baby at the clinic.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-032",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Abiodun?",
+      "passage": "Abiodun's father bought a goat at the market. It broke the rope and ran towards the farm. Abiodun followed it quietly. He saw the goat eating leaves near a tree. He held out some grass and caught it. He led it home by the rope.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "water",
+        "a goat"
+      ],
+      "correctIndex": 3,
+      "explanation": "The story mentions a goat at the farm.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-033",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Blessing?",
+      "passage": "Blessing's house was dark. The power had gone out. Her father gave her money for a lamp. She walked to the shop at the corner. The shopkeeper showed her a small lamp with a bright light. Blessing paid and hurried home.",
+      "options": [
+        "a lamp",
+        "tomatoes",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story mentions a lamp at the shop.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-034",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Chinedu?",
+      "passage": "Chinedu's father was building a table. He needed another pair of hands. Chinedu held the wood steady. His father hit the nails with a hammer. Chinedu passed the ruler and the glue. By evening, the table was finished. They stood it near the window.",
+      "options": [
+        "tomatoes",
+        "a table",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story mentions a table at the workshop.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-035",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Damilola?",
+      "passage": "Damilola invited her friends for lunch. She wanted fresh orange juice. At the market, she bought ten oranges. She cut them and squeezed them into a jug. Her friends arrived and drank the cold juice. They said it was the best they had tasted.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "oranges",
+        "water"
+      ],
+      "correctIndex": 2,
+      "explanation": "The story mentions oranges at the market.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-036",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Efe?",
+      "passage": "Efe's mother was sick and could not eat much. He took a small net to the stream. He stood in the shallow water for a long time. At last, he caught one fish. He ran home and cooked it with pepper. His mother ate and smiled.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "a book",
+        "a fish"
+      ],
+      "correctIndex": 3,
+      "explanation": "The story mentions a fish at the stream.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-037",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Funmi?",
+      "passage": "Funmi's father wrote a letter about her absence. Funmi carried it to school. She gave it to the head teacher's helper. Later, the head teacher called her to the office. She explained that she had been ill. He told her to catch up on her notes.",
+      "options": [
+        "a letter",
+        "tomatoes",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story mentions a letter at the school.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-038",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Gbenga?",
+      "passage": "Gbenga packed his clothes in a bag. He was going to Lagos to see his brother. At the bus stop, he bought a ticket. The bus was full, so he sat near the door. He held his bag on his lap. The journey took six hours.",
+      "options": [
+        "tomatoes",
+        "a bag",
+        "yams",
+        "water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story mentions a bag at the bus stop.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-039",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Hauwa?",
+      "passage": "The morning was cold and windy. Hauwa walked to the market with her mother. She chose a soft red scarf. The trader wrapped it in paper. Hauwa wore it at once and felt warm. Her mother bought one for her sister too.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "a scarf",
+        "water"
+      ],
+      "correctIndex": 2,
+      "explanation": "The story mentions a scarf at the market.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-B-040",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "bronze",
+      "text": "Which thing is in the story of Ibukun?",
+      "passage": "Ibukun took a hoe from the shed. The garden was full of tall grass. He wanted to weed the beds before planting. He worked slowly and pulled the grass by the roots. His back ached, but the garden looked neat. He drank water and rested.",
+      "options": [
+        "tomatoes",
+        "yams",
+        "a book",
+        "a hoe"
+      ],
+      "correctIndex": 3,
+      "explanation": "The story mentions a hoe at the garden.",
+      "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-001",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Ada go to the market?",
+      "passage": "Ada went to the market on Saturday. She wanted tomatoes to cook stew for her family. The tomatoes were fresh and red. Ada paid the trader and put them in her basket. At home, she washed them and helped her mother cook. The stew smelled good.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to return it to the library"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ada went to cook stew for her family.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-002",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Musa go to the farm?",
+      "passage": "Musa walked to his father's farm early in the morning. He carried a bag of yams. He wanted to plant them before the rain came. Musa dug small holes and placed each yam in the soil. By noon, he had planted ten yams. He was tired but happy.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to return it to the library"
+      ],
+      "correctIndex": 1,
+      "explanation": "Musa went to plant them before the rain.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-003",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Ngozi go to the river?",
+      "passage": "Ngozi took two pots to the river. She wanted to fill them with water for cooking. The river was low, so she walked to a deep part. She carried the full pots home on her head. Her mother thanked her.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to return it to the library"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ngozi went to fill the pots for cooking.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-004",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Tunde go to the school?",
+      "passage": "Tunde found a book under his bed. It belonged to the school library. He walked to school early to return it. The librarian smiled and stamped the card. Tunde chose another book about animals. He promised to bring it back on time.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to return it to the library"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tunde went to return it to the library.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-005",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Amina go to the clinic?",
+      "passage": "Amina's baby brother was hot and crying. Her mother sent her to the clinic. Amina collected medicine from the nurse. The nurse said to give it after food. At home, the baby drank the medicine and slept. By evening, he was cooler.",
+      "options": [
+        "because her baby brother was ill",
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amina went because her baby brother was ill.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-006",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Sani go to the shop?",
+      "passage": "Sani could not find his pen before the test. He looked in his bag and under his desk. His old pen was lost. He ran to the shop near the gate. He bought a new pen with his pocket money. He reached the class before the bell.",
+      "options": [
+        "to cook stew for her family",
+        "because he lost his old one",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sani went because he lost his old one.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-007",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Ifeoma go to the garden?",
+      "passage": "Ifeoma went to the garden behind her house. She wanted okra for dinner. The okra plants were tall and green. She picked ten soft pods and put them in a bowl. Her grandmother cut them into small pieces. The soup was ready before dark.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to make soup for dinner",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ifeoma went to make soup for dinner.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-008",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Bola go to the park?",
+      "passage": "Bola made a kite from paper and sticks. On Sunday, he took it to the park. His friends came with their own kites. The wind lifted Bola's kite high above the trees. He held the string tightly and laughed. They played until the sun went down.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to fly it with his friends"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bola went to fly it with his friends.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-009",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Chidi go to the workshop?",
+      "passage": "Chidi's stool had a broken leg. He carried it to his uncle's workshop. His uncle gave him a hammer and nails. Chidi held the wood while his uncle repaired the leg. Soon the stool was strong again. Chidi carried it home carefully.",
+      "options": [
+        "to repair the broken leg",
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chidi went to repair the broken leg.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-010",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Ekaette go to the bakery?",
+      "passage": "Ekaette woke up early on Monday. Her mother gave her money for bread. She walked to the bakery at the corner. The baker pulled fresh loaves from the oven. Ekaette bought two loaves and a small cake. The family ate breakfast together.",
+      "options": [
+        "to cook stew for her family",
+        "to buy breakfast for the family",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ekaette went to buy breakfast for the family.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-011",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Emeka go to the stream?",
+      "passage": "Emeka took his net to the stream. He wanted to catch fish for lunch. The water was clear and cool. He stood still and watched the fish swim past. Then he moved his net quickly. He caught three small fish and carried them home.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to catch food for lunch",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Emeka went to catch food for lunch.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-012",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Fatima go to the village square?",
+      "passage": "Fatima's aunt gave her a small package. It was wrapped in brown paper. Fatima walked to the village square. She gave the package to the chief's messenger. The messenger thanked her and gave her a sweet. Fatima ran home to tell her aunt.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to deliver it to the chief"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fatima went to deliver it to the chief.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-013",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Garba go to the bus stop?",
+      "passage": "Garba stood at the bus stop with a small bag. He wanted to visit his grandmother in the next town. When the bus came, he bought a ticket. He sat near the window and watched the trees pass. Two hours later, he reached her gate.",
+      "options": [
+        "to travel to see his grandmother",
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Garba went to travel to see his grandmother.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-014",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Halima go to the market?",
+      "passage": "Halima filled a sack with groundnuts. She carried it to the market before sunrise. She spread them on her stall and waited for buyers. Soon, people came to buy small bags. By noon, her sack was empty. Halima counted her money and smiled.",
+      "options": [
+        "to cook stew for her family",
+        "to sell them at her stall",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Halima went to sell them at her stall.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-015",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Ikenna go to the field?",
+      "passage": "Ikenna took his ball to the field. His team had a match on Friday. They practised passing and shooting. Ikenna scored two goals. The coach told them to keep trying. They left the field tired but ready.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to practise for the match",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ikenna went to practise for the match.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-016",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Jumai go to the well?",
+      "passage": "Jumai carried a bucket to the well. The rope was long and the water was deep. She pulled the bucket up slowly. The water was cold and clean. She carried it home and washed the plates. Then she watered the small plants.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to get water for washing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jumai went to get water for washing.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-017",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Kemi go to the library?",
+      "passage": "Kemi went to the library after school. She wanted a story about a brave girl. The librarian showed her a book with a red cover. Kemi read three pages at the table. The girl in the story saved a baby from a fire. Kemi took the book home.",
+      "options": [
+        "to read about a brave girl",
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kemi went to read about a brave girl.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-018",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Lanre go to the market?",
+      "passage": "Lanre's old shoes had holes in the front. Water came in when it rained. He went to the market with his father. They found a pair of strong black shoes. Lanre tried them on and walked around. They fit well, so his father paid.",
+      "options": [
+        "to cook stew for her family",
+        "because his old shoes had holes",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lanre went because his old shoes had holes.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-019",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Maimuna go to the farm?",
+      "passage": "Maimuna's father had men working on the farm. They were building a new fence. Maimuna helped her mother cook soup. She carried a big pot to the farm. The workers washed their hands and ate. They thanked her for the hot food.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to feed the workers",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Maimuna went to feed the workers.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-020",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Nnamdi go to the cycle shop?",
+      "passage": "Nnamdi's bicycle had a flat tyre. He pushed it to the cycle shop. The repairer found a small nail in the rubber. He took out the nail and mended the hole. Nnamdi paid him and rode home. The bicycle moved smoothly again.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to fix his bicycle"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nnamdi went to fix his bicycle.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-021",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Olamide go to the tailor's shop?",
+      "passage": "Olamide chose a blue cloth at the market. She took it to the tailor. She wanted a dress for her cousin's wedding. The tailor measured her shoulders and waist. Three days later, the dress was ready. Olamide wore it and looked beautiful.",
+      "options": [
+        "to wear at her cousin's wedding",
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Olamide went to wear at her cousin's wedding.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-022",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Peace go to the church?",
+      "passage": "Peace wanted to join the church choir. On Sunday, she arrived early with a song book. The leader taught them a new song. Peace sang softly at first. Then she found the tune and sang louder. The choir leader said she could join.",
+      "options": [
+        "to cook stew for her family",
+        "to join the choir",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Peace went to join the choir.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-023",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Qasim go to the mosque?",
+      "passage": "Qasim rolled his mat and walked to the mosque. His father was already there. They washed their hands and faces. Qasim spread his mat near the wall. After prayers, he greeted the old men. His father bought him a cold drink.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to pray with his father",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Qasim went to pray with his father.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-024",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Rukayat go to the farm?",
+      "passage": "Rukayat went with her mother to the farm. The maize was dry and yellow. They pulled the cobs and put them in baskets. Rukayat carried a heavy basket on her head. At home, they spread the maize in the sun. It would be ground into flour.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to help her mother harvest it"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rukayat went to help her mother harvest it.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-025",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Segun go to the mechanic's shop?",
+      "passage": "Segun spent Saturday at his uncle's shop. His uncle was a mechanic. A car came in with a loud engine. Segun passed the spanner and held the light. His uncle fixed the engine. The driver paid and drove away. Segun learned something new.",
+      "options": [
+        "to help his uncle",
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Segun went to help his uncle.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-026",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Tolu go to the shop?",
+      "passage": "Tolu's mother was cooking rice. She opened the cupboard and found no salt. She sent Tolu to the shop. Tolu bought a small bag of salt. He ran home without stopping. His mother added it to the pot. The rice tasted much better.",
+      "options": [
+        "to cook stew for her family",
+        "because there was none at home",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tolu went because there was none at home.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-027",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Uche go to the river?",
+      "passage": "Uche wanted to visit his friend across the river. There was no bridge. An old man had a canoe tied to a tree. Uche paid him and climbed in. The man rowed slowly across the water. Uche reached the other side and waved goodbye.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to cross to the other side",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Uche went to cross to the other side.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-028",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Victor go to the school?",
+      "passage": "Victor found a football in the bush near the school. It had a name written on it. He carried it to the coach. The coach said it belonged to the school team. He thanked Victor and let him join the practice. Victor was very happy.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to give it to the coach"
+      ],
+      "correctIndex": 3,
+      "explanation": "Victor went to give it to the coach.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-029",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Wale go to the market?",
+      "passage": "Wale's grandmother was coming for a visit. His mother gave him money for a hen. At the market, Wale chose a healthy brown hen. He carried it in a basket. His grandmother laughed when she saw it. That evening, they cooked a special meal.",
+      "options": [
+        "to give to his grandmother",
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wale went to give to his grandmother.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-030",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Yemi go to the garden?",
+      "passage": "Yemi's sister was having a birthday. Yemi went to the garden with scissors. She cut yellow flowers and green leaves. She put them in a small vase. Then she placed the vase on the table. The room looked bright and cheerful.",
+      "options": [
+        "to cook stew for her family",
+        "to decorate the table",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yemi went to decorate the table.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-031",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Zainab go to the clinic?",
+      "passage": "Zainab's mother worked at the clinic. On Saturday, Zainab went with her. A young mother came in with a crying baby. The nurse checked the baby and gave advice. Zainab held the door and carried a small box. She felt proud to help.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to help the nurse",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zainab went to help the nurse.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-032",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Abiodun go to the farm?",
+      "passage": "Abiodun's father bought a goat at the market. It broke the rope and ran towards the farm. Abiodun followed it quietly. He saw the goat eating leaves near a tree. He held out some grass and caught it. He led it home by the rope.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to bring it home"
+      ],
+      "correctIndex": 3,
+      "explanation": "Abiodun went to bring it home.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-033",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Blessing go to the shop?",
+      "passage": "Blessing's house was dark. The power had gone out. Her father gave her money for a lamp. She walked to the shop at the corner. The shopkeeper showed her a small lamp with a bright light. Blessing paid and hurried home.",
+      "options": [
+        "because the power was out",
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Blessing went because the power was out.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-034",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Chinedu go to the workshop?",
+      "passage": "Chinedu's father was building a table. He needed another pair of hands. Chinedu held the wood steady. His father hit the nails with a hammer. Chinedu passed the ruler and the glue. By evening, the table was finished. They stood it near the window.",
+      "options": [
+        "to cook stew for her family",
+        "to help his father",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chinedu went to help his father.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-035",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Damilola go to the market?",
+      "passage": "Damilola invited her friends for lunch. She wanted fresh orange juice. At the market, she bought ten oranges. She cut them and squeezed them into a jug. Her friends arrived and drank the cold juice. They said it was the best they had tasted.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to make juice for her friends",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Damilola went to make juice for her friends.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-036",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Efe go to the stream?",
+      "passage": "Efe's mother was sick and could not eat much. He took a small net to the stream. He stood in the shallow water for a long time. At last, he caught one fish. He ran home and cooked it with pepper. His mother ate and smiled.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to cook for his sick mother"
+      ],
+      "correctIndex": 3,
+      "explanation": "Efe went to cook for his sick mother.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-037",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Funmi go to the school?",
+      "passage": "Funmi's father wrote a letter about her absence. Funmi carried it to school. She gave it to the head teacher's helper. Later, the head teacher called her to the office. She explained that she had been ill. He told her to catch up on her notes.",
+      "options": [
+        "to give to the head teacher",
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Funmi went to give to the head teacher.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-038",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Gbenga go to the bus stop?",
+      "passage": "Gbenga packed his clothes in a bag. He was going to Lagos to see his brother. At the bus stop, he bought a ticket. The bus was full, so he sat near the door. He held his bag on his lap. The journey took six hours.",
+      "options": [
+        "to cook stew for her family",
+        "to travel to Lagos",
+        "to plant them before the rain",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gbenga went to travel to Lagos.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-039",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Hauwa go to the market?",
+      "passage": "The morning was cold and windy. Hauwa walked to the market with her mother. She chose a soft red scarf. The trader wrapped it in paper. Hauwa wore it at once and felt warm. Her mother bought one for her sister too.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to wear on a cold day",
+        "to fill the pots for cooking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hauwa went to wear on a cold day.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-S-040",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "silver",
+      "text": "Why did Ibukun go to the garden?",
+      "passage": "Ibukun took a hoe from the shed. The garden was full of tall grass. He wanted to weed the beds before planting. He worked slowly and pulled the grass by the roots. His back ached, but the garden looked neat. He drank water and rested.",
+      "options": [
+        "to cook stew for her family",
+        "to plant them before the rain",
+        "to fill the pots for cooking",
+        "to weed the beds"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ibukun went to weed the beds.",
+      "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-001",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"stew\" mean?",
+      "passage": "Ada went to the market on Saturday. She wanted tomatoes to cook stew for her family. The tomatoes were fresh and red. Ada paid the trader and put them in her basket. At home, she washed them and helped her mother cook. The stew smelled good.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "a place where books are kept"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this story, \"stew\" means a thick cooked dish.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-002",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"plant\" mean?",
+      "passage": "Musa walked to his father's farm early in the morning. He carried a bag of yams. He wanted to plant them before the rain came. Musa dug small holes and placed each yam in the soil. By noon, he had planted ten yams. He was tired but happy.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "a place where books are kept"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this story, \"plant\" means to put a seed in the ground.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-003",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"fill\" mean?",
+      "passage": "Ngozi took two pots to the river. She wanted to fill them with water for cooking. The river was low, so she walked to a deep part. She carried the full pots home on her head. Her mother thanked her.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "a place where books are kept"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this story, \"fill\" means to make something full.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-004",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"library\" mean?",
+      "passage": "Tunde found a book under his bed. It belonged to the school library. He walked to school early to return it. The librarian smiled and stamped the card. Tunde chose another book about animals. He promised to bring it back on time.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "a place where books are kept"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this story, \"library\" means a place where books are kept.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-005",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"medicine\" mean?",
+      "passage": "Amina's baby brother was hot and crying. Her mother sent her to the clinic. Amina collected medicine from the nurse. The nurse said to give it after food. At home, the baby drank the medicine and slept. By evening, he was cooler.",
+      "options": [
+        "something you take to get well",
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this story, \"medicine\" means something you take to get well.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-006",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"lost\" mean?",
+      "passage": "Sani could not find his pen before the test. He looked in his bag and under his desk. His old pen was lost. He ran to the shop near the gate. He bought a new pen with his pocket money. He reached the class before the bell.",
+      "options": [
+        "a thick cooked dish",
+        "cannot be found",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this story, \"lost\" means cannot be found.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-007",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"okra\" mean?",
+      "passage": "Ifeoma went to the garden behind her house. She wanted okra for dinner. The okra plants were tall and green. She picked ten soft pods and put them in a bowl. Her grandmother cut them into small pieces. The soup was ready before dark.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "a green vegetable used in soup",
+        "to make something full"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this story, \"okra\" means a green vegetable used in soup.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-008",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"kite\" mean?",
+      "passage": "Bola made a kite from paper and sticks. On Sunday, he took it to the park. His friends came with their own kites. The wind lifted Bola's kite high above the trees. He held the string tightly and laughed. They played until the sun went down.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "a toy that flies on a string"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this story, \"kite\" means a toy that flies on a string.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-009",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"repair\" mean?",
+      "passage": "Chidi's stool had a broken leg. He carried it to his uncle's workshop. His uncle gave him a hammer and nails. Chidi held the wood while his uncle repaired the leg. Soon the stool was strong again. Chidi carried it home carefully.",
+      "options": [
+        "to fix something broken",
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this story, \"repair\" means to fix something broken.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-010",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"bakery\" mean?",
+      "passage": "Ekaette woke up early on Monday. Her mother gave her money for bread. She walked to the bakery at the corner. The baker pulled fresh loaves from the oven. Ekaette bought two loaves and a small cake. The family ate breakfast together.",
+      "options": [
+        "a thick cooked dish",
+        "a place where bread is baked",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this story, \"bakery\" means a place where bread is baked.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-011",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"catch\" mean?",
+      "passage": "Emeka took his net to the stream. He wanted to catch fish for lunch. The water was clear and cool. He stood still and watched the fish swim past. Then he moved his net quickly. He caught three small fish and carried them home.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to take hold of something",
+        "to make something full"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this story, \"catch\" means to take hold of something.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-012",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"package\" mean?",
+      "passage": "Fatima's aunt gave her a small package. It was wrapped in brown paper. Fatima walked to the village square. She gave the package to the chief's messenger. The messenger thanked her and gave her a sweet. Fatima ran home to tell her aunt.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "something wrapped for carrying"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this story, \"package\" means something wrapped for carrying.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-013",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"ticket\" mean?",
+      "passage": "Garba stood at the bus stop with a small bag. He wanted to visit his grandmother in the next town. When the bus came, he bought a ticket. He sat near the window and watched the trees pass. Two hours later, he reached her gate.",
+      "options": [
+        "a paper that allows you to travel",
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this story, \"ticket\" means a paper that allows you to travel.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-014",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"stall\" mean?",
+      "passage": "Halima filled a sack with groundnuts. She carried it to the market before sunrise. She spread them on her stall and waited for buyers. Soon, people came to buy small bags. By noon, her sack was empty. Halima counted her money and smiled.",
+      "options": [
+        "a thick cooked dish",
+        "a small table where goods are sold",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this story, \"stall\" means a small table where goods are sold.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-015",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"practise\" mean?",
+      "passage": "Ikenna took his ball to the field. His team had a match on Friday. They practised passing and shooting. Ikenna scored two goals. The coach told them to keep trying. They left the field tired but ready.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to do something again to improve",
+        "to make something full"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this story, \"practise\" means to do something again to improve.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-016",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"bucket\" mean?",
+      "passage": "Jumai carried a bucket to the well. The rope was long and the water was deep. She pulled the bucket up slowly. The water was cold and clean. She carried it home and washed the plates. Then she watered the small plants.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "a container with a handle"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this story, \"bucket\" means a container with a handle.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-017",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"brave\" mean?",
+      "passage": "Kemi went to the library after school. She wanted a story about a brave girl. The librarian showed her a book with a red cover. Kemi read three pages at the table. The girl in the story saved a baby from a fire. Kemi took the book home.",
+      "options": [
+        "not afraid",
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this story, \"brave\" means not afraid.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-018",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"holes\" mean?",
+      "passage": "Lanre's old shoes had holes in the front. Water came in when it rained. He went to the market with his father. They found a pair of strong black shoes. Lanre tried them on and walked around. They fit well, so his father paid.",
+      "options": [
+        "a thick cooked dish",
+        "open spaces in something",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this story, \"holes\" means open spaces in something.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-019",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"workers\" mean?",
+      "passage": "Maimuna's father had men working on the farm. They were building a new fence. Maimuna helped her mother cook soup. She carried a big pot to the farm. The workers washed their hands and ate. They thanked her for the hot food.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "people who do a job",
+        "to make something full"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this story, \"workers\" means people who do a job.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-020",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"tyre\" mean?",
+      "passage": "Nnamdi's bicycle had a flat tyre. He pushed it to the cycle shop. The repairer found a small nail in the rubber. He took out the nail and mended the hole. Nnamdi paid him and rode home. The bicycle moved smoothly again.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "the rubber ring on a wheel"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this story, \"tyre\" means the rubber ring on a wheel.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-021",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"wedding\" mean?",
+      "passage": "Olamide chose a blue cloth at the market. She took it to the tailor. She wanted a dress for her cousin's wedding. The tailor measured her shoulders and waist. Three days later, the dress was ready. Olamide wore it and looked beautiful.",
+      "options": [
+        "a marriage ceremony",
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this story, \"wedding\" means a marriage ceremony.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-022",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"choir\" mean?",
+      "passage": "Peace wanted to join the church choir. On Sunday, she arrived early with a song book. The leader taught them a new song. Peace sang softly at first. Then she found the tune and sang louder. The choir leader said she could join.",
+      "options": [
+        "a thick cooked dish",
+        "a group of people who sing",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this story, \"choir\" means a group of people who sing.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-023",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"mat\" mean?",
+      "passage": "Qasim rolled his mat and walked to the mosque. His father was already there. They washed their hands and faces. Qasim spread his mat near the wall. After prayers, he greeted the old men. His father bought him a cold drink.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "a piece of material to kneel on",
+        "to make something full"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this story, \"mat\" means a piece of material to kneel on.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-024",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"maize\" mean?",
+      "passage": "Rukayat went with her mother to the farm. The maize was dry and yellow. They pulled the cobs and put them in baskets. Rukayat carried a heavy basket on her head. At home, they spread the maize in the sun. It would be ground into flour.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "a yellow grain used for food"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this story, \"maize\" means a yellow grain used for food.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-025",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"mechanic\" mean?",
+      "passage": "Segun spent Saturday at his uncle's shop. His uncle was a mechanic. A car came in with a loud engine. Segun passed the spanner and held the light. His uncle fixed the engine. The driver paid and drove away. Segun learned something new.",
+      "options": [
+        "a person who repairs machines",
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this story, \"mechanic\" means a person who repairs machines.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-026",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"salt\" mean?",
+      "passage": "Tolu's mother was cooking rice. She opened the cupboard and found no salt. She sent Tolu to the shop. Tolu bought a small bag of salt. He ran home without stopping. His mother added it to the pot. The rice tasted much better.",
+      "options": [
+        "a thick cooked dish",
+        "a white powder that adds taste",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this story, \"salt\" means a white powder that adds taste.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-027",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"canoe\" mean?",
+      "passage": "Uche wanted to visit his friend across the river. There was no bridge. An old man had a canoe tied to a tree. Uche paid him and climbed in. The man rowed slowly across the water. Uche reached the other side and waved goodbye.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "a small boat",
+        "to make something full"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this story, \"canoe\" means a small boat.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-028",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"coach\" mean?",
+      "passage": "Victor found a football in the bush near the school. It had a name written on it. He carried it to the coach. The coach said it belonged to the school team. He thanked Victor and let him join the practice. Victor was very happy.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "a person who trains a team"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this story, \"coach\" means a person who trains a team.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-029",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"hen\" mean?",
+      "passage": "Wale's grandmother was coming for a visit. His mother gave him money for a hen. At the market, Wale chose a healthy brown hen. He carried it in a basket. His grandmother laughed when she saw it. That evening, they cooked a special meal.",
+      "options": [
+        "a female chicken",
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this story, \"hen\" means a female chicken.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-030",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"vase\" mean?",
+      "passage": "Yemi's sister was having a birthday. Yemi went to the garden with scissors. She cut yellow flowers and green leaves. She put them in a small vase. Then she placed the vase on the table. The room looked bright and cheerful.",
+      "options": [
+        "a thick cooked dish",
+        "a container for flowers",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this story, \"vase\" means a container for flowers.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-031",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"nurse\" mean?",
+      "passage": "Zainab's mother worked at the clinic. On Saturday, Zainab went with her. A young mother came in with a crying baby. The nurse checked the baby and gave advice. Zainab held the door and carried a small box. She felt proud to help.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "a person who cares for sick people",
+        "to make something full"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this story, \"nurse\" means a person who cares for sick people.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-032",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"goat\" mean?",
+      "passage": "Abiodun's father bought a goat at the market. It broke the rope and ran towards the farm. Abiodun followed it quietly. He saw the goat eating leaves near a tree. He held out some grass and caught it. He led it home by the rope.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "a farm animal with horns"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this story, \"goat\" means a farm animal with horns.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-033",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"lamp\" mean?",
+      "passage": "Blessing's house was dark. The power had gone out. Her father gave her money for a lamp. She walked to the shop at the corner. The shopkeeper showed her a small lamp with a bright light. Blessing paid and hurried home.",
+      "options": [
+        "a light you can carry",
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this story, \"lamp\" means a light you can carry.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-034",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"hammer\" mean?",
+      "passage": "Chinedu's father was building a table. He needed another pair of hands. Chinedu held the wood steady. His father hit the nails with a hammer. Chinedu passed the ruler and the glue. By evening, the table was finished. They stood it near the window.",
+      "options": [
+        "a thick cooked dish",
+        "a tool used to hit nails",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this story, \"hammer\" means a tool used to hit nails.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-035",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"juice\" mean?",
+      "passage": "Damilola invited her friends for lunch. She wanted fresh orange juice. At the market, she bought ten oranges. She cut them and squeezed them into a jug. Her friends arrived and drank the cold juice. They said it was the best they had tasted.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "a drink made from fruit",
+        "to make something full"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this story, \"juice\" means a drink made from fruit.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-036",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"sick\" mean?",
+      "passage": "Efe's mother was sick and could not eat much. He took a small net to the stream. He stood in the shallow water for a long time. At last, he caught one fish. He ran home and cooked it with pepper. His mother ate and smiled.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "not feeling well"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this story, \"sick\" means not feeling well.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-037",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"head teacher\" mean?",
+      "passage": "Funmi's father wrote a letter about her absence. Funmi carried it to school. She gave it to the head teacher's helper. Later, the head teacher called her to the office. She explained that she had been ill. He told her to catch up on her notes.",
+      "options": [
+        "the leader of a school",
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this story, \"head teacher\" means the leader of a school.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-038",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"bag\" mean?",
+      "passage": "Gbenga packed his clothes in a bag. He was going to Lagos to see his brother. At the bus stop, he bought a ticket. The bus was full, so he sat near the door. He held his bag on his lap. The journey took six hours.",
+      "options": [
+        "a thick cooked dish",
+        "a container for carrying things",
+        "to put a seed in the ground",
+        "to make something full"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this story, \"bag\" means a container for carrying things.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-039",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"scarf\" mean?",
+      "passage": "The morning was cold and windy. Hauwa walked to the market with her mother. She chose a soft red scarf. The trader wrapped it in paper. Hauwa wore it at once and felt warm. Her mother bought one for her sister too.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "cloth worn round the neck",
+        "to make something full"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this story, \"scarf\" means cloth worn round the neck.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-COM-G-040",
+      "subject": "english",
+      "topic": "comprehension",
+      "level": "gold",
+      "text": "In the story, what does \"weed\" mean?",
+      "passage": "Ibukun took a hoe from the shed. The garden was full of tall grass. He wanted to weed the beds before planting. He worked slowly and pulled the grass by the roots. His back ached, but the garden looked neat. He drank water and rested.",
+      "options": [
+        "a thick cooked dish",
+        "to put a seed in the ground",
+        "to make something full",
+        "to remove unwanted plants"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this story, \"weed\" means to remove unwanted plants.",
+      "curriculumRef": "NERDC Primary English, comprehension: word meaning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

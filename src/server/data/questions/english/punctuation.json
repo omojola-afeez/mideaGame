@@ -1,0 +1,2287 @@
+{
+  "subject": "english",
+  "topic": "punctuation",
+  "title": "Punctuation point",
+  "questions": [
+    {
+      "code": "ENG-PUN-B-001",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the children walked to the river\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-002",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"ada bought three mangoes\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-003",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"musa cleaned the blackboard\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A full stop",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-004",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the farmer planted yams\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A comma",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-005",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"ngozi read a story book\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-006",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the bus stopped at the gate\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-007",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"tunde washed his hands\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A full stop",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-008",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the teacher opened the window\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A comma",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-009",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"amina fed the chickens\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-010",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the baby slept in the cot\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-011",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"we visited the market\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A full stop",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-012",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the boys played football\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A comma",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-013",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"sani carried the water\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-014",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the women sang a song\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-015",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"my father repaired the roof\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A full stop",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-016",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the pupils swept the classroom\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A comma",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-017",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"bola drew a picture\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-018",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the rain filled the river\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-019",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the nurse called the doctor\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A full stop",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-020",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the trader counted his money\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A comma",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-021",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the goat ate the leaves\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-022",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"ifeoma baked a cake\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-023",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the children shared the oranges\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A full stop",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-024",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the driver checked the tyre\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A comma",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-025",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the fisherman mended his net\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-026",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the class cleaned the library\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-027",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the moon shone at night\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A full stop",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-028",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the tailor sewed a shirt\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A comma",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-029",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the carpenter sanded the wood\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-030",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the girl fed the rabbit\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-031",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the market opened early\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A full stop",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-032",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the drummer beat the drum\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A comma",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-033",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the family ate dinner together\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-034",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the bird built a nest\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-035",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the farmer sold his maize\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A full stop",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-036",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the pupil answered the question\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A comma",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-037",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the sun dried the clothes\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-038",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the trader opened her stall\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-039",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the children crossed the road\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A full stop",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-B-040",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "bronze",
+      "text": "Which mark goes at the end? \"the doctor washed his hands\"",
+      "options": [
+        "A question mark",
+        "An exclamation mark",
+        "A comma",
+        "A full stop"
+      ],
+      "correctIndex": 3,
+      "explanation": "A statement ends with a full stop.",
+      "curriculumRef": "NERDC Primary English, punctuation: full stops",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-001",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"where is my book\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-002",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"who broke the cup\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-003",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"when will the bus arrive\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A question mark",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-004",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"why did the baby cry\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A comma",
+        "A question mark"
+      ],
+      "correctIndex": 3,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-005",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"how many mangoes are left\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-006",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"what is your name\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-007",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"which road leads to the market\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A question mark",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-008",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"who is at the door\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A comma",
+        "A question mark"
+      ],
+      "correctIndex": 3,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-009",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"when does school close\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-010",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"how did you solve the puzzle\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-011",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"where did you put the key\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A question mark",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-012",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"why is the sky dark\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A comma",
+        "A question mark"
+      ],
+      "correctIndex": 3,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-013",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"what time is it\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-014",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"who won the race\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-015",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"how old is your brother\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A question mark",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-016",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"which colour do you like\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A comma",
+        "A question mark"
+      ],
+      "correctIndex": 3,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-017",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"when will dinner be ready\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-018",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"where are the children\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-019",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"why are you laughing\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A question mark",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-020",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"how far is the river\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A comma",
+        "A question mark"
+      ],
+      "correctIndex": 3,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-021",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"what did the teacher say\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-022",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"who cleaned the board\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-023",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"when did the rain stop\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A question mark",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-024",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"how many eggs are in the basket\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A comma",
+        "A question mark"
+      ],
+      "correctIndex": 3,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-025",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"where is the clinic\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-026",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"why did the goat run away\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-027",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"what are you reading\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A question mark",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-028",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"who cooked the rice\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A comma",
+        "A question mark"
+      ],
+      "correctIndex": 3,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-029",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"when will you visit us\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-030",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"how do plants grow\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-031",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"which bag belongs to Ada\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A question mark",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-032",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"where did Musa go\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A comma",
+        "A question mark"
+      ],
+      "correctIndex": 3,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-033",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"why is the baby awake\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-034",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"what is in the box\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-035",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"who will help the farmer\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A question mark",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-036",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"when can we play\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A comma",
+        "A question mark"
+      ],
+      "correctIndex": 3,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-037",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"how much does it cost\"",
+      "options": [
+        "A question mark",
+        "A full stop",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-038",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"which song shall we sing\"",
+      "options": [
+        "A full stop",
+        "A question mark",
+        "An exclamation mark",
+        "A comma"
+      ],
+      "correctIndex": 1,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-039",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"where does the river start\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A question mark",
+        "A comma"
+      ],
+      "correctIndex": 2,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-S-040",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "silver",
+      "text": "Which mark goes at the end? \"why is the door open\"",
+      "options": [
+        "A full stop",
+        "An exclamation mark",
+        "A comma",
+        "A question mark"
+      ],
+      "correctIndex": 3,
+      "explanation": "A question ends with a question mark.",
+      "curriculumRef": "NERDC Primary English, punctuation: question marks",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-001",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about Ada is right?",
+      "options": [
+        "This is Ada's book.",
+        "This is Adas book.",
+        "This is Adas' book.",
+        "This is Ada's' book."
+      ],
+      "correctIndex": 0,
+      "explanation": "The apostrophe before s shows that Ada owns the book.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-002",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about Musa is right?",
+      "options": [
+        "This is Musas cap.",
+        "This is Musa's cap.",
+        "This is Musas' cap.",
+        "This is Musa's' cap."
+      ],
+      "correctIndex": 1,
+      "explanation": "The apostrophe before s shows that Musa owns the cap.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-003",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about Ngozi is right?",
+      "options": [
+        "This is Ngozis dress.",
+        "This is Ngozis' dress.",
+        "This is Ngozi's dress.",
+        "This is Ngozi's' dress."
+      ],
+      "correctIndex": 2,
+      "explanation": "The apostrophe before s shows that Ngozi owns the dress.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-004",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about Tunde is right?",
+      "options": [
+        "This is Tundes shoe.",
+        "This is Tundes' shoe.",
+        "This is Tunde's' shoe.",
+        "This is Tunde's shoe."
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe before s shows that Tunde owns the shoe.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-005",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about Amina is right?",
+      "options": [
+        "This is Amina's bag.",
+        "This is Aminas bag.",
+        "This is Aminas' bag.",
+        "This is Amina's' bag."
+      ],
+      "correctIndex": 0,
+      "explanation": "The apostrophe before s shows that Amina owns the bag.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-006",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about Sani is right?",
+      "options": [
+        "This is Sanis pen.",
+        "This is Sani's pen.",
+        "This is Sanis' pen.",
+        "This is Sani's' pen."
+      ],
+      "correctIndex": 1,
+      "explanation": "The apostrophe before s shows that Sani owns the pen.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-007",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about Ifeoma is right?",
+      "options": [
+        "This is Ifeomas pot.",
+        "This is Ifeomas' pot.",
+        "This is Ifeoma's pot.",
+        "This is Ifeoma's' pot."
+      ],
+      "correctIndex": 2,
+      "explanation": "The apostrophe before s shows that Ifeoma owns the pot.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-008",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about Bola is right?",
+      "options": [
+        "This is Bolas kite.",
+        "This is Bolas' kite.",
+        "This is Bola's' kite.",
+        "This is Bola's kite."
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe before s shows that Bola owns the kite.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-009",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the teacher is right?",
+      "options": [
+        "This is the teacher's desk.",
+        "This is the teachers desk.",
+        "This is the teachers' desk.",
+        "This is the teacher's' desk."
+      ],
+      "correctIndex": 0,
+      "explanation": "The apostrophe before s shows that the teacher owns the desk.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-010",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the farmer is right?",
+      "options": [
+        "This is the farmers hoe.",
+        "This is the farmer's hoe.",
+        "This is the farmers' hoe.",
+        "This is the farmer's' hoe."
+      ],
+      "correctIndex": 1,
+      "explanation": "The apostrophe before s shows that the farmer owns the hoe.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-011",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the doctor is right?",
+      "options": [
+        "This is the doctors coat.",
+        "This is the doctors' coat.",
+        "This is the doctor's coat.",
+        "This is the doctor's' coat."
+      ],
+      "correctIndex": 2,
+      "explanation": "The apostrophe before s shows that the doctor owns the coat.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-012",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the driver is right?",
+      "options": [
+        "This is the drivers bus.",
+        "This is the drivers' bus.",
+        "This is the driver's' bus.",
+        "This is the driver's bus."
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe before s shows that the driver owns the bus.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-013",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the girl is right?",
+      "options": [
+        "This is the girl's ribbon.",
+        "This is the girls ribbon.",
+        "This is the girls' ribbon.",
+        "This is the girl's' ribbon."
+      ],
+      "correctIndex": 0,
+      "explanation": "The apostrophe before s shows that the girl owns the ribbon.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-014",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the boy is right?",
+      "options": [
+        "This is the boys ball.",
+        "This is the boy's ball.",
+        "This is the boys' ball.",
+        "This is the boy's' ball."
+      ],
+      "correctIndex": 1,
+      "explanation": "The apostrophe before s shows that the boy owns the ball.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-015",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the baby is right?",
+      "options": [
+        "This is the babys rattle.",
+        "This is the babys' rattle.",
+        "This is the baby's rattle.",
+        "This is the baby's' rattle."
+      ],
+      "correctIndex": 2,
+      "explanation": "The apostrophe before s shows that the baby owns the rattle.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-016",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the woman is right?",
+      "options": [
+        "This is the womans basket.",
+        "This is the womans' basket.",
+        "This is the woman's' basket.",
+        "This is the woman's basket."
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe before s shows that the woman owns the basket.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-017",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the man is right?",
+      "options": [
+        "This is the man's bicycle.",
+        "This is the mans bicycle.",
+        "This is the mans' bicycle.",
+        "This is the man's' bicycle."
+      ],
+      "correctIndex": 0,
+      "explanation": "The apostrophe before s shows that the man owns the bicycle.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-018",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the pupil is right?",
+      "options": [
+        "This is the pupils ruler.",
+        "This is the pupil's ruler.",
+        "This is the pupils' ruler.",
+        "This is the pupil's' ruler."
+      ],
+      "correctIndex": 1,
+      "explanation": "The apostrophe before s shows that the pupil owns the ruler.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-019",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the tailor is right?",
+      "options": [
+        "This is the tailors scissors.",
+        "This is the tailors' scissors.",
+        "This is the tailor's scissors.",
+        "This is the tailor's' scissors."
+      ],
+      "correctIndex": 2,
+      "explanation": "The apostrophe before s shows that the tailor owns the scissors.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-020",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the carpenter is right?",
+      "options": [
+        "This is the carpenters hammer.",
+        "This is the carpenters' hammer.",
+        "This is the carpenter's' hammer.",
+        "This is the carpenter's hammer."
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe before s shows that the carpenter owns the hammer.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-021",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the nurse is right?",
+      "options": [
+        "This is the nurse's watch.",
+        "This is the nurses watch.",
+        "This is the nurses' watch.",
+        "This is the nurse's' watch."
+      ],
+      "correctIndex": 0,
+      "explanation": "The apostrophe before s shows that the nurse owns the watch.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-022",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the trader is right?",
+      "options": [
+        "This is the traders stall.",
+        "This is the trader's stall.",
+        "This is the traders' stall.",
+        "This is the trader's' stall."
+      ],
+      "correctIndex": 1,
+      "explanation": "The apostrophe before s shows that the trader owns the stall.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-023",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the fisherman is right?",
+      "options": [
+        "This is the fishermans boat.",
+        "This is the fishermans' boat.",
+        "This is the fisherman's boat.",
+        "This is the fisherman's' boat."
+      ],
+      "correctIndex": 2,
+      "explanation": "The apostrophe before s shows that the fisherman owns the boat.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-024",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the drummer is right?",
+      "options": [
+        "This is the drummers drum.",
+        "This is the drummers' drum.",
+        "This is the drummer's' drum.",
+        "This is the drummer's drum."
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe before s shows that the drummer owns the drum.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-025",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the cook is right?",
+      "options": [
+        "This is the cook's spoon.",
+        "This is the cooks spoon.",
+        "This is the cooks' spoon.",
+        "This is the cook's' spoon."
+      ],
+      "correctIndex": 0,
+      "explanation": "The apostrophe before s shows that the cook owns the spoon.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-026",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the gardener is right?",
+      "options": [
+        "This is the gardeners spade.",
+        "This is the gardener's spade.",
+        "This is the gardeners' spade.",
+        "This is the gardener's' spade."
+      ],
+      "correctIndex": 1,
+      "explanation": "The apostrophe before s shows that the gardener owns the spade.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-027",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the pilot is right?",
+      "options": [
+        "This is the pilots map.",
+        "This is the pilots' map.",
+        "This is the pilot's map.",
+        "This is the pilot's' map."
+      ],
+      "correctIndex": 2,
+      "explanation": "The apostrophe before s shows that the pilot owns the map.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-028",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the soldier is right?",
+      "options": [
+        "This is the soldiers boot.",
+        "This is the soldiers' boot.",
+        "This is the soldier's' boot.",
+        "This is the soldier's boot."
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe before s shows that the soldier owns the boot.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-029",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the singer is right?",
+      "options": [
+        "This is the singer's song.",
+        "This is the singers song.",
+        "This is the singers' song.",
+        "This is the singer's' song."
+      ],
+      "correctIndex": 0,
+      "explanation": "The apostrophe before s shows that the singer owns the song.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-030",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the artist is right?",
+      "options": [
+        "This is the artists brush.",
+        "This is the artist's brush.",
+        "This is the artists' brush.",
+        "This is the artist's' brush."
+      ],
+      "correctIndex": 1,
+      "explanation": "The apostrophe before s shows that the artist owns the brush.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-031",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the baker is right?",
+      "options": [
+        "This is the bakers tray.",
+        "This is the bakers' tray.",
+        "This is the baker's tray.",
+        "This is the baker's' tray."
+      ],
+      "correctIndex": 2,
+      "explanation": "The apostrophe before s shows that the baker owns the tray.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-032",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the barber is right?",
+      "options": [
+        "This is the barbers comb.",
+        "This is the barbers' comb.",
+        "This is the barber's' comb.",
+        "This is the barber's comb."
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe before s shows that the barber owns the comb.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-033",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the weaver is right?",
+      "options": [
+        "This is the weaver's thread.",
+        "This is the weavers thread.",
+        "This is the weavers' thread.",
+        "This is the weaver's' thread."
+      ],
+      "correctIndex": 0,
+      "explanation": "The apostrophe before s shows that the weaver owns the thread.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-034",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the potter is right?",
+      "options": [
+        "This is the potters clay.",
+        "This is the potter's clay.",
+        "This is the potters' clay.",
+        "This is the potter's' clay."
+      ],
+      "correctIndex": 1,
+      "explanation": "The apostrophe before s shows that the potter owns the clay.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-035",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the hunter is right?",
+      "options": [
+        "This is the hunters arrow.",
+        "This is the hunters' arrow.",
+        "This is the hunter's arrow.",
+        "This is the hunter's' arrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "The apostrophe before s shows that the hunter owns the arrow.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-036",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the herder is right?",
+      "options": [
+        "This is the herders stick.",
+        "This is the herders' stick.",
+        "This is the herder's' stick.",
+        "This is the herder's stick."
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe before s shows that the herder owns the stick.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-037",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the sailor is right?",
+      "options": [
+        "This is the sailor's rope.",
+        "This is the sailors rope.",
+        "This is the sailors' rope.",
+        "This is the sailor's' rope."
+      ],
+      "correctIndex": 0,
+      "explanation": "The apostrophe before s shows that the sailor owns the rope.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-038",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the mechanic is right?",
+      "options": [
+        "This is the mechanics tool.",
+        "This is the mechanic's tool.",
+        "This is the mechanics' tool.",
+        "This is the mechanic's' tool."
+      ],
+      "correctIndex": 1,
+      "explanation": "The apostrophe before s shows that the mechanic owns the tool.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-039",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the cleaner is right?",
+      "options": [
+        "This is the cleaners broom.",
+        "This is the cleaners' broom.",
+        "This is the cleaner's broom.",
+        "This is the cleaner's' broom."
+      ],
+      "correctIndex": 2,
+      "explanation": "The apostrophe before s shows that the cleaner owns the broom.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-PUN-G-040",
+      "subject": "english",
+      "topic": "punctuation",
+      "level": "gold",
+      "text": "Which sentence about the guard is right?",
+      "options": [
+        "This is the guards whistle.",
+        "This is the guards' whistle.",
+        "This is the guard's' whistle.",
+        "This is the guard's whistle."
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe before s shows that the guard owns the whistle.",
+      "curriculumRef": "NERDC Primary English, punctuation: apostrophes",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

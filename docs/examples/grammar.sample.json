@@ -1,0 +1,49 @@
+{
+  "subject": "english",
+  "topic": "grammar",
+  "title": "Grammar garden",
+  "questions": [
+    {
+      "code": "ENG-GRA-B-001",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "bronze",
+      "text": "Which word in this sentence is a noun? Ada reads a book.",
+      "options": ["Ada", "reads", "a", "quickly"],
+      "correctIndex": 0,
+      "explanation": "Ada is the name of a person, so it is a noun.",
+      "curriculumRef": "NERDC Primary 4 English, grammar: nouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-GRA-S-001",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "silver",
+      "text": "Choose the pronoun that replaces the underlined words. Chidi and Musa play football.",
+      "options": ["They", "He", "It", "We"],
+      "correctIndex": 0,
+      "explanation": "Two people are replaced by the plural pronoun they.",
+      "curriculumRef": "NERDC Primary 4 English, grammar: pronouns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-GRA-G-001",
+      "subject": "english",
+      "topic": "grammar",
+      "level": "gold",
+      "text": "Which sentence uses the adjective correctly?",
+      "options": ["The tall boy won the race.", "The boy tall won the race.", "The boy won tall the race.", "Tall the boy won the race."],
+      "correctIndex": 0,
+      "explanation": "An adjective usually comes before the noun it describes.",
+      "curriculumRef": "NERDC Primary 5 English, grammar: adjectives",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

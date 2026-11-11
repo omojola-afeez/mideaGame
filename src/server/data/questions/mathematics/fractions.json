@@ -1,0 +1,2287 @@
+{
+  "subject": "mathematics",
+  "topic": "fractions",
+  "title": "Fraction falls",
+  "questions": [
+    {
+      "code": "MAT-FRA-B-001",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "Which fraction is one half?",
+      "options": [
+        "1/2",
+        "2/1",
+        "1/3",
+        "3/4"
+      ],
+      "correctIndex": 0,
+      "explanation": "One half means one of two equal parts.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, halves",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-002",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "How many quarters make one whole?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "correctIndex": 1,
+      "explanation": "Four equal quarters make one whole.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, quarters",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-003",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is 1/2 of 12?",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "Half of 12 is 6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fraction of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-004",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "Which fraction is larger, 1/3 or 1/5?",
+      "options": [
+        "1/5",
+        "They are equal",
+        "Cannot tell",
+        "1/3"
+      ],
+      "correctIndex": 3,
+      "explanation": "When the top number is 1, the smaller bottom number gives the larger fraction.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, comparing unit fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-005",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 8 equal slices. 2 slices are eaten. What fraction is eaten?",
+      "options": [
+        "2/8",
+        "6/8",
+        "2/7",
+        "8/2"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 out of 8 equal slices is 2/8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-006",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "Which fraction means 2 out of 5 equal parts?",
+      "options": [
+        "5/2",
+        "2/5",
+        "2/3",
+        "3/5"
+      ],
+      "correctIndex": 1,
+      "explanation": "The top number counts the parts, the bottom counts all equal parts.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, reading fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-007",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is 1/4 of 20?",
+      "options": [
+        "10",
+        "6",
+        "5",
+        "20"
+      ],
+      "correctIndex": 2,
+      "explanation": "Divide 20 into 4 equal parts. Each part is 5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, quarters of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-008",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 6 equal parts. 3 parts are shaded. What fraction is shaded?",
+      "options": [
+        "6/3",
+        "4/6",
+        "3/7",
+        "3/6"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 out of 6 equal parts is 3/6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-009",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 12 equal slices. 2 slices are eaten. What fraction is eaten?",
+      "options": [
+        "2/12",
+        "10/12",
+        "2/11",
+        "12/2"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 out of 12 equal slices is 2/12.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-010",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is 1/4 of 12?",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "12"
+      ],
+      "correctIndex": 1,
+      "explanation": "Divide 12 into 4 equal parts. Each part is 3.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, quarters of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-011",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 3 equal parts. 1 part is shaded. What fraction is shaded?",
+      "options": [
+        "3/1",
+        "2/3",
+        "1/3",
+        "1/4"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 out of 3 equal parts is 1/3.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-012",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 10 equal slices. 7 slices are eaten. What fraction is eaten?",
+      "options": [
+        "3/10",
+        "7/9",
+        "10/7",
+        "7/10"
+      ],
+      "correctIndex": 3,
+      "explanation": "7 out of 10 equal slices is 7/10.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-013",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is 1/4 of 16?",
+      "options": [
+        "4",
+        "8",
+        "5",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Divide 16 into 4 equal parts. Each part is 4.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, quarters of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-014",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 12 equal slices. 6 slices are eaten. What fraction is eaten?",
+      "options": [
+        "6/11",
+        "6/12",
+        "12/6",
+        "619"
+      ],
+      "correctIndex": 1,
+      "explanation": "6 out of 12 equal slices is 6/12.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-015",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is 1/4 of 8?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "Divide 8 into 4 equal parts. Each part is 2.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, quarters of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-016",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 2 equal parts. 1 part is shaded. What fraction is shaded?",
+      "options": [
+        "2/1",
+        "2/2",
+        "1/3",
+        "1/2"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 out of 2 equal parts is 1/2.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-017",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is 1/2 of 10?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Half of 10 is 5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fraction of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-018",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 8 equal slices. 4 slices are eaten. What fraction is eaten?",
+      "options": [
+        "4/7",
+        "4/8",
+        "8/4",
+        "55"
+      ],
+      "correctIndex": 1,
+      "explanation": "4 out of 8 equal slices is 4/8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-019",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 3 equal parts. 2 parts are shaded. What fraction is shaded?",
+      "options": [
+        "3/2",
+        "3/3",
+        "2/3",
+        "2/4"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 out of 3 equal parts is 2/3.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-020",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 12 equal slices. 10 slices are eaten. What fraction is eaten?",
+      "options": [
+        "2/12",
+        "10/11",
+        "12/10",
+        "10/12"
+      ],
+      "correctIndex": 3,
+      "explanation": "10 out of 12 equal slices is 10/12.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-021",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is 1/2 of 16?",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Half of 16 is 8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fraction of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-022",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 6 equal slices. 1 slices are eaten. What fraction is eaten?",
+      "options": [
+        "5/6",
+        "1/6",
+        "1/5",
+        "6/1"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 out of 6 equal slices is 1/6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-023",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 4 equal parts. 3 parts are shaded. What fraction is shaded?",
+      "options": [
+        "4/3",
+        "4/4",
+        "3/4",
+        "3/5"
+      ],
+      "correctIndex": 2,
+      "explanation": "3 out of 4 equal parts is 3/4.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-024",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is 1/2 of 20?",
+      "options": [
+        "11",
+        "9",
+        "20",
+        "10"
+      ],
+      "correctIndex": 3,
+      "explanation": "Half of 20 is 10.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fraction of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-025",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 8 equal slices. 6 slices are eaten. What fraction is eaten?",
+      "options": [
+        "6/8",
+        "2/8",
+        "6/7",
+        "8/6"
+      ],
+      "correctIndex": 0,
+      "explanation": "6 out of 8 equal slices is 6/8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-026",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 6 equal slices. 4 slices are eaten. What fraction is eaten?",
+      "options": [
+        "2/6",
+        "4/6",
+        "4/5",
+        "6/4"
+      ],
+      "correctIndex": 1,
+      "explanation": "4 out of 6 equal slices is 4/6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-027",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 4 equal parts. 2 parts are shaded. What fraction is shaded?",
+      "options": [
+        "4/2",
+        "3/4",
+        "2/4",
+        "2/5"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 out of 4 equal parts is 2/4.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-028",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "What is 1/2 of 8?",
+      "options": [
+        "5",
+        "3",
+        "8",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "Half of 8 is 4.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fraction of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-029",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 10 equal slices. 4 slices are eaten. What fraction is eaten?",
+      "options": [
+        "4/10",
+        "6/10",
+        "4/9",
+        "10/4"
+      ],
+      "correctIndex": 0,
+      "explanation": "4 out of 10 equal slices is 4/10.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-030",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 5 equal parts. 3 parts are shaded. What fraction is shaded?",
+      "options": [
+        "5/3",
+        "3/5",
+        "4/5",
+        "3/6"
+      ],
+      "correctIndex": 1,
+      "explanation": "3 out of 5 equal parts is 3/5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-031",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 6 equal slices. 2 slices are eaten. What fraction is eaten?",
+      "options": [
+        "4/6",
+        "2/5",
+        "2/6",
+        "6/2"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 out of 6 equal slices is 2/6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-032",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 8 equal parts. 2 parts are shaded. What fraction is shaded?",
+      "options": [
+        "8/2",
+        "3/8",
+        "2/9",
+        "2/8"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 out of 8 equal parts is 2/8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-033",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 8 equal parts. 5 parts are shaded. What fraction is shaded?",
+      "options": [
+        "5/8",
+        "8/5",
+        "6/8",
+        "5/9"
+      ],
+      "correctIndex": 0,
+      "explanation": "5 out of 8 equal parts is 5/8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-034",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 6 equal slices. 5 slices are eaten. What fraction is eaten?",
+      "options": [
+        "1/6",
+        "5/6",
+        "5/5",
+        "6/5"
+      ],
+      "correctIndex": 1,
+      "explanation": "5 out of 6 equal slices is 5/6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-035",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 5 equal parts. 4 parts are shaded. What fraction is shaded?",
+      "options": [
+        "5/4",
+        "5/5",
+        "4/5",
+        "4/6"
+      ],
+      "correctIndex": 2,
+      "explanation": "4 out of 5 equal parts is 4/5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-036",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 8 equal parts. 7 parts are shaded. What fraction is shaded?",
+      "options": [
+        "8/7",
+        "8/8",
+        "7/9",
+        "7/8"
+      ],
+      "correctIndex": 3,
+      "explanation": "7 out of 8 equal parts is 7/8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-037",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 5 equal parts. 2 parts are shaded. What fraction is shaded?",
+      "options": [
+        "2/5",
+        "5/2",
+        "3/5",
+        "2/6"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 out of 5 equal parts is 2/5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-038",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 8 equal parts. 3 parts are shaded. What fraction is shaded?",
+      "options": [
+        "8/3",
+        "3/8",
+        "4/8",
+        "3/9"
+      ],
+      "correctIndex": 1,
+      "explanation": "3 out of 8 equal parts is 3/8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-039",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A pizza is cut into 10 equal slices. 2 slices are eaten. What fraction is eaten?",
+      "options": [
+        "8/10",
+        "2/9",
+        "2/10",
+        "10/2"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 out of 10 equal slices is 2/10.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-B-040",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "bronze",
+      "text": "A shape is cut into 6 equal parts. 4 parts are shaded. What fraction is shaded?",
+      "options": [
+        "6/4",
+        "5/6",
+        "4/7",
+        "4/6"
+      ],
+      "correctIndex": 3,
+      "explanation": "4 out of 6 equal parts is 4/6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-001",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 8/10 + 1/10?",
+      "options": [
+        "9/10",
+        "9/20",
+        "8/10",
+        "10/10"
+      ],
+      "correctIndex": 0,
+      "explanation": "The denominators are the same, so add the top numbers: 8 + 1 = 9.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-002",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 2/8 of 48?",
+      "options": [
+        "14",
+        "12",
+        "10",
+        "48"
+      ],
+      "correctIndex": 1,
+      "explanation": "Divide 48 by 8 to get 6, then multiply by 2 to get 12.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-003",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which is greater, 3/5 or 2/5?",
+      "options": [
+        "2/5",
+        "They are equal",
+        "3/5",
+        "Cannot tell"
+      ],
+      "correctIndex": 2,
+      "explanation": "With the same denominator, the larger top number is greater.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-004",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Simplify 4/8.",
+      "options": [
+        "4/8",
+        "5/8",
+        "4/7",
+        "1/2"
+      ],
+      "correctIndex": 3,
+      "explanation": "Divide the top and bottom by 4.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, simplifying fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-005",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 9/4 as a mixed number?",
+      "options": [
+        "2 1/4",
+        "1 2/4",
+        "3 1/4",
+        "2 2/4"
+      ],
+      "correctIndex": 0,
+      "explanation": "9 ÷ 4 = 2 remainder 1.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-006",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "A class has 24 pupils. 2/3 of them walk to school. How many walk?",
+      "options": [
+        "18",
+        "16",
+        "14",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "24 ÷ 3 = 8. Then 8 × 2 = 16.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, fractions in word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-007",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 5/6 - 3/6?",
+      "options": [
+        "8/6",
+        "2/0",
+        "2/6",
+        "3/6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Subtract the top numbers: 5 - 3 = 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-008",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which fraction is equal to 3/4?",
+      "options": [
+        "6/9",
+        "7/8",
+        "8/6",
+        "6/8"
+      ],
+      "correctIndex": 3,
+      "explanation": "3/4 and 6/8 name the same amount.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, equivalent fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-009",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 6/8 + 1/8?",
+      "options": [
+        "7/8",
+        "7/16",
+        "6/8",
+        "8/8"
+      ],
+      "correctIndex": 0,
+      "explanation": "The denominators are the same, so add the top numbers: 6 + 1 = 7.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-010",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 7/8 of 32?",
+      "options": [
+        "35",
+        "28",
+        "21",
+        "32"
+      ],
+      "correctIndex": 1,
+      "explanation": "Divide 32 by 8 to get 4, then multiply by 7 to get 28.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-011",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which is greater, 1/8 or 2/8?",
+      "options": [
+        "1/8",
+        "They are equal",
+        "2/8",
+        "Cannot tell"
+      ],
+      "correctIndex": 2,
+      "explanation": "With the same denominator, the larger top number is greater.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-012",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Simplify 6/8.",
+      "options": [
+        "6/8",
+        "7/8",
+        "6/7",
+        "3/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "Divide the top and bottom by 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, simplifying fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-013",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 11/4 as a mixed number?",
+      "options": [
+        "2 3/4",
+        "3 2/4",
+        "3 3/4",
+        "2 4/4"
+      ],
+      "correctIndex": 0,
+      "explanation": "11 ÷ 4 = 2 remainder 3.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-014",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 3/8 - 1/8?",
+      "options": [
+        "4/8",
+        "2/8",
+        "2/0",
+        "3/8"
+      ],
+      "correctIndex": 1,
+      "explanation": "Subtract the top numbers: 3 - 1 = 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-015",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which fraction is equal to 1/4?",
+      "options": [
+        "2/9",
+        "3/8",
+        "2/8",
+        "8/2"
+      ],
+      "correctIndex": 2,
+      "explanation": "1/4 and 2/8 name the same amount.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, equivalent fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-016",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 3/5 + 1/5?",
+      "options": [
+        "4/10",
+        "3/5",
+        "5/5",
+        "4/5"
+      ],
+      "correctIndex": 3,
+      "explanation": "The denominators are the same, so add the top numbers: 3 + 1 = 4.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-017",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 6/8 of 48?",
+      "options": [
+        "36",
+        "42",
+        "30",
+        "48"
+      ],
+      "correctIndex": 0,
+      "explanation": "Divide 48 by 8 to get 6, then multiply by 6 to get 36.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-018",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which is greater, 7/10 or 7/10?",
+      "options": [
+        "They are equal",
+        "7/10",
+        "Cannot tell",
+        "717"
+      ],
+      "correctIndex": 1,
+      "explanation": "With the same denominator, the larger top number is greater.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-019",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Simplify 10/15.",
+      "options": [
+        "10/15",
+        "11/15",
+        "2/3",
+        "10/14"
+      ],
+      "correctIndex": 2,
+      "explanation": "Divide the top and bottom by 5.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, simplifying fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-020",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 6/4 as a mixed number?",
+      "options": [
+        "2 1/4",
+        "2 2/4",
+        "1 3/4",
+        "1 2/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "6 ÷ 4 = 1 remainder 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-021",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 2/6 - 1/6?",
+      "options": [
+        "1/6",
+        "3/6",
+        "1/0",
+        "2/6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subtract the top numbers: 2 - 1 = 1.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-022",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which fraction is equal to 2/3?",
+      "options": [
+        "4/7",
+        "4/6",
+        "5/6",
+        "6/4"
+      ],
+      "correctIndex": 1,
+      "explanation": "2/3 and 4/6 name the same amount.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, equivalent fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-023",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 8/12 + 2/12?",
+      "options": [
+        "10/24",
+        "16/12",
+        "10/12",
+        "11/12"
+      ],
+      "correctIndex": 2,
+      "explanation": "The denominators are the same, so add the top numbers: 8 + 2 = 10.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-024",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 2/4 of 12?",
+      "options": [
+        "8",
+        "4",
+        "12",
+        "6"
+      ],
+      "correctIndex": 3,
+      "explanation": "Divide 12 by 4 to get 3, then multiply by 2 to get 6.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-025",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which is greater, 7/10 or 3/10?",
+      "options": [
+        "7/10",
+        "3/10",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 0,
+      "explanation": "With the same denominator, the larger top number is greater.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-026",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Simplify 6/9.",
+      "options": [
+        "6/9",
+        "2/3",
+        "7/9",
+        "6/8"
+      ],
+      "correctIndex": 1,
+      "explanation": "Divide the top and bottom by 3.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, simplifying fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-027",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 14/4 as a mixed number?",
+      "options": [
+        "2 3/4",
+        "4 2/4",
+        "3 2/4",
+        "3 3/4"
+      ],
+      "correctIndex": 2,
+      "explanation": "14 ÷ 4 = 3 remainder 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-028",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 5/8 - 3/8?",
+      "options": [
+        "8/8",
+        "2/0",
+        "3/8",
+        "2/8"
+      ],
+      "correctIndex": 3,
+      "explanation": "Subtract the top numbers: 5 - 3 = 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-029",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which fraction is equal to 1/2?",
+      "options": [
+        "2/4",
+        "2/5",
+        "3/4",
+        "4/2"
+      ],
+      "correctIndex": 0,
+      "explanation": "1/2 and 2/4 name the same amount.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, equivalent fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-030",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 2/10 + 4/10?",
+      "options": [
+        "6/20",
+        "6/10",
+        "8/10",
+        "7/10"
+      ],
+      "correctIndex": 1,
+      "explanation": "The denominators are the same, so add the top numbers: 2 + 4 = 6.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-031",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 3/8 of 48?",
+      "options": [
+        "21",
+        "15",
+        "18",
+        "48"
+      ],
+      "correctIndex": 2,
+      "explanation": "Divide 48 by 8 to get 6, then multiply by 3 to get 18.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-032",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 7/4 as a mixed number?",
+      "options": [
+        "3 1/4",
+        "2 3/4",
+        "1 4/4",
+        "1 3/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "7 ÷ 4 = 1 remainder 3.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-033",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "A class has 18 pupils. 2/3 of them walk to school. How many walk?",
+      "options": [
+        "12",
+        "14",
+        "10",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "18 ÷ 3 = 6. Then 6 × 2 = 12.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, fractions in word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-034",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 8/12 - 6/12?",
+      "options": [
+        "14/12",
+        "2/12",
+        "2/0",
+        "3/12"
+      ],
+      "correctIndex": 1,
+      "explanation": "Subtract the top numbers: 8 - 6 = 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-035",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which fraction is equal to 1/3?",
+      "options": [
+        "2/7",
+        "3/6",
+        "2/6",
+        "6/2"
+      ],
+      "correctIndex": 2,
+      "explanation": "1/3 and 2/6 name the same amount.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, equivalent fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-036",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 3/8 + 1/8?",
+      "options": [
+        "4/16",
+        "3/8",
+        "5/8",
+        "4/8"
+      ],
+      "correctIndex": 3,
+      "explanation": "The denominators are the same, so add the top numbers: 3 + 1 = 4.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-037",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 4/5 of 30?",
+      "options": [
+        "24",
+        "28",
+        "20",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "Divide 30 by 5 to get 6, then multiply by 4 to get 24.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-038",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "Which is greater, 1/6 or 3/6?",
+      "options": [
+        "1/6",
+        "3/6",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 1,
+      "explanation": "With the same denominator, the larger top number is greater.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-039",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 10/4 as a mixed number?",
+      "options": [
+        "3 2/4",
+        "2 3/4",
+        "2 2/4",
+        "231"
+      ],
+      "correctIndex": 2,
+      "explanation": "10 ÷ 4 = 2 remainder 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-S-040",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "silver",
+      "text": "What is 5/6 - 1/6?",
+      "options": [
+        "6/6",
+        "4/0",
+        "5/6",
+        "4/6"
+      ],
+      "correctIndex": 3,
+      "explanation": "Subtract the top numbers: 5 - 1 = 4.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-001",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "A tank is 3/4 full. It holds 60 litres when full. How many litres are in the tank?",
+      "options": [
+        "45",
+        "48",
+        "42",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "60 ÷ 4 = 15. Then 15 × 3 = 45 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-002",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 5/8 + 1/8 in simplest form?",
+      "options": [
+        "6/8",
+        "3/4",
+        "7/8",
+        "6/16"
+      ],
+      "correctIndex": 1,
+      "explanation": "Add the top numbers to get 6/8. Divide both parts by 2 to get 3/4.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-003",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Ifeoma had ₦3,000. She spent 2/5 of it. How much did she spend?",
+      "options": [
+        "₦1,300",
+        "₦1,100",
+        "₦1,200",
+        "₦1,700"
+      ],
+      "correctIndex": 2,
+      "explanation": "3000 ÷ 5 = 600. Then × 2 = 1200 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-004",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Which fraction is closest to 1?",
+      "options": [
+        "1/3",
+        "2/4",
+        "30",
+        "2/3"
+      ],
+      "correctIndex": 3,
+      "explanation": "2/3 is only 1/3 away from one whole.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions near one",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-005",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 3 2/4 + 2/4?",
+      "options": [
+        "3 0/4",
+        "4 0/4",
+        "3 1/4",
+        "3 2/4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Add the quarters: 2/4 + 2/4 = 4/4.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-006",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Bola has 12 oranges. He gives 1/3 to his sister and 1/4 to his brother. How many oranges are left?",
+      "options": [
+        "7",
+        "5",
+        "8",
+        "3"
+      ],
+      "correctIndex": 1,
+      "explanation": "1/3 of 12 is 4. 1/4 is 3. 12 - 4 - 3 = 5.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-007",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Which list is in order from smallest to largest?",
+      "options": [
+        "2/3, 3/5, 7/10",
+        "7/10, 3/5, 2/3",
+        "3/5, 2/3, 7/10",
+        "2/3, 7/10, 3/5"
+      ],
+      "correctIndex": 2,
+      "explanation": "Compare each fraction by dividing the top number by the bottom number.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, ordering fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-008",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Which fraction is greater, 1/4 or 1/7?",
+      "options": [
+        "1/7",
+        "They are equal",
+        "Cannot tell",
+        "1/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "For unit fractions, the smaller denominator gives the larger fraction.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing unlike fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-009",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "A tank is 3/4 full. It holds 36 litres when full. How many litres are in the tank?",
+      "options": [
+        "27",
+        "30",
+        "24",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "36 ÷ 4 = 9. Then 9 × 3 = 27 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-010",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 3/8 + 1/8 in simplest form?",
+      "options": [
+        "4/8",
+        "1/2",
+        "5/8",
+        "4/16"
+      ],
+      "correctIndex": 1,
+      "explanation": "Add the top numbers to get 4/8. Divide both parts by 4 to get 1/2.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-011",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Amina had ₦5,000. She spent 2/5 of it. How much did she spend?",
+      "options": [
+        "₦2,100",
+        "₦1,900",
+        "₦2,000",
+        "₦2,500"
+      ],
+      "correctIndex": 2,
+      "explanation": "5000 ÷ 5 = 1000. Then × 2 = 2000 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-012",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 2 3/4 + 3/4?",
+      "options": [
+        "3 2/4",
+        "2 3/4",
+        "231",
+        "2 2/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "Add the quarters: 3/4 + 3/4 = 6/4.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-013",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Ifeoma has 24 oranges. He gives 1/3 to his sister and 1/4 to his brother. How many oranges are left?",
+      "options": [
+        "10",
+        "14",
+        "16",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "1/3 of 24 is 8. 1/4 is 6. 24 - 8 - 6 = 10.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-014",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Which fraction is greater, 1/5 or 1/6?",
+      "options": [
+        "1/6",
+        "1/5",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 1,
+      "explanation": "For unit fractions, the smaller denominator gives the larger fraction.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing unlike fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-015",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "A tank is 3/4 full. It holds 24 litres when full. How many litres are in the tank?",
+      "options": [
+        "21",
+        "15",
+        "18",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "24 ÷ 4 = 6. Then 6 × 3 = 18 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions of a quantity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-016",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 8/10 + 1/10 in simplest form?",
+      "options": [
+        "10/10",
+        "9/20",
+        "8/10",
+        "9/10"
+      ],
+      "correctIndex": 3,
+      "explanation": "Add the top numbers to get 9/10. Divide both parts by 1 to get 9/10.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-017",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Bola had ₦3,000. She spent 2/5 of it. How much did she spend?",
+      "options": [
+        "₦1,200",
+        "₦1,300",
+        "₦1,100",
+        "₦1,700"
+      ],
+      "correctIndex": 0,
+      "explanation": "3000 ÷ 5 = 600. Then × 2 = 1200 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-018",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 3 2/4 + 1/4?",
+      "options": [
+        "4 3/4",
+        "3 3/4",
+        "3 0/4",
+        "3 2/4"
+      ],
+      "correctIndex": 1,
+      "explanation": "Add the quarters: 2/4 + 1/4 = 3/4.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-019",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Ada has 36 oranges. He gives 1/3 to his sister and 1/4 to his brother. How many oranges are left?",
+      "options": [
+        "21",
+        "24",
+        "15",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "1/3 of 36 is 12. 1/4 is 9. 36 - 12 - 9 = 15.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-020",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Which fraction is greater, 1/5 or 1/8?",
+      "options": [
+        "1/8",
+        "They are equal",
+        "Cannot tell",
+        "1/5"
+      ],
+      "correctIndex": 3,
+      "explanation": "For unit fractions, the smaller denominator gives the larger fraction.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing unlike fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-021",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 4/10 + 4/10 in simplest form?",
+      "options": [
+        "4/5",
+        "8/10",
+        "9/10",
+        "8/20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Add the top numbers to get 8/10. Divide both parts by 2 to get 4/5.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-022",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Musa had ₦5,000. She spent 2/5 of it. How much did she spend?",
+      "options": [
+        "₦2,100",
+        "₦2,000",
+        "₦1,900",
+        "₦2,500"
+      ],
+      "correctIndex": 1,
+      "explanation": "5000 ÷ 5 = 1000. Then × 2 = 2000 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-023",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 1 3/4 + 2/4?",
+      "options": [
+        "2 1/4",
+        "1 2/4",
+        "1 1/4",
+        "1 3/4"
+      ],
+      "correctIndex": 2,
+      "explanation": "Add the quarters: 3/4 + 2/4 = 5/4.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-024",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Tunde has 48 oranges. He gives 1/3 to his sister and 1/4 to his brother. How many oranges are left?",
+      "options": [
+        "28",
+        "32",
+        "12",
+        "20"
+      ],
+      "correctIndex": 3,
+      "explanation": "1/3 of 48 is 16. 1/4 is 12. 48 - 16 - 12 = 20.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-025",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Which fraction is greater, 1/4 or 1/6?",
+      "options": [
+        "1/4",
+        "1/6",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 0,
+      "explanation": "For unit fractions, the smaller denominator gives the larger fraction.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing unlike fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-026",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 5/8 + 2/8 in simplest form?",
+      "options": [
+        "8/8",
+        "7/8",
+        "7/16",
+        "6/8"
+      ],
+      "correctIndex": 1,
+      "explanation": "Add the top numbers to get 7/8. Divide both parts by 1 to get 7/8.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-027",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Tunde had ₦5,000. She spent 2/5 of it. How much did she spend?",
+      "options": [
+        "₦2,100",
+        "₦1,900",
+        "₦2,000",
+        "₦2,500"
+      ],
+      "correctIndex": 2,
+      "explanation": "5000 ÷ 5 = 1000. Then × 2 = 2000 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-028",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 2 3/4 + 1/4?",
+      "options": [
+        "3 0/4",
+        "2 1/4",
+        "2 3/4",
+        "2 0/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "Add the quarters: 3/4 + 1/4 = 4/4.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-029",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Bola has 24 oranges. He gives 1/3 to his sister and 1/4 to his brother. How many oranges are left?",
+      "options": [
+        "10",
+        "14",
+        "16",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "1/3 of 24 is 8. 1/4 is 6. 24 - 8 - 6 = 10.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-030",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Which fraction is greater, 1/2 or 1/3?",
+      "options": [
+        "1/3",
+        "1/2",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 1,
+      "explanation": "For unit fractions, the smaller denominator gives the larger fraction.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing unlike fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-031",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 3/10 + 6/10 in simplest form?",
+      "options": [
+        "10/10",
+        "9/20",
+        "9/10",
+        "8/10"
+      ],
+      "correctIndex": 2,
+      "explanation": "Add the top numbers to get 9/10. Divide both parts by 1 to get 9/10.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-032",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Chidi had ₦5,000. She spent 2/5 of it. How much did she spend?",
+      "options": [
+        "₦2,100",
+        "₦1,900",
+        "₦2,500",
+        "₦2,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "5000 ÷ 5 = 1000. Then × 2 = 2000 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-033",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 2 2/4 + 3/4?",
+      "options": [
+        "2 1/4",
+        "3 1/4",
+        "2 2/4",
+        "221"
+      ],
+      "correctIndex": 0,
+      "explanation": "Add the quarters: 2/4 + 3/4 = 5/4.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-034",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Ifeoma has 48 oranges. He gives 1/3 to his sister and 1/4 to his brother. How many oranges are left?",
+      "options": [
+        "28",
+        "20",
+        "32",
+        "12"
+      ],
+      "correctIndex": 1,
+      "explanation": "1/3 of 48 is 16. 1/4 is 12. 48 - 16 - 12 = 20.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-035",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 2/8 + 2/8 in simplest form?",
+      "options": [
+        "4/8",
+        "5/8",
+        "1/2",
+        "4/16"
+      ],
+      "correctIndex": 2,
+      "explanation": "Add the top numbers to get 4/8. Divide both parts by 4 to get 1/2.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-036",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 3 3/4 + 2/4?",
+      "options": [
+        "4 1/4",
+        "3 2/4",
+        "3 3/4",
+        "3 1/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "Add the quarters: 3/4 + 2/4 = 5/4.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-037",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Sani has 12 oranges. He gives 1/3 to his sister and 1/4 to his brother. How many oranges are left?",
+      "options": [
+        "5",
+        "7",
+        "8",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "1/3 of 12 is 4. 1/4 is 3. 12 - 4 - 3 = 5.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-038",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "What is 4/10 + 2/10 in simplest form?",
+      "options": [
+        "6/10",
+        "3/5",
+        "7/10",
+        "6/20"
+      ],
+      "correctIndex": 1,
+      "explanation": "Add the top numbers to get 6/10. Divide both parts by 2 to get 3/5.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-039",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Ekaette had ₦4,000. She spent 2/5 of it. How much did she spend?",
+      "options": [
+        "₦1,700",
+        "₦1,500",
+        "₦1,600",
+        "₦2,100"
+      ],
+      "correctIndex": 2,
+      "explanation": "4000 ÷ 5 = 800. Then × 2 = 1600 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-FRA-G-040",
+      "subject": "mathematics",
+      "topic": "fractions",
+      "level": "gold",
+      "text": "Chidi has 24 oranges. He gives 1/3 to his sister and 1/4 to his brother. How many oranges are left?",
+      "options": [
+        "14",
+        "16",
+        "6",
+        "10"
+      ],
+      "correctIndex": 3,
+      "explanation": "1/3 of 24 is 8. 1/4 is 6. 24 - 8 - 6 = 10.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

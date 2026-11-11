@@ -1,0 +1,2287 @@
+{
+  "subject": "mathematics",
+  "topic": "measurement",
+  "title": "Measure meadows",
+  "questions": [
+    {
+      "code": "MAT-MEA-B-001",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many metres are in 3 kilometres?",
+      "options": [
+        "3000",
+        "300",
+        "30",
+        "1003"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 km = 1000 m, so 3 × 1000 = 3000 m.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: kilometres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-002",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many grams are in 2 kilograms?",
+      "options": [
+        "200",
+        "2000",
+        "20",
+        "1002"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 kg = 1000 g, so 2 × 1000 = 2000 g.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-003",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many millilitres are in 4 litres?",
+      "options": [
+        "400",
+        "40",
+        "4000",
+        "1004"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 litre = 1000 ml, so 4 × 1000 = 4000 ml.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-004",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many days are in one week?",
+      "options": [
+        "5",
+        "10",
+        "12",
+        "7"
+      ],
+      "correctIndex": 3,
+      "explanation": "A week has seven days, from Sunday to Saturday.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: time",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-005",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many months are in one year?",
+      "options": [
+        "12",
+        "10",
+        "7",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "A year has twelve months.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: the calendar",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-006",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many minutes are in one hour?",
+      "options": [
+        "30",
+        "60",
+        "100",
+        "24"
+      ],
+      "correctIndex": 1,
+      "explanation": "One hour has 60 minutes.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: time",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-007",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many seconds are in one minute?",
+      "options": [
+        "30",
+        "100",
+        "60",
+        "24"
+      ],
+      "correctIndex": 2,
+      "explanation": "One minute has 60 seconds.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: time",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-008",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many hours are in one day?",
+      "options": [
+        "12",
+        "60",
+        "7",
+        "24"
+      ],
+      "correctIndex": 3,
+      "explanation": "One day has 24 hours.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: time",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-009",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many weeks are in one year?",
+      "options": [
+        "52",
+        "12",
+        "24",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "One year has 52 weeks.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: the calendar",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-010",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "Which is longer, 1 kilometre or 900 metres?",
+      "options": [
+        "900 metres",
+        "1 kilometre",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 kilometre is 1000 metres, which is longer than 900 metres.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: comparing lengths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-011",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "A clock shows half past 3. What time is it?",
+      "options": [
+        "2:30",
+        "3:00",
+        "3:30",
+        "4:30"
+      ],
+      "correctIndex": 2,
+      "explanation": "Half past 3 means thirty minutes after 3 o'clock.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: telling the time",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-012",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many centimetres are in 7 metres?",
+      "options": [
+        "70",
+        "7000",
+        "107",
+        "700"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 m = 100 cm, so 7 × 100 = 700 cm.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: metres and centimetres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-013",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many metres are in 2 kilometres?",
+      "options": [
+        "2000",
+        "200",
+        "20",
+        "1002"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 km = 1000 m, so 2 × 1000 = 2000 m.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: kilometres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-014",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many millilitres are in 2 litres?",
+      "options": [
+        "200",
+        "2000",
+        "20",
+        "1002"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 litre = 1000 ml, so 2 × 1000 = 2000 ml.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-015",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many centimetres are in 8 metres?",
+      "options": [
+        "80",
+        "8000",
+        "800",
+        "108"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 m = 100 cm, so 8 × 100 = 800 cm.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: metres and centimetres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-016",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many metres are in 6 kilometres?",
+      "options": [
+        "600",
+        "60",
+        "1006",
+        "6000"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 km = 1000 m, so 6 × 1000 = 6000 m.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: kilometres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-017",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many millilitres are in 6 litres?",
+      "options": [
+        "6000",
+        "600",
+        "60",
+        "1006"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 litre = 1000 ml, so 6 × 1000 = 6000 ml.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-018",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many metres are in 8 kilometres?",
+      "options": [
+        "800",
+        "8000",
+        "80",
+        "1008"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 km = 1000 m, so 8 × 1000 = 8000 m.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: kilometres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-019",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many grams are in 7 kilograms?",
+      "options": [
+        "700",
+        "70",
+        "7000",
+        "1007"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 kg = 1000 g, so 7 × 1000 = 7000 g.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-020",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many centimetres are in 2 metres?",
+      "options": [
+        "20",
+        "2000",
+        "102",
+        "200"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 m = 100 cm, so 2 × 100 = 200 cm.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: metres and centimetres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-021",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many grams are in 6 kilograms?",
+      "options": [
+        "6000",
+        "600",
+        "60",
+        "1006"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 kg = 1000 g, so 6 × 1000 = 6000 g.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-022",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many centimetres are in 4 metres?",
+      "options": [
+        "40",
+        "400",
+        "4000",
+        "104"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 m = 100 cm, so 4 × 100 = 400 cm.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: metres and centimetres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-023",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many metres are in 7 kilometres?",
+      "options": [
+        "700",
+        "70",
+        "7000",
+        "1007"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 km = 1000 m, so 7 × 1000 = 7000 m.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: kilometres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-024",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many grams are in 9 kilograms?",
+      "options": [
+        "900",
+        "90",
+        "1009",
+        "9000"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 kg = 1000 g, so 9 × 1000 = 9000 g.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-025",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many millilitres are in 7 litres?",
+      "options": [
+        "7000",
+        "700",
+        "70",
+        "1007"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 litre = 1000 ml, so 7 × 1000 = 7000 ml.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-026",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many grams are in 5 kilograms?",
+      "options": [
+        "500",
+        "5000",
+        "50",
+        "1005"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 kg = 1000 g, so 5 × 1000 = 5000 g.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-027",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many grams are in 8 kilograms?",
+      "options": [
+        "800",
+        "80",
+        "8000",
+        "1008"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 kg = 1000 g, so 8 × 1000 = 8000 g.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-028",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many millilitres are in 3 litres?",
+      "options": [
+        "300",
+        "30",
+        "1003",
+        "3000"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 litre = 1000 ml, so 3 × 1000 = 3000 ml.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-029",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many centimetres are in 6 metres?",
+      "options": [
+        "600",
+        "60",
+        "6000",
+        "106"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 m = 100 cm, so 6 × 100 = 600 cm.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: metres and centimetres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-030",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many metres are in 9 kilometres?",
+      "options": [
+        "900",
+        "9000",
+        "90",
+        "1009"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 km = 1000 m, so 9 × 1000 = 9000 m.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: kilometres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-031",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many centimetres are in 9 metres?",
+      "options": [
+        "90",
+        "9000",
+        "900",
+        "109"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 m = 100 cm, so 9 × 100 = 900 cm.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: metres and centimetres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-032",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many metres are in 5 kilometres?",
+      "options": [
+        "500",
+        "50",
+        "1005",
+        "5000"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 km = 1000 m, so 5 × 1000 = 5000 m.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: kilometres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-033",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many metres are in 4 kilometres?",
+      "options": [
+        "4000",
+        "400",
+        "40",
+        "1004"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 km = 1000 m, so 4 × 1000 = 4000 m.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: kilometres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-034",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many centimetres are in 5 metres?",
+      "options": [
+        "50",
+        "500",
+        "5000",
+        "105"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 m = 100 cm, so 5 × 100 = 500 cm.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: metres and centimetres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-035",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many grams are in 3 kilograms?",
+      "options": [
+        "300",
+        "30",
+        "3000",
+        "1003"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 kg = 1000 g, so 3 × 1000 = 3000 g.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-036",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many centimetres are in 3 metres?",
+      "options": [
+        "30",
+        "3000",
+        "103",
+        "300"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 m = 100 cm, so 3 × 100 = 300 cm.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: metres and centimetres",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-037",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many grams are in 4 kilograms?",
+      "options": [
+        "4000",
+        "400",
+        "40",
+        "1004"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 kg = 1000 g, so 4 × 1000 = 4000 g.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-038",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many millilitres are in 8 litres?",
+      "options": [
+        "800",
+        "8000",
+        "80",
+        "1008"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 litre = 1000 ml, so 8 × 1000 = 8000 ml.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-039",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many millilitres are in 5 litres?",
+      "options": [
+        "500",
+        "50",
+        "5000",
+        "1005"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 litre = 1000 ml, so 5 × 1000 = 5000 ml.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-B-040",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "bronze",
+      "text": "How many millilitres are in 9 litres?",
+      "options": [
+        "900",
+        "90",
+        "1009",
+        "9000"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 litre = 1000 ml, so 9 × 1000 = 9000 ml.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-001",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bag of rice has a mass of 3 kg 250 g. What is this in grams?",
+      "options": [
+        "3250 g",
+        "550 g",
+        "3000 g",
+        "253 g"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 kg is 3000 g. Add 250 g to get 3250 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: mass in grams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-002",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A lesson starts at 8:15 and ends at 9:00. How long is the lesson?",
+      "options": [
+        "15 minutes",
+        "45 minutes",
+        "30 minutes",
+        "60 minutes"
+      ],
+      "correctIndex": 1,
+      "explanation": "From 8:15 to 9:00 is 45 minutes.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: time intervals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-003",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "What is 2.5 kg plus 750 g?",
+      "options": [
+        "1000 g",
+        "2500 g",
+        "3250 g",
+        "10000 g"
+      ],
+      "correctIndex": 2,
+      "explanation": "2.5 kg is 2500 g. Add 750 g to get 3250 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: adding mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-004",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bucket holds 2 litres. 250 ml is poured out. How much is left?",
+      "options": [
+        "2250 ml",
+        "-50 ml",
+        "2000 ml",
+        "1750 ml"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 litres is 2000 ml. 2000 - 250 = 1750 ml.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-005",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 12 m long and 6 m wide. What is its area?",
+      "options": [
+        "72 m²",
+        "36 m²",
+        "18 m²",
+        "84 m²"
+      ],
+      "correctIndex": 0,
+      "explanation": "Area = 12 × 6 = 72 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-006",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A square garden has sides of 7 m. What is its perimeter?",
+      "options": [
+        "49 m",
+        "28 m",
+        "14 m",
+        "32 m"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perimeter of a square = 4 × side = 4 × 7 = 28 m.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: perimeter of a square",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-007",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bag of rice has a mass of 3 kg 750 g. What is this in grams?",
+      "options": [
+        "1050 g",
+        "3000 g",
+        "3750 g",
+        "753 g"
+      ],
+      "correctIndex": 2,
+      "explanation": "3 kg is 3000 g. Add 750 g to get 3750 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: mass in grams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-008",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "What is 1.5 kg plus 750 g?",
+      "options": [
+        "900 g",
+        "1500 g",
+        "9000 g",
+        "2250 g"
+      ],
+      "correctIndex": 3,
+      "explanation": "1.5 kg is 1500 g. Add 750 g to get 2250 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: adding mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-009",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bucket holds 5 litres. 250 ml is poured out. How much is left?",
+      "options": [
+        "4750 ml",
+        "5250 ml",
+        "250 ml",
+        "5000 ml"
+      ],
+      "correctIndex": 0,
+      "explanation": "5 litres is 5000 ml. 5000 - 250 = 4750 ml.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-010",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 5 m long and 8 m wide. What is its area?",
+      "options": [
+        "26 m²",
+        "40 m²",
+        "13 m²",
+        "45 m²"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area = 5 × 8 = 40 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-011",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A square garden has sides of 10 m. What is its perimeter?",
+      "options": [
+        "100 m",
+        "20 m",
+        "40 m",
+        "44 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perimeter of a square = 4 × side = 4 × 10 = 40 m.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: perimeter of a square",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-012",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bag of rice has a mass of 2 kg 250 g. What is this in grams?",
+      "options": [
+        "450 g",
+        "2000 g",
+        "252 g",
+        "2250 g"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 kg is 2000 g. Add 250 g to get 2250 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: mass in grams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-013",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bucket holds 3 litres. 750 ml is poured out. How much is left?",
+      "options": [
+        "2250 ml",
+        "3750 ml",
+        "-450 ml",
+        "3000 ml"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 litres is 3000 ml. 3000 - 750 = 2250 ml.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-014",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 7 m long and 6 m wide. What is its area?",
+      "options": [
+        "26 m²",
+        "42 m²",
+        "13 m²",
+        "49 m²"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area = 7 × 6 = 42 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-015",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A square garden has sides of 8 m. What is its perimeter?",
+      "options": [
+        "64 m",
+        "16 m",
+        "32 m",
+        "36 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perimeter of a square = 4 × side = 4 × 8 = 32 m.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: perimeter of a square",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-016",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bag of rice has a mass of 1 kg 500 g. What is this in grams?",
+      "options": [
+        "600 g",
+        "1000 g",
+        "501 g",
+        "1500 g"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 kg is 1000 g. Add 500 g to get 1500 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: mass in grams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-017",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "What is 2 kg plus 750 g?",
+      "options": [
+        "2750 g",
+        "950 g",
+        "2000 g",
+        "9500 g"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 kg is 2000 g. Add 750 g to get 2750 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: adding mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-018",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 10 m long and 3 m wide. What is its area?",
+      "options": [
+        "26 m²",
+        "30 m²",
+        "13 m²",
+        "40 m²"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area = 10 × 3 = 30 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-019",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A square garden has sides of 9 m. What is its perimeter?",
+      "options": [
+        "81 m",
+        "18 m",
+        "36 m",
+        "40 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perimeter of a square = 4 × side = 4 × 9 = 36 m.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: perimeter of a square",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-020",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bag of rice has a mass of 4 kg 250 g. What is this in grams?",
+      "options": [
+        "650 g",
+        "4000 g",
+        "254 g",
+        "4250 g"
+      ],
+      "correctIndex": 3,
+      "explanation": "4 kg is 4000 g. Add 250 g to get 4250 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: mass in grams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-021",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "What is 2.5 kg plus 250 g?",
+      "options": [
+        "2750 g",
+        "500 g",
+        "2500 g",
+        "5000 g"
+      ],
+      "correctIndex": 0,
+      "explanation": "2.5 kg is 2500 g. Add 250 g to get 2750 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: adding mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-022",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bucket holds 2 litres. 750 ml is poured out. How much is left?",
+      "options": [
+        "2750 ml",
+        "1250 ml",
+        "-550 ml",
+        "2000 ml"
+      ],
+      "correctIndex": 1,
+      "explanation": "2 litres is 2000 ml. 2000 - 750 = 1250 ml.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-023",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 4 m long and 8 m wide. What is its area?",
+      "options": [
+        "24 m²",
+        "12 m²",
+        "32 m²",
+        "36 m²"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area = 4 × 8 = 32 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-024",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A square garden has sides of 11 m. What is its perimeter?",
+      "options": [
+        "121 m",
+        "22 m",
+        "48 m",
+        "44 m"
+      ],
+      "correctIndex": 3,
+      "explanation": "Perimeter of a square = 4 × side = 4 × 11 = 44 m.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: perimeter of a square",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-025",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bucket holds 3 litres. 500 ml is poured out. How much is left?",
+      "options": [
+        "2500 ml",
+        "3500 ml",
+        "-200 ml",
+        "3000 ml"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 litres is 3000 ml. 3000 - 500 = 2500 ml.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-026",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 8 m long and 3 m wide. What is its area?",
+      "options": [
+        "22 m²",
+        "24 m²",
+        "11 m²",
+        "32 m²"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area = 8 × 3 = 24 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-027",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bucket holds 4 litres. 500 ml is poured out. How much is left?",
+      "options": [
+        "4500 ml",
+        "-100 ml",
+        "3500 ml",
+        "4000 ml"
+      ],
+      "correctIndex": 2,
+      "explanation": "4 litres is 4000 ml. 4000 - 500 = 3500 ml.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-028",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 5 m long and 4 m wide. What is its area?",
+      "options": [
+        "18 m²",
+        "9 m²",
+        "25 m²",
+        "20 m²"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = 5 × 4 = 20 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-029",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A square garden has sides of 5 m. What is its perimeter?",
+      "options": [
+        "20 m",
+        "25 m",
+        "10 m",
+        "24 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "Perimeter of a square = 4 × side = 4 × 5 = 20 m.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: perimeter of a square",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-030",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bag of rice has a mass of 2 kg 750 g. What is this in grams?",
+      "options": [
+        "950 g",
+        "2750 g",
+        "2000 g",
+        "752 g"
+      ],
+      "correctIndex": 1,
+      "explanation": "2 kg is 2000 g. Add 750 g to get 2750 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: mass in grams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-031",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "What is 1.5 kg plus 500 g?",
+      "options": [
+        "650 g",
+        "1500 g",
+        "2000 g",
+        "6500 g"
+      ],
+      "correctIndex": 2,
+      "explanation": "1.5 kg is 1500 g. Add 500 g to get 2000 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: adding mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-032",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 12 m long and 8 m wide. What is its area?",
+      "options": [
+        "40 m²",
+        "20 m²",
+        "108 m²",
+        "96 m²"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = 12 × 8 = 96 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-033",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bag of rice has a mass of 1 kg 750 g. What is this in grams?",
+      "options": [
+        "1750 g",
+        "850 g",
+        "1000 g",
+        "751 g"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 kg is 1000 g. Add 750 g to get 1750 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: mass in grams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-034",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "What is 2 kg plus 250 g?",
+      "options": [
+        "450 g",
+        "2250 g",
+        "2000 g",
+        "4500 g"
+      ],
+      "correctIndex": 1,
+      "explanation": "2 kg is 2000 g. Add 250 g to get 2250 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: adding mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-035",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 4 m long and 7 m wide. What is its area?",
+      "options": [
+        "22 m²",
+        "11 m²",
+        "28 m²",
+        "32 m²"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area = 4 × 7 = 28 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-036",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 10 m long and 4 m wide. What is its area?",
+      "options": [
+        "28 m²",
+        "14 m²",
+        "50 m²",
+        "40 m²"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = 10 × 4 = 40 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-037",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 5 m long and 6 m wide. What is its area?",
+      "options": [
+        "30 m²",
+        "22 m²",
+        "11 m²",
+        "35 m²"
+      ],
+      "correctIndex": 0,
+      "explanation": "Area = 5 × 6 = 30 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-038",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A bag of rice has a mass of 1 kg 250 g. What is this in grams?",
+      "options": [
+        "350 g",
+        "1250 g",
+        "1000 g",
+        "251 g"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 kg is 1000 g. Add 250 g to get 1250 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: mass in grams",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-039",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "A classroom floor is 7 m long and 5 m wide. What is its area?",
+      "options": [
+        "24 m²",
+        "12 m²",
+        "35 m²",
+        "42 m²"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area = 7 × 5 = 35 m².",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: area of a rectangle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-S-040",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "silver",
+      "text": "What is 2.5 kg plus 500 g?",
+      "options": [
+        "750 g",
+        "2500 g",
+        "7500 g",
+        "3000 g"
+      ],
+      "correctIndex": 3,
+      "explanation": "2.5 kg is 2500 g. Add 500 g to get 3000 g.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, measurement: adding mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-001",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A film starts at 4:45 pm and lasts 5 hours 15 minutes. What time does it end?",
+      "options": [
+        "10:00 pm",
+        "10:15 pm",
+        "11:00 pm",
+        "4:00 pm"
+      ],
+      "correctIndex": 0,
+      "explanation": "4:45 plus 5 hours 15 minutes ends at 10:00 pm.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: time intervals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-002",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A garden is 10 m by 11 m. Fencing costs ₦600 per metre. What is the total cost?",
+      "options": [
+        "₦25,800",
+        "₦25,200",
+        "₦24,600",
+        "₦91,200"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perimeter = 42 m. 42 × 600 = ₦25,200.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: perimeter and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-003",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A tank is 3 m long, 3 m wide and 2 m high. How many litres does it hold when full?",
+      "options": [
+        "1,800 litres",
+        "18 litres",
+        "18,000 litres",
+        "180,000 litres"
+      ],
+      "correctIndex": 2,
+      "explanation": "Volume = 18 m³. One cubic metre is 1000 litres, so 18 × 1000 = 18,000 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: volume and capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-004",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "What is 2.5 kg minus 650 g? Give your answer in grams.",
+      "options": [
+        "3150 g",
+        "-400 g",
+        "2500 g",
+        "1850 g"
+      ],
+      "correctIndex": 3,
+      "explanation": "2.5 kg is 2500 g. 2500 - 650 = 1850 g.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: subtracting mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-005",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A square carpet has sides of 9 m. It costs ₦800 per square metre. What is the total cost?",
+      "options": [
+        "₦64,800",
+        "₦65,600",
+        "₦64,000",
+        "₦93,600"
+      ],
+      "correctIndex": 0,
+      "explanation": "Area = 9 × 9 = 81 m². Cost = 81 × 800 = ₦64,800.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: area and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-006",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "Four jugs each hold 1 litre 250 ml. How many litres do they hold in all?",
+      "options": [
+        "4 litres",
+        "5 litres",
+        "5.5 litres",
+        "6 litres"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 litre 250 ml × 4 = 5 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-007",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A rope 10 m long is cut into 8 equal pieces. How long is each piece?",
+      "options": [
+        "120 cm",
+        "80 cm",
+        "125 cm",
+        "150 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "10 m is 1000 cm. 1000 ÷ 8 = 125 cm.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: equal sharing of length",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-008",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "Add 5 km 600 m and 1 km 500 m.",
+      "options": [
+        "6 km 200 m",
+        "5 km 100 m",
+        "7 km 100 m",
+        "6 km 100 m"
+      ],
+      "correctIndex": 3,
+      "explanation": "5 km 600 m plus 1 km 500 m makes 6 km 100 m.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: adding lengths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-009",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A film starts at 5:45 pm and lasts 4 hours 45 minutes. What time does it end?",
+      "options": [
+        "10:30 pm",
+        "10:45 pm",
+        "11:30 pm",
+        "5:30 pm"
+      ],
+      "correctIndex": 0,
+      "explanation": "5:45 plus 4 hours 45 minutes ends at 10:30 pm.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: time intervals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-010",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A garden is 10 m by 8 m. Fencing costs ₦500 per metre. What is the total cost?",
+      "options": [
+        "₦18,500",
+        "₦18,000",
+        "₦17,500",
+        "₦58,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perimeter = 36 m. 36 × 500 = ₦18,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: perimeter and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-011",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A tank is 2 m long, 3 m wide and 2 m high. How many litres does it hold when full?",
+      "options": [
+        "1,200 litres",
+        "12 litres",
+        "12,000 litres",
+        "120,000 litres"
+      ],
+      "correctIndex": 2,
+      "explanation": "Volume = 12 m³. One cubic metre is 1000 litres, so 12 × 1000 = 12,000 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: volume and capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-012",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "What is 2.5 kg minus 850 g? Give your answer in grams.",
+      "options": [
+        "3350 g",
+        "-600 g",
+        "2500 g",
+        "1650 g"
+      ],
+      "correctIndex": 3,
+      "explanation": "2.5 kg is 2500 g. 2500 - 850 = 1650 g.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: subtracting mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-013",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A square carpet has sides of 8 m. It costs ₦800 per square metre. What is the total cost?",
+      "options": [
+        "₦51,200",
+        "₦52,000",
+        "₦50,400",
+        "₦76,800"
+      ],
+      "correctIndex": 0,
+      "explanation": "Area = 8 × 8 = 64 m². Cost = 64 × 800 = ₦51,200.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: area and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-014",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "Add 4 km 600 m and 1 km 500 m.",
+      "options": [
+        "5 km 200 m",
+        "5 km 100 m",
+        "4 km 100 m",
+        "6 km 100 m"
+      ],
+      "correctIndex": 1,
+      "explanation": "4 km 600 m plus 1 km 500 m makes 5 km 100 m.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: adding lengths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-015",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A garden is 13 m by 6 m. Fencing costs ₦500 per metre. What is the total cost?",
+      "options": [
+        "₦19,500",
+        "₦18,500",
+        "₦19,000",
+        "₦58,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perimeter = 38 m. 38 × 500 = ₦19,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: perimeter and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-016",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A tank is 4 m long, 3 m wide and 1 m high. How many litres does it hold when full?",
+      "options": [
+        "1,200 litres",
+        "12 litres",
+        "120,000 litres",
+        "12,000 litres"
+      ],
+      "correctIndex": 3,
+      "explanation": "Volume = 12 m³. One cubic metre is 1000 litres, so 12 × 1000 = 12,000 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: volume and capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-017",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "What is 3 kg minus 650 g? Give your answer in grams.",
+      "options": [
+        "2350 g",
+        "3650 g",
+        "-350 g",
+        "3000 g"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 kg is 3000 g. 3000 - 650 = 2350 g.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: subtracting mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-018",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A square carpet has sides of 5 m. It costs ₦1,000 per square metre. What is the total cost?",
+      "options": [
+        "₦26,000",
+        "₦25,000",
+        "₦24,000",
+        "₦45,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area = 5 × 5 = 25 m². Cost = 25 × 1000 = ₦25,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: area and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-019",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "Add 3 km 600 m and 1 km 800 m.",
+      "options": [
+        "4 km 500 m",
+        "3 km 400 m",
+        "4 km 400 m",
+        "5 km 400 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "3 km 600 m plus 1 km 800 m makes 4 km 400 m.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: adding lengths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-020",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A film starts at 5:45 pm and lasts 3 hours 45 minutes. What time does it end?",
+      "options": [
+        "9:45 pm",
+        "10:30 pm",
+        "5:30 pm",
+        "9:30 pm"
+      ],
+      "correctIndex": 3,
+      "explanation": "5:45 plus 3 hours 45 minutes ends at 9:30 pm.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: time intervals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-021",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A garden is 12 m by 7 m. Fencing costs ₦500 per metre. What is the total cost?",
+      "options": [
+        "₦19,000",
+        "₦19,500",
+        "₦18,500",
+        "₦61,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Perimeter = 38 m. 38 × 500 = ₦19,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: perimeter and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-022",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A tank is 3 m long, 2 m wide and 2 m high. How many litres does it hold when full?",
+      "options": [
+        "1,200 litres",
+        "12,000 litres",
+        "12 litres",
+        "120,000 litres"
+      ],
+      "correctIndex": 1,
+      "explanation": "Volume = 12 m³. One cubic metre is 1000 litres, so 12 × 1000 = 12,000 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: volume and capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-023",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A square carpet has sides of 4 m. It costs ₦800 per square metre. What is the total cost?",
+      "options": [
+        "₦13,600",
+        "₦12,000",
+        "₦12,800",
+        "₦25,600"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area = 4 × 4 = 16 m². Cost = 16 × 800 = ₦12,800.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: area and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-024",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "Add 3 km 600 m and 1 km 700 m.",
+      "options": [
+        "4 km 400 m",
+        "3 km 300 m",
+        "5 km 300 m",
+        "4 km 300 m"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 km 600 m plus 1 km 700 m makes 4 km 300 m.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: adding lengths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-025",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A film starts at 5:45 pm and lasts 2 hours 30 minutes. What time does it end?",
+      "options": [
+        "8:15 pm",
+        "8:30 pm",
+        "9:15 pm",
+        "5:15 pm"
+      ],
+      "correctIndex": 0,
+      "explanation": "5:45 plus 2 hours 30 minutes ends at 8:15 pm.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: time intervals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-026",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A garden is 13 m by 7 m. Fencing costs ₦500 per metre. What is the total cost?",
+      "options": [
+        "₦20,500",
+        "₦20,000",
+        "₦19,500",
+        "₦65,500"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perimeter = 40 m. 40 × 500 = ₦20,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: perimeter and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-027",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A tank is 4 m long, 3 m wide and 2 m high. How many litres does it hold when full?",
+      "options": [
+        "2,400 litres",
+        "24 litres",
+        "24,000 litres",
+        "240,000 litres"
+      ],
+      "correctIndex": 2,
+      "explanation": "Volume = 24 m³. One cubic metre is 1000 litres, so 24 × 1000 = 24,000 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: volume and capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-028",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A square carpet has sides of 9 m. It costs ₦1,200 per square metre. What is the total cost?",
+      "options": [
+        "₦98,400",
+        "₦96,000",
+        "₦140,400",
+        "₦97,200"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = 9 × 9 = 81 m². Cost = 81 × 1200 = ₦97,200.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: area and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-029",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "Add 5 km 400 m and 1 km 800 m.",
+      "options": [
+        "6 km 200 m",
+        "6 km 300 m",
+        "5 km 200 m",
+        "7 km 200 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "5 km 400 m plus 1 km 800 m makes 6 km 200 m.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: adding lengths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-030",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A film starts at 4:45 pm and lasts 4 hours 45 minutes. What time does it end?",
+      "options": [
+        "9:45 pm",
+        "9:30 pm",
+        "10:30 pm",
+        "4:30 pm"
+      ],
+      "correctIndex": 1,
+      "explanation": "4:45 plus 4 hours 45 minutes ends at 9:30 pm.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: time intervals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-031",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A garden is 10 m by 5 m. Fencing costs ₦500 per metre. What is the total cost?",
+      "options": [
+        "₦15,500",
+        "₦14,500",
+        "₦15,000",
+        "₦40,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perimeter = 30 m. 30 × 500 = ₦15,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: perimeter and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-032",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A square carpet has sides of 5 m. It costs ₦1,200 per square metre. What is the total cost?",
+      "options": [
+        "₦31,200",
+        "₦28,800",
+        "₦54,000",
+        "₦30,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = 5 × 5 = 25 m². Cost = 25 × 1200 = ₦30,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: area and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-033",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A film starts at 4:45 pm and lasts 6 hours 30 minutes. What time does it end?",
+      "options": [
+        "11:15 pm",
+        "11:30 pm",
+        "12:15 pm",
+        "4:15 pm"
+      ],
+      "correctIndex": 0,
+      "explanation": "4:45 plus 6 hours 30 minutes ends at 11:15 pm.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: time intervals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-034",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A garden is 12 m by 9 m. Fencing costs ₦400 per metre. What is the total cost?",
+      "options": [
+        "₦17,200",
+        "₦16,800",
+        "₦16,400",
+        "₦60,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perimeter = 42 m. 42 × 400 = ₦16,800.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: perimeter and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-035",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A tank is 3 m long, 3 m wide and 1 m high. How many litres does it hold when full?",
+      "options": [
+        "900 litres",
+        "9 litres",
+        "9,000 litres",
+        "90,000 litres"
+      ],
+      "correctIndex": 2,
+      "explanation": "Volume = 9 m³. One cubic metre is 1000 litres, so 9 × 1000 = 9,000 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: volume and capacity",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-036",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A square carpet has sides of 7 m. It costs ₦1,200 per square metre. What is the total cost?",
+      "options": [
+        "₦60,000",
+        "₦57,600",
+        "₦92,400",
+        "₦58,800"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = 7 × 7 = 49 m². Cost = 49 × 1200 = ₦58,800.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: area and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-037",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "Add 3 km 250 m and 1 km 700 m.",
+      "options": [
+        "3 km 950 m",
+        "3 km 1050 m",
+        "2 km 950 m",
+        "4 km 950 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 km 250 m plus 1 km 700 m makes 3 km 950 m.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: adding lengths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-038",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A film starts at 3:45 pm and lasts 3 hours 15 minutes. What time does it end?",
+      "options": [
+        "7:15 pm",
+        "7:00 pm",
+        "8:00 pm",
+        "3:00 pm"
+      ],
+      "correctIndex": 1,
+      "explanation": "3:45 plus 3 hours 15 minutes ends at 7:00 pm.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: time intervals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-039",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "A garden is 10 m by 6 m. Fencing costs ₦600 per metre. What is the total cost?",
+      "options": [
+        "₦19,800",
+        "₦18,600",
+        "₦19,200",
+        "₦55,200"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perimeter = 32 m. 32 × 600 = ₦19,200.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: perimeter and cost",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MEA-G-040",
+      "subject": "mathematics",
+      "topic": "measurement",
+      "level": "gold",
+      "text": "What is 2 kg minus 650 g? Give your answer in grams.",
+      "options": [
+        "2650 g",
+        "-450 g",
+        "2000 g",
+        "1350 g"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 kg is 2000 g. 2000 - 650 = 1350 g.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, measurement: subtracting mass",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

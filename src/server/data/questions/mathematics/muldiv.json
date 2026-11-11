@@ -1,0 +1,2287 @@
+{
+  "subject": "mathematics",
+  "topic": "muldiv",
+  "title": "Multiply and divide",
+  "questions": [
+    {
+      "code": "MAT-MUL-B-001",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 8 ÷ 2?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "4 × 2 = 8, so 8 ÷ 2 = 4.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, division facts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-002",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "Ngozi has 3 bags with 3 oranges in each bag. How many oranges are there?",
+      "options": [
+        "12",
+        "9",
+        "6",
+        "16"
+      ],
+      "correctIndex": 1,
+      "explanation": "3 × 3 = 9.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-003",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What number goes in the box? 9 × __ = 81",
+      "options": [
+        "10",
+        "8",
+        "9",
+        "81"
+      ],
+      "correctIndex": 2,
+      "explanation": "81 ÷ 9 = 9.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, missing factor",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-004",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 8 × 0?",
+      "options": [
+        "8",
+        "1",
+        "80",
+        "0"
+      ],
+      "correctIndex": 3,
+      "explanation": "Any number multiplied by zero is zero.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication facts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-005",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "8 sweets are shared equally among 4 children. How many sweets does each child get?",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "8 ÷ 4 = 2.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, sharing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-006",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 7 × 10?",
+      "options": [
+        "7",
+        "70",
+        "700",
+        "80"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiplying by 10 adds a zero: 7 becomes 70.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplying by 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-007",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "Which number is a multiple of 7?",
+      "options": [
+        "64",
+        "62",
+        "63",
+        "65"
+      ],
+      "correctIndex": 2,
+      "explanation": "7 × 9 = 63, so it is a multiple of 7.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiples",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-008",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 3 × 7?",
+      "options": [
+        "24",
+        "18",
+        "10",
+        "21"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 groups of 7 make 21.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication tables",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-009",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 9 ÷ 3?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 × 3 = 9, so 9 ÷ 3 = 3.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, division facts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-010",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "Ifeoma has 3 bags with 8 oranges in each bag. How many oranges are there?",
+      "options": [
+        "32",
+        "24",
+        "16",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3 × 8 = 24.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-011",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What number goes in the box? 6 × __ = 24",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "24"
+      ],
+      "correctIndex": 2,
+      "explanation": "24 ÷ 6 = 4.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, missing factor",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-012",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 4 × 0?",
+      "options": [
+        "4",
+        "1",
+        "40",
+        "0"
+      ],
+      "correctIndex": 3,
+      "explanation": "Any number multiplied by zero is zero.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication facts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-013",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "36 sweets are shared equally among 4 children. How many sweets does each child get?",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "36 ÷ 4 = 9.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, sharing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-014",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 3 × 10?",
+      "options": [
+        "3",
+        "30",
+        "300",
+        "40"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiplying by 10 adds a zero: 3 becomes 30.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplying by 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-015",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "Which number is a multiple of 5?",
+      "options": [
+        "36",
+        "34",
+        "35",
+        "37"
+      ],
+      "correctIndex": 2,
+      "explanation": "5 × 7 = 35, so it is a multiple of 5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiples",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-016",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 3 × 9?",
+      "options": [
+        "30",
+        "24",
+        "12",
+        "27"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 groups of 9 make 27.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication tables",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-017",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 6 ÷ 3?",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 × 3 = 6, so 6 ÷ 3 = 2.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, division facts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-018",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "Amina has 5 bags with 9 oranges in each bag. How many oranges are there?",
+      "options": [
+        "54",
+        "45",
+        "36",
+        "14"
+      ],
+      "correctIndex": 1,
+      "explanation": "5 × 9 = 45.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-019",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What number goes in the box? 4 × __ = 32",
+      "options": [
+        "9",
+        "7",
+        "8",
+        "32"
+      ],
+      "correctIndex": 2,
+      "explanation": "32 ÷ 4 = 8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, missing factor",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-020",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "42 sweets are shared equally among 6 children. How many sweets does each child get?",
+      "options": [
+        "8",
+        "6",
+        "14",
+        "7"
+      ],
+      "correctIndex": 3,
+      "explanation": "42 ÷ 6 = 7.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, sharing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-021",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 5 × 10?",
+      "options": [
+        "50",
+        "5",
+        "500",
+        "60"
+      ],
+      "correctIndex": 0,
+      "explanation": "Multiplying by 10 adds a zero: 5 becomes 50.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplying by 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-022",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "Which number is a multiple of 8?",
+      "options": [
+        "41",
+        "40",
+        "39",
+        "42"
+      ],
+      "correctIndex": 1,
+      "explanation": "8 × 5 = 40, so it is a multiple of 8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiples",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-023",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 7 × 2?",
+      "options": [
+        "21",
+        "7",
+        "14",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "7 groups of 2 make 14.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication tables",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-024",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 16 ÷ 8?",
+      "options": [
+        "3",
+        "1",
+        "8",
+        "2"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 × 8 = 16, so 16 ÷ 8 = 2.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, division facts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-025",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "Ada has 3 bags with 4 oranges in each bag. How many oranges are there?",
+      "options": [
+        "12",
+        "16",
+        "8",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 × 4 = 12.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-026",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What number goes in the box? 6 × __ = 36",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "36"
+      ],
+      "correctIndex": 1,
+      "explanation": "36 ÷ 6 = 6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, missing factor",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-027",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 3 × 0?",
+      "options": [
+        "3",
+        "1",
+        "0",
+        "30"
+      ],
+      "correctIndex": 2,
+      "explanation": "Any number multiplied by zero is zero.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication facts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-028",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "24 sweets are shared equally among 3 children. How many sweets does each child get?",
+      "options": [
+        "9",
+        "7",
+        "3",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "24 ÷ 3 = 8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, sharing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-029",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 8 × 7?",
+      "options": [
+        "56",
+        "64",
+        "48",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "8 groups of 7 make 56.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication tables",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-030",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 36 ÷ 6?",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "13"
+      ],
+      "correctIndex": 1,
+      "explanation": "6 × 6 = 36, so 36 ÷ 6 = 6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, division facts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-031",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "Ifeoma has 2 bags with 5 oranges in each bag. How many oranges are there?",
+      "options": [
+        "15",
+        "5",
+        "10",
+        "7"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 × 5 = 10.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-032",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What number goes in the box? 5 × __ = 20",
+      "options": [
+        "5",
+        "3",
+        "20",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "20 ÷ 5 = 4.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, missing factor",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-033",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 2 × 0?",
+      "options": [
+        "0",
+        "2",
+        "1",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Any number multiplied by zero is zero.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication facts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-034",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "36 sweets are shared equally among 6 children. How many sweets does each child get?",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "13"
+      ],
+      "correctIndex": 1,
+      "explanation": "36 ÷ 6 = 6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, sharing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-035",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 8 × 10?",
+      "options": [
+        "8",
+        "800",
+        "80",
+        "90"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiplying by 10 adds a zero: 8 becomes 80.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplying by 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-036",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 6 × 9?",
+      "options": [
+        "60",
+        "48",
+        "15",
+        "54"
+      ],
+      "correctIndex": 3,
+      "explanation": "6 groups of 9 make 54.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication tables",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-037",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What is 32 ÷ 8?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "4 × 8 = 32, so 32 ÷ 8 = 4.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, division facts",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-038",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "Musa has 3 bags with 6 oranges in each bag. How many oranges are there?",
+      "options": [
+        "24",
+        "18",
+        "12",
+        "9"
+      ],
+      "correctIndex": 1,
+      "explanation": "3 × 6 = 18.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, multiplication word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-039",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "What number goes in the box? 3 × __ = 27",
+      "options": [
+        "10",
+        "8",
+        "9",
+        "27"
+      ],
+      "correctIndex": 2,
+      "explanation": "27 ÷ 3 = 9.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, missing factor",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-B-040",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "bronze",
+      "text": "40 sweets are shared equally among 5 children. How many sweets does each child get?",
+      "options": [
+        "9",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "40 ÷ 5 = 8.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, sharing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-001",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is the remainder when 98 is divided by 9?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "1"
+      ],
+      "correctIndex": 0,
+      "explanation": "9 × 10 = 90. The remainder is 8.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-002",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "A crate holds 15 bottles. How many bottles are in 6 crates?",
+      "options": [
+        "105",
+        "90",
+        "75",
+        "21"
+      ],
+      "correctIndex": 1,
+      "explanation": "6 × 15 = 90.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplication word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-003",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "Which number is a multiple of 6?",
+      "options": [
+        "49",
+        "50",
+        "48",
+        "47"
+      ],
+      "correctIndex": 2,
+      "explanation": "6 × 8 = 48.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiples",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-004",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "Which number is a factor of 75?",
+      "options": [
+        "4",
+        "5",
+        "76",
+        "3"
+      ],
+      "correctIndex": 3,
+      "explanation": "75 ÷ 3 = 25, so 3 is a factor.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, factors",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-005",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 54 ÷ 6?",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "6 × 9 = 54, so the answer is 9.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-006",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "A farmer packs 16 eggs into boxes of 4. How many boxes does he fill?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "16 ÷ 4 = 4.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-007",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What number goes in the box? 5 × __ = 40",
+      "options": [
+        "9",
+        "7",
+        "8",
+        "40"
+      ],
+      "correctIndex": 2,
+      "explanation": "40 ÷ 5 = 8.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, missing factor",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-008",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 35 × 6?",
+      "options": [
+        "216",
+        "204",
+        "220",
+        "210"
+      ],
+      "correctIndex": 3,
+      "explanation": "35 × 6 = 210.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplication",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-009",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is the remainder when 69 is divided by 5?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "1"
+      ],
+      "correctIndex": 0,
+      "explanation": "5 × 13 = 65. The remainder is 4.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-010",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "A crate holds 20 bottles. How many bottles are in 7 crates?",
+      "options": [
+        "160",
+        "140",
+        "120",
+        "27"
+      ],
+      "correctIndex": 1,
+      "explanation": "7 × 20 = 140.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplication word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-011",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "Which number is a factor of 86?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "87"
+      ],
+      "correctIndex": 2,
+      "explanation": "86 ÷ 2 = 43, so 2 is a factor.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, factors",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-012",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 24 ÷ 3?",
+      "options": [
+        "9",
+        "7",
+        "3",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 × 8 = 24, so the answer is 8.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-013",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "A farmer packs 20 eggs into boxes of 4. How many boxes does he fill?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "20 ÷ 4 = 5.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-014",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What number goes in the box? 7 × __ = 21",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "21"
+      ],
+      "correctIndex": 1,
+      "explanation": "21 ÷ 7 = 3.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, missing factor",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-015",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 48 × 3?",
+      "options": [
+        "147",
+        "141",
+        "144",
+        "154"
+      ],
+      "correctIndex": 2,
+      "explanation": "48 × 3 = 144.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplication",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-016",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is the remainder when 26 is divided by 3?",
+      "options": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 × 8 = 24. The remainder is 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-017",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "A crate holds 25 bottles. How many bottles are in 9 crates?",
+      "options": [
+        "225",
+        "250",
+        "200",
+        "34"
+      ],
+      "correctIndex": 0,
+      "explanation": "9 × 25 = 225.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplication word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-018",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "Which number is a factor of 47?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "48"
+      ],
+      "correctIndex": 1,
+      "explanation": "47 ÷ 2 = 23.5, so 2 is a factor.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, factors",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-019",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 60 ÷ 6?",
+      "options": [
+        "11",
+        "9",
+        "10",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "6 × 10 = 60, so the answer is 10.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-020",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "A farmer packs 12 eggs into boxes of 3. How many boxes does he fill?",
+      "options": [
+        "5",
+        "3",
+        "11",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "12 ÷ 3 = 4.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-021",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What number goes in the box? 3 × __ = 24",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "24 ÷ 3 = 8.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, missing factor",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-022",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 32 × 7?",
+      "options": [
+        "231",
+        "224",
+        "217",
+        "234"
+      ],
+      "correctIndex": 1,
+      "explanation": "32 × 7 = 224.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplication",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-023",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is the remainder when 56 is divided by 3?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "correctIndex": 2,
+      "explanation": "3 × 18 = 54. The remainder is 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-024",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "A crate holds 29 bottles. How many bottles are in 7 crates?",
+      "options": [
+        "232",
+        "174",
+        "36",
+        "203"
+      ],
+      "correctIndex": 3,
+      "explanation": "7 × 29 = 203.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplication word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-025",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "Which number is a multiple of 2?",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 × 9 = 18.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiples",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-026",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "Which number is a factor of 36?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "37"
+      ],
+      "correctIndex": 1,
+      "explanation": "36 ÷ 2 = 18, so 2 is a factor.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, factors",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-027",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 135 ÷ 9?",
+      "options": [
+        "16",
+        "14",
+        "15",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "9 × 15 = 135, so the answer is 15.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-028",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "A farmer packs 15 eggs into boxes of 3. How many boxes does he fill?",
+      "options": [
+        "6",
+        "4",
+        "3",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "15 ÷ 3 = 5.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-029",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 28 × 3?",
+      "options": [
+        "84",
+        "87",
+        "81",
+        "94"
+      ],
+      "correctIndex": 0,
+      "explanation": "28 × 3 = 84.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplication",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-030",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is the remainder when 50 is divided by 8?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ],
+      "correctIndex": 1,
+      "explanation": "8 × 6 = 48. The remainder is 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-031",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "Which number is a factor of 81?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "82"
+      ],
+      "correctIndex": 2,
+      "explanation": "81 ÷ 3 = 27, so 3 is a factor.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, factors",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-032",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 108 ÷ 9?",
+      "options": [
+        "13",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 3,
+      "explanation": "9 × 12 = 108, so the answer is 12.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-033",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "A farmer packs 36 eggs into boxes of 4. How many boxes does he fill?",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "36 ÷ 4 = 9.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-034",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What number goes in the box? 8 × __ = 48",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "48"
+      ],
+      "correctIndex": 1,
+      "explanation": "48 ÷ 8 = 6.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, missing factor",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-035",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 48 × 7?",
+      "options": [
+        "343",
+        "329",
+        "336",
+        "346"
+      ],
+      "correctIndex": 2,
+      "explanation": "48 × 7 = 336.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplication",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-036",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is the remainder when 37 is divided by 7?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "correctIndex": 3,
+      "explanation": "7 × 5 = 35. The remainder is 2.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-037",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "A crate holds 12 bottles. How many bottles are in 4 crates?",
+      "options": [
+        "48",
+        "60",
+        "36",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "4 × 12 = 48.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplication word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-038",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What is 48 ÷ 8?",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "8 × 6 = 48, so the answer is 6.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-039",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "A farmer packs 30 eggs into boxes of 5. How many boxes does he fill?",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "13"
+      ],
+      "correctIndex": 2,
+      "explanation": "30 ÷ 5 = 6.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, division word problems",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-S-040",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "silver",
+      "text": "What number goes in the box? 2 × __ = 18",
+      "options": [
+        "10",
+        "8",
+        "18",
+        "9"
+      ],
+      "correctIndex": 3,
+      "explanation": "18 ÷ 2 = 9.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, missing factor",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-001",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "65 eggs are packed in boxes of 8. How many full boxes are made?",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "1"
+      ],
+      "correctIndex": 0,
+      "explanation": "65 ÷ 8 = 8 remainder 1. So 8 full boxes are made.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-002",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 5 × 5 + 8?",
+      "options": [
+        "65",
+        "33",
+        "17",
+        "18"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiply first: 5 × 5 = 25. Then add 8 to get 33.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, order of operations",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-003",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Which two numbers multiply to give 72 and add to give 17?",
+      "options": [
+        "9 and 8",
+        "7 and 10",
+        "8 and 9",
+        "10 and 7"
+      ],
+      "correctIndex": 2,
+      "explanation": "8 × 9 = 72 and 8 + 9 = 17.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, factors and sums",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-004",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "A trader packs 24 oranges into bags of 3. She sells 5 bags. How many oranges did she sell?",
+      "options": [
+        "18",
+        "12",
+        "40",
+        "15"
+      ],
+      "correctIndex": 3,
+      "explanation": "24 ÷ 3 = 8 bags. 5 × 3 = 15 oranges.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-005",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Which number is a common factor of 18 and 27?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "18 ÷ 9 = 2 and 27 ÷ 9 = 3, so 9 is a common factor.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, common factors",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-006",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Chidi shares 416 exercise books equally among 8 classes. Each class gets the same number. How many books does each class get?",
+      "options": [
+        "53",
+        "52",
+        "51",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "416 ÷ 8 = 52.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, equal sharing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-007",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 10 ÷ 2 × 3?",
+      "options": [
+        "8",
+        "18",
+        "15",
+        "30"
+      ],
+      "correctIndex": 2,
+      "explanation": "Work from left to right: 10 ÷ 2 = 5, then 5 × 3 = 15.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, order of operations",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-008",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "4 pens cost ₦952. What is the cost of one pen?",
+      "options": [
+        "₦248",
+        "₦228",
+        "₦288",
+        "₦238"
+      ],
+      "correctIndex": 3,
+      "explanation": "952 ÷ 4 = 238 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, unit price",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-009",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "107 eggs are packed in boxes of 8. How many full boxes are made?",
+      "options": [
+        "13",
+        "14",
+        "12",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "107 ÷ 8 = 13 remainder 3. So 13 full boxes are made.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-010",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 8 × 5 + 2?",
+      "options": [
+        "56",
+        "42",
+        "38",
+        "15"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiply first: 8 × 5 = 40. Then add 2 to get 42.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, order of operations",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-011",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Which two numbers multiply to give 72 and add to give 27?",
+      "options": [
+        "4 and 23",
+        "2 and 25",
+        "3 and 24",
+        "5 and 22"
+      ],
+      "correctIndex": 2,
+      "explanation": "3 × 24 = 72 and 3 + 24 = 27.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, factors and sums",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-012",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "A trader packs 32 oranges into bags of 4. She sells 5 bags. How many oranges did she sell?",
+      "options": [
+        "24",
+        "16",
+        "40",
+        "20"
+      ],
+      "correctIndex": 3,
+      "explanation": "32 ÷ 4 = 8 bags. 5 × 4 = 20 oranges.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-013",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Which number is a common factor of 10 and 15?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "10 ÷ 5 = 2 and 15 ÷ 5 = 3, so 5 is a common factor.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, common factors",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-014",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Ngozi shares 264 exercise books equally among 6 classes. Each class gets the same number. How many books does each class get?",
+      "options": [
+        "45",
+        "44",
+        "43",
+        "6"
+      ],
+      "correctIndex": 1,
+      "explanation": "264 ÷ 6 = 44.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, equal sharing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-015",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 27 ÷ 3 × 3?",
+      "options": [
+        "12",
+        "30",
+        "27",
+        "81"
+      ],
+      "correctIndex": 2,
+      "explanation": "Work from left to right: 27 ÷ 3 = 9, then 9 × 3 = 27.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, order of operations",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-016",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "4 pens cost ₦888. What is the cost of one pen?",
+      "options": [
+        "₦232",
+        "₦212",
+        "₦272",
+        "₦222"
+      ],
+      "correctIndex": 3,
+      "explanation": "888 ÷ 4 = 222 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, unit price",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-017",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "145 eggs are packed in boxes of 10. How many full boxes are made?",
+      "options": [
+        "14",
+        "15",
+        "13",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "145 ÷ 10 = 14 remainder 5. So 14 full boxes are made.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-018",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 7 × 2 + 6?",
+      "options": [
+        "56",
+        "20",
+        "8",
+        "15"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiply first: 7 × 2 = 14. Then add 6 to get 20.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, order of operations",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-019",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Which two numbers multiply to give 72 and add to give 22?",
+      "options": [
+        "5 and 17",
+        "3 and 19",
+        "4 and 18",
+        "6 and 16"
+      ],
+      "correctIndex": 2,
+      "explanation": "4 × 18 = 72 and 4 + 18 = 22.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, factors and sums",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-020",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "A trader packs 16 oranges into bags of 4. She sells 3 bags. How many oranges did she sell?",
+      "options": [
+        "16",
+        "8",
+        "19",
+        "12"
+      ],
+      "correctIndex": 3,
+      "explanation": "16 ÷ 4 = 4 bags. 3 × 4 = 12 oranges.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-021",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Which number is a common factor of 12 and 18?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "12 ÷ 6 = 2 and 18 ÷ 6 = 3, so 6 is a common factor.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, common factors",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-022",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Chidi shares 160 exercise books equally among 4 classes. Each class gets the same number. How many books does each class get?",
+      "options": [
+        "41",
+        "40",
+        "39",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "160 ÷ 4 = 40.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, equal sharing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-023",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 20 ÷ 5 × 4?",
+      "options": [
+        "8",
+        "20",
+        "16",
+        "80"
+      ],
+      "correctIndex": 2,
+      "explanation": "Work from left to right: 20 ÷ 5 = 4, then 4 × 4 = 16.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, order of operations",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-024",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "3 pens cost ₦357. What is the cost of one pen?",
+      "options": [
+        "₦129",
+        "₦109",
+        "₦169",
+        "₦119"
+      ],
+      "correctIndex": 3,
+      "explanation": "357 ÷ 3 = 119 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, unit price",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-025",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "190 eggs are packed in boxes of 12. How many full boxes are made?",
+      "options": [
+        "15",
+        "16",
+        "14",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "190 ÷ 12 = 15 remainder 10. So 15 full boxes are made.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-026",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 9 × 5 + 9?",
+      "options": [
+        "126",
+        "54",
+        "36",
+        "23"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiply first: 9 × 5 = 45. Then add 9 to get 54.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, order of operations",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-027",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "A trader packs 32 oranges into bags of 4. She sells 4 bags. How many oranges did she sell?",
+      "options": [
+        "20",
+        "12",
+        "16",
+        "32"
+      ],
+      "correctIndex": 2,
+      "explanation": "32 ÷ 4 = 8 bags. 4 × 4 = 16 oranges.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-028",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Which number is a common factor of 16 and 24?",
+      "options": [
+        "9",
+        "10",
+        "24",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "16 ÷ 8 = 2 and 24 ÷ 8 = 3, so 8 is a common factor.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, common factors",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-029",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Musa shares 260 exercise books equally among 4 classes. Each class gets the same number. How many books does each class get?",
+      "options": [
+        "65",
+        "66",
+        "64",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "260 ÷ 4 = 65.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, equal sharing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-030",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 36 ÷ 6 × 5?",
+      "options": [
+        "11",
+        "30",
+        "35",
+        "180"
+      ],
+      "correctIndex": 1,
+      "explanation": "Work from left to right: 36 ÷ 6 = 6, then 6 × 5 = 30.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, order of operations",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-031",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "5 pens cost ₦370. What is the cost of one pen?",
+      "options": [
+        "₦84",
+        "₦64",
+        "₦74",
+        "₦124"
+      ],
+      "correctIndex": 2,
+      "explanation": "370 ÷ 5 = 74 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, unit price",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-032",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "156 eggs are packed in boxes of 8. How many full boxes are made?",
+      "options": [
+        "20",
+        "18",
+        "4",
+        "19"
+      ],
+      "correctIndex": 3,
+      "explanation": "156 ÷ 8 = 19 remainder 4. So 19 full boxes are made.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-033",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 6 × 8 + 4?",
+      "options": [
+        "52",
+        "72",
+        "44",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Multiply first: 6 × 8 = 48. Then add 4 to get 52.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, order of operations",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-034",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "A trader packs 25 oranges into bags of 5. She sells 2 bags. How many oranges did she sell?",
+      "options": [
+        "15",
+        "10",
+        "5",
+        "17"
+      ],
+      "correctIndex": 1,
+      "explanation": "25 ÷ 5 = 5 bags. 2 × 5 = 10 oranges.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multi step problem",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-035",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Bola shares 204 exercise books equally among 4 classes. Each class gets the same number. How many books does each class get?",
+      "options": [
+        "52",
+        "50",
+        "51",
+        "4"
+      ],
+      "correctIndex": 2,
+      "explanation": "204 ÷ 4 = 51.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, equal sharing",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-036",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 14 ÷ 2 × 4?",
+      "options": [
+        "11",
+        "32",
+        "56",
+        "28"
+      ],
+      "correctIndex": 3,
+      "explanation": "Work from left to right: 14 ÷ 2 = 7, then 7 × 4 = 28.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, order of operations",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-037",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "7 pens cost ₦1,729. What is the cost of one pen?",
+      "options": [
+        "₦247",
+        "₦257",
+        "₦237",
+        "₦297"
+      ],
+      "correctIndex": 0,
+      "explanation": "1729 ÷ 7 = 247 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, unit price",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-038",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "153 eggs are packed in boxes of 10. How many full boxes are made?",
+      "options": [
+        "16",
+        "15",
+        "14",
+        "3"
+      ],
+      "correctIndex": 1,
+      "explanation": "153 ÷ 10 = 15 remainder 3. So 15 full boxes are made.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, division with remainders",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-039",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "What is 2 × 7 + 6?",
+      "options": [
+        "26",
+        "8",
+        "20",
+        "15"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiply first: 2 × 7 = 14. Then add 6 to get 20.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, order of operations",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-MUL-G-040",
+      "subject": "mathematics",
+      "topic": "muldiv",
+      "level": "gold",
+      "text": "Which two numbers multiply to give 72 and add to give 18?",
+      "options": [
+        "7 and 11",
+        "5 and 13",
+        "8 and 10",
+        "6 and 12"
+      ],
+      "correctIndex": 3,
+      "explanation": "6 × 12 = 72 and 6 + 12 = 18.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, factors and sums",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

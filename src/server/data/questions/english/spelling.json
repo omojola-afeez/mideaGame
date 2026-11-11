@@ -1,0 +1,2287 @@
+{
+  "subject": "english",
+  "topic": "spelling",
+  "title": "Spelling shore",
+  "questions": [
+    {
+      "code": "ENG-SPE-B-001",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Ada stayed home ___ she was ill.",
+      "options": [
+        "because",
+        "ebcause",
+        "bceause",
+        "beacuse"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"because\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-002",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Musa is my best ___.",
+      "options": [
+        "rfiend",
+        "friend",
+        "firend",
+        "freind"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"friend\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-003",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: The children walk to ___ every morning.",
+      "options": [
+        "cshool",
+        "shcool",
+        "school",
+        "scohol"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"school\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-004",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Please drink some ___ after running.",
+      "options": [
+        "awter",
+        "wtaer",
+        "waetr",
+        "water"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"water\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-005",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Our ___ has a red roof.",
+      "options": [
+        "house",
+        "ohuse",
+        "huose",
+        "hosue"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"house\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-006",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Many ___ came to the market.",
+      "options": [
+        "epople",
+        "people",
+        "poeple",
+        "pepole"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"people\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-007",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Please read the sentence ___.",
+      "options": [
+        "gaain",
+        "aagin",
+        "again",
+        "agian"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"again\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-008",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Ngozi ___ helps her mother.",
+      "options": [
+        "laways",
+        "awlays",
+        "alawys",
+        "always"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"always\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-009",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Wash your hands ___ you eat.",
+      "options": [
+        "before",
+        "ebfore",
+        "bfeore",
+        "beofre"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"before\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-010",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: My ___ is older than me.",
+      "options": [
+        "rbother",
+        "brother",
+        "borther",
+        "brtoher"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"brother\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-011",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Her ___ plays the drum.",
+      "options": [
+        "isster",
+        "ssiter",
+        "sister",
+        "sitser"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"sister\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-012",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: My ___ cooks rice on Sunday.",
+      "options": [
+        "omther",
+        "mtoher",
+        "mohter",
+        "mother"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"mother\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-013",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: His ___ works at the hospital.",
+      "options": [
+        "father",
+        "afther",
+        "ftaher",
+        "fahter"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"father\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-014",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: We planted beans in the ___.",
+      "options": [
+        "agrden",
+        "garden",
+        "graden",
+        "gadren"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"garden\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-015",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: I brush my teeth every ___.",
+      "options": [
+        "omrning",
+        "mroning",
+        "morning",
+        "monring"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"morning\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-016",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: The stars appear in the ___.",
+      "options": [
+        "veening",
+        "eevning",
+        "evneing",
+        "evening"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"evening\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-017",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: The sun looks ___ at noon.",
+      "options": [
+        "yellow",
+        "eyllow",
+        "ylelow",
+        "yelolw"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"yellow\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-018",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: She peeled an ___ for a snack.",
+      "options": [
+        "roange",
+        "orange",
+        "oarnge",
+        "ornage"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"orange\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-019",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: A goat is a farm ___.",
+      "options": [
+        "naimal",
+        "ainmal",
+        "animal",
+        "anmial"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"animal\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-020",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Our ___ eats dinner together.",
+      "options": [
+        "afmily",
+        "fmaily",
+        "faimly",
+        "family"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"family\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-021",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Please open the ___ for fresh air.",
+      "options": [
+        "window",
+        "iwndow",
+        "wnidow",
+        "widnow"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"window\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-022",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: We buy tomatoes at the ___.",
+      "options": [
+        "amrket",
+        "market",
+        "mraket",
+        "makret"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"market\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-023",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Ada wrote a ___ to her aunt.",
+      "options": [
+        "eltter",
+        "lteter",
+        "letter",
+        "letetr"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"letter\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-024",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Seven is my favourite ___.",
+      "options": [
+        "unmber",
+        "nmuber",
+        "nubmer",
+        "number"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"number\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-025",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: The ___ checked the sick child.",
+      "options": [
+        "doctor",
+        "odctor",
+        "dcotor",
+        "dotcor"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"doctor\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-026",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Our ___ reads a story to us.",
+      "options": [
+        "etacher",
+        "teacher",
+        "taecher",
+        "tecaher"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"teacher\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-027",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: The ___ grows yams on the farm.",
+      "options": [
+        "afrmer",
+        "framer",
+        "farmer",
+        "famrer"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"farmer\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-028",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: She carried fruit in a ___.",
+      "options": [
+        "absket",
+        "bsaket",
+        "bakset",
+        "basket"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"basket\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-029",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Fill the ___ with clean water.",
+      "options": [
+        "bottle",
+        "obttle",
+        "btotle",
+        "botlte"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"bottle\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-030",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: The children were ___ at the party.",
+      "options": [
+        "ahppy",
+        "happy",
+        "hpapy",
+        "hapyp"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"happy\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-031",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: I am ___ after the long walk.",
+      "options": [
+        "uhngry",
+        "hnugry",
+        "hungry",
+        "hugnry"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"hungry\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-032",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: The ___ man lifted the bag.",
+      "options": [
+        "tsrong",
+        "srtong",
+        "storng",
+        "strong"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"strong\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-033",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Keep your hands ___.",
+      "options": [
+        "clean",
+        "lcean",
+        "celan",
+        "claen"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"clean\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-034",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Do not ___ the door too hard.",
+      "options": [
+        "upsh",
+        "push",
+        "psuh",
+        "puhs"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"push\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-035",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: ___ the rope towards you.",
+      "options": [
+        "upll",
+        "plul",
+        "pull",
+        "pll"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"pull\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-036",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: The frog can ___ high.",
+      "options": [
+        "ujmp",
+        "jmup",
+        "jupm",
+        "jump"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"jump\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-037",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: We ___ to school together.",
+      "options": [
+        "walk",
+        "awlk",
+        "wlak",
+        "wakl"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"walk\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-038",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Babies ___ for many hours.",
+      "options": [
+        "lseep",
+        "sleep",
+        "selep",
+        "slepe"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"sleep\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-039",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: We ate ___ with butter.",
+      "options": [
+        "rbead",
+        "berad",
+        "bread",
+        "braed"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"bread\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-B-040",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "bronze",
+      "text": "Pick the best word: Sit on the ___ near the window.",
+      "options": [
+        "hcair",
+        "cahir",
+        "chiar",
+        "chair"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"chair\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-001",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The sunset was ___.",
+      "options": [
+        "beautiful",
+        "ebautiful",
+        "baeutiful",
+        "beuatiful"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"beautiful\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-002",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The nurse gave him ___.",
+      "options": [
+        "emdicine",
+        "medicine",
+        "mdeicine",
+        "meidcine"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"medicine\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-003",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: It is ___ to wear a seat belt.",
+      "options": [
+        "encessary",
+        "nceessary",
+        "necessary",
+        "neecssary"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"necessary\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-004",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: We must keep our ___ clean.",
+      "options": [
+        "nevironment",
+        "evnironment",
+        "enivronment",
+        "environment"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"environment\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-005",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The twins wear ___ shirts.",
+      "options": [
+        "different",
+        "idfferent",
+        "dfiferent",
+        "difefrent"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"different\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-006",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: Sleep is ___ for good health.",
+      "options": [
+        "miportant",
+        "important",
+        "ipmortant",
+        "imoprtant"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"important\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-007",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: Please ___ to bring your book.",
+      "options": [
+        "ermember",
+        "rmeember",
+        "remember",
+        "reemmber"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"remember\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-008",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The rain started ___.",
+      "options": [
+        "usddenly",
+        "sdudenly",
+        "sudednly",
+        "suddenly"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"suddenly\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-009",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: Carry the eggs ___.",
+      "options": [
+        "carefully",
+        "acrefully",
+        "craefully",
+        "caerfully"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"carefully\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-010",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The pupil asked a good ___.",
+      "options": [
+        "uqestion",
+        "question",
+        "qeustion",
+        "qusetion"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"question\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-011",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: Write your ___ on the line.",
+      "options": [
+        "naswer",
+        "asnwer",
+        "answer",
+        "anwser"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"answer\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-012",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: Our ___ has one clinic.",
+      "options": [
+        "ivllage",
+        "vlilage",
+        "vilalge",
+        "village"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"village\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-013",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The bus made a long ___.",
+      "options": [
+        "journey",
+        "ojurney",
+        "juorney",
+        "joruney"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"journey\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-014",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The ___ is cool this morning.",
+      "options": [
+        "ewather",
+        "weather",
+        "waether",
+        "wetaher"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"weather\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-015",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: He rides his ___ to school.",
+      "options": [
+        "ibcycle",
+        "bciycle",
+        "bicycle",
+        "biyccle"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"bicycle\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-016",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The sick baby was taken to the ___.",
+      "options": [
+        "ohspital",
+        "hsopital",
+        "hopsital",
+        "hospital"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"hospital\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-017",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: We borrow books from the ___.",
+      "options": [
+        "library",
+        "ilbrary",
+        "lbirary",
+        "lirbary"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"library\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-018",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The school is closed for the ___.",
+      "options": [
+        "ohliday",
+        "holiday",
+        "hloiday",
+        "hoilday"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"holiday\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-019",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: We eat ___ before school.",
+      "options": [
+        "rbeakfast",
+        "berakfast",
+        "breakfast",
+        "braekfast"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"breakfast\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-020",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The sun is hot in the ___.",
+      "options": [
+        "faternoon",
+        "atfernoon",
+        "afetrnoon",
+        "afternoon"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"afternoon\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-021",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: We will visit Grandmother ___.",
+      "options": [
+        "tomorrow",
+        "otmorrow",
+        "tmoorrow",
+        "toomrrow"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"tomorrow\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-022",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: It rained heavily ___.",
+      "options": [
+        "eysterday",
+        "yesterday",
+        "yseterday",
+        "yetserday"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"yesterday\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-023",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: Playing near the road is ___.",
+      "options": [
+        "adngerous",
+        "dnagerous",
+        "dangerous",
+        "dagnerous"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"dangerous\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-024",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The mango was ___.",
+      "options": [
+        "edlicious",
+        "dleicious",
+        "deilcious",
+        "delicious"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"delicious\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-025",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The fan needs ___ to work.",
+      "options": [
+        "electricity",
+        "leectricity",
+        "eelctricity",
+        "elcetricity"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"electricity\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-026",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The ___ built a new road.",
+      "options": [
+        "ogvernment",
+        "government",
+        "gvoernment",
+        "goevrnment"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"government\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-027",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The sign gives useful ___.",
+      "options": [
+        "niformation",
+        "ifnormation",
+        "information",
+        "inofrmation"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"information\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-028",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: Reading builds ___.",
+      "options": [
+        "nkowledge",
+        "konwledge",
+        "knwoledge",
+        "knowledge"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"knowledge\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-029",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: English is a world ___.",
+      "options": [
+        "language",
+        "alnguage",
+        "lnaguage",
+        "lagnuage"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"language\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-030",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The washing ___ is broken.",
+      "options": [
+        "amchine",
+        "machine",
+        "mcahine",
+        "mahcine"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"machine\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-031",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: Use a ruler to ___ the line.",
+      "options": [
+        "emasure",
+        "maesure",
+        "measure",
+        "mesaure"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"measure\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-032",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: Honey is a ___ food.",
+      "options": [
+        "antural",
+        "ntaural",
+        "nautral",
+        "natural"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"natural\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-033",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: She drew a ___ of her home.",
+      "options": [
+        "picture",
+        "ipcture",
+        "pciture",
+        "pitcure"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"picture\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-034",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: I ___ to come early.",
+      "options": [
+        "rpomise",
+        "promise",
+        "pormise",
+        "prmoise"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"promise\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-035",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: Did you ___ my letter?",
+      "options": [
+        "erceive",
+        "rceeive",
+        "receive",
+        "reecive"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"receive\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-036",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: He carried the bag on his ___.",
+      "options": [
+        "hsoulder",
+        "sohulder",
+        "shuolder",
+        "shoulder"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"shoulder\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-037",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: Today is a ___ day.",
+      "options": [
+        "special",
+        "psecial",
+        "sepcial",
+        "spceial"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"special\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-038",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: We walked home ___.",
+      "options": [
+        "otgether",
+        "together",
+        "tgoether",
+        "toegther"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"together\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-039",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: The broken pipe caused ___.",
+      "options": [
+        "rtouble",
+        "toruble",
+        "trouble",
+        "truoble"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"trouble\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-S-040",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "silver",
+      "text": "Pick the best word: You are ___ to join us.",
+      "options": [
+        "ewlcome",
+        "wlecome",
+        "weclome",
+        "welcome"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"welcome\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-001",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The drummers kept a steady ___.",
+      "options": [
+        "rhythm",
+        "hrythm",
+        "ryhthm",
+        "rhtyhm"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"rhythm\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-002",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The new law passed in ___.",
+      "options": [
+        "aprliament",
+        "parliament",
+        "praliament",
+        "palriament"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"parliament\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-003",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: She is a ___ worker.",
+      "options": [
+        "ocnscientious",
+        "cnoscientious",
+        "conscientious",
+        "cosncientious"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"conscientious\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-004",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Keep the ___ for your purchase.",
+      "options": [
+        "erceipt",
+        "rceeipt",
+        "reecipt",
+        "receipt"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"receipt\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-005",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: My ___ shares this office.",
+      "options": [
+        "colleague",
+        "oclleague",
+        "cloleague",
+        "colelague"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"colleague\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-006",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The shop gives a one year ___.",
+      "options": [
+        "ugarantee",
+        "guarantee",
+        "gaurantee",
+        "guraantee"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"guarantee\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-007",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Please ___ the white clothes.",
+      "options": [
+        "esparate",
+        "spearate",
+        "separate",
+        "seaprate"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"separate\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-008",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: We need a ___ answer today.",
+      "options": [
+        "edfinite",
+        "dfeinite",
+        "deifnite",
+        "definite"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"definite\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-009",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The hall can ___ two hundred guests.",
+      "options": [
+        "accommodate",
+        "cacommodate",
+        "acocmmodate",
+        "accmomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"accommodate\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-010",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Flooding is a common ___ here.",
+      "options": [
+        "cocurrence",
+        "occurrence",
+        "ocucrrence",
+        "occrurence"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"occurrence\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-011",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Speaking first is a ___.",
+      "options": [
+        "rpivilege",
+        "pirvilege",
+        "privilege",
+        "prviilege"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"privilege\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-012",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: We ate at a new ___.",
+      "options": [
+        "erstaurant",
+        "rsetaurant",
+        "retsaurant",
+        "restaurant"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"restaurant\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-013",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Spinach is a green ___.",
+      "options": [
+        "vegetable",
+        "evgetable",
+        "vgeetable",
+        "veegtable"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"vegetable\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-014",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The test is on ___ morning.",
+      "options": [
+        "ewdnesday",
+        "Wednesday",
+        "wdenesday",
+        "wendesday"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"Wednesday\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-015",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The rain ends in ___.",
+      "options": [
+        "efbruary",
+        "fberuary",
+        "February",
+        "ferbuary"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"February\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-016",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The trip was a great ___.",
+      "options": [
+        "daventure",
+        "avdenture",
+        "adevnture",
+        "adventure"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"adventure\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-017",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The chest held hidden ___.",
+      "options": [
+        "treasure",
+        "rteasure",
+        "terasure",
+        "traesure"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"treasure\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-018",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The ___ fell at night.",
+      "options": [
+        "etmperature",
+        "temperature",
+        "tmeperature",
+        "tepmerature"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"temperature\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-019",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: She studies African ___.",
+      "options": [
+        "ilterature",
+        "ltierature",
+        "literature",
+        "lietrature"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"literature\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-020",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Practise the ___ of each word.",
+      "options": [
+        "rponunciation",
+        "pornunciation",
+        "prnounciation",
+        "pronunciation"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"pronunciation\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-021",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Look up the word in a ___.",
+      "options": [
+        "dictionary",
+        "idctionary",
+        "dcitionary",
+        "ditcionary"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"dictionary\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-022",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The ___ answered the phone.",
+      "options": [
+        "escretary",
+        "secretary",
+        "sceretary",
+        "sercetary"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"secretary\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-023",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Please join the ___ at the bank.",
+      "options": [
+        "uqeue",
+        "qeuue",
+        "queue",
+        "quuee"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"queue\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-024",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: He ate one ___ with tea.",
+      "options": [
+        "ibscuit",
+        "bsicuit",
+        "bicsuit",
+        "biscuit"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"biscuit\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-025",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: She speaks two ___ languages.",
+      "options": [
+        "foreign",
+        "ofreign",
+        "froeign",
+        "foerign"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"foreign\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-026",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Our ___ has a small farm.",
+      "options": [
+        "enighbour",
+        "neighbour",
+        "nieghbour",
+        "negihbour"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"neighbour\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-027",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: We did an experiment in ___.",
+      "options": [
+        "csience",
+        "sicence",
+        "science",
+        "sceince"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"science\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-028",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Everyone helps in a good ___.",
+      "options": [
+        "osciety",
+        "scoiety",
+        "soicety",
+        "society"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"society\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-029",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: We have ___ food for the trip.",
+      "options": [
+        "sufficient",
+        "usfficient",
+        "sfuficient",
+        "sufifcient"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"sufficient\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-030",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The doctor made a ___ check.",
+      "options": [
+        "htorough",
+        "thorough",
+        "tohrough",
+        "throough"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"thorough\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-031",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The cleaner used a ___.",
+      "options": [
+        "avcuum",
+        "vcauum",
+        "vacuum",
+        "vaucum"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"vacuum\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-032",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: That was a ___ sound.",
+      "options": [
+        "ewird",
+        "wierd",
+        "werid",
+        "weird"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"weird\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-033",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: He ate the ___ orange.",
+      "options": [
+        "whole",
+        "hwole",
+        "wohle",
+        "whloe"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"whole\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-034",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Please ___ your name here.",
+      "options": [
+        "rwite",
+        "write",
+        "wirte",
+        "wrtie"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"write\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-035",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: Buy the cream from the ___.",
+      "options": [
+        "hcemist",
+        "cehmist",
+        "chemist",
+        "chmeist"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"chemist\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-036",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The class sang the ___ together.",
+      "options": [
+        "hcorus",
+        "cohrus",
+        "chrous",
+        "chorus"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"chorus\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-037",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: We heard an ___ in the hall.",
+      "options": [
+        "echo",
+        "ceho",
+        "ehco",
+        "ecoh"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is \"echo\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-038",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The pupils wear ___ shorts.",
+      "options": [
+        "hkaki",
+        "khaki",
+        "kahki",
+        "khkai"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is \"khaki\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-039",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The story was about a friendly ___.",
+      "options": [
+        "hgost",
+        "gohst",
+        "ghost",
+        "ghsot"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is \"ghost\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "ENG-SPE-G-040",
+      "subject": "english",
+      "topic": "spelling",
+      "level": "gold",
+      "text": "Pick the best word: The rich man sailed his ___.",
+      "options": [
+        "aycht",
+        "ycaht",
+        "yahct",
+        "yacht"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is \"yacht\". Check each letter as you write it.",
+      "curriculumRef": "NERDC Primary English, spelling: common words",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

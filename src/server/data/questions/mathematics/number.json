@@ -1,0 +1,2287 @@
+{
+  "subject": "mathematics",
+  "topic": "number",
+  "title": "Number nook",
+  "questions": [
+    {
+      "code": "MAT-NUM-B-001",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Which number is the greatest?",
+      "options": [
+        "918",
+        "602",
+        "695",
+        "925"
+      ],
+      "correctIndex": 0,
+      "explanation": "918 has the largest value when the hundreds are compared first.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, comparing numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-002",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Round 15 to the nearest 10.",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "15"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ones digit is 5. It is 5 or more, so round up.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-003",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Is 43 even or odd?",
+      "options": [
+        "Even",
+        "Both",
+        "Odd",
+        "Neither"
+      ],
+      "correctIndex": 2,
+      "explanation": "43 leaves 1 when shared into two, so it is odd.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, even and odd numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-004",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Write 295 in words.",
+      "options": [
+        "three hundred and five",
+        "two hundred and ninety-four",
+        "three hundred and ninety-five",
+        "two hundred and ninety-five"
+      ],
+      "correctIndex": 3,
+      "explanation": "295 is read as two hundred and ninety-five.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, number names",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-005",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Which digit is in the tens place in 639?",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "0"
+      ],
+      "correctIndex": 0,
+      "explanation": "In 639, the digit 3 is in the tens place.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-006",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What number comes just before 632?",
+      "options": [
+        "633",
+        "631",
+        "622",
+        "632"
+      ],
+      "correctIndex": 1,
+      "explanation": "Counting back one from 632 gives 631.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-007",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is 10 more than 790?",
+      "options": [
+        "791",
+        "890",
+        "800",
+        "790"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adding 10 changes the tens digit, so 790 becomes 800.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-008",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is the value of the digit 4 in 8,478?",
+      "options": [
+        "4",
+        "4,000",
+        "40",
+        "400"
+      ],
+      "correctIndex": 3,
+      "explanation": "The digit 4 sits in the tens place, so its value is 400.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, number and place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-009",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Round 69 to the nearest 10.",
+      "options": [
+        "70",
+        "60",
+        "80",
+        "69"
+      ],
+      "correctIndex": 0,
+      "explanation": "The ones digit is 9. It is 5 or more, so round up.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-010",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Is 96 even or odd?",
+      "options": [
+        "Odd",
+        "Even",
+        "Both",
+        "Neither"
+      ],
+      "correctIndex": 1,
+      "explanation": "96 can be shared into two equal whole numbers, so it is even.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, even and odd numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-011",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Write 806 in words.",
+      "options": [
+        "eight hundred and sixteen",
+        "eight hundred and five",
+        "eight hundred and six",
+        "nine hundred and six"
+      ],
+      "correctIndex": 2,
+      "explanation": "806 is read as eight hundred and six.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, number names",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-012",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Which digit is in the tens place in 933?",
+      "options": [
+        "9",
+        "0",
+        "10",
+        "3"
+      ],
+      "correctIndex": 3,
+      "explanation": "In 933, the digit 3 is in the tens place.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-013",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What number comes just before 439?",
+      "options": [
+        "438",
+        "440",
+        "429",
+        "439"
+      ],
+      "correctIndex": 0,
+      "explanation": "Counting back one from 439 gives 438.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-014",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is 10 more than 332?",
+      "options": [
+        "333",
+        "342",
+        "432",
+        "332"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adding 10 changes the tens digit, so 332 becomes 342.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-015",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is the value of the digit 7 in 6,757?",
+      "options": [
+        "70",
+        "1",
+        "7",
+        "14"
+      ],
+      "correctIndex": 2,
+      "explanation": "The digit 7 sits in the thousands place, so its value is 7.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, number and place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-016",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Round 76 to the nearest 10.",
+      "options": [
+        "70",
+        "90",
+        "76",
+        "80"
+      ],
+      "correctIndex": 3,
+      "explanation": "The ones digit is 6. It is 5 or more, so round up.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-017",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Is 12 even or odd?",
+      "options": [
+        "Even",
+        "Odd",
+        "Both",
+        "Neither"
+      ],
+      "correctIndex": 0,
+      "explanation": "12 can be shared into two equal whole numbers, so it is even.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, even and odd numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-018",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Write 522 in words.",
+      "options": [
+        "five hundred and thirty-two",
+        "five hundred and twenty-two",
+        "five hundred and twenty-one",
+        "six hundred and twenty-two"
+      ],
+      "correctIndex": 1,
+      "explanation": "522 is read as five hundred and twenty-two.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, number names",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-019",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Which digit is in the tens place in 967?",
+      "options": [
+        "9",
+        "7",
+        "6",
+        "0"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 967, the digit 6 is in the tens place.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-020",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What number comes just before 383?",
+      "options": [
+        "384",
+        "373",
+        "383",
+        "382"
+      ],
+      "correctIndex": 3,
+      "explanation": "Counting back one from 383 gives 382.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-021",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is 10 more than 657?",
+      "options": [
+        "667",
+        "658",
+        "757",
+        "657"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adding 10 changes the tens digit, so 657 becomes 667.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-022",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is the value of the digit 6 in 9,160?",
+      "options": [
+        "6",
+        "60",
+        "600",
+        "67"
+      ],
+      "correctIndex": 1,
+      "explanation": "The digit 6 sits in the hundreds place, so its value is 60.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, number and place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-023",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Round 77 to the nearest 10.",
+      "options": [
+        "70",
+        "90",
+        "80",
+        "77"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ones digit is 7. It is 5 or more, so round up.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-024",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Is 57 even or odd?",
+      "options": [
+        "Even",
+        "Both",
+        "Neither",
+        "Odd"
+      ],
+      "correctIndex": 3,
+      "explanation": "57 leaves 1 when shared into two, so it is odd.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, even and odd numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-025",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Write 289 in words.",
+      "options": [
+        "two hundred and eighty-nine",
+        "two hundred and ninety-nine",
+        "two hundred and eighty-eight",
+        "three hundred and eighty-nine"
+      ],
+      "correctIndex": 0,
+      "explanation": "289 is read as two hundred and eighty-nine.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, number names",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-026",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Which digit is in the tens place in 763?",
+      "options": [
+        "7",
+        "6",
+        "3",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 763, the digit 6 is in the tens place.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-027",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What number comes just before 662?",
+      "options": [
+        "663",
+        "652",
+        "661",
+        "662"
+      ],
+      "correctIndex": 2,
+      "explanation": "Counting back one from 662 gives 661.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-028",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is 10 more than 456?",
+      "options": [
+        "457",
+        "556",
+        "456",
+        "466"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adding 10 changes the tens digit, so 456 becomes 466.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-029",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is the value of the digit 1 in 1,678?",
+      "options": [
+        "1,000",
+        "1",
+        "10,000",
+        "100"
+      ],
+      "correctIndex": 0,
+      "explanation": "The digit 1 sits in the ones place, so its value is 1,000.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, number and place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-030",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Round 33 to the nearest 10.",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "33"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ones digit is 3. It is less than 5, so round down.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-031",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Is 94 even or odd?",
+      "options": [
+        "Odd",
+        "Both",
+        "Even",
+        "Neither"
+      ],
+      "correctIndex": 2,
+      "explanation": "94 can be shared into two equal whole numbers, so it is even.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, even and odd numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-032",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Write 197 in words.",
+      "options": [
+        "two hundred and seven",
+        "one hundred and ninety-six",
+        "two hundred and ninety-seven",
+        "one hundred and ninety-seven"
+      ],
+      "correctIndex": 3,
+      "explanation": "197 is read as one hundred and ninety-seven.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, number names",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-033",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Which digit is in the tens place in 276?",
+      "options": [
+        "7",
+        "2",
+        "6",
+        "0"
+      ],
+      "correctIndex": 0,
+      "explanation": "In 276, the digit 7 is in the tens place.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-034",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What number comes just before 115?",
+      "options": [
+        "116",
+        "114",
+        "105",
+        "115"
+      ],
+      "correctIndex": 1,
+      "explanation": "Counting back one from 115 gives 114.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-035",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What is 10 more than 885?",
+      "options": [
+        "886",
+        "985",
+        "895",
+        "885"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adding 10 changes the tens digit, so 885 becomes 895.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-036",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Round 56 to the nearest 10.",
+      "options": [
+        "50",
+        "70",
+        "56",
+        "60"
+      ],
+      "correctIndex": 3,
+      "explanation": "The ones digit is 6. It is 5 or more, so round up.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-037",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Is 66 even or odd?",
+      "options": [
+        "Even",
+        "Odd",
+        "Both",
+        "Neither"
+      ],
+      "correctIndex": 0,
+      "explanation": "66 can be shared into two equal whole numbers, so it is even.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, even and odd numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-038",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Write 375 in words.",
+      "options": [
+        "three hundred and eighty-five",
+        "three hundred and seventy-five",
+        "three hundred and seventy-four",
+        "four hundred and seventy-five"
+      ],
+      "correctIndex": 1,
+      "explanation": "375 is read as three hundred and seventy-five.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, number names",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-039",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "Which digit is in the tens place in 338?",
+      "options": [
+        "8",
+        "0",
+        "3",
+        "10"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 338, the digit 3 is in the tens place.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-B-040",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "bronze",
+      "text": "What number comes just before 543?",
+      "options": [
+        "544",
+        "533",
+        "543",
+        "542"
+      ],
+      "correctIndex": 3,
+      "explanation": "Counting back one from 543 gives 542.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, counting",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-001",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Round 83,481 to the nearest thousand.",
+      "options": [
+        "83,000",
+        "84,000",
+        "82,000",
+        "83,500"
+      ],
+      "correctIndex": 0,
+      "explanation": "The hundreds digit decides the rounding. 83,481 is closer to 83,000.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-002",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which list is in order from smallest to largest?",
+      "options": [
+        "7,374, 5,232, 4,926, 3,686",
+        "3,686, 4,926, 5,232, 7,374",
+        "3,686, 5,232, 4,926, 7,374",
+        "4,926, 5,232, 7,374, 3,686"
+      ],
+      "correctIndex": 1,
+      "explanation": "Start with the thousands, then compare hundreds, tens and ones.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, ordering numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-003",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which number is 66000 + 300 + 20 + 3?",
+      "options": [
+        "66,423",
+        "66,313",
+        "66,323",
+        "67,323"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adding the parts gives 66,323.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, expanded form",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-004",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "What comes next? 80, 100, 120, 140, ...",
+      "options": [
+        "180",
+        "161",
+        "140",
+        "160"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each number goes up by 20, so the next number is 160.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, number patterns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-005",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which sign makes this true? 1,250 __ 5,916",
+      "options": [
+        "<",
+        ">",
+        "=",
+        "+"
+      ],
+      "correctIndex": 0,
+      "explanation": "Compare the thousands first. 1,250 is less than 5,916.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-006",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Use the digits 6, 9, 9, 6 once each to make the smallest 4-digit number.",
+      "options": [
+        "6,996",
+        "6,699",
+        "9,966",
+        "9,696"
+      ],
+      "correctIndex": 1,
+      "explanation": "Put the smallest digit first, then the next smallest, and so on.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-007",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "A town has 80,754 people. What is 80,754 rounded to the nearest thousand?",
+      "options": [
+        "82,000",
+        "80,000",
+        "81,000",
+        "80,754"
+      ],
+      "correctIndex": 2,
+      "explanation": "The answer is 81,000.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-008",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Round 49,140 to the nearest thousand.",
+      "options": [
+        "50,000",
+        "48,000",
+        "49,100",
+        "49,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "The hundreds digit decides the rounding. 49,140 is closer to 49,000.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-009",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Round 14,471 to the nearest thousand.",
+      "options": [
+        "14,000",
+        "15,000",
+        "13,000",
+        "14,500"
+      ],
+      "correctIndex": 0,
+      "explanation": "The hundreds digit decides the rounding. 14,471 is closer to 14,000.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-010",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which number is 30000 + 900 + 90 + 4?",
+      "options": [
+        "31,094",
+        "30,994",
+        "30,984",
+        "31,994"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adding the parts gives 30,994.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, expanded form",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-011",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "What comes next? 10, 35, 60, 85, ...",
+      "options": [
+        "135",
+        "111",
+        "110",
+        "85"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each number goes up by 25, so the next number is 110.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, number patterns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-012",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which sign makes this true? 6,538 __ 4,313",
+      "options": [
+        "<",
+        "=",
+        "+",
+        ">"
+      ],
+      "correctIndex": 3,
+      "explanation": "Compare the thousands first. 6,538 is greater than 4,313.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-013",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Use the digits 8, 7, 4, 5 once each to make the smallest 4-digit number.",
+      "options": [
+        "4,578",
+        "8,745",
+        "8,754",
+        "7,845"
+      ],
+      "correctIndex": 0,
+      "explanation": "Put the smallest digit first, then the next smallest, and so on.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-014",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "A town has 87,807 people. What is 87,807 rounded to the nearest ten?",
+      "options": [
+        "87,820",
+        "87,810",
+        "87,800",
+        "87,807"
+      ],
+      "correctIndex": 1,
+      "explanation": "The answer is 87,810.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-015",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "In 11,723, what is the value of the digit 3?",
+      "options": [
+        "30",
+        "1",
+        "3",
+        "10"
+      ],
+      "correctIndex": 2,
+      "explanation": "The digit 3 is in the ones place.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, place value to 100,000",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-016",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Round 45,348 to the nearest thousand.",
+      "options": [
+        "46,000",
+        "44,000",
+        "45,300",
+        "45,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "The hundreds digit decides the rounding. 45,348 is closer to 45,000.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-017",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which number is 24000 + 200 + 40 + 1?",
+      "options": [
+        "24,241",
+        "24,341",
+        "24,231",
+        "25,241"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adding the parts gives 24,241.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, expanded form",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-018",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "What comes next? 58, 78, 98, 118, ...",
+      "options": [
+        "158",
+        "138",
+        "139",
+        "118"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each number goes up by 20, so the next number is 138.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, number patterns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-019",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which sign makes this true? 1,475 __ 7,742",
+      "options": [
+        ">",
+        "=",
+        "<",
+        "+"
+      ],
+      "correctIndex": 2,
+      "explanation": "Compare the thousands first. 1,475 is less than 7,742.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-020",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Use the digits 7, 5, 1, 3 once each to make the smallest 4-digit number.",
+      "options": [
+        "7,513",
+        "7,531",
+        "5,713",
+        "1,357"
+      ],
+      "correctIndex": 3,
+      "explanation": "Put the smallest digit first, then the next smallest, and so on.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-021",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "A town has 45,586 people. What is 45,586 rounded to the nearest hundred?",
+      "options": [
+        "45,600",
+        "45,700",
+        "45,500",
+        "45,586"
+      ],
+      "correctIndex": 0,
+      "explanation": "The answer is 45,600.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-022",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Round 2,485 to the nearest thousand.",
+      "options": [
+        "3,000",
+        "2,000",
+        "1,000",
+        "2,500"
+      ],
+      "correctIndex": 1,
+      "explanation": "The hundreds digit decides the rounding. 2,485 is closer to 2,000.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-023",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Round 26,850 to the nearest thousand.",
+      "options": [
+        "28,000",
+        "26,000",
+        "27,000",
+        "26,900"
+      ],
+      "correctIndex": 2,
+      "explanation": "The hundreds digit decides the rounding. 26,850 is closer to 27,000.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-024",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which number is 24000 + 700 + 20 + 9?",
+      "options": [
+        "24,829",
+        "24,719",
+        "25,729",
+        "24,729"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adding the parts gives 24,729.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, expanded form",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-025",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "What comes next? 22, 47, 72, 97, ...",
+      "options": [
+        "122",
+        "147",
+        "123",
+        "97"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each number goes up by 25, so the next number is 122.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, number patterns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-026",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which sign makes this true? 2,191 __ 3,861",
+      "options": [
+        ">",
+        "<",
+        "=",
+        "+"
+      ],
+      "correctIndex": 1,
+      "explanation": "Compare the thousands first. 2,191 is less than 3,861.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-027",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Use the digits 2, 7, 1, 6 once each to make the smallest 4-digit number.",
+      "options": [
+        "2,716",
+        "7,621",
+        "1,267",
+        "7,216"
+      ],
+      "correctIndex": 2,
+      "explanation": "Put the smallest digit first, then the next smallest, and so on.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-028",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "A town has 26,063 people. What is 26,063 rounded to the nearest thousand?",
+      "options": [
+        "27,000",
+        "25,000",
+        "26,063",
+        "26,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "The answer is 26,000.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-029",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "In 70,707, what is the value of the digit 7?",
+      "options": [
+        "700",
+        "7",
+        "7,000",
+        "70"
+      ],
+      "correctIndex": 0,
+      "explanation": "The digit 7 is in the hundreds place.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, place value to 100,000",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-030",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Round 1,178 to the nearest thousand.",
+      "options": [
+        "2,000",
+        "1,000",
+        "0",
+        "1,200"
+      ],
+      "correctIndex": 1,
+      "explanation": "The hundreds digit decides the rounding. 1,178 is closer to 1,000.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-031",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which number is 48000 + 900 + 20 + 2?",
+      "options": [
+        "49,022",
+        "48,912",
+        "48,922",
+        "49,922"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adding the parts gives 48,922.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, expanded form",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-032",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "What comes next? 35, 75, 115, 155, ...",
+      "options": [
+        "235",
+        "196",
+        "155",
+        "195"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each number goes up by 40, so the next number is 195.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, number patterns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-033",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which sign makes this true? 5,283 __ 1,607",
+      "options": [
+        ">",
+        "<",
+        "=",
+        "+"
+      ],
+      "correctIndex": 0,
+      "explanation": "Compare the thousands first. 5,283 is greater than 1,607.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-034",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Use the digits 2, 3, 1, 6 once each to make the smallest 4-digit number.",
+      "options": [
+        "2,316",
+        "1,236",
+        "6,321",
+        "3,216"
+      ],
+      "correctIndex": 1,
+      "explanation": "Put the smallest digit first, then the next smallest, and so on.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-035",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "A town has 60,237 people. What is 60,237 rounded to the nearest hundred?",
+      "options": [
+        "60,300",
+        "60,100",
+        "60,200",
+        "60,237"
+      ],
+      "correctIndex": 2,
+      "explanation": "The answer is 60,200.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-036",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "In 55,672, what is the value of the digit 6?",
+      "options": [
+        "6",
+        "6,000",
+        "60",
+        "600"
+      ],
+      "correctIndex": 3,
+      "explanation": "The digit 6 is in the hundreds place.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, place value to 100,000",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-037",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Round 50,137 to the nearest thousand.",
+      "options": [
+        "50,000",
+        "51,000",
+        "49,000",
+        "50,100"
+      ],
+      "correctIndex": 0,
+      "explanation": "The hundreds digit decides the rounding. 50,137 is closer to 50,000.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-038",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which number is 44000 + 200 + 70 + 7?",
+      "options": [
+        "44,377",
+        "44,277",
+        "44,267",
+        "45,277"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adding the parts gives 44,277.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, expanded form",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-039",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Which sign makes this true? 2,819 __ 5,085",
+      "options": [
+        ">",
+        "=",
+        "<",
+        "+"
+      ],
+      "correctIndex": 2,
+      "explanation": "Compare the thousands first. 2,819 is less than 5,085.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing numbers",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-S-040",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "silver",
+      "text": "Use the digits 4, 9, 9, 4 once each to make the smallest 4-digit number.",
+      "options": [
+        "4,994",
+        "9,944",
+        "9,494",
+        "4,499"
+      ],
+      "correctIndex": 3,
+      "explanation": "Put the smallest digit first, then the next smallest, and so on.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-001",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Use the digits 4, 8, 5, 3 once each to make the smallest 4-digit even number.",
+      "options": [
+        "3,584",
+        "3,458",
+        "8,543",
+        "3,590"
+      ],
+      "correctIndex": 0,
+      "explanation": "An even number ends in 0, 2, 4, 6 or 8. Put the smallest even digit last, then arrange the rest from smallest to largest.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value reasoning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-002",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "What comes next? 2, 4, 8, 16, ...",
+      "options": [
+        "24",
+        "32",
+        "36",
+        "20"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each number doubles, so the next number is 32.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, number patterns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-003",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "A number is 56000 + 200 + 1. What is the missing tens part if the number is 56,211?",
+      "options": [
+        "1",
+        "20",
+        "10",
+        "17"
+      ],
+      "correctIndex": 2,
+      "explanation": "The number has 10 in the tens place.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-004",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Add 3,000 to 75,079, then round the answer to the nearest thousand.",
+      "options": [
+        "78,079",
+        "79,000",
+        "78007",
+        "78,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "75,079 + 3,000 = 78,079, which rounds to 78,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, rounding after addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-005",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which number is 250 less than 6,002?",
+      "options": [
+        "5,752",
+        "6,252",
+        "5,977",
+        "5,802"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subtract 250: 6,002 - 250 = 5,752.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, subtraction reasoning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-006",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "I am a 4-digit number. My thousands digit is 4, my hundreds digit is 2, my tens digit is 2, and my ones digit is 8. What number am I?",
+      "options": [
+        "4,328",
+        "4,228",
+        "4,218",
+        "4,229"
+      ],
+      "correctIndex": 1,
+      "explanation": "Put the digits in order: 4228.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value puzzle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-007",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which is greater: 4,392 + 1,287 or 1,108 - 1,213?",
+      "options": [
+        "1,108 - 1,213",
+        "They are equal",
+        "4,392 + 1,287",
+        "Cannot tell"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first expression is 5,679. The second is -105.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing expressions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-008",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "A farmer has 3,663 eggs. Rounded to the nearest hundred, how many eggs is that?",
+      "options": [
+        "4,000",
+        "3,660",
+        "3,663",
+        "3,700"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tens digit decides. 3,663 rounds to 3,700.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, rounding in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-009",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Use the digits 9, 6, 5, 4 once each to make the smallest 4-digit even number.",
+      "options": [
+        "5,694",
+        "4,569",
+        "9,654",
+        "5,700"
+      ],
+      "correctIndex": 0,
+      "explanation": "An even number ends in 0, 2, 4, 6 or 8. Put the smallest even digit last, then arrange the rest from smallest to largest.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value reasoning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-010",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "What comes next? 3, 6, 12, 24, ...",
+      "options": [
+        "36",
+        "48",
+        "54",
+        "30"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each number doubles, so the next number is 48.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, number patterns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-011",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "A number is 19000 + 300 + 1. What is the missing tens part if the number is 19,351?",
+      "options": [
+        "5",
+        "30",
+        "50",
+        "10"
+      ],
+      "correctIndex": 2,
+      "explanation": "The number has 50 in the tens place.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-012",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Add 3,000 to 22,351, then round the answer to the nearest thousand.",
+      "options": [
+        "25,351",
+        "26,000",
+        "25007",
+        "25,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "22,351 + 3,000 = 25,351, which rounds to 25,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, rounding after addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-013",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which number is 250 less than 5,094?",
+      "options": [
+        "4,844",
+        "5,344",
+        "5,069",
+        "4,894"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subtract 250: 5,094 - 250 = 4,844.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, subtraction reasoning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-014",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "I am a 4-digit number. My thousands digit is 4, my hundreds digit is 0, my tens digit is 1, and my ones digit is 4. What number am I?",
+      "options": [
+        "4,114",
+        "4,014",
+        "4,004",
+        "4,015"
+      ],
+      "correctIndex": 1,
+      "explanation": "Put the digits in order: 4014.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value puzzle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-015",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which is greater: 4,042 + 699 or 2,839 - 1,217?",
+      "options": [
+        "2,839 - 1,217",
+        "They are equal",
+        "4,042 + 699",
+        "Cannot tell"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first expression is 4,741. The second is 1,622.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing expressions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-016",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "A farmer has 3,572 eggs. Rounded to the nearest hundred, how many eggs is that?",
+      "options": [
+        "4,000",
+        "3,570",
+        "3,572",
+        "3,600"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tens digit decides. 3,572 rounds to 3,600.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, rounding in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-017",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Use the digits 4, 2, 3, 1 once each to make the smallest 4-digit even number.",
+      "options": [
+        "1,342",
+        "1,234",
+        "4,321",
+        "1,324"
+      ],
+      "correctIndex": 0,
+      "explanation": "An even number ends in 0, 2, 4, 6 or 8. Put the smallest even digit last, then arrange the rest from smallest to largest.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value reasoning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-018",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "What comes next? 5, 10, 20, 40, ...",
+      "options": [
+        "60",
+        "80",
+        "90",
+        "50"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each number doubles, so the next number is 80.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, number patterns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-019",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "A number is 71000 + 100 + 3. What is the missing tens part if the number is 71,173?",
+      "options": [
+        "7",
+        "10",
+        "70",
+        "30"
+      ],
+      "correctIndex": 2,
+      "explanation": "The number has 70 in the tens place.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-020",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Add 3,000 to 87,727, then round the answer to the nearest thousand.",
+      "options": [
+        "90,727",
+        "92,000",
+        "91007",
+        "91,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "87,727 + 3,000 = 90,727, which rounds to 91,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, rounding after addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-021",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which number is 250 less than 9,301?",
+      "options": [
+        "9,051",
+        "9,551",
+        "9,276",
+        "9,101"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subtract 250: 9,301 - 250 = 9,051.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, subtraction reasoning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-022",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "I am a 4-digit number. My thousands digit is 3, my hundreds digit is 0, my tens digit is 2, and my ones digit is 5. What number am I?",
+      "options": [
+        "3,125",
+        "3,025",
+        "3,015",
+        "3,026"
+      ],
+      "correctIndex": 1,
+      "explanation": "Put the digits in order: 3025.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value puzzle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-023",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which is greater: 2,000 + 1,346 or 2,936 - 1,497?",
+      "options": [
+        "2,936 - 1,497",
+        "They are equal",
+        "2,000 + 1,346",
+        "Cannot tell"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first expression is 3,346. The second is 1,439.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing expressions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-024",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "A farmer has 2,875 eggs. Rounded to the nearest hundred, how many eggs is that?",
+      "options": [
+        "3,000",
+        "2,880",
+        "2,875",
+        "2,900"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tens digit decides. 2,875 rounds to 2,900.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, rounding in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-025",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Use the digits 1, 4, 8, 2 once each to make the smallest 4-digit even number.",
+      "options": [
+        "1,482",
+        "1,248",
+        "8,421",
+        "2,841"
+      ],
+      "correctIndex": 0,
+      "explanation": "An even number ends in 0, 2, 4, 6 or 8. Put the smallest even digit last, then arrange the rest from smallest to largest.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value reasoning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-026",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "What comes next? 8, 16, 32, 64, ...",
+      "options": [
+        "96",
+        "128",
+        "144",
+        "80"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each number doubles, so the next number is 128.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, number patterns",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-027",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "A number is 29000 + 400 + 9. What is the missing tens part if the number is 29,439?",
+      "options": [
+        "3",
+        "40",
+        "30",
+        "90"
+      ],
+      "correctIndex": 2,
+      "explanation": "The number has 30 in the tens place.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-028",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Add 3,000 to 71,769, then round the answer to the nearest thousand.",
+      "options": [
+        "74,769",
+        "76,000",
+        "75007",
+        "75,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "71,769 + 3,000 = 74,769, which rounds to 75,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, rounding after addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-029",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which number is 250 less than 8,883?",
+      "options": [
+        "8,633",
+        "9,133",
+        "8,858",
+        "8,683"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subtract 250: 8,883 - 250 = 8,633.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, subtraction reasoning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-030",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "I am a 4-digit number. My thousands digit is 8, my hundreds digit is 7, my tens digit is 1, and my ones digit is 2. What number am I?",
+      "options": [
+        "8,812",
+        "8,712",
+        "8,702",
+        "8,713"
+      ],
+      "correctIndex": 1,
+      "explanation": "Put the digits in order: 8712.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value puzzle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-031",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which is greater: 3,795 + 1,026 or 3,501 - 1,071?",
+      "options": [
+        "3,501 - 1,071",
+        "They are equal",
+        "3,795 + 1,026",
+        "Cannot tell"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first expression is 4,821. The second is 2,430.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing expressions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-032",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "A farmer has 9,559 eggs. Rounded to the nearest hundred, how many eggs is that?",
+      "options": [
+        "10,000",
+        "9,560",
+        "9,559",
+        "9,600"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tens digit decides. 9,559 rounds to 9,600.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, rounding in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-033",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Use the digits 4, 5, 8, 1 once each to make the smallest 4-digit even number.",
+      "options": [
+        "1,584",
+        "1,458",
+        "8,541",
+        "1,854"
+      ],
+      "correctIndex": 0,
+      "explanation": "An even number ends in 0, 2, 4, 6 or 8. Put the smallest even digit last, then arrange the rest from smallest to largest.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value reasoning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-034",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "A number is 43000 + 100 + 2. What is the missing tens part if the number is 43,122?",
+      "options": [
+        "2",
+        "20",
+        "10",
+        "27"
+      ],
+      "correctIndex": 1,
+      "explanation": "The number has 20 in the tens place.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-035",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Add 3,000 to 33,639, then round the answer to the nearest thousand.",
+      "options": [
+        "36,639",
+        "38,000",
+        "37,000",
+        "37007"
+      ],
+      "correctIndex": 2,
+      "explanation": "33,639 + 3,000 = 36,639, which rounds to 37,000.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, rounding after addition",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-036",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which number is 250 less than 7,532?",
+      "options": [
+        "7,782",
+        "7,507",
+        "7,332",
+        "7,282"
+      ],
+      "correctIndex": 3,
+      "explanation": "Subtract 250: 7,532 - 250 = 7,282.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, subtraction reasoning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-037",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "I am a 4-digit number. My thousands digit is 6, my hundreds digit is 2, my tens digit is 1, and my ones digit is 8. What number am I?",
+      "options": [
+        "6,218",
+        "6,318",
+        "6,208",
+        "6,219"
+      ],
+      "correctIndex": 0,
+      "explanation": "Put the digits in order: 6218.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value puzzle",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-038",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Which is greater: 1,639 + 1,093 or 1,813 - 1,008?",
+      "options": [
+        "1,813 - 1,008",
+        "1,639 + 1,093",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first expression is 2,732. The second is 805.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, comparing expressions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-039",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "A farmer has 9,684 eggs. Rounded to the nearest hundred, how many eggs is that?",
+      "options": [
+        "10,000",
+        "9,680",
+        "9,700",
+        "9,684"
+      ],
+      "correctIndex": 2,
+      "explanation": "The tens digit decides. 9,684 rounds to 9,700.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, rounding in context",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-NUM-G-040",
+      "subject": "mathematics",
+      "topic": "number",
+      "level": "gold",
+      "text": "Use the digits 5, 7, 4, 9 once each to make the smallest 4-digit even number.",
+      "options": [
+        "4,579",
+        "9,754",
+        "9,475",
+        "5,794"
+      ],
+      "correctIndex": 3,
+      "explanation": "An even number ends in 0, 2, 4, 6 or 8. Put the smallest even digit last, then arrange the rest from smallest to largest.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, place value reasoning",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

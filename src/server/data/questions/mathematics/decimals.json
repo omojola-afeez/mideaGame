@@ -1,0 +1,2287 @@
+{
+  "subject": "mathematics",
+  "topic": "decimals",
+  "title": "Decimal dunes",
+  "questions": [
+    {
+      "code": "MAT-DEC-B-001",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "In 4.3, what does the digit 3 mean?",
+      "options": [
+        "3 tenths",
+        "3 hundredths",
+        "3 ones",
+        "3 tens"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first digit after the decimal point shows tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimal place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-002",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "Which is larger, 0.5 or 0.45?",
+      "options": [
+        "0.45",
+        "0.5",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correctIndex": 1,
+      "explanation": "0.5 is five tenths. 0.45 is four tenths and five hundredths, so 0.5 is larger.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, comparing decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-003",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.1 as a fraction?",
+      "options": [
+        "1/100",
+        "10/1",
+        "1/10",
+        "1/1"
+      ],
+      "correctIndex": 2,
+      "explanation": "One digit after the point means tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimals as fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-004",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 1/4 as a decimal?",
+      "options": [
+        "0.4",
+        "0.14",
+        "0.5",
+        "0.25"
+      ],
+      "correctIndex": 3,
+      "explanation": "One quarter is 25 hundredths, so 0.25.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, common decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-005",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many tenths are in 2.9?",
+      "options": [
+        "29",
+        "39",
+        "28",
+        "290"
+      ],
+      "correctIndex": 0,
+      "explanation": "2.9 is 29 tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-006",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.2 + 0.1?",
+      "options": [
+        "0.4",
+        "0.3",
+        "0.2",
+        "3.0"
+      ],
+      "correctIndex": 1,
+      "explanation": "2 tenths + 1 tenths = 3 tenths, which is 0.3.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-007",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "Which decimal means five hundredths?",
+      "options": [
+        "0.5",
+        "0.005",
+        "0.05",
+        "5.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hundredths take two places after the decimal point.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, hundredths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-008",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 4/10 as a decimal?",
+      "options": [
+        "0.04",
+        "4.0",
+        "0.5",
+        "0.4"
+      ],
+      "correctIndex": 3,
+      "explanation": "4/10 means 4 tenths, which is 0.4.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths as decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-009",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "In 4.2, what does the digit 2 mean?",
+      "options": [
+        "2 tenths",
+        "2 hundredths",
+        "2 ones",
+        "2 tens"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first digit after the decimal point shows tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimal place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-010",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.4 as a fraction?",
+      "options": [
+        "4/100",
+        "4/10",
+        "10/4",
+        "4/1"
+      ],
+      "correctIndex": 1,
+      "explanation": "One digit after the point means tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimals as fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-011",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many tenths are in 1.2?",
+      "options": [
+        "22",
+        "11",
+        "12",
+        "120"
+      ],
+      "correctIndex": 2,
+      "explanation": "1.2 is 12 tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-012",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.2 + 0.2?",
+      "options": [
+        "0.5",
+        "4.0",
+        "7.4",
+        "0.4"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 tenths + 2 tenths = 4 tenths, which is 0.4.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-013",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "In 4.9, what does the digit 9 mean?",
+      "options": [
+        "9 tenths",
+        "9 hundredths",
+        "9 ones",
+        "9 tens"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first digit after the decimal point shows tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimal place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-014",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many tenths are in 1.3?",
+      "options": [
+        "23",
+        "13",
+        "12",
+        "130"
+      ],
+      "correctIndex": 1,
+      "explanation": "1.3 is 13 tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-015",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.3 + 0.4?",
+      "options": [
+        "0.8",
+        "0.12",
+        "0.7",
+        "7.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "3 tenths + 4 tenths = 7 tenths, which is 0.7.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-016",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 2/10 as a decimal?",
+      "options": [
+        "0.02",
+        "2.0",
+        "0.3",
+        "0.2"
+      ],
+      "correctIndex": 3,
+      "explanation": "2/10 means 2 tenths, which is 0.2.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths as decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-017",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "In 4.4, what does the digit 4 mean?",
+      "options": [
+        "4 tenths",
+        "4 hundredths",
+        "4 ones",
+        "4 tens"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first digit after the decimal point shows tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimal place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-018",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.3 as a fraction?",
+      "options": [
+        "3/100",
+        "3/10",
+        "10/3",
+        "3/1"
+      ],
+      "correctIndex": 1,
+      "explanation": "One digit after the point means tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimals as fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-019",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.4 + 0.1?",
+      "options": [
+        "0.6",
+        "0.4",
+        "0.5",
+        "5.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "4 tenths + 1 tenths = 5 tenths, which is 0.5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-020",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.9 as a fraction?",
+      "options": [
+        "9/100",
+        "10/9",
+        "9/1",
+        "9/10"
+      ],
+      "correctIndex": 3,
+      "explanation": "One digit after the point means tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimals as fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-021",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many tenths are in 1.8?",
+      "options": [
+        "18",
+        "28",
+        "17",
+        "180"
+      ],
+      "correctIndex": 0,
+      "explanation": "1.8 is 18 tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-022",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.3 + 0.2?",
+      "options": [
+        "0.6",
+        "0.5",
+        "5.0",
+        "7.5"
+      ],
+      "correctIndex": 1,
+      "explanation": "3 tenths + 2 tenths = 5 tenths, which is 0.5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-023",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 5/10 as a decimal?",
+      "options": [
+        "0.05",
+        "5.0",
+        "0.5",
+        "0.6"
+      ],
+      "correctIndex": 2,
+      "explanation": "5/10 means 5 tenths, which is 0.5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths as decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-024",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.5 as a fraction?",
+      "options": [
+        "5/100",
+        "10/5",
+        "5/1",
+        "5/10"
+      ],
+      "correctIndex": 3,
+      "explanation": "One digit after the point means tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimals as fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-025",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 7/10 as a decimal?",
+      "options": [
+        "0.7",
+        "0.07",
+        "7.0",
+        "0.8"
+      ],
+      "correctIndex": 0,
+      "explanation": "7/10 means 7 tenths, which is 0.7.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths as decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-026",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "In 4.5, what does the digit 5 mean?",
+      "options": [
+        "5 hundredths",
+        "5 tenths",
+        "5 ones",
+        "5 tens"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first digit after the decimal point shows tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimal place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-027",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.1 + 0.2?",
+      "options": [
+        "0.4",
+        "0.2",
+        "0.3",
+        "3.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 tenths + 2 tenths = 3 tenths, which is 0.3.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-028",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 6/10 as a decimal?",
+      "options": [
+        "0.06",
+        "6.0",
+        "0.7",
+        "0.6"
+      ],
+      "correctIndex": 3,
+      "explanation": "6/10 means 6 tenths, which is 0.6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths as decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-029",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 3/10 as a decimal?",
+      "options": [
+        "0.3",
+        "0.03",
+        "3.0",
+        "0.4"
+      ],
+      "correctIndex": 0,
+      "explanation": "3/10 means 3 tenths, which is 0.3.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths as decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-030",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many tenths are in 2.8?",
+      "options": [
+        "38",
+        "28",
+        "27",
+        "280"
+      ],
+      "correctIndex": 1,
+      "explanation": "2.8 is 28 tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-031",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.1 + 0.4?",
+      "options": [
+        "0.6",
+        "0.4",
+        "0.5",
+        "5.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 tenths + 4 tenths = 5 tenths, which is 0.5.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-032",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.3 + 0.3?",
+      "options": [
+        "0.7",
+        "0.9",
+        "6.0",
+        "0.6"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 tenths + 3 tenths = 6 tenths, which is 0.6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-033",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.6 as a fraction?",
+      "options": [
+        "6/10",
+        "6/100",
+        "10/6",
+        "6/1"
+      ],
+      "correctIndex": 0,
+      "explanation": "One digit after the point means tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimals as fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-034",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many tenths are in 1.4?",
+      "options": [
+        "24",
+        "14",
+        "13",
+        "140"
+      ],
+      "correctIndex": 1,
+      "explanation": "1.4 is 14 tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-035",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.1 + 0.3?",
+      "options": [
+        "0.5",
+        "0.3",
+        "0.4",
+        "4.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 tenths + 3 tenths = 4 tenths, which is 0.4.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-036",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.2 as a fraction?",
+      "options": [
+        "2/100",
+        "10/2",
+        "2/1",
+        "2/10"
+      ],
+      "correctIndex": 3,
+      "explanation": "One digit after the point means tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimals as fractions",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-037",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many tenths are in 1.1?",
+      "options": [
+        "11",
+        "21",
+        "10",
+        "110"
+      ],
+      "correctIndex": 0,
+      "explanation": "1.1 is 11 tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-038",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "In 4.8, what does the digit 8 mean?",
+      "options": [
+        "8 hundredths",
+        "8 tenths",
+        "8 ones",
+        "8 tens"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first digit after the decimal point shows tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, decimal place value",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-039",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "What is 0.2 + 0.4?",
+      "options": [
+        "0.7",
+        "0.8",
+        "0.6",
+        "6.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 tenths + 4 tenths = 6 tenths, which is 0.6.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, adding tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-B-040",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "bronze",
+      "text": "How many tenths are in 2.2?",
+      "options": [
+        "32",
+        "21",
+        "220",
+        "22"
+      ],
+      "correctIndex": 3,
+      "explanation": "2.2 is 22 tenths.",
+      "curriculumRef": "NERDC Primary 4 Mathematics, tenths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-001",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 5.0 - 4.0?",
+      "options": [
+        "1.0",
+        "9.0",
+        "0.10",
+        "1.1"
+      ],
+      "correctIndex": 0,
+      "explanation": "50 tenths - 40 tenths = 10 tenths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-002",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "A pencil costs ₦4.33. What do 2 pencils cost?",
+      "options": [
+        "₦9.16",
+        "₦8.66",
+        "₦8.16",
+        "₦9.66"
+      ],
+      "correctIndex": 1,
+      "explanation": "4.33 × 2 = 8.66 naira.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, money with decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-003",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 4.8 × 10?",
+      "options": [
+        "480",
+        "4.8",
+        "48",
+        "58"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiplying by 10 moves the decimal point one place to the right.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplying decimals by 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-004",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Which is larger, 0.7 or 0.68?",
+      "options": [
+        "0.68",
+        "They are equal",
+        "Cannot tell",
+        "0.7"
+      ],
+      "correctIndex": 3,
+      "explanation": "0.7 is 0.70, which is greater than 0.68.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, comparing decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-005",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Round 4.9 to the nearest whole number.",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "The tenths digit is 9, so the number rounds to 5.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-006",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 0.07 + 0.03?",
+      "options": [
+        "10.00",
+        "0.10",
+        "0.010",
+        "7.1"
+      ],
+      "correctIndex": 1,
+      "explanation": "7 hundredths + 3 hundredths = 10 hundredths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, hundredths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-007",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Which number is 1.43?",
+      "options": [
+        "14.3",
+        "0.143",
+        "1.43",
+        "143.00"
+      ],
+      "correctIndex": 2,
+      "explanation": "143 hundredths is 1.43.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, decimal notation",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-008",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 4.9 + 1.3?",
+      "options": [
+        "0.62",
+        "6.3",
+        "62",
+        "6.2"
+      ],
+      "correctIndex": 3,
+      "explanation": "49 tenths + 13 tenths = 62 tenths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, adding decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-009",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 5.2 - 2.6?",
+      "options": [
+        "2.6",
+        "7.8",
+        "0.26",
+        "2.7"
+      ],
+      "correctIndex": 0,
+      "explanation": "52 tenths - 26 tenths = 26 tenths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-010",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "A pencil costs ₦4.09. What do 3 pencils cost?",
+      "options": [
+        "₦12.77",
+        "₦12.27",
+        "₦11.77",
+        "₦13.27"
+      ],
+      "correctIndex": 1,
+      "explanation": "4.09 × 3 = 12.27 naira.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, money with decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-011",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 5.9 × 10?",
+      "options": [
+        "590",
+        "5.9",
+        "59",
+        "69"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiplying by 10 moves the decimal point one place to the right.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplying decimals by 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-012",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Round 3.7 to the nearest whole number.",
+      "options": [
+        "3",
+        "5",
+        "11",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tenths digit is 7, so the number rounds to 4.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-013",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 0.03 + 0.09?",
+      "options": [
+        "0.12",
+        "12.00",
+        "0.012",
+        "7.12"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 hundredths + 9 hundredths = 12 hundredths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, hundredths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-014",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Which number is 4.51?",
+      "options": [
+        "45.1",
+        "4.51",
+        "0.451",
+        "451.00"
+      ],
+      "correctIndex": 1,
+      "explanation": "451 hundredths is 4.51.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, decimal notation",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-015",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 3.7 + 2.6?",
+      "options": [
+        "0.63",
+        "6.4",
+        "6.3",
+        "63"
+      ],
+      "correctIndex": 2,
+      "explanation": "37 tenths + 26 tenths = 63 tenths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, adding decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-016",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 8.0 - 3.4?",
+      "options": [
+        "11.4",
+        "0.46",
+        "4.7",
+        "4.6"
+      ],
+      "correctIndex": 3,
+      "explanation": "80 tenths - 34 tenths = 46 tenths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-017",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "A pencil costs ₦1.93. What do 3 pencils cost?",
+      "options": [
+        "₦5.79",
+        "₦6.29",
+        "₦5.29",
+        "₦6.79"
+      ],
+      "correctIndex": 0,
+      "explanation": "1.93 × 3 = 5.79 naira.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, money with decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-018",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 8.8 × 10?",
+      "options": [
+        "880",
+        "88",
+        "8.8",
+        "98"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiplying by 10 moves the decimal point one place to the right.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplying decimals by 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-019",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Round 6.0 to the nearest whole number.",
+      "options": [
+        "7",
+        "13",
+        "6",
+        "20"
+      ],
+      "correctIndex": 2,
+      "explanation": "The tenths digit is 0, so the number rounds to 6.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-020",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 0.09 + 0.02?",
+      "options": [
+        "11.00",
+        "0.011",
+        "7.11",
+        "0.11"
+      ],
+      "correctIndex": 3,
+      "explanation": "9 hundredths + 2 hundredths = 11 hundredths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, hundredths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-021",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Which number is 3.14?",
+      "options": [
+        "3.14",
+        "31.4",
+        "0.314",
+        "314.00"
+      ],
+      "correctIndex": 0,
+      "explanation": "314 hundredths is 3.14.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, decimal notation",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-022",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 1.1 + 3.7?",
+      "options": [
+        "0.48",
+        "4.8",
+        "4.9",
+        "48"
+      ],
+      "correctIndex": 1,
+      "explanation": "11 tenths + 37 tenths = 48 tenths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, adding decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-023",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 4.9 - 3.6?",
+      "options": [
+        "8.5",
+        "0.13",
+        "1.3",
+        "1.4"
+      ],
+      "correctIndex": 2,
+      "explanation": "49 tenths - 36 tenths = 13 tenths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-024",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "A pencil costs ₦4. What do 2 pencils cost?",
+      "options": [
+        "₦8.50",
+        "₦7.50",
+        "₦9",
+        "₦8"
+      ],
+      "correctIndex": 3,
+      "explanation": "4 × 2 = 8.00 naira.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, money with decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-025",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 2.2 × 10?",
+      "options": [
+        "22",
+        "220",
+        "2.2",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "Multiplying by 10 moves the decimal point one place to the right.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplying decimals by 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-026",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Round 4.7 to the nearest whole number.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "12"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tenths digit is 7, so the number rounds to 5.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-027",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 0.09 + 0.07?",
+      "options": [
+        "16.00",
+        "0.016",
+        "0.16",
+        "7.16"
+      ],
+      "correctIndex": 2,
+      "explanation": "9 hundredths + 7 hundredths = 16 hundredths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, hundredths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-028",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Which number is 5.26?",
+      "options": [
+        "52.6",
+        "0.526",
+        "526.00",
+        "5.26"
+      ],
+      "correctIndex": 3,
+      "explanation": "526 hundredths is 5.26.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, decimal notation",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-029",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 4.1 + 1.0?",
+      "options": [
+        "5.1",
+        "0.51",
+        "5.2",
+        "51"
+      ],
+      "correctIndex": 0,
+      "explanation": "41 tenths + 10 tenths = 51 tenths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, adding decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-030",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 6.3 - 3.2?",
+      "options": [
+        "9.5",
+        "3.1",
+        "0.31",
+        "3.2"
+      ],
+      "correctIndex": 1,
+      "explanation": "63 tenths - 32 tenths = 31 tenths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-031",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "A pencil costs ₦2.02. What do 2 pencils cost?",
+      "options": [
+        "₦4.54",
+        "₦3.54",
+        "₦4.04",
+        "₦5.04"
+      ],
+      "correctIndex": 2,
+      "explanation": "2.02 × 2 = 4.04 naira.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, money with decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-032",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 1.5 × 10?",
+      "options": [
+        "150",
+        "1.5",
+        "25",
+        "15"
+      ],
+      "correctIndex": 3,
+      "explanation": "Multiplying by 10 moves the decimal point one place to the right.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplying decimals by 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-033",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Round 7.6 to the nearest whole number.",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "The tenths digit is 6, so the number rounds to 8.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-034",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 0.05 + 0.09?",
+      "options": [
+        "14.00",
+        "0.14",
+        "0.014",
+        "7.14"
+      ],
+      "correctIndex": 1,
+      "explanation": "5 hundredths + 9 hundredths = 14 hundredths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, hundredths",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-035",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Which number is 8.74?",
+      "options": [
+        "87.4",
+        "0.874",
+        "8.74",
+        "874.00"
+      ],
+      "correctIndex": 2,
+      "explanation": "874 hundredths is 8.74.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, decimal notation",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-036",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 4.6 + 2.1?",
+      "options": [
+        "0.67",
+        "6.8",
+        "67",
+        "6.7"
+      ],
+      "correctIndex": 3,
+      "explanation": "46 tenths + 21 tenths = 67 tenths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, adding decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-037",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 7.5 - 1.6?",
+      "options": [
+        "5.9",
+        "9.1",
+        "0.59",
+        "6.0"
+      ],
+      "correctIndex": 0,
+      "explanation": "75 tenths - 16 tenths = 59 tenths.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, subtracting decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-038",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "A pencil costs ₦3.91. What do 3 pencils cost?",
+      "options": [
+        "₦12.23",
+        "₦11.73",
+        "₦11.23",
+        "₦12.73"
+      ],
+      "correctIndex": 1,
+      "explanation": "3.91 × 3 = 11.73 naira.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, money with decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-039",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "What is 1.9 × 10?",
+      "options": [
+        "190",
+        "1.9",
+        "19",
+        "29"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiplying by 10 moves the decimal point one place to the right.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, multiplying decimals by 10",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-S-040",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "silver",
+      "text": "Round 6.6 to the nearest whole number.",
+      "options": [
+        "6",
+        "8",
+        "14",
+        "7"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tenths digit is 6, so the number rounds to 7.",
+      "curriculumRef": "NERDC Primary 5 Mathematics, rounding decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-001",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 1/4 as a percentage?",
+      "options": [
+        "25%",
+        "14%",
+        "40%",
+        "50%"
+      ],
+      "correctIndex": 0,
+      "explanation": "One quarter of 100 is 25, so 25%.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, fractions and percentages",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-002",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.2 as a percentage?",
+      "options": [
+        "2%",
+        "20%",
+        "200%",
+        "12%"
+      ],
+      "correctIndex": 1,
+      "explanation": "0.2 is 2 tenths, which is 20 hundredths or 20%.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, decimals and percentages",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-003",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 25% of 188?",
+      "options": [
+        "52",
+        "42",
+        "47",
+        "94"
+      ],
+      "correctIndex": 2,
+      "explanation": "25% is one quarter. 188 ÷ 4 = 47.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages of quantities",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-004",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A shirt costs ₦5,300. A shop gives a 10% discount. How much is the discount?",
+      "options": [
+        "₦1,590",
+        "₦0",
+        "₦1,855",
+        "₦530"
+      ],
+      "correctIndex": 3,
+      "explanation": "10% of 5300 is 530 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentage discount",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-005",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A bottle holds 2.9 litres. How many litres are in 4 bottles?",
+      "options": [
+        "11.6 litres",
+        "12.6 litres",
+        "10.6 litres",
+        "2.9 litres"
+      ],
+      "correctIndex": 0,
+      "explanation": "2.9 × 4 = 11.6 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, decimals in measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-006",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.9 × 0.8?",
+      "options": [
+        "7.2",
+        "0.72",
+        "9.80",
+        "72.00"
+      ],
+      "correctIndex": 1,
+      "explanation": "9 tenths × 8 tenths = 72 hundredths, which is 0.72.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multiplying decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-007",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A family saves 20% of ₦522 each month. How much do they save?",
+      "options": [
+        "₦156.60",
+        "₦52.20",
+        "₦104.40",
+        "₦234.90"
+      ],
+      "correctIndex": 2,
+      "explanation": "20% is one fifth. 522 ÷ 5 = 104.4.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages in money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-008",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 10% of ₦800?",
+      "options": [
+        "₦160",
+        "₦40",
+        "₦240",
+        "₦80"
+      ],
+      "correctIndex": 3,
+      "explanation": "10% means one tenth. 800 ÷ 10 = 80.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-009",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.5 as a percentage?",
+      "options": [
+        "50%",
+        "5%",
+        "500%",
+        "15%"
+      ],
+      "correctIndex": 0,
+      "explanation": "0.5 is 5 tenths, which is 50 hundredths or 50%.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, decimals and percentages",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-010",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 25% of 184?",
+      "options": [
+        "51",
+        "46",
+        "41",
+        "92"
+      ],
+      "correctIndex": 1,
+      "explanation": "25% is one quarter. 184 ÷ 4 = 46.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages of quantities",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-011",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A shirt costs ₦5,900. A shop gives a 10% discount. How much is the discount?",
+      "options": [
+        "₦1,770",
+        "₦0",
+        "₦590",
+        "₦2,065"
+      ],
+      "correctIndex": 2,
+      "explanation": "10% of 5900 is 590 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentage discount",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-012",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A bottle holds 2.4 litres. How many litres are in 4 bottles?",
+      "options": [
+        "10.6 litres",
+        "8.6 litres",
+        "2.4 litres",
+        "9.6 litres"
+      ],
+      "correctIndex": 3,
+      "explanation": "2.4 × 4 = 9.6 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, decimals in measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-013",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.1 × 0.8?",
+      "options": [
+        "0.08",
+        "0.8",
+        "1.80",
+        "8.00"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 tenths × 8 tenths = 8 hundredths, which is 0.08.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multiplying decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-014",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A family saves 20% of ₦483 each month. How much do they save?",
+      "options": [
+        "₦144.90",
+        "₦96.60",
+        "₦48.30",
+        "₦217.35"
+      ],
+      "correctIndex": 1,
+      "explanation": "20% is one fifth. 483 ÷ 5 = 96.6.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages in money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-015",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 10% of ₦1,200?",
+      "options": [
+        "₦240",
+        "₦60",
+        "₦120",
+        "₦360"
+      ],
+      "correctIndex": 2,
+      "explanation": "10% means one tenth. 1200 ÷ 10 = 120.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-016",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 25% of 96?",
+      "options": [
+        "29",
+        "19",
+        "48",
+        "24"
+      ],
+      "correctIndex": 3,
+      "explanation": "25% is one quarter. 96 ÷ 4 = 24.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages of quantities",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-017",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A shirt costs ₦4,500. A shop gives a 10% discount. How much is the discount?",
+      "options": [
+        "₦450",
+        "₦1,350",
+        "₦0",
+        "₦1,575"
+      ],
+      "correctIndex": 0,
+      "explanation": "10% of 4500 is 450 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentage discount",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-018",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A bottle holds 1.9 litres. How many litres are in 4 bottles?",
+      "options": [
+        "8.6 litres",
+        "7.6 litres",
+        "6.6 litres",
+        "1.9 litres"
+      ],
+      "correctIndex": 1,
+      "explanation": "1.9 × 4 = 7.6 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, decimals in measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-019",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.2 × 0.3?",
+      "options": [
+        "0.6",
+        "2.30",
+        "0.06",
+        "6.00"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 tenths × 3 tenths = 6 hundredths, which is 0.06.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multiplying decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-020",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A family saves 20% of ₦850 each month. How much do they save?",
+      "options": [
+        "₦255",
+        "₦85",
+        "₦382.50",
+        "₦170"
+      ],
+      "correctIndex": 3,
+      "explanation": "20% is one fifth. 850 ÷ 5 = 170.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages in money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-021",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.7 as a percentage?",
+      "options": [
+        "70%",
+        "7%",
+        "700%",
+        "17%"
+      ],
+      "correctIndex": 0,
+      "explanation": "0.7 is 7 tenths, which is 70 hundredths or 70%.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, decimals and percentages",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-022",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 25% of 232?",
+      "options": [
+        "63",
+        "58",
+        "53",
+        "116"
+      ],
+      "correctIndex": 1,
+      "explanation": "25% is one quarter. 232 ÷ 4 = 58.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages of quantities",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-023",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A shirt costs ₦6,000. A shop gives a 10% discount. How much is the discount?",
+      "options": [
+        "₦1,800",
+        "₦0",
+        "₦600",
+        "₦2,100"
+      ],
+      "correctIndex": 2,
+      "explanation": "10% of 6000 is 600 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentage discount",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-024",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A bottle holds 2.8 litres. How many litres are in 4 bottles?",
+      "options": [
+        "12.2 litres",
+        "10.2 litres",
+        "2.8 litres",
+        "11.2 litres"
+      ],
+      "correctIndex": 3,
+      "explanation": "2.8 × 4 = 11.2 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, decimals in measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-025",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.3 × 0.9?",
+      "options": [
+        "0.27",
+        "2.7",
+        "3.90",
+        "27.00"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 tenths × 9 tenths = 27 hundredths, which is 0.27.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multiplying decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-026",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A family saves 20% of ₦337 each month. How much do they save?",
+      "options": [
+        "₦101.10",
+        "₦67.40",
+        "₦33.70",
+        "₦151.65"
+      ],
+      "correctIndex": 1,
+      "explanation": "20% is one fifth. 337 ÷ 5 = 67.4.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages in money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-027",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.9 as a percentage?",
+      "options": [
+        "9%",
+        "900%",
+        "90%",
+        "19%"
+      ],
+      "correctIndex": 2,
+      "explanation": "0.9 is 9 tenths, which is 90 hundredths or 90%.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, decimals and percentages",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-028",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 25% of 228?",
+      "options": [
+        "62",
+        "52",
+        "114",
+        "57"
+      ],
+      "correctIndex": 3,
+      "explanation": "25% is one quarter. 228 ÷ 4 = 57.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages of quantities",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-029",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A shirt costs ₦2,200. A shop gives a 10% discount. How much is the discount?",
+      "options": [
+        "₦220",
+        "₦660",
+        "₦0",
+        "₦770"
+      ],
+      "correctIndex": 0,
+      "explanation": "10% of 2200 is 220 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentage discount",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-030",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A bottle holds 3.9 litres. How many litres are in 4 bottles?",
+      "options": [
+        "16.6 litres",
+        "15.6 litres",
+        "14.6 litres",
+        "3.9 litres"
+      ],
+      "correctIndex": 1,
+      "explanation": "3.9 × 4 = 15.6 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, decimals in measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-031",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.6 × 0.2?",
+      "options": [
+        "1.2",
+        "6.20",
+        "0.12",
+        "12.00"
+      ],
+      "correctIndex": 2,
+      "explanation": "6 tenths × 2 tenths = 12 hundredths, which is 0.12.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multiplying decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-032",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A family saves 20% of ₦823 each month. How much do they save?",
+      "options": [
+        "₦246.90",
+        "₦82.30",
+        "₦370.35",
+        "₦164.60"
+      ],
+      "correctIndex": 3,
+      "explanation": "20% is one fifth. 823 ÷ 5 = 164.6.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages in money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-033",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 25% of 148?",
+      "options": [
+        "37",
+        "42",
+        "32",
+        "74"
+      ],
+      "correctIndex": 0,
+      "explanation": "25% is one quarter. 148 ÷ 4 = 37.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages of quantities",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-034",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A shirt costs ₦2,800. A shop gives a 10% discount. How much is the discount?",
+      "options": [
+        "₦840",
+        "₦280",
+        "₦0",
+        "₦980"
+      ],
+      "correctIndex": 1,
+      "explanation": "10% of 2800 is 280 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentage discount",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-035",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A bottle holds 3.6 litres. How many litres are in 4 bottles?",
+      "options": [
+        "15.4 litres",
+        "13.4 litres",
+        "14.4 litres",
+        "3.6 litres"
+      ],
+      "correctIndex": 2,
+      "explanation": "3.6 × 4 = 14.4 litres.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, decimals in measurement",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-036",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 0.6 × 0.1?",
+      "options": [
+        "0.6",
+        "6.10",
+        "6.00",
+        "0.06"
+      ],
+      "correctIndex": 3,
+      "explanation": "6 tenths × 1 tenths = 6 hundredths, which is 0.06.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, multiplying decimals",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-037",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A family saves 20% of ₦304 each month. How much do they save?",
+      "options": [
+        "₦60.80",
+        "₦91.20",
+        "₦30.40",
+        "₦136.80"
+      ],
+      "correctIndex": 0,
+      "explanation": "20% is one fifth. 304 ÷ 5 = 60.8.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages in money",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-038",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 10% of ₦400?",
+      "options": [
+        "₦80",
+        "₦40",
+        "₦20",
+        "₦120"
+      ],
+      "correctIndex": 1,
+      "explanation": "10% means one tenth. 400 ÷ 10 = 40.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-039",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "What is 25% of 168?",
+      "options": [
+        "47",
+        "37",
+        "42",
+        "84"
+      ],
+      "correctIndex": 2,
+      "explanation": "25% is one quarter. 168 ÷ 4 = 42.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentages of quantities",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    },
+    {
+      "code": "MAT-DEC-G-040",
+      "subject": "mathematics",
+      "topic": "decimals",
+      "level": "gold",
+      "text": "A shirt costs ₦3,800. A shop gives a 10% discount. How much is the discount?",
+      "options": [
+        "₦1,140",
+        "₦0",
+        "₦1,330",
+        "₦380"
+      ],
+      "correctIndex": 3,
+      "explanation": "10% of 3800 is 380 naira.",
+      "curriculumRef": "NERDC Primary 6 Mathematics, percentage discount",
+      "author": "AI draft v1",
+      "reviewer": null,
+      "status": "draft"
+    }
+  ]
+}

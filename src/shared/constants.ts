@@ -2,14 +2,38 @@ export const GAME_NAME = "Brainwave Quest";
 export const ROOM_TYPE = "quest";
 export const PROGRESS_KEY = "brainwave-quest-progress-v1";
 
-/** Phase 1 is Explorers only: ages 9 to 11, Primary 4 to 6. */
-export const BAND = {
-  id: "explorers",
-  label: "Explorers",
-  ages: "9 to 11",
-  classes: "Primary 4 to 6",
-  readingGrade: 6.5,
-} as const;
+export const BAND_IDS = ["4-6", "7-9", "10-12"] as const;
+export type BandId = (typeof BAND_IDS)[number];
+
+export interface BandDef {
+  id: BandId;
+  label: string;
+  ages: string;
+  classes: string;
+  /** Flesch-Kincaid grade ceiling for questions in this band. */
+  readingGrade: number;
+  /** Short token used as the leading segment of a question code, for example 7-ENG-COM-B-001. */
+  token: string;
+}
+
+/**
+ * Three age bands. A child picks one at sign up and only ever sees questions
+ * from that band, so a five year old never meets a Primary 6 passage.
+ */
+export const BANDS: readonly BandDef[] = [
+  { id: "4-6", label: "Sprouts", ages: "4 to 6", classes: "Nursery 1 to Primary 1", readingGrade: 1.5, token: "4" },
+  { id: "7-9", label: "Explorers", ages: "7 to 9", classes: "Primary 2 to 4", readingGrade: 3.5, token: "7" },
+  { id: "10-12", label: "Adventurers", ages: "10 to 12", classes: "Primary 5 to 6", readingGrade: 6.5, token: "10" },
+];
+
+export function bandById(id: string): BandDef | undefined {
+  return BANDS.find((b) => b.id === id);
+}
+
+/** The band a question code belongs to, read from its leading token. */
+export function bandTokenFor(code: string): string | undefined {
+  return code.split("-")[0];
+}
 
 export const LEVELS = ["bronze", "silver", "gold"] as const;
 export type Level = (typeof LEVELS)[number];
@@ -28,7 +52,14 @@ export const LEVEL_BLURBS: Record<Level, string> = {
 
 export const LEVEL_ORDER: Record<Level, number> = { bronze: 0, silver: 1, gold: 2 };
 
-export type SubjectId = "english" | "mathematics" | "code-ai";
+export type SubjectId =
+  | "english"
+  | "mathematics"
+  | "science"
+  | "home-economics"
+  | "social-studies"
+  | "arabic"
+  | "code-ai";
 export type TopicId =
   | "comprehension"
   | "grammar"
@@ -46,6 +77,22 @@ export type TopicId =
   | "geometry"
   | "measurement"
   | "money-data"
+  | "living-things"
+  | "matter"
+  | "energy"
+  | "earth-space"
+  | "body-health"
+  | "nutrition"
+  | "home-care"
+  | "food-cook"
+  | "family"
+  | "community"
+  | "civic"
+  | "culture"
+  | "arabic-alphabet"
+  | "arabic-words"
+  | "arabic-reading"
+  | "arabic-numbers"
   | "code-and-ai";
 
 export interface SubjectDef {
@@ -93,6 +140,38 @@ export const SUBJECTS: readonly SubjectDef[] = [
     emoji: "🤖",
     blurb: "How computers and AI work",
     tone: "mint",
+  },
+  {
+    id: "science",
+    label: "Integrated Science",
+    short: "Science",
+    emoji: "🔬",
+    blurb: "Living things, matter and energy",
+    tone: "mint",
+  },
+  {
+    id: "home-economics",
+    label: "Home Economics",
+    short: "Home Econ",
+    emoji: "🍽️",
+    blurb: "Food, nutrition and home care",
+    tone: "violet",
+  },
+  {
+    id: "social-studies",
+    label: "Social Studies",
+    short: "Social",
+    emoji: "🌍",
+    blurb: "Family, community and our country",
+    tone: "cyan",
+  },
+  {
+    id: "arabic",
+    label: "Arabic",
+    short: "Arabic",
+    emoji: "🕌",
+    blurb: "Letters, words and reading",
+    tone: "violet",
   },
 ];
 
@@ -250,17 +329,169 @@ export const TOPICS: readonly TopicDef[] = [
     codePrefix: "COD",
     order: 1,
   },
+  {
+    id: "living-things",
+    subjectId: "science",
+    label: "Life lane",
+    blurb: "Plants, animals and how they live",
+    emoji: "🌱",
+    codePrefix: "LIV",
+    order: 1,
+  },
+  {
+    id: "matter",
+    subjectId: "science",
+    label: "Matter marsh",
+    blurb: "Solids, liquids, mixtures and materials",
+    emoji: "🧪",
+    codePrefix: "MAT",
+    order: 2,
+  },
+  {
+    id: "energy",
+    subjectId: "science",
+    label: "Energy edge",
+    blurb: "Light, heat, sound and force",
+    emoji: "⚡",
+    codePrefix: "ENE",
+    order: 3,
+  },
+  {
+    id: "earth-space",
+    subjectId: "science",
+    label: "Sky summit",
+    blurb: "Earth, weather, water and space",
+    emoji: "🌏",
+    codePrefix: "EAR",
+    order: 4,
+  },
+  {
+    id: "body-health",
+    subjectId: "science",
+    label: "Body bay",
+    blurb: "Bodies, the senses and staying healthy",
+    emoji: "🫀",
+    codePrefix: "BOD",
+    order: 5,
+  },
+  {
+    id: "nutrition",
+    subjectId: "home-economics",
+    label: "Food field",
+    blurb: "Food groups and eating well",
+    emoji: "🥗",
+    codePrefix: "NUT",
+    order: 1,
+  },
+  {
+    id: "home-care",
+    subjectId: "home-economics",
+    label: "Home harbour",
+    blurb: "Cleaning, safety and caring for a home",
+    emoji: "🏠",
+    codePrefix: "HOM",
+    order: 2,
+  },
+  {
+    id: "food-cook",
+    subjectId: "home-economics",
+    label: "Kitchen cove",
+    blurb: "Cooking tools, steps and simple recipes",
+    emoji: "🍳",
+    codePrefix: "COO",
+    order: 3,
+  },
+  {
+    id: "family",
+    subjectId: "social-studies",
+    label: "Family forest",
+    blurb: "Family, roles and people who help us",
+    emoji: "👨‍👩‍👧",
+    codePrefix: "FAM",
+    order: 1,
+  },
+  {
+    id: "community",
+    subjectId: "social-studies",
+    label: "Community coast",
+    blurb: "Markets, roads and places around us",
+    emoji: "🏘️",
+    codePrefix: "COM",
+    order: 2,
+  },
+  {
+    id: "civic",
+    subjectId: "social-studies",
+    label: "Duty dunes",
+    blurb: "Rules, honesty and being a good citizen",
+    emoji: "🤝",
+    codePrefix: "CIV",
+    order: 3,
+  },
+  {
+    id: "culture",
+    subjectId: "social-studies",
+    label: "Culture crests",
+    blurb: "Languages, festivals and Nigerian heritage",
+    emoji: "🎭",
+    codePrefix: "CUL",
+    order: 4,
+  },
+  {
+    id: "arabic-alphabet",
+    subjectId: "arabic",
+    label: "Letter lagoon",
+    blurb: "Arabic letters and how they sound",
+    emoji: "🅰️",
+    codePrefix: "ARA",
+    order: 1,
+  },
+  {
+    id: "arabic-words",
+    subjectId: "arabic",
+    label: "Word waters",
+    blurb: "Everyday words and simple phrases",
+    emoji: "💬",
+    codePrefix: "WRD",
+    order: 2,
+  },
+  {
+    id: "arabic-reading",
+    subjectId: "arabic",
+    label: "Read reef",
+    blurb: "Short passages and understanding",
+    emoji: "📖",
+    codePrefix: "RED",
+    order: 3,
+  },
+  {
+    id: "arabic-numbers",
+    subjectId: "arabic",
+    label: "Number nest",
+    blurb: "Numbers and counting in Arabic",
+    emoji: "🔢",
+    codePrefix: "NUM",
+    order: 4,
+  },
 ];
 
 export const SUBJECT_PREFIX: Record<SubjectId, string> = {
   english: "ENG",
   mathematics: "MAT",
+  science: "SCI",
+  "home-economics": "HEC",
+  "social-studies": "SOC",
+  arabic: "ARB",
   "code-ai": "COD",
 };
 
 export const TOPICS_BY_SUBJECT: Record<SubjectId, readonly TopicDef[]> = {
   english: TOPICS.filter((t) => t.subjectId === "english"),
   mathematics: TOPICS.filter((t) => t.subjectId === "mathematics"),
+  science: TOPICS.filter((t) => t.subjectId === "science"),
+  "home-economics": TOPICS.filter((t) => t.subjectId === "home-economics"),
+  "social-studies": TOPICS.filter((t) => t.subjectId === "social-studies"),
+  arabic: TOPICS.filter((t) => t.subjectId === "arabic"),
   "code-ai": TOPICS.filter((t) => t.subjectId === "code-ai"),
 };
 

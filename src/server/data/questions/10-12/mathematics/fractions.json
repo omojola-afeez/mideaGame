@@ -4,7 +4,7 @@
   "title": "Fraction falls",
   "questions": [
     {
-      "code": "MAT-FRA-B-001",
+      "code": "10-MAT-FRA-B-001",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -20,10 +20,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, halves",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-002",
+      "code": "10-MAT-FRA-B-002",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -39,10 +40,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, quarters",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-003",
+      "code": "10-MAT-FRA-B-003",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -58,10 +60,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fraction of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-004",
+      "code": "10-MAT-FRA-B-004",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -77,10 +80,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, comparing unit fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-005",
+      "code": "10-MAT-FRA-B-005",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -96,10 +100,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-006",
+      "code": "10-MAT-FRA-B-006",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -115,10 +120,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, reading fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-007",
+      "code": "10-MAT-FRA-B-007",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -134,10 +140,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, quarters of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-008",
+      "code": "10-MAT-FRA-B-008",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -153,10 +160,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-009",
+      "code": "10-MAT-FRA-B-009",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -172,10 +180,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-010",
+      "code": "10-MAT-FRA-B-010",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -191,10 +200,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, quarters of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-011",
+      "code": "10-MAT-FRA-B-011",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -210,10 +220,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-012",
+      "code": "10-MAT-FRA-B-012",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -229,10 +240,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-013",
+      "code": "10-MAT-FRA-B-013",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -248,10 +260,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, quarters of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-014",
+      "code": "10-MAT-FRA-B-014",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -267,10 +280,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-015",
+      "code": "10-MAT-FRA-B-015",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -286,10 +300,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, quarters of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-016",
+      "code": "10-MAT-FRA-B-016",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -305,10 +320,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-017",
+      "code": "10-MAT-FRA-B-017",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -324,10 +340,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fraction of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-018",
+      "code": "10-MAT-FRA-B-018",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -343,10 +360,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-019",
+      "code": "10-MAT-FRA-B-019",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -362,10 +380,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-020",
+      "code": "10-MAT-FRA-B-020",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -381,10 +400,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-021",
+      "code": "10-MAT-FRA-B-021",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -400,10 +420,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fraction of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-022",
+      "code": "10-MAT-FRA-B-022",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -419,10 +440,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-023",
+      "code": "10-MAT-FRA-B-023",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -438,10 +460,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-024",
+      "code": "10-MAT-FRA-B-024",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -457,10 +480,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fraction of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-025",
+      "code": "10-MAT-FRA-B-025",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -476,10 +500,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-026",
+      "code": "10-MAT-FRA-B-026",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -495,10 +520,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-027",
+      "code": "10-MAT-FRA-B-027",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -514,10 +540,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-028",
+      "code": "10-MAT-FRA-B-028",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -533,10 +560,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fraction of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-029",
+      "code": "10-MAT-FRA-B-029",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -552,10 +580,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-030",
+      "code": "10-MAT-FRA-B-030",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -571,10 +600,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-031",
+      "code": "10-MAT-FRA-B-031",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -590,10 +620,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-032",
+      "code": "10-MAT-FRA-B-032",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -609,10 +640,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-033",
+      "code": "10-MAT-FRA-B-033",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -628,10 +660,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-034",
+      "code": "10-MAT-FRA-B-034",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -647,10 +680,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-035",
+      "code": "10-MAT-FRA-B-035",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -666,10 +700,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-036",
+      "code": "10-MAT-FRA-B-036",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -685,10 +720,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-037",
+      "code": "10-MAT-FRA-B-037",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -704,10 +740,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-038",
+      "code": "10-MAT-FRA-B-038",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -723,10 +760,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-039",
+      "code": "10-MAT-FRA-B-039",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -742,10 +780,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions in context",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-B-040",
+      "code": "10-MAT-FRA-B-040",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "bronze",
@@ -761,10 +800,11 @@
       "curriculumRef": "NERDC Primary 4 Mathematics, fractions of a whole",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-001",
+      "code": "10-MAT-FRA-S-001",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -780,10 +820,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-002",
+      "code": "10-MAT-FRA-S-002",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -799,10 +840,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-003",
+      "code": "10-MAT-FRA-S-003",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -818,10 +860,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, comparing fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-004",
+      "code": "10-MAT-FRA-S-004",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -837,10 +880,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, simplifying fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-005",
+      "code": "10-MAT-FRA-S-005",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -856,10 +900,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-006",
+      "code": "10-MAT-FRA-S-006",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -875,10 +920,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, fractions in word problems",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-007",
+      "code": "10-MAT-FRA-S-007",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -894,10 +940,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-008",
+      "code": "10-MAT-FRA-S-008",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -913,10 +960,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, equivalent fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-009",
+      "code": "10-MAT-FRA-S-009",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -932,10 +980,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-010",
+      "code": "10-MAT-FRA-S-010",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -951,10 +1000,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-011",
+      "code": "10-MAT-FRA-S-011",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -970,10 +1020,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, comparing fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-012",
+      "code": "10-MAT-FRA-S-012",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -989,10 +1040,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, simplifying fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-013",
+      "code": "10-MAT-FRA-S-013",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1008,10 +1060,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-014",
+      "code": "10-MAT-FRA-S-014",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1027,10 +1080,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-015",
+      "code": "10-MAT-FRA-S-015",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1046,10 +1100,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, equivalent fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-016",
+      "code": "10-MAT-FRA-S-016",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1065,10 +1120,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-017",
+      "code": "10-MAT-FRA-S-017",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1084,10 +1140,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-018",
+      "code": "10-MAT-FRA-S-018",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1103,10 +1160,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, comparing fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-019",
+      "code": "10-MAT-FRA-S-019",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1122,10 +1180,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, simplifying fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-020",
+      "code": "10-MAT-FRA-S-020",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1141,10 +1200,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-021",
+      "code": "10-MAT-FRA-S-021",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1160,10 +1220,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-022",
+      "code": "10-MAT-FRA-S-022",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1179,10 +1240,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, equivalent fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-023",
+      "code": "10-MAT-FRA-S-023",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1198,10 +1260,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-024",
+      "code": "10-MAT-FRA-S-024",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1217,10 +1280,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-025",
+      "code": "10-MAT-FRA-S-025",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1236,10 +1300,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, comparing fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-026",
+      "code": "10-MAT-FRA-S-026",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1255,10 +1320,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, simplifying fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-027",
+      "code": "10-MAT-FRA-S-027",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1274,10 +1340,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-028",
+      "code": "10-MAT-FRA-S-028",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1293,10 +1360,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-029",
+      "code": "10-MAT-FRA-S-029",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1312,10 +1380,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, equivalent fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-030",
+      "code": "10-MAT-FRA-S-030",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1331,10 +1400,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-031",
+      "code": "10-MAT-FRA-S-031",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1350,10 +1420,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-032",
+      "code": "10-MAT-FRA-S-032",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1369,10 +1440,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-033",
+      "code": "10-MAT-FRA-S-033",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1388,10 +1460,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, fractions in word problems",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-034",
+      "code": "10-MAT-FRA-S-034",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1407,10 +1480,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-035",
+      "code": "10-MAT-FRA-S-035",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1426,10 +1500,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, equivalent fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-036",
+      "code": "10-MAT-FRA-S-036",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1445,10 +1520,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-037",
+      "code": "10-MAT-FRA-S-037",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1464,10 +1540,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, fraction of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-038",
+      "code": "10-MAT-FRA-S-038",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1483,10 +1560,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, comparing fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-039",
+      "code": "10-MAT-FRA-S-039",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1502,10 +1580,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, mixed numbers",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-S-040",
+      "code": "10-MAT-FRA-S-040",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "silver",
@@ -1521,10 +1600,11 @@
       "curriculumRef": "NERDC Primary 5 Mathematics, subtracting fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-001",
+      "code": "10-MAT-FRA-G-001",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1540,10 +1620,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, fractions of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-002",
+      "code": "10-MAT-FRA-G-002",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1559,10 +1640,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-003",
+      "code": "10-MAT-FRA-G-003",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1578,10 +1660,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-004",
+      "code": "10-MAT-FRA-G-004",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1597,10 +1680,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, fractions near one",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-005",
+      "code": "10-MAT-FRA-G-005",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1616,10 +1700,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-006",
+      "code": "10-MAT-FRA-G-006",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1635,10 +1720,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-007",
+      "code": "10-MAT-FRA-G-007",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1654,10 +1740,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, ordering fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-008",
+      "code": "10-MAT-FRA-G-008",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1673,10 +1760,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, comparing unlike fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-009",
+      "code": "10-MAT-FRA-G-009",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1692,10 +1780,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, fractions of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-010",
+      "code": "10-MAT-FRA-G-010",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1711,10 +1800,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-011",
+      "code": "10-MAT-FRA-G-011",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1730,10 +1820,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-012",
+      "code": "10-MAT-FRA-G-012",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1749,10 +1840,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-013",
+      "code": "10-MAT-FRA-G-013",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1768,10 +1860,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-014",
+      "code": "10-MAT-FRA-G-014",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1787,10 +1880,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, comparing unlike fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-015",
+      "code": "10-MAT-FRA-G-015",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1806,10 +1900,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, fractions of a quantity",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-016",
+      "code": "10-MAT-FRA-G-016",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1825,10 +1920,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-017",
+      "code": "10-MAT-FRA-G-017",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1844,10 +1940,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-018",
+      "code": "10-MAT-FRA-G-018",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1863,10 +1960,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-019",
+      "code": "10-MAT-FRA-G-019",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1882,10 +1980,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-020",
+      "code": "10-MAT-FRA-G-020",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1901,10 +2000,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, comparing unlike fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-021",
+      "code": "10-MAT-FRA-G-021",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1920,10 +2020,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-022",
+      "code": "10-MAT-FRA-G-022",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1939,10 +2040,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-023",
+      "code": "10-MAT-FRA-G-023",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1958,10 +2060,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-024",
+      "code": "10-MAT-FRA-G-024",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1977,10 +2080,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-025",
+      "code": "10-MAT-FRA-G-025",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -1996,10 +2100,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, comparing unlike fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-026",
+      "code": "10-MAT-FRA-G-026",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2015,10 +2120,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-027",
+      "code": "10-MAT-FRA-G-027",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2034,10 +2140,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-028",
+      "code": "10-MAT-FRA-G-028",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2053,10 +2160,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-029",
+      "code": "10-MAT-FRA-G-029",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2072,10 +2180,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-030",
+      "code": "10-MAT-FRA-G-030",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2091,10 +2200,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, comparing unlike fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-031",
+      "code": "10-MAT-FRA-G-031",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2110,10 +2220,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-032",
+      "code": "10-MAT-FRA-G-032",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2129,10 +2240,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-033",
+      "code": "10-MAT-FRA-G-033",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2148,10 +2260,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-034",
+      "code": "10-MAT-FRA-G-034",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2167,10 +2280,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-035",
+      "code": "10-MAT-FRA-G-035",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2186,10 +2300,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-036",
+      "code": "10-MAT-FRA-G-036",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2205,10 +2320,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, mixed number addition",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-037",
+      "code": "10-MAT-FRA-G-037",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2224,10 +2340,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-038",
+      "code": "10-MAT-FRA-G-038",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2243,10 +2360,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, adding fractions",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-039",
+      "code": "10-MAT-FRA-G-039",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2262,10 +2380,11 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, fractions and money",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "MAT-FRA-G-040",
+      "code": "10-MAT-FRA-G-040",
       "subject": "mathematics",
       "topic": "fractions",
       "level": "gold",
@@ -2281,7 +2400,9 @@
       "curriculumRef": "NERDC Primary 6 Mathematics, two fraction parts",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     }
-  ]
+  ],
+  "band": "10-12"
 }

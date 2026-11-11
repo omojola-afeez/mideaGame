@@ -1,4 +1,4 @@
-import { BAND, LEVELS, SUBJECT_PREFIX, TOPICS, type Level, type SubjectId, type TopicId } from "../../shared/constants";
+import { BANDS, LEVELS, SUBJECT_PREFIX, TOPICS, bandById, type BandId, type Level, type SubjectId, type TopicId } from "../../shared/constants";
 import type { Question, TopicFile } from "../../shared/question";
 
 export interface Issue {
@@ -11,13 +11,13 @@ export interface Issue {
 export interface ValidateOptions {
   /** Exact number of questions required at each level. Use 0 to skip the count check. */
   perLevel?: number;
-  /** Hard reading grade limit for prompt and options. */
+  /** Hard reading grade limit for prompt and options. Overrides the band ceiling. */
   maxGrade?: number;
-  /** Reading grade above this is a warning, not an error. */
+  /** Reading grade above this is a warning, not an error. Overrides the band target. */
   warnGrade?: number;
 }
 
-const CODE_PATTERN = /^([A-Z]{3})-([A-Z]{3})-([BSG])-(\d{3})$/;
+const CODE_PATTERN = /^(4|7|10)-([A-Z]{3})-([A-Z]{3})-([BSG])-(\d{3})$/;
 const LEVEL_LETTER: Record<Level, string> = { bronze: "B", silver: "S", gold: "G" };
 const GRADE_LEVELS: Level[] = [...LEVELS];
 
@@ -67,20 +67,28 @@ export function validateQuestion(
   opts: ValidateOptions = {},
 ): Issue[] {
   const issues: Issue[] = [];
-  const maxGrade = opts.maxGrade ?? BAND.readingGrade + 1;
-  const warnGrade = opts.warnGrade ?? BAND.readingGrade;
+  const band = bandById(q.band);
+  if (!band) {
+    issues.push(err("bad_band", `Band must be one of ${BANDS.map((b) => b.id).join(", ")}`, "band"));
+  }
+  const maxGrade = opts.maxGrade ?? (band ? band.readingGrade + 1 : 7.5);
+  const warnGrade = opts.warnGrade ?? (band ? band.readingGrade : 6.5);
 
   if (!q || typeof q !== "object") return [err("not_object", "Question is not an object")];
   const code = typeof q.code === "string" ? q.code : "";
   const match = CODE_PATTERN.exec(code);
   if (!match) {
-    issues.push(err("bad_code", "Code must look like ENG-COM-B-001", "code"));
+    issues.push(err("bad_code", "Code must look like 10-ENG-COM-B-001", "code"));
   } else {
-    const prefix = match[1] ?? "";
-    const topicPrefix = match[2] ?? "";
-    const letter = match[3] ?? "";
-    const number = match[4] ?? "";
+    const bandToken = match[1] ?? "";
+    const prefix = match[2] ?? "";
+    const topicPrefix = match[3] ?? "";
+    const letter = match[4] ?? "";
+    const number = match[5] ?? "";
     const topic = TOPICS.find((t) => t.id === file.topic);
+    if (band && bandToken !== band.token) {
+      issues.push(err("bad_code_band", `Code band ${bandToken} does not match band ${band.id}`, "code"));
+    }
     if (prefix !== SUBJECT_PREFIX[file.subject]) {
       issues.push(err("bad_code_subject", `Code prefix ${prefix} does not match subject ${file.subject}`, "code"));
     }
@@ -190,6 +198,9 @@ export function validateTopicFile(file: TopicFile, opts: ValidateOptions = {}): 
   if (topic.subjectId !== file.subject) {
     issues.push(err("subject_mismatch", `Topic ${file.topic} belongs to ${topic.subjectId}, not ${file.subject}`));
   }
+  if (!bandById(file.band)) {
+    issues.push(err("bad_band", `File band ${file.band} is not a known band`, "band"));
+  }
   if (!Array.isArray(file.questions) || file.questions.length === 0) {
     return [...issues, err("no_questions", "File has no questions")];
   }
@@ -204,6 +215,9 @@ export function validateTopicFile(file: TopicFile, opts: ValidateOptions = {}): 
   };
 
   for (const q of file.questions) {
+    if (q.band !== file.band) {
+      issues.push(err("band_mismatch", `Question ${q.code} is band ${q.band} but the file is ${file.band}`, "band"));
+    }
     for (const issue of validateQuestion(q, file, opts)) {
       issues.push({ ...issue, code: q?.code || issue.code });
     }

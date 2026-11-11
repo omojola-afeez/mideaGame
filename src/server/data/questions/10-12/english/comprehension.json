@@ -4,7 +4,7 @@
   "title": "Reading detective",
   "questions": [
     {
-      "code": "ENG-COM-B-001",
+      "code": "10-ENG-COM-B-001",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -21,10 +21,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-002",
+      "code": "10-ENG-COM-B-002",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -41,10 +42,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-003",
+      "code": "10-ENG-COM-B-003",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -61,10 +63,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-004",
+      "code": "10-ENG-COM-B-004",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -81,10 +84,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-005",
+      "code": "10-ENG-COM-B-005",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -101,10 +105,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-006",
+      "code": "10-ENG-COM-B-006",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -121,10 +126,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-007",
+      "code": "10-ENG-COM-B-007",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -141,10 +147,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-008",
+      "code": "10-ENG-COM-B-008",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -161,10 +168,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-009",
+      "code": "10-ENG-COM-B-009",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -181,10 +189,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-010",
+      "code": "10-ENG-COM-B-010",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -201,10 +210,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-011",
+      "code": "10-ENG-COM-B-011",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -221,10 +231,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-012",
+      "code": "10-ENG-COM-B-012",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -241,10 +252,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-013",
+      "code": "10-ENG-COM-B-013",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -261,10 +273,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-014",
+      "code": "10-ENG-COM-B-014",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -281,10 +294,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-015",
+      "code": "10-ENG-COM-B-015",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -301,10 +315,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-016",
+      "code": "10-ENG-COM-B-016",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -321,10 +336,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-017",
+      "code": "10-ENG-COM-B-017",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -341,10 +357,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-018",
+      "code": "10-ENG-COM-B-018",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -361,10 +378,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-019",
+      "code": "10-ENG-COM-B-019",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -381,10 +399,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-020",
+      "code": "10-ENG-COM-B-020",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -401,10 +420,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-021",
+      "code": "10-ENG-COM-B-021",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -421,10 +441,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-022",
+      "code": "10-ENG-COM-B-022",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -441,10 +462,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-023",
+      "code": "10-ENG-COM-B-023",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -461,10 +483,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-024",
+      "code": "10-ENG-COM-B-024",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -481,10 +504,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-025",
+      "code": "10-ENG-COM-B-025",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -501,10 +525,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-026",
+      "code": "10-ENG-COM-B-026",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -521,10 +546,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-027",
+      "code": "10-ENG-COM-B-027",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -541,10 +567,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-028",
+      "code": "10-ENG-COM-B-028",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -561,10 +588,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-029",
+      "code": "10-ENG-COM-B-029",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -581,10 +609,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-030",
+      "code": "10-ENG-COM-B-030",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -601,10 +630,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-031",
+      "code": "10-ENG-COM-B-031",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -621,10 +651,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-032",
+      "code": "10-ENG-COM-B-032",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -641,10 +672,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-033",
+      "code": "10-ENG-COM-B-033",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -661,10 +693,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-034",
+      "code": "10-ENG-COM-B-034",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -681,10 +714,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-035",
+      "code": "10-ENG-COM-B-035",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -701,10 +735,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-036",
+      "code": "10-ENG-COM-B-036",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -721,10 +756,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-037",
+      "code": "10-ENG-COM-B-037",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -741,10 +777,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-038",
+      "code": "10-ENG-COM-B-038",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -761,10 +798,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-039",
+      "code": "10-ENG-COM-B-039",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -781,10 +819,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-B-040",
+      "code": "10-ENG-COM-B-040",
       "subject": "english",
       "topic": "comprehension",
       "level": "bronze",
@@ -801,10 +840,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: recalling detail",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-001",
+      "code": "10-ENG-COM-S-001",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -821,10 +861,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-002",
+      "code": "10-ENG-COM-S-002",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -841,10 +882,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-003",
+      "code": "10-ENG-COM-S-003",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -861,10 +903,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-004",
+      "code": "10-ENG-COM-S-004",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -881,10 +924,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-005",
+      "code": "10-ENG-COM-S-005",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -901,10 +945,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-006",
+      "code": "10-ENG-COM-S-006",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -921,10 +966,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-007",
+      "code": "10-ENG-COM-S-007",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -941,10 +987,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-008",
+      "code": "10-ENG-COM-S-008",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -961,10 +1008,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-009",
+      "code": "10-ENG-COM-S-009",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -981,10 +1029,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-010",
+      "code": "10-ENG-COM-S-010",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1001,10 +1050,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-011",
+      "code": "10-ENG-COM-S-011",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1021,10 +1071,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-012",
+      "code": "10-ENG-COM-S-012",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1041,10 +1092,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-013",
+      "code": "10-ENG-COM-S-013",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1061,10 +1113,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-014",
+      "code": "10-ENG-COM-S-014",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1081,10 +1134,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-015",
+      "code": "10-ENG-COM-S-015",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1101,10 +1155,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-016",
+      "code": "10-ENG-COM-S-016",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1121,10 +1176,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-017",
+      "code": "10-ENG-COM-S-017",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1141,10 +1197,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-018",
+      "code": "10-ENG-COM-S-018",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1161,10 +1218,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-019",
+      "code": "10-ENG-COM-S-019",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1181,10 +1239,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-020",
+      "code": "10-ENG-COM-S-020",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1201,10 +1260,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-021",
+      "code": "10-ENG-COM-S-021",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1221,10 +1281,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-022",
+      "code": "10-ENG-COM-S-022",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1241,10 +1302,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-023",
+      "code": "10-ENG-COM-S-023",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1261,10 +1323,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-024",
+      "code": "10-ENG-COM-S-024",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1281,10 +1344,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-025",
+      "code": "10-ENG-COM-S-025",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1301,10 +1365,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-026",
+      "code": "10-ENG-COM-S-026",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1321,10 +1386,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-027",
+      "code": "10-ENG-COM-S-027",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1341,10 +1407,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-028",
+      "code": "10-ENG-COM-S-028",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1361,10 +1428,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-029",
+      "code": "10-ENG-COM-S-029",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1381,10 +1449,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-030",
+      "code": "10-ENG-COM-S-030",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1401,10 +1470,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-031",
+      "code": "10-ENG-COM-S-031",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1421,10 +1491,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-032",
+      "code": "10-ENG-COM-S-032",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1441,10 +1512,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-033",
+      "code": "10-ENG-COM-S-033",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1461,10 +1533,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-034",
+      "code": "10-ENG-COM-S-034",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1481,10 +1554,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-035",
+      "code": "10-ENG-COM-S-035",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1501,10 +1575,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-036",
+      "code": "10-ENG-COM-S-036",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1521,10 +1596,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-037",
+      "code": "10-ENG-COM-S-037",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1541,10 +1617,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-038",
+      "code": "10-ENG-COM-S-038",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1561,10 +1638,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-039",
+      "code": "10-ENG-COM-S-039",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1581,10 +1659,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-S-040",
+      "code": "10-ENG-COM-S-040",
       "subject": "english",
       "topic": "comprehension",
       "level": "silver",
@@ -1601,10 +1680,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: finding reasons",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-001",
+      "code": "10-ENG-COM-G-001",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1621,10 +1701,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-002",
+      "code": "10-ENG-COM-G-002",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1641,10 +1722,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-003",
+      "code": "10-ENG-COM-G-003",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1661,10 +1743,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-004",
+      "code": "10-ENG-COM-G-004",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1681,10 +1764,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-005",
+      "code": "10-ENG-COM-G-005",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1701,10 +1785,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-006",
+      "code": "10-ENG-COM-G-006",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1721,10 +1806,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-007",
+      "code": "10-ENG-COM-G-007",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1741,10 +1827,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-008",
+      "code": "10-ENG-COM-G-008",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1761,10 +1848,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-009",
+      "code": "10-ENG-COM-G-009",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1781,10 +1869,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-010",
+      "code": "10-ENG-COM-G-010",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1801,10 +1890,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-011",
+      "code": "10-ENG-COM-G-011",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1821,10 +1911,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-012",
+      "code": "10-ENG-COM-G-012",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1841,10 +1932,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-013",
+      "code": "10-ENG-COM-G-013",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1861,10 +1953,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-014",
+      "code": "10-ENG-COM-G-014",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1881,10 +1974,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-015",
+      "code": "10-ENG-COM-G-015",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1901,10 +1995,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-016",
+      "code": "10-ENG-COM-G-016",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1921,10 +2016,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-017",
+      "code": "10-ENG-COM-G-017",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1941,10 +2037,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-018",
+      "code": "10-ENG-COM-G-018",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1961,10 +2058,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-019",
+      "code": "10-ENG-COM-G-019",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -1981,10 +2079,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-020",
+      "code": "10-ENG-COM-G-020",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2001,10 +2100,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-021",
+      "code": "10-ENG-COM-G-021",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2021,10 +2121,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-022",
+      "code": "10-ENG-COM-G-022",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2041,10 +2142,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-023",
+      "code": "10-ENG-COM-G-023",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2061,10 +2163,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-024",
+      "code": "10-ENG-COM-G-024",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2081,10 +2184,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-025",
+      "code": "10-ENG-COM-G-025",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2101,10 +2205,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-026",
+      "code": "10-ENG-COM-G-026",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2121,10 +2226,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-027",
+      "code": "10-ENG-COM-G-027",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2141,10 +2247,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-028",
+      "code": "10-ENG-COM-G-028",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2161,10 +2268,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-029",
+      "code": "10-ENG-COM-G-029",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2181,10 +2289,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-030",
+      "code": "10-ENG-COM-G-030",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2201,10 +2310,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-031",
+      "code": "10-ENG-COM-G-031",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2221,10 +2331,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-032",
+      "code": "10-ENG-COM-G-032",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2241,10 +2352,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-033",
+      "code": "10-ENG-COM-G-033",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2261,10 +2373,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-034",
+      "code": "10-ENG-COM-G-034",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2281,10 +2394,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-035",
+      "code": "10-ENG-COM-G-035",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2301,10 +2415,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-036",
+      "code": "10-ENG-COM-G-036",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2321,10 +2436,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-037",
+      "code": "10-ENG-COM-G-037",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2341,10 +2457,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-038",
+      "code": "10-ENG-COM-G-038",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2361,10 +2478,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-039",
+      "code": "10-ENG-COM-G-039",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2381,10 +2499,11 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     },
     {
-      "code": "ENG-COM-G-040",
+      "code": "10-ENG-COM-G-040",
       "subject": "english",
       "topic": "comprehension",
       "level": "gold",
@@ -2401,7 +2520,9 @@
       "curriculumRef": "NERDC Primary English, comprehension: word meaning",
       "author": "AI draft v1",
       "reviewer": null,
-      "status": "draft"
+      "status": "draft",
+      "band": "10-12"
     }
-  ]
+  ],
+  "band": "10-12"
 }

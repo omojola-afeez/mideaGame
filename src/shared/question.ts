@@ -1,10 +1,12 @@
-import type { Level, SubjectId, TopicId } from "./constants";
+import type { BandId, Level, SubjectId, TopicId } from "./constants";
 
 export type ContentStatus = "draft" | "reviewed" | "live";
 
 /** One reviewed or draft question. Answers stay on the server. */
 export interface Question {
   code: string;
+  /** Age band this question belongs to. A child only ever sees their own band. */
+  band: BandId;
   subject: SubjectId;
   topic: TopicId;
   level: Level;
@@ -22,6 +24,8 @@ export interface Question {
 }
 
 export interface TopicFile {
+  /** Age band every question in this file belongs to. One file holds one band. */
+  band: BandId;
   subject: SubjectId;
   topic: TopicId;
   title: string;

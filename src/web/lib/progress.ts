@@ -208,23 +208,34 @@ class ProgressStore {
   private outcome: RoundOutcome | null = null;
   private listeners = new Set<() => void>();
   private loaded = false;
+  /** Cached snapshot so useSyncExternalStore sees a stable reference. */
+  private snapshot: { progress: QuestProgress; outcome: RoundOutcome | null } = {
+    progress: defaultProgress(),
+    outcome: null,
+  };
 
   subscribe = (fn: () => void): (() => void) => {
     this.listeners.add(fn);
     return () => this.listeners.delete(fn);
   };
 
+  private publish(): void {
+    this.snapshot = { progress: this.progress, outcome: this.outcome };
+  }
+
   get = (): { progress: QuestProgress; outcome: RoundOutcome | null } => {
     if (!this.loaded) {
       this.progress = loadProgress();
       this.loaded = true;
+      this.publish();
     }
-    return { progress: this.progress, outcome: this.outcome };
+    return this.snapshot;
   };
 
   private commit(next: QuestProgress): void {
     this.progress = next;
     this.loaded = true;
+    this.publish();
     try {
       localStorage.setItem(PROGRESS_KEY, JSON.stringify(next));
     } catch {

@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import {
   BANDS,
   LEVEL_BLURBS,
@@ -30,11 +30,28 @@ export function Map({
   const band = progress.profile.band;
   const bandDef = BANDS.find((b) => b.id === band);
   const { countFor } = useCatalog(band);
-  const [subject, setSubject] = useState<SubjectId>("english");
+  const [subject, setSubject] = useState<SubjectId>(() => {
+    // Honour a subject chosen on the landing page, if any.
+    try {
+      const preferred = sessionStorage.getItem("brainwave-preferred-subject") as SubjectId | null;
+      if (preferred && SUBJECTS.some((s) => s.id === preferred)) return preferred;
+    } catch {
+      /* storage is optional */
+    }
+    return "english";
+  });
   const [selected, setSelected] = useState<TopicDef | null>(null);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const now = Date.now();
   const due = dueTotal(progress, now);
+
+  useEffect(() => {
+    try {
+      sessionStorage.removeItem("brainwave-preferred-subject");
+    } catch {
+      /* storage is optional */
+    }
+  }, []);
 
   function startTopic(topic: TopicDef, timed: boolean) {
     const tp = topicProgress(progress, topic.id);

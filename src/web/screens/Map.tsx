@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import {
   BANDS,
   LEVEL_BLURBS,
@@ -42,8 +42,13 @@ export function Map({
   });
   const [selected, setSelected] = useState<TopicDef | null>(null);
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const tabsRef = useRef<HTMLDivElement>(null);
   const now = Date.now();
   const due = dueTotal(progress, now);
+
+  function scrollTabs() {
+    tabsRef.current?.scrollBy({ left: 190, behavior: "auto" });
+  }
 
   useEffect(() => {
     try {
@@ -88,26 +93,26 @@ export function Map({
 
   return (
     <main className="mx-auto w-full max-w-5xl px-4 pb-24 pt-5">
-      <header className="flex items-center gap-3">
-        <Avatar index={progress.profile.avatar} size={48} />
-        <div className="min-w-0 flex-1">
-          <p className="truncate font-display text-lg font-extrabold">{progress.profile.nickname || "Explorer"}</p>
-          <p className="text-sm text-muted">
+      <header className="flex flex-wrap items-center gap-2 sm:gap-3">
+        <Avatar index={progress.profile.avatar} size={44} />
+        <div className="min-w-0 flex-1 basis-36 sm:flex-none">
+          <p className="truncate font-display text-base font-extrabold sm:text-lg">{progress.profile.nickname || "Explorer"}</p>
+          <p className="text-xs text-muted sm:text-sm">
             {bandDef?.label}, ages {bandDef?.ages}
             {offline ? " · offline" : ""}
             {streak.days > 0 ? ` · ${streak.days} day${streak.days === 1 ? "" : "s"}${streak.paused ? " (paused)" : ""}` : ""}
           </p>
         </div>
-        <div className="flex items-center gap-2 text-sm font-bold">
-          <span className="rounded-full border border-edge bg-panel/70 px-3 py-1" aria-label={`${totalStars(progress)} stars`}>
+        <div className="ml-auto flex items-center gap-1.5 text-xs font-bold sm:gap-2 sm:text-sm">
+          <span className="rounded-full border border-edge bg-panel/70 px-2 py-0.5 sm:px-3 sm:py-1" aria-label={`${totalStars(progress)} stars`}>
             ⭐ {totalStars(progress)}
           </span>
-          <span className="rounded-full border border-edge bg-panel/70 px-3 py-1" aria-label={`${progress.coins} coins`}>
+          <span className="rounded-full border border-edge bg-panel/70 px-2 py-0.5 sm:px-3 sm:py-1" aria-label={`${progress.coins} coins`}>
             🪙 {progress.coins}
           </span>
           <button
             type="button"
-            className="btn btn-ghost !min-h-10 !px-3"
+            className="btn btn-ghost !min-h-9 !px-2 sm:!min-h-10 sm:!px-3"
             onClick={onHome}
             aria-label="Back to the home screen"
             title="Home"
@@ -116,7 +121,7 @@ export function Map({
           </button>
           <button
             type="button"
-            className="btn btn-ghost !min-h-10 !px-3"
+            className="btn btn-ghost !min-h-9 !px-2 sm:!min-h-10 sm:!px-3"
             onClick={() => setSettingsOpen(true)}
             aria-label="Settings"
           >
@@ -162,19 +167,44 @@ export function Map({
         </span>
       </button>
 
-      <div className="mt-8 flex gap-2 overflow-x-auto pb-1" role="tablist" aria-label="Subjects">
-        {SUBJECTS.map((s) => (
-          <button
-            key={s.id}
-            type="button"
-            role="tab"
-            aria-selected={subject === s.id}
-            onClick={() => setSubject(s.id)}
-            className={`chip shrink-0 !min-h-11 ${subject === s.id ? "!border-cyan !bg-cyan/15" : ""}`}
+      <div className="mt-8">
+        <p className="mb-1.5 flex items-center gap-1 text-xs font-semibold text-muted sm:hidden">
+          Swipe <span aria-hidden="true">→</span> to see more subjects
+        </p>
+        <div className="relative">
+          <div
+            ref={tabsRef}
+            className="flex gap-2 overflow-x-auto pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+            role="tablist"
+            aria-label="Subjects"
           >
-            <span aria-hidden="true">{s.emoji}</span> {s.short}
+            {SUBJECTS.map((s) => (
+              <button
+                key={s.id}
+                type="button"
+                role="tab"
+                aria-selected={subject === s.id}
+                onClick={() => setSubject(s.id)}
+                className={`chip shrink-0 !min-h-11 ${subject === s.id ? "!border-cyan !bg-cyan/15" : ""}`}
+              >
+                <span aria-hidden="true">{s.emoji}</span> {s.short}
+              </button>
+            ))}
+          </div>
+          <div
+            aria-hidden="true"
+            className="pointer-events-none absolute inset-y-0 right-0 w-14 bg-gradient-to-l from-ink to-transparent sm:w-20"
+          />
+          <button
+            type="button"
+            onClick={scrollTabs}
+            aria-label="Show more subjects"
+            title="More subjects"
+            className="absolute right-0 top-1/2 -translate-y-1/2 grid h-9 w-9 place-items-center rounded-full border border-edge bg-panel/90 font-display text-lg font-extrabold text-cyan shadow-md hover:border-cyan"
+          >
+            ›
           </button>
-        ))}
+        </div>
       </div>
 
       <section role="tabpanel" aria-label={subjectDef?.label} className="mt-4">

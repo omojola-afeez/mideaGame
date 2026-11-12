@@ -40,7 +40,19 @@ export function Home({
     return () => clearTimeout(id);
   }, [notice]);
 
-  async function startGame(subject?: SubjectId) {
+  function jumpToSignup(subject?: SubjectId) {
+    if (subject) {
+      try {
+        sessionStorage.setItem("brainwave-preferred-subject", subject);
+      } catch {
+        /* storage is optional */
+      }
+    }
+    // Instant scroll: smooth behaviour fights the page's clip-edge container.
+    document.getElementById("signup")?.scrollIntoView({ behavior: "auto", block: "start" });
+  }
+
+  async function startGame() {
     const parsed = nameSchema.safeParse(name);
     if (!parsed.success) {
       setNameError("Use 2 to 16 letters, numbers or spaces.");
@@ -50,13 +62,6 @@ export function Home({
     setNameError(null);
     progressStore.setBand(band);
     progressStore.setProfile(parsed.data, avatar);
-    if (subject) {
-      try {
-        sessionStorage.setItem("brainwave-preferred-subject", subject);
-      } catch {
-        /* storage is optional */
-      }
-    }
     if (offline) {
       // No connection? Skip matchmaking and open the offline map.
       onOfflineStart?.();
@@ -118,7 +123,7 @@ export function Home({
               Play fun games, solve exciting challenges and boost your mind!
             </p>
             <div className="mt-6 flex flex-col items-center gap-3 sm:flex-row sm:justify-center lg:justify-start">
-              <button type="button" className="btn btn-gold w-full text-lg sm:w-auto" onClick={() => void startGame()}>
+              <button type="button" className="btn btn-gold w-full text-lg sm:w-auto" onClick={() => jumpToSignup()}>
                 ▶&nbsp; Play now
               </button>
               <a className="btn btn-ghost w-full text-lg sm:w-auto" href="#how-it-works">
@@ -162,7 +167,7 @@ export function Home({
               <button
                 key={card.id}
                 type="button"
-                onClick={() => void startGame(card.id)}
+                onClick={() => jumpToSignup(card.id)}
                 className={`group flex flex-col items-center gap-3 rounded-2xl border border-edge bg-gradient-to-br ${card.tone} p-5 text-center transition hover:-translate-y-1 hover:border-cyan/70`}
                 aria-label={`Play ${card.label}`}
               >
